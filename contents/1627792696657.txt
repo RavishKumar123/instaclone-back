@@ -1,0 +1,268 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html style="-webkit-text-size-adjust:none; margin:0; padding:0; opacity:1" xmlns="http://www.w3.org/1999/xhtml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml">
+<head style="-webkit-text-size-adjust:none"> <!--[if gte mso 9]><xml>
+ <o:OfficeDocumentSettings>
+  <o:AllowPNG/>
+  <o:PixelsPerInch>96</o:PixelsPerInch>
+ </o:OfficeDocumentSettings>
+</xml><![endif]-->
+<title style="-webkit-text-size-adjust:none">
+      Pier 1
+    </title>
+<meta content="width=device-width, initial-scale=1" name="viewport" style="-webkit-text-size-adjust:none">
+<meta name="x-apple-disable-message-reformatting" style="-webkit-text-size-adjust:none">
+<meta content="IE=edge" http-equiv="X-UA-Compatible" style="-webkit-text-size-adjust:none">
+<style>@media screen and (max-width: 600px) and (min-width: 480px) {
+    .scale {
+        width: 100% !important;
+        min-width: 1px !important;
+        max-width: 600px !important;
+        height: auto !important;
+        max-height: none !important
+        }
+    .nav-txt {
+        width: 100% !important;
+        min-width: 400px !important
+        }
+    .nav-p {
+        padding: 10px 20px 10px 20px !important
+        }
+    }
+@media (max-width: 480px) {
+    .scale {
+        width: 100% !important;
+        min-width: 1px !important;
+        max-width: 480px !important;
+        height: auto !important;
+        max-height: none !important
+        }
+    .stack, .stack-up, .stack-down {
+        width: 100% !important;
+        max-width: 480px !important;
+        height: auto !important;
+        display: block !important;
+        padding: 0 0 0 0 !important
+        }
+    .stack {
+        float: left !important
+        }
+    .stack-up {
+        display: table-header-group !important
+        }
+    .stack-down {
+        display: table-footer-group !important
+        }
+    .hide {
+        display: none !important;
+        width: 0 !important;
+        height: 0 !important;
+        max-height: 0 !important;
+        padding: 0 0 0 0 !important;
+        overflow: hidden !important;
+        font-size: 0 !important;
+        line-height: 0 !important
+        }
+    .show-img {
+        display: block !important;
+        height: auto !important;
+        max-height: inherit !important;
+        max-width: 480px !important;
+        width: 100% !important;
+        line-height: 100% !important;
+        padding: 0 !important;
+        overflow: visible !important;
+        font-size: 14px !important;
+        mso-hide: none !important
+        }
+    .logo {
+        width: 100% !important;
+        min-width: 1px !important;
+        max-width: 108px !important;
+        height: auto !important;
+        max-height: none !important
+        }
+    .no-p {
+        padding: 0 0 0 0 !important
+        }
+    .no-b {
+        border: none !important
+        }
+    .m-br {
+        display: block !important
+        }
+    .m-scale {
+        width: 100% !important;
+        min-width: 1px !important
+        }
+    .nav-txt {
+        width: 100% !important;
+        min-width: 240px !important;
+        font-size: 16px !important
+        }
+    .nav-p {
+        padding: 34px 10px 10px 10px !important
+        }
+    }
+@media (max-width: 380px) {
+    .nav-txt {
+        font-size: 16px !important;
+        min-width: 180px !important;
+        line-height: 16px !important
+        }
+    .legal-txt {
+        padding: 10px 10px 40px 10px !important
+        }
+    .preference-p {
+        padding: 8px 8px !important
+        }
+    }
+@media (max-width: 310px) {
+    .nav-txt {
+        font-size: 14px !important;
+        line-height: 14px !important
+        }
+    }</style></head>
+<body style="-webkit-text-size-adjust:none; margin-left:auto; margin-right:auto; margin:0 auto; min-width:1px; padding:0; width:100%; background-color:#fff"><img src="http://trk.pier1.com/wf/open?upn=DjixgsrV-2FbPMFy-2BpA02zE7vmevXYXlRWo28nFZ18C-2BM8NSfzjgX8qXQ2p7JOqV3J0lPrxvG7jHSgnxjE0L3hvMNLyzCHEOAJrzgjqOqF5IeCg7fuT-2FuGcLWYqaDjO9uUIBGcpgZ70el5IH09JkxQVgd7yKcjfv9cmfBSanEv9BNaY6aq99t8d1O9-2FH5-2Fr1DlxWl6-2BDz9plwyEqvDwP88kDoSYzKJDQhthqlCtFo7s291CIsuCqJRqAYVYGWH5GtVqpE4Xm6PB7f-2B7BXbd1CIJUzixgGGJJ1SybinURj45jquysOctLeCgjLUc4tUmk-2FiCAsVY3kgNJObQBhR6Df91xuBAL9QIWKQyEFE-2Fm8sayx7LaLbf1hgBoRbtkAIp28BLmmaHHvTqJh0QCy2Daiw-2FggCN-2BYlqg1WylwurMwlsZU-3D" alt="" width="1" height="1" border="0" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"/>
+<div style="-webkit-text-size-adjust:none; display:block; margin:0; padding:0; font-size:1px; color:#fff; line-height:1px; font-family:arial; max-height:0; max-width:0; opacity:0; overflow:hidden; mso-hide:all">
+      Mix and match your sofa and accent chairs like a designer.
+    </div>
+<div style="-webkit-text-size-adjust:none; display:block; margin:0; padding:0; max-height:0; overflow:hidden">
+       ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌  ‌ ‌  ‌ ‌  ‌ ‌  ‌ ‌  ‌ ‌  ‌ ‌  ‌ ‌  ‌ ‌  ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌  ‌ ‌  ‌ ‌  ‌ ‌  ‌ ‌  ‌ ‌  ‌ ‌  ‌ ‌  ‌ ‌  ‌ ‌  ‌
+    </div>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0; background-color:#fff" width="100%">
+<tr style="-webkit-text-size-adjust:none">
+<td align="center" style="-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0; background-color:#fff" valign="top" width="100%"> <!-- logo -->
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="scale" role="presentation" style="-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0; min-width:600px; width:600px; background-color:#002D72" width="600">
+<tr style="-webkit-text-size-adjust:none">
+<td align="center" style="-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0; padding:8px 12px 8px 12px"> <a href="http://trk.pier1.com/ls/click?upn=hfGfunFka6edH8Mpp0ma4ZYwBBrh3-2FGJornztr7jUqWE38-2FECJhu5bw4TuwZ6W6WI2ihRP3xMo-2B0H27FzA5J84A2r5XYaMcqIUBcFms7e2RoLOsirw3Wu3KMVKDlMjClsW26LjalvPTjvvGU9B0-2F7OUty7nWs8Yuye81KL0DsT3uHZk8D-2BJItmaPO1Ml-2BIMrysXrLmfhvqIMKf8NCVudgnbscRUlemO-2FfsWQGB3ry377hujiUN9S4hxVoyynkfdlmugcjgJYhafw71wP3r8xiSzaNDij9VLSAj-2B90So2QJ3x5S-2Bds5HWt8A4JPyc4Itu0ifUe5Fyz8xUkoEBNgvWalN5mmz978m3G2-2BRHbYirWh5gW5Iz1Pfay1tPCik5E3iCRwN2j3yh2R1Mbgx8n3mtIcz2LsxSanfiJrp3d4lW8w-3DJV8x_YTaHu0oW8JrXZuSFMqbRTG2K5CqNwIHnju02tp3wbPfYNinKPrt-2FqBXCQbrJn0Qya-2BlNhk-2BzGd0ZNlwwxgDfTz7RdjLeqKca3MS3ZxkG6ZGjSrM7tVNNafm6SD5AHpShjW5-2Bko-2FeqXMJepEIsIpoDwHpYpDKovEFQhCTKNTf3pRpb-2BTdjodH4gOi-2FTD48Gn62-2BwnFrhWzqS1REUYNwJdUFuBV7HAXwr1BHYm88RfZ6oUMxIOpWo9M6x1r8MyKlXlTvkWzxwVcd4IxRuJYOUU8KwIkLwKjNon7cf8j60mFKRlC56NrKN2hLHJx752CY0udEoUy8kiPmO14xG5uk2FRcnAYm6B8iaaUFUlUGeeqxWHUarzPzxRJT8PxIioa-2BFiSnCDry8LpjwvqHW6ve5JUg-3D-3D" style="-webkit-text-size-adjust:none; text-decoration:none; color:#002D72" target="_blank"> <img alt="Pier 1" border="0" class="logo" height="34" src="https://d3k81ch9hvuctc.cloudfront.net/company/UHyBth/images/968b46c3-0c16-44b7-b7f9-e4bbfb55c007.png" style="-webkit-text-size-adjust:none; display:block; width:100%; max-width:68px; height:auto; font-family:arial, sans-serif; font-size:16px; color:#002d72" width="68"></a>
+</td>
+</tr>
+</table>
+<!-- Anika Desk Chair -->
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="scale" role="presentation" style="-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0; min-width:600px; width:600px; background-color:#fff" width="600">
+<tr style="-webkit-text-size-adjust:none">
+<td align="center" style="-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0" width="100%"> <a href="http://trk.pier1.com/ls/click?upn=hfGfunFka6edH8Mpp0ma4cqdjXSxdUehXTOqYEfZLPoazZODNCAyy09jVstn1-2B0G5rxB-2FaHnl2RLs-2FXq4RjDKkUlzIYP8W1s0hcY6EZ0WwmmJIrOOKmu109KtLHhZS-2FaA7hxljrme9nfyXzRpEwyGSe23vlBmErAbZu1ZeKvORhJcudwM5i-2F5uUdDzuZn-2B40nqFPUloy3A2R78IuDGRmdxYhv2TMfrQRssqMAL8-2FG8fsdTy6n5KhKdN3Wo3PtWhEGga7Gaj-2BUr79U1VMm3ajwE6eIj9BPWah1ro7lIOzBubg88dAhHKp24KQi1J7D0JTtXJNTLqmwpfbS0Q9NEIp4xeUkBp0eOyoHDSDxqCStO8CEF44rMy684ilMma7ZiuI-2F7zR0Uvx3djCbhCDKAjuoWxS0ju5WFIVlpdN5f7ZsONttsdPd1E4tCR3F0HCA0j3uqRDGTKzM-2FJK6OzkA9ufAQ-3D-3D6F3e_YTaHu0oW8JrXZuSFMqbRTG2K5CqNwIHnju02tp3wbPfYNinKPrt-2FqBXCQbrJn0Qya-2BlNhk-2BzGd0ZNlwwxgDfTz7RdjLeqKca3MS3ZxkG6ZGjSrM7tVNNafm6SD5AHpShjW5-2Bko-2FeqXMJepEIsIpoDwHpYpDKovEFQhCTKNTf3pRpb-2BTdjodH4gOi-2FTD48Gn62-2BwnFrhWzqS1REUYNwJdUIg9X1DaOE9cuhc5D2REZWBnCnuV3jAxLGoIcmyyMNvRDvBH8AUGtX1ehyKa0DEFAtWWfIakSpQw4E0x-2F6Rk1gVtmlFuKxL6v1J2T5G-2FVYHwp9FI6isrsaCvUFSVXulbiU4V-2FT-2BRi1DOkmGXe-2BAaJ1Dkv52F71MNbMfhfcZkAN8wNUQJ8WRRSrLw-2FQ1bzCzHMg-3D-3D" style="-webkit-text-size-adjust:none; text-decoration:none" target="_blank"> <img alt="Anika desk chair back in stock! | SHOP NOW &gt;" border="0" class="scale" src="https://d3k81ch9hvuctc.cloudfront.net/company/UHyBth/images/f3451b2f-d1b9-434f-afeb-02e482231712.gif" style="-webkit-text-size-adjust:none; display:block; width:100%; max-width:600px; height:auto; font-family:arial, sans-serif" width="600"></a>
+</td>
+</tr>
+</table>
+<!-- Pair your sofa -->
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="scale" role="presentation" style="-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0; min-width:600px; width:600px; background-color:#fff" width="600">
+<tr style="-webkit-text-size-adjust:none">
+<td align="center" style="-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0" width="100%"> <a href="http://trk.pier1.com/ls/click?upn=hfGfunFka6edH8Mpp0ma4cqdjXSxdUehXTOqYEfZLPpl3ChqZBl0RxYLQXFlXWdt1ItdpDIslxpte1bAOEe26lZWK973z5P10FhH9JPj3eiDFrlNkpFT4D-2BNXa9p3KDbtmohrG0Sibvmy7xop0CcthtOXfIeLlZqfcWmwG5-2FYlWIoEXGGx-2B1UvbCXWvy2vNE3wUdmxN8rMf3eiksp0W9qjvou5Q978bBZVZCNj0mvNwdVSRCDSCuFmnBUPtNsM6-2F5QNcSWe44jxCpY6nILT9l-2Btn2XqRFkNKSvn4P-2BqMLx3D2RK5RF7-2Bs-2Fw7c8-2BPeZou1xIbCKjQgOydLSokhrMYyxzgTtQexbs37qpCGlfo78R2V2rUC1K2KK5x2lEA9Q7lqrM2DH5-2Be8iHkte73o-2BtrahM-2BPHmXZIbMsNo22-2FUYInzlXeSNjpH3DDxBrieaBMGUr8OGTer3VJR8lLUY0NWgw-3D-3DHx5k_YTaHu0oW8JrXZuSFMqbRTG2K5CqNwIHnju02tp3wbPfYNinKPrt-2FqBXCQbrJn0Qya-2BlNhk-2BzGd0ZNlwwxgDfTz7RdjLeqKca3MS3ZxkG6ZGjSrM7tVNNafm6SD5AHpShjW5-2Bko-2FeqXMJepEIsIpoDwHpYpDKovEFQhCTKNTf3pRpb-2BTdjodH4gOi-2FTD48Gn62-2BwnFrhWzqS1REUYNwJdUFNR-2BRKdatcI4nneTHD8E290Lf6NhhtjPueqaSfsutSr3p-2Bm8oVt8aA5kmb0uEuk3pLn5V4OfHb22ISVdlKQ3GJRVMu3y0G32-2BjENdaUy1Xd7oE-2BMLlxViO5jL-2Be1jRoL440bebK79wIbkxEV5mntaxl-2FopCbzbArn57OBR2-2BB2fCsRkWyXG8BJs3B6hsEuLnQ-3D-3D" style="-webkit-text-size-adjust:none; text-decoration:none" target="_blank"> <img alt="Pair your sofa + chairs like a pro | SHOP LIVING ROOM" border="0" class="scale" src="https://d3k81ch9hvuctc.cloudfront.net/company/UHyBth/images/a43fab2a-188b-48d6-8249-21b901ff93e3.jpeg" style="-webkit-text-size-adjust:none; display:block; width:100%; max-width:600px; height:auto; font-family:arial, sans-serif" width="600"></a>
+</td>
+</tr>
+</table>
+<!-- Nature Inspired -->
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="scale" role="presentation" style="-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0; min-width:600px; width:600px; background-color:#fff" width="600">
+<tr style="-webkit-text-size-adjust:none">
+<td align="center" style="-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0" width="100%"> <a href="http://trk.pier1.com/ls/click?upn=hfGfunFka6edH8Mpp0ma4cqdjXSxdUehXTOqYEfZLPpl3ChqZBl0RxYLQXFlXWdt65axuT0vrZMglxiJ6ok6etS6CTHqDZ5-2Fj1pqJSzeC2C5qpO-2FagV2exZSnm371mLeYcKe4koUUdjhe-2FcNkui3eRVUryEg0YgA-2BQD0F9yhRq7lfrn48wQMpJVz5Boz0ql6H4QesD4ydAIGZhA418iLBQaA0B9brgLmIr4lROOpgFSgCnwkJKmqOihdu-2F-2FEV-2F6nLwpKLuVWNojzG68FAy8w-2BsWvxBkHB6-2BfuWSiyb4s8lwU0yuB5zGmYqZo94PrYAQI52BICcrV4wKxgvSXmo-2FFSOXdGZ6LtFdHsD6LUlaIR-2Fiq5wVPI0tZovH4S75q5-2Br9V4ejPcQs-2BwsAdWe2H7k00W73GJkYRyVEZjGa8-2Bt-2Fk-2Bn6i7SmGDvnwvmjX1OVU0D0HBasgel7D3YSFrhszfYOBnCdBafMhNP9K2k7vIVPF0o-3DP_bu_YTaHu0oW8JrXZuSFMqbRTG2K5CqNwIHnju02tp3wbPfYNinKPrt-2FqBXCQbrJn0Qya-2BlNhk-2BzGd0ZNlwwxgDfTz7RdjLeqKca3MS3ZxkG6ZGjSrM7tVNNafm6SD5AHpShjW5-2Bko-2FeqXMJepEIsIpoDwHpYpDKovEFQhCTKNTf3pRpb-2BTdjodH4gOi-2FTD48Gn62-2BwnFrhWzqS1REUYNwJdUKhRARVQP1pWshVj-2FeRzdaKk1xcz1OEOaWqMpb5XeLAHhu-2FYfxpTgiNQGAMT6BtC43OSZUGeu52TytKQ0a6IgG6ATTBr1zuf5TAYUQvUPHm70JeVba2H7IiwRtEJpijEvaAI-2B4RiGFODBXmRxiUgifyAI-2B4pjpTbCl44iDU4hjmdSt3RtwWGcUEiL7s5gQzMBQ-3D-3D" style="-webkit-text-size-adjust:none; text-decoration:none" target="_blank"> <img alt="Look #1`: Nature-Inspired. Loveseat | SHOP NOW" border="0" class="scale" src="https://d3k81ch9hvuctc.cloudfront.net/company/UHyBth/images/15379059-0744-4bab-8a78-13e41e0e1a0a.jpeg" style="-webkit-text-size-adjust:none; display:block; width:100%; max-width:600px; height:auto; font-family:arial, sans-serif" width="600"></a>
+</td>
+</tr>
+</table>
+<!-- Soft Sophistication -->
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="scale" role="presentation" style="-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0; min-width:600px; width:600px; background-color:#fff" width="600">
+<tr style="-webkit-text-size-adjust:none">
+<td align="center" style="-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0" width="100%"> <a href="http://trk.pier1.com/ls/click?upn=hfGfunFka6edH8Mpp0ma4cqdjXSxdUehXTOqYEfZLPpl3ChqZBl0RxYLQXFlXWdt65axuT0vrZMglxiJ6ok6enLk1slhfzIiGlWjNUZF4PhH7T7A5216hQWMpte8fKNCY6ztnWpkMfNgFtHKbr3M6lwfu-2BJN-2BuWQcbxseTNLfy6kkr7DSaCVVSK90krFcMcycaSiznw-2Ff-2BLe3yr8bV-2FRtj5sahfxaKuQNvx2VXhR2M7k1cJurTS6YcG1PVJ3u20URqOXiY2I39eHgbojPxT1d1mMvN8zFL2Do1VQWGDyMLOWhmzeqnKeQ1oNS-2FmeRNcpZwdu6TNgvNI-2BhpJXFzSFg7Xd4PvpJduFdGOISvqIkhViKOqlKD3x7MUl72WjybXabI0zr8gbfZTCpqiGhVFwe29N74GqLzdml3brLJWSfn-2BQsUlAtOwL8vGP0Arnts9rBIqJDQJdeOy9Ufur-2F7G0AoLwgF1P1FIW2YsfiJZCHdE-3DKAKP_YTaHu0oW8JrXZuSFMqbRTG2K5CqNwIHnju02tp3wbPfYNinKPrt-2FqBXCQbrJn0Qya-2BlNhk-2BzGd0ZNlwwxgDfTz7RdjLeqKca3MS3ZxkG6ZGjSrM7tVNNafm6SD5AHpShjW5-2Bko-2FeqXMJepEIsIpoDwHpYpDKovEFQhCTKNTf3pRpb-2BTdjodH4gOi-2FTD48Gn62-2BwnFrhWzqS1REUYNwJdUOnIxTCNsPKZSuPE5Ug-2BJQVi3DEkUZykTu4laz-2F3u1fR5fA-2Fr26z63e-2BKOOrs838qUQ6I1HlJlOXAx6DOKSQ9TRt0bTFGNBv82pMyw4ReJQCsWEazTNqwiRBldahI-2BwlsJLCzOJmh5Hl0Xw31KrvlFZbysxnJ5qxjWFJoAGDmdROBf-2FNkT2-2BVSTzbJVK6gC0hw-3D-3D" style="-webkit-text-size-adjust:none; text-decoration:none" target="_blank"> <img alt="Look #2: Soft Sophistication. Tufted Fabric Sofa | SHOP NOW" border="0" class="scale" src="https://d3k81ch9hvuctc.cloudfront.net/company/UHyBth/images/61832aa2-2809-4ebb-bd6d-0a0645e6e259.jpeg" style="-webkit-text-size-adjust:none; display:block; width:100%; max-width:600px; height:auto; font-family:arial, sans-serif" width="600"></a>
+</td>
+</tr>
+</table>
+<!-- Flight of Fancy -->
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="scale" role="presentation" style="-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0; min-width:600px; width:600px; background-color:#fff" width="600">
+<tr style="-webkit-text-size-adjust:none">
+<td align="center" style="-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0" width="100%"> <a href="http://trk.pier1.com/ls/click?upn=hfGfunFka6edH8Mpp0ma4cqdjXSxdUehXTOqYEfZLPpl3ChqZBl0RxYLQXFlXWdt65axuT0vrZMglxiJ6ok6eo-2FpnkfyX4UTQHemgJ5rGimSsxcdciLN-2BZyAWscck-2Bc-2Bo6eRR9UnT2PnkhOxTWenFqUWFWS8vQZznsyjGJUsUBOG2zLBYvWI4LQxqPVedSCNzA0OeE8kX8sFcRTWYURC8B-2FsDmrXIthWLV6ViFr4Kzyx8YhB6nCeP7k7bYOAGRI7z-2BFU8x0Oa6of0-2FtrGZb4LF9-2Bo5I701R14uaDF1O7ankA1KYd1Ba8-2B-2BOM3OyC65qZIC3lEpY-2BxqMgr6-2BESvV-2B0xBwJUgs4Lfcf9-2F2p6qdEnVZwWxNrRZNUmq81MZ8g-2BksWyejB6XCNUKbTpYIbnfZ0VjnuAsWCp5RthGr0g-2FR0EWyPwudcxZ7sb-2B-2F-2BD0hdFZaSabigemAVcqNhmNCOBbXePKaFj4vD1Syg5WTgc3ny8I-3DKdPw_YTaHu0oW8JrXZuSFMqbRTG2K5CqNwIHnju02tp3wbPfYNinKPrt-2FqBXCQbrJn0Qya-2BlNhk-2BzGd0ZNlwwxgDfTz7RdjLeqKca3MS3ZxkG6ZGjSrM7tVNNafm6SD5AHpShjW5-2Bko-2FeqXMJepEIsIpoDwHpYpDKovEFQhCTKNTf3pRpb-2BTdjodH4gOi-2FTD48Gn62-2BwnFrhWzqS1REUYNwJdUOIeDRZZZMpl-2B9NxwlcNG6knvERSGC8Py9ISTTKe8EeEUqWqH0eqSVG8CQ1sZQjDVDpU1P3zVdkaWVZTCjLcrNQCYOH9DvQ9OeqitMHrPmofkfzsCxWmYRLcLuZr3gmGrK44NIFdvEF4onFNmtNObVlvC-2F9YVWttPnBUBB9NHwOlWg19h0WoAR2CnFqz6a4qOg-3D-3D" style="-webkit-text-size-adjust:none; text-decoration:none" target="_blank"> <img alt="Look #3: Flight of Fancy. Modern Loveseat | SHOP NOW" border="0" class="scale" src="https://d3k81ch9hvuctc.cloudfront.net/company/UHyBth/images/1ab4b562-f066-485d-a66e-29015d338692.jpeg" style="-webkit-text-size-adjust:none; display:block; width:100%; max-width:600px; height:auto; font-family:arial, sans-serif" width="600"></a>
+</td>
+</tr>
+</table>
+<!-- Furniture sale -->
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="scale" role="presentation" style="-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0; min-width:600px; width:600px; background-color:#fff" width="600">
+<tr style="-webkit-text-size-adjust:none">
+<td align="center" style="-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0" width="100%"> <a href="http://trk.pier1.com/ls/click?upn=hfGfunFka6edH8Mpp0ma4cqdjXSxdUehXTOqYEfZLPo06x-2FrGek5kqw3CN-2BbvrxxtmmjQomDjEZex4WqGn4R4WYBsK2vq6YwkLw8Zfi9uyCVG783ecQ-2F-2FE8MnGiROroZyq9haiYleGTllFyxyneq2OH4c9deiXTa1xfksYzPesNOJPp8G3-2FTkdg-2BXkcx2jkPLIM0xoSsTUW738rPtN2tyn0qBokgKA6-2BunDsfZ-2F9yHGCBfjBnB0yFtj-2BzRE-2FasFuuG-2FBB2bp-2FVytWQNb9bsMgaTF1JfaPRL9esSsJTGAijia-2FltcuiWEeQ55XzazkDGIvbCvwlhDxnMx-2F-2F-2FVMWdKsxJVZkMMSwtyGa2Uy8sJoZyxb85K7dEzT0fc4en9GfTnst-2BsjAquTYzzFvseK2uK-2Fv1OPQj3YzwITEHCv4sNz0R-2BLsKglXJG-2FK6yWWYmsZEWmR00_YTaHu0oW8JrXZuSFMqbRTG2K5CqNwIHnju02tp3wbPfYNinKPrt-2FqBXCQbrJn0Qya-2BlNhk-2BzGd0ZNlwwxgDfTz7RdjLeqKca3MS3ZxkG6ZGjSrM7tVNNafm6SD5AHpShjW5-2Bko-2FeqXMJepEIsIpoDwHpYpDKovEFQhCTKNTf3pRpb-2BTdjodH4gOi-2FTD48Gn62-2BwnFrhWzqS1REUYNwJdUKbQcYxTiUfIu-2Fscd0GIUe1bHxPrv-2Byo-2FQN2sy5Tginu7iKmfVPGldoFri0ecITW7SgSGzxAvbWgsMcoT-2B3YeWIjVNO5NbVDMQ4wbsZCErT1XoSaMZkxyPjeQMiTtHhLfM1TM5Pb0v5PSgQ-2Fl-2BmM7wjfpC20ot5Xk562ibZfTNVW38i5Fkw5s6cOm5lzLsS2Ow-3D-3D" style="-webkit-text-size-adjust:none; text-decoration:none" target="_blank"> <img alt="Furniture on sale! Up to 20% off on indoor and 40% off on outdoor" border="0" class="scale" src="https://d3k81ch9hvuctc.cloudfront.net/company/UHyBth/images/cb79a481-389a-44a1-975d-a30a07905afc.gif" style="-webkit-text-size-adjust:none; display:block; width:100%; max-width:600px; height:auto; font-family:arial, sans-serif" width="600"></a>
+</td>
+</tr>
+</table>
+<!-- nav -->
+<!-- nav -->
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="scale" style="-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0; min-width:600px; width:600px; background-color:#CED9E5" width="600">
+<tr style="-webkit-text-size-adjust:none">
+<td align="center" class="nav-p" style="-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0; padding:30px 50px 16px 50px" width="100%">
+<table border="0" cellpadding="0" cellspacing="0" style="-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0" width="100%"> <!-- nav item -->
+<tr style="-webkit-text-size-adjust:none">
+<td align="center" class="nav-txt" style='-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0; width:500px; min-width:500px; height:40px; font-family:"Helvetica Neue", Helvetica, Arial, sans-serif; color:#002D72; letter-spacing:1px; mso-padding-alt:12px 0'> <a class="nav-txt" href="http://trk.pier1.com/ls/click?upn=hfGfunFka6edH8Mpp0ma4cqdjXSxdUehXTOqYEfZLPrxlHGPU6P6RXS1PSIl5iIf0uNyhkzbJQftVvMoIk2GW56loUUJDv7m2U9QXC-2Fu40kIp9LCy8XPLXRiq-2F1d1r6XDxuE8esfSH6oEViY-2F-2BNrP7P61Bqw7-2Bsa43RxTa1hQGyl9gHVXduH1O-2BNMPSpqG9-2BZpxjXD-2Fpc4zoFjkfYMVkpVMq00TGaWOTr0Hy6GHZTkyvpMttYPh5TjCUs1DIrqPUUJZdAlSjaJ8wi0xd4Q438ArZ3nB34PfLM-2BrYK6gEbL6HQM-2FlP3Pg3M2HEp4YcRrzz2Xbz2GDVTA7BacB95PLLjpevQr-2FV0QcHkHiXyEIY-2BBZgukTKqOSTFlhakVi-2FxvCw0EEDAxDSPr5Q92Nr1f5gOozwmaoOULTREr0-2Fu3Rzi6XaAAsoAok7JeEd6TQ8IK1VtXYK2YVAF9itvdo2fY5mg-3D-3Da56U_YTaHu0oW8JrXZuSFMqbRTG2K5CqNwIHnju02tp3wbPfYNinKPrt-2FqBXCQbrJn0Qya-2BlNhk-2BzGd0ZNlwwxgDfTz7RdjLeqKca3MS3ZxkG6ZGjSrM7tVNNafm6SD5AHpShjW5-2Bko-2FeqXMJepEIsIpoDwHpYpDKovEFQhCTKNTf3pRpb-2BTdjodH4gOi-2FTD48Gn62-2BwnFrhWzqS1REUYNwJdUNh2sHlrD4a6lq0eGV2sRIm8wMFn3DXnRjhUETWZ2m6itWWLi1GOHVtvbRngdC2khQy3Eymo8LnhqwY1bthBnJ4W5usb8KgTJu0owKyPwbtODEDaUOD-2F-2FbHcldOflqcLlr-2BVgFnQzbeELq75qr3jJU9aOqwK22muxhKk-2BRH28xni3iddwmG-2BqEinCVz7NaNX3Q-3D-3D" style="-webkit-text-size-adjust:none; text-decoration:none; padding:22px 0; min-width:500px; display:block; text-align:center; font-size:15px; color:#002D72; mso-line-height-rule:exactly; line-height:18px; text-transform:uppercase" target="_blank"> <font style="-webkit-text-size-adjust:none; color:#002D72">  Pier 1 Exclusives   </font></a>
+</td>
+</tr>
+<!-- nav item border -->
+<tr style="-webkit-text-size-adjust:none">
+<td align="center" class="nav-txt" style='-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0; width:500px; min-width:500px; height:40px; font-family:"Helvetica Neue", Helvetica, Arial, sans-serif; color:#002D72; border-top:1px solid #a9bad0; letter-spacing:1px; mso-padding-alt:12px 0'> <a class="nav-txt" href="http://trk.pier1.com/ls/click?upn=hfGfunFka6edH8Mpp0ma4cqdjXSxdUehXTOqYEfZLPqkOn8cfCcJxLH4H115v5j5mSaAOSTXzNbBZRRp-2B9DxTg8cpUmAHdYiIv8QAW5O9vPhehhHualuAq4moqGy50nV67-2B-2FoW7gPF7-2BUSXe8YVFUByHtepU6-2BRInPlvx3shjWCy5Dm8jQCTCDVL7RWL0TMiQlr-2B667EuFWoG0tlN5SNdSi2A8aDnIl8O9kPZhxqCtg4pyn2W7vMBPyRI46c1eSWsgnl-2F-2BIW-2FIjr-2FqFGikPLGm9ywiVNuUeW1Dcjz8M9a0w8HAHHVPICFY-2FZj2Z7y2DPHVGuQOGwE3ZNXNeYVWLB6vcwYstvWNrf-2BbzE7B2ePWDuJbIgzyyDs-2FgYWGmfGDzovkmMXnLOqpAPwPqd0Uoh451kjohskXun28x2v8CbjVeaGHDTuXzYRcB796MKriK-2BpQCf_YTaHu0oW8JrXZuSFMqbRTG2K5CqNwIHnju02tp3wbPfYNinKPrt-2FqBXCQbrJn0Qya-2BlNhk-2BzGd0ZNlwwxgDfTz7RdjLeqKca3MS3ZxkG6ZGjSrM7tVNNafm6SD5AHpShjW5-2Bko-2FeqXMJepEIsIpoDwHpYpDKovEFQhCTKNTf3pRpb-2BTdjodH4gOi-2FTD48Gn62-2BwnFrhWzqS1REUYNwJdUFh37lp5sII71Vh83AmDL8LQQ5EQ0i9wveKkjYaOqk4VSFVsn-2B9Vb7p22w2BO7DwHGKOAEx4Su0kZX20TKRr6KIMWN17DphHkfRRnVziI5-2FlHRLBSwVqtYRT1wMpqt8XuRyEngMCCKqSE2CDaW1Id3M9SA8BQF-2BRatDRfwtY4GK0rHkdmftsRTN5lDzcVz0fQw-3D-3D" style="-webkit-text-size-adjust:none; text-decoration:none; padding:22px 0; min-width:500px; display:block; text-align:center; font-size:15px; color:#002D72; mso-line-height-rule:exactly; line-height:18px; text-transform:uppercase" target="_blank"> <font style="-webkit-text-size-adjust:none; color:#002D72">  Outdoor  </font></a>
+</td>
+</tr>
+<!-- nav item border -->
+<tr style="-webkit-text-size-adjust:none">
+<td align="center" class="nav-txt" style='-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0; width:500px; min-width:500px; height:40px; font-family:"Helvetica Neue", Helvetica, Arial, sans-serif; color:#002D72; border-top:1px solid #a9bad0; letter-spacing:1px; mso-padding-alt:12px 0'> <a class="nav-txt" href="http://trk.pier1.com/ls/click?upn=hfGfunFka6edH8Mpp0ma4cqdjXSxdUehXTOqYEfZLPo06x-2FrGek5kqw3CN-2BbvrxxXso1Ed7PY9vqDsJWvgH3iLV5fiwLscWjTocFc9R2DSLi0uFV2gDZgR26CjTUqijDMHbEZ8T7Ih4eXZUIfYiTElHfPJJgKdmrHFkX9E4PsqoKGU7OGMfxnJR0MSF-2F-2F6fjf0AiIX5hJNS8u3-2BU0NUYH2Td0LNblA1tPegCX9X-2B5rVAIPWQgcbk2NyhvobIiuB6GkMBPCA8zT74P9Y3PhUHEp0RZzv9UHKhW7jxG2ddDmnptmCf5gpEdhE2-2B5kuskBDTkERGVC3os8rieLUfj6D-2BL7frtVe-2FNZIax0ptlsZGDEgf-2BOn7U4gcV7Ng5cHEEqRmJHsQYoddm7RmQP9o-2FWuLTpdduW5e0LVaeYS-2FQ7vsbwUqfa4AIbR3JxBdOPkeS3hc5O6_YTaHu0oW8JrXZuSFMqbRTG2K5CqNwIHnju02tp3wbPfYNinKPrt-2FqBXCQbrJn0Qya-2BlNhk-2BzGd0ZNlwwxgDfTz7RdjLeqKca3MS3ZxkG6ZGjSrM7tVNNafm6SD5AHpShjW5-2Bko-2FeqXMJepEIsIpoDwHpYpDKovEFQhCTKNTf3pRpb-2BTdjodH4gOi-2FTD48Gn62-2BwnFrhWzqS1REUYNwJdUFkDE8TzvqMjIAdJEVjcpmOXbnhx9qw9kWghlPDUJwjhkEWf9jpM6dG1W62gdgqKwd4RsY0zawl47C1x8DGUih0Cj39YuV8prRP3UfRDXY79cDIRGF0d00r4VZ8b01MB5onpcNf2CeKqqdos-2FS-2Faznp1KpD5CX-2BlA4Qjm1U8gcAgVS3WgzdP7cj66mm6YBTWiQ-3D-3D" style="-webkit-text-size-adjust:none; text-decoration:none; padding:22px 0; min-width:500px; display:block; text-align:center; font-size:15px; color:#002D72; mso-line-height-rule:exactly; line-height:18px; text-transform:uppercase" target="_blank"> <font style="-webkit-text-size-adjust:none; color:#002D72">  Furniture  </font></a>
+</td>
+</tr>
+<!-- nav item border -->
+<tr style="-webkit-text-size-adjust:none">
+<td align="center" class="nav-txt" style='-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0; width:500px; min-width:500px; height:40px; font-family:"Helvetica Neue", Helvetica, Arial, sans-serif; color:#002D72; border-top:1px solid #a9bad0; letter-spacing:1px; mso-padding-alt:12px 0'> <a class="nav-txt" href="http://trk.pier1.com/ls/click?upn=hfGfunFka6edH8Mpp0ma4cqdjXSxdUehXTOqYEfZLPpQ-2FKp4N7-2FBPga-2FSzZeVtoWUr-2FbIuVT7dfvektfefAIFZFjPJOENcTSCU0785w-2BqgXbOgsThOyatkomnP6n5WsLkxlUUKK8-2BnooGHrCLrCfy1K9ppkKRbwK30JlnpaGM7OEsD0TmvXuAHpT-2FpSU8hbVEmE9W7LjvWIID-2BvGK55q-2BYttcF8lt2rZ-2Byuh7QzQAOYhCtPU-2Fxy4b0-2B-2B3LBLfs1qH5eV4gvF8Szz7cVhyF2WmgAibZ9c7dGLK4Anamx1gA8PjgeiJqG3sqorTYImX6m9CDLEJzyXbT7rGOZGLBWTIPZGH9VNHV10NcKRFsJAGvr86SaMUpuVxbfijzX63BfoNWit-2FgT-2BfBMZ1UwIJ545bJ6WyM4i14lP2GrJNdK2Uk9ObJKbr3CRl7ATuRcxMeLCv4xM_YTaHu0oW8JrXZuSFMqbRTG2K5CqNwIHnju02tp3wbPfYNinKPrt-2FqBXCQbrJn0Qya-2BlNhk-2BzGd0ZNlwwxgDfTz7RdjLeqKca3MS3ZxkG6ZGjSrM7tVNNafm6SD5AHpShjW5-2Bko-2FeqXMJepEIsIpoDwHpYpDKovEFQhCTKNTf3pRpb-2BTdjodH4gOi-2FTD48Gn62-2BwnFrhWzqS1REUYNwJdUIp2lyNO7DYdpY3EA0hbu3co6-2FoZB39TdVUI01c3vLlb9ImH0NLub3b-2BX2YClV0DvULV8Zd-2FtyxMfvS9ofEPwh4dTO-2B8eacQK9YpvQmBtOPWLKrNeCocUF3UC-2FWmsZW1bZf2rjAOJVMPB2eX-2FBcWmYpOu1eZUYZapSlXZ8HRb8-2Bv1Mlo4D3FY9Ct7m3VKC-2BLpA-3D-3D" style="-webkit-text-size-adjust:none; text-decoration:none; padding:22px 0; min-width:500px; display:block; text-align:center; font-size:15px; color:#002D72; mso-line-height-rule:exactly; line-height:18px; text-transform:uppercase" target="_blank"> <font style="-webkit-text-size-adjust:none; color:#002D72">  Decor  </font></a>
+</td>
+</tr>
+<!-- nav item border -->
+<tr style="-webkit-text-size-adjust:none">
+<td align="center" class="nav-txt" style='-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0; width:500px; min-width:500px; height:40px; font-family:"Helvetica Neue", Helvetica, Arial, sans-serif; color:#002D72; border-top:1px solid #a9bad0; border-bottom:1px solid #a9bad0; letter-spacing:1px; mso-padding-alt:12px 0'> <a class="nav-txt" href="http://trk.pier1.com/ls/click?upn=hfGfunFka6edH8Mpp0ma4cqdjXSxdUehXTOqYEfZLPrjz-2BHJEQpICIbPRLKy14Syj0ZSNyad0P2bsgUrgVDKPrwII0eISes9Gh7zsdry7Yd5udXmq2bR45cic40t78YF786G8FRYs8TkcN1KcgATvLEnXLGGKkWz4oyow44lwF-2FNAQVwnwkFzgNF4aomzWu5OXPy8H8JmgtzRnSCpik-2F1hJwvcjuzY-2FK3hm8oKQ3Uf0PL2mXUduUnTCw-2Fs8iWmlN5sF7I-2BuijKLIjT58dB0ZBf4JaroDXjGKoZPOsti7zNhZv6DgDG8Aa6OHGA3J7R0t9sZQgVHT-2FvAMr73ORjXskxcbAieJLIu-2BCYd4M7dAlgOyXDkF-2FXnSVbCf26YdOnhycEto7oL3tfQ7Uu-2F8AGx1U8ublAR2MdzHyh4J4iL01J-2FfMIZwAQTQ-2BMkpFKmqQKCbzttV_YTaHu0oW8JrXZuSFMqbRTG2K5CqNwIHnju02tp3wbPfYNinKPrt-2FqBXCQbrJn0Qya-2BlNhk-2BzGd0ZNlwwxgDfTz7RdjLeqKca3MS3ZxkG6ZGjSrM7tVNNafm6SD5AHpShjW5-2Bko-2FeqXMJepEIsIpoDwHpYpDKovEFQhCTKNTf3pRpb-2BTdjodH4gOi-2FTD48Gn62-2BwnFrhWzqS1REUYNwJdUMA-2FG2y6ZdjEZICoUX2JK1SeMJM-2Fm-2FQexvZHhWkHABH0ZAasq0-2FGSnDotgy0fQirgLSamDl2paVJQMvHk6H6BTqpAa5MIskSp6adWco66KqN09SvdbmZPTq-2BPmMjcBGqSBFoy7ey4iEFAz1Zq2oGA9qFSS55Yh2TtkfYLFwygZTOJAgniZwjvnDLlOYmsM2kgw-3D-3D" style="-webkit-text-size-adjust:none; text-decoration:none; padding:22px 0; min-width:500px; display:block; text-align:center; font-size:15px; color:#002D72; mso-line-height-rule:exactly; line-height:18px; text-transform:uppercase" target="_blank"> <font style="-webkit-text-size-adjust:none; color:#002D72">  Rugs &amp; Curtains  </font></a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!-- footer -->
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="scale" role="presentation" style="-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0; min-width:600px; width:600px; background-color:#CED9E5" width="600">
+<tr style="-webkit-text-size-adjust:none">
+<td align="center" style="-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0; padding:20px 12px 20px 12px"> <a href="http://trk.pier1.com/ls/click?upn=hfGfunFka6edH8Mpp0ma4ZYwBBrh3-2FGJornztr7jUqWE38-2FECJhu5bw4TuwZ6W6WI2ihRP3xMo-2B0H27FzA5J84A2r5XYaMcqIUBcFms7e2RoLOsirw3Wu3KMVKDlMjClsW26LjalvPTjvvGU9B0-2F7OUty7nWs8Yuye81KL0DsT3uHZk8D-2BJItmaPO1Ml-2BIMrysXrLmfhvqIMKf8NCVudgnbscRUlemO-2FfsWQGB3ry377hujiUN9S4hxVoyynkfdlmugcjgJYhafw71wP3r8xiSzaNDij9VLSAj-2B90So2QJ3x5S-2Bds5HWt8A4JPyc4Itu0ifUe5Fyz8xUkoEBNgvWalN5mmz978m3G2-2BRHbYirWh5gW5Iz1Pfay1tPCik5E3iCRwN2j3yh2R1Mbgx8n3mtIcz2LsxSanfiJrp3d4lW8w-3D3D3m_YTaHu0oW8JrXZuSFMqbRTG2K5CqNwIHnju02tp3wbPfYNinKPrt-2FqBXCQbrJn0Qya-2BlNhk-2BzGd0ZNlwwxgDfTz7RdjLeqKca3MS3ZxkG6ZGjSrM7tVNNafm6SD5AHpShjW5-2Bko-2FeqXMJepEIsIpoDwHpYpDKovEFQhCTKNTf3pRpb-2BTdjodH4gOi-2FTD48Gn62-2BwnFrhWzqS1REUYNwJdUHJx530rJ0zlAXBA2Gg69x41m8QXfl5ibc8wry7JtskA67p1HJwfqoUtuMGeHIZoFJZnEG8K1QVyijjaLAzdrJXYt5ch-2BWR70OqTRdlPjjZ-2Fpe4Ax-2BmmTl0HohuF-2BR1sY62YaUHLpT4f3wFI69LnzMhYD3hLpZCqcuTuxRL17zqkkLd-2BYwUa0XQhiGZl1YN7xQ-3D-3D" style="-webkit-text-size-adjust:none; text-decoration:none; color:#002D72" target="_blank"> <img alt="Pier 1" border="0" class="logo" height="34" src="https://d3k81ch9hvuctc.cloudfront.net/company/UHyBth/images/7608542e-90db-4e9a-b5db-ce048c6275dd.png" style="-webkit-text-size-adjust:none; display:block; width:100%; max-width:68px; height:auto; font-family:arial, sans-serif; font-size:16px; color:#002d72" width="68"></a>
+</td>
+</tr>
+<tr style="-webkit-text-size-adjust:none">
+<td align="center" style="-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0" width="100%">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0" width="100%">
+<tr style="-webkit-text-size-adjust:none">
+<td align="center" class="legal-txt" style='-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0; padding:0 20px 20px 20px; color:#686868; text-align:center; font-family:"Helvetica Neue", Helvetica, Arial, sans-serif; font-size:11px; line-height:16px' width="100%">
+                      Copyright © 2021 Pier1. All Rights Reserved.
+                    </td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!-- manage preferences bar -->
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="scale" role="presentation" style="-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0; min-width:600px; width:600px; background-color:#002D72" width="600">
+<tr style="-webkit-text-size-adjust:none">
+<td align="center" style="-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0" width="100%">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0" width="100%">
+<tr style="-webkit-text-size-adjust:none">
+<td align="center" class="preference-p" style='-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0; padding:8px 30px 8px 30px; color:#fff; text-align:center; font-family:"Helvetica Neue", Helvetica, Arial, sans-serif; font-size:10px; line-height:17px' width="100%"> <a href="http://trk.pier1.com/ls/click?upn=hfGfunFka6edH8Mpp0ma4QiwA-2Bn5rPU6ger6DpTvBGfg2zSRM9k1LB39NfPswFjuvrlCt7NX3-2Bb1AiF5cAj-2Br0TLTUHuT0uoFE5Z05LKKn12i-2BHn4O0dj3g10CyryEnTsTHIyz-2BOqhgtpGQEYIexTc3JWVVRtc56Q-2FBawyFnM451vedJPYTKNMYHZab9EP7FtAzJZ-2Fe7147lov-2Bn9srNhA-3D-3DkaLK_YTaHu0oW8JrXZuSFMqbRTG2K5CqNwIHnju02tp3wbPfYNinKPrt-2FqBXCQbrJn0Qya-2BlNhk-2BzGd0ZNlwwxgDfTz7RdjLeqKca3MS3ZxkG6ZGjSrM7tVNNafm6SD5AHpShjW5-2Bko-2FeqXMJepEIsIpoDwHpYpDKovEFQhCTKNTf3pRpb-2BTdjodH4gOi-2FTD48Gn62-2BwnFrhWzqS1REUYNwJdUMU4dq-2FbXwBKfyOMrDfgCu89yz-2F66RA-2F939HWpyWY0XJDPdYoXR5KDfpgLLiQDn0ywoEiwUmDGGLMhugI3MtRJwvKSwHQm1Uydo03WvqFgNrlojTm54OvFpxAqsuvZtc6X7EbTJHwcO20B1NSa6AmSNithJfgrkLEdJbuO4MuZrwKx-2Fd1wLI-2BVq-2Fn6CFCVWr-2FA-3D-3D" style="-webkit-text-size-adjust:none; text-decoration:none; color:#fff" target="_blank">Manage Preferences</a>   |   <a href="http://trk.pier1.com/ls/click?upn=hfGfunFka6edH8Mpp0ma4QiwA-2Bn5rPU6ger6DpTvBGfg2zSRM9k1LB39NfPswFjutt34DhwJzjwu6xkasdWJriNrRtJaDIUspebhtoSniadJQtMCEQKZB0WkdrNXg8R-2BXf91Qfz0fY1rcP-2BvQZf-2Fh8D8sCkg-2Fi-2BA16UzNCde7LEGwK0dg34HFfDogYnNPo-2BpGyP0UpVr-2B-2BXzyjwvZ9dBig-3D-3D23ky_YTaHu0oW8JrXZuSFMqbRTG2K5CqNwIHnju02tp3wbPfYNinKPrt-2FqBXCQbrJn0Qya-2BlNhk-2BzGd0ZNlwwxgDfTz7RdjLeqKca3MS3ZxkG6ZGjSrM7tVNNafm6SD5AHpShjW5-2Bko-2FeqXMJepEIsIpoDwHpYpDKovEFQhCTKNTf3pRpb-2BTdjodH4gOi-2FTD48Gn62-2BwnFrhWzqS1REUYNwJdUJEUastZdTd0hmwlfA6JAcrOuT4NB1J9oJqDEjn2OVzFbp9o-2BqLC6cPK01DyAlLIrmD7mL6dGh9r-2BTwtoHcGqGZGG4FrjoYIgKSgW1uVr1yZwvplhfylVGhfBMm8pwQXPS0IRA8GVgWPowRTSax0F5WuAa0vgEYBHb6Ivvp-2FZGtMVdmwhQnSMZBoTpTxrLGeJw-3D-3D" style="-webkit-text-size-adjust:none; text-decoration:none; color:#fff" target="_blank">Unsubscribe</a>   |   <a href="http://trk.pier1.com/ls/click?upn=hfGfunFka6edH8Mpp0ma4SNGIKhZrqWFDpWY2bm8ZeKfYP9qy6vthv6IdExpm-2Bq87CFrUvEAXnaK7GKSfDhyaTv9XvabWq5oD8AQqYQ-2Bz7fx7wuToswyhGSobEF689xVvdP6HHVxqqXxHPieFp3rnBEePFgDZbRjvtpzH1OiUf9IsH5qPilN3dj3ZUfHG4f8RGjF0Vaw7ZbMg1DoG9-2BHVissqNJfy8e3Ti-2FkKP1s9v-2BcJLTGdl-2FzedzksP63eS1mkWIweauP-2BBARBsgpyOc6D5dO5RxSIYXQ98EBqfypYPLwNSU1IopFPjtAVySUPJRuNcOnlie6C-2BZIVTUDM-2F3reWWCFreAJDH-2FfyfXtVcA8mSOJPWghaB1Bu8vuR5kBMFFmK-2BHh2nhrRbsB-2BWgwbLsdt-2FuCoztweZaoImvrfgYBtlS-2FA8Axa-2FVDkRALaLjVSjfOQNg_YTaHu0oW8JrXZuSFMqbRTG2K5CqNwIHnju02tp3wbPfYNinKPrt-2FqBXCQbrJn0Qya-2BlNhk-2BzGd0ZNlwwxgDfTz7RdjLeqKca3MS3ZxkG6ZGjSrM7tVNNafm6SD5AHpShjW5-2Bko-2FeqXMJepEIsIpoDwHpYpDKovEFQhCTKNTf3pRpb-2BTdjodH4gOi-2FTD48Gn62-2BwnFrhWzqS1REUYNwJdUMQ9HC8tZwwnEEk0JTM68-2Bfo9HGtEffaY3eS43KnB25wCjzSox-2BtlHmO4KUqwCDQDfDH4UxTab-2F7uo9XhM8yeDM8HncNkwHHiK55rrzNeQ5Prg8ODWqklwYs0sIEVYdh6cAHqMfWO-2F5q6sdNtDAwNuAwOHU-2F1HvGATPOlCks1wMtAeRkHDIVwyn-2FL1OFx8FynQ-3D-3D" style="-webkit-text-size-adjust:none; text-decoration:none; color:#fff" target="_blank">Privacy Policy</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!-- legal text -->
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="scale" role="presentation" style="-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0; min-width:600px; width:600px; background-color:#fff" width="600">
+<tr style="-webkit-text-size-adjust:none">
+<td align="center" style="-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0" width="100%">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0" width="100%">
+<tr style="-webkit-text-size-adjust:none">
+<td align="center" class="legal-txt" style='-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0; padding:20px 20px 20px 20px; color:#686868; text-align:center; font-family:"Helvetica Neue", Helvetica, Arial, sans-serif; font-size:11px; line-height:16px' width="100%">
+                      1680 Michigan Ave Suite 700 Miami Beach, FL 33139<br style="-webkit-text-size-adjust:none">
+                      This email was sent by Pier 1 Imports Online, Inc.<br style="-webkit-text-size-adjust:none"><br style="-webkit-text-size-adjust:none">
+                      If you have trouble viewing this email<br style="-webkit-text-size-adjust:none">
+<a href="http://trk.pier1.com/ls/click?upn=hfGfunFka6edH8Mpp0ma4QiwA-2Bn5rPU6ger6DpTvBGfg2zSRM9k1LB39NfPswFjuYOonpu0etEycWq-2FelIgGdeChnZR5aU6UXbNRlz2OuCH3akdzjZtNumYNz14DiJN2GFgQqb7yGt9-2FmsyeBjKbuR1mfNKYnPsbZ7i17X-2FWCjyLUjn6ZraZPOc9Tz5ZZHIbSIa2IKC6kCCBHSPqeUXSwA-3D-3D1H_-_YTaHu0oW8JrXZuSFMqbRTG2K5CqNwIHnju02tp3wbPfYNinKPrt-2FqBXCQbrJn0Qya-2BlNhk-2BzGd0ZNlwwxgDfTz7RdjLeqKca3MS3ZxkG6ZGjSrM7tVNNafm6SD5AHpShjW5-2Bko-2FeqXMJepEIsIpoDwHpYpDKovEFQhCTKNTf3pRpb-2BTdjodH4gOi-2FTD48Gn62-2BwnFrhWzqS1REUYNwJdULz0jZmX4LXpW1RiJXmKxAviwi1iFLucp4OeR8QvBV-2BMWXpiWHwyqwbVh7Zz6LBGb-2Fhlh65A-2BGhZ7eG5Pl2IJu6qPOzPYO1g-2F-2BzLMT-2FZE9nfXc-2BpaoKUta6APGhZnHWHNJZ74Q4jCpi0GPGn-2Fi-2FiA3ywIJPyT4TG0Gqhelp13BhEj09WO0UMpwuHDBu8LO9ZOA-3D-3D" style="-webkit-text-size-adjust:none; text-decoration:underline; color:#686868">Click here</a> to view in browser
+                    </td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>

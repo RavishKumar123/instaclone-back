@@ -1,0 +1,467 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+<head>
+<meta http-equiv="Content-Type" content="text/html;" charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<link rel="stylesheet" href="https://use.typekit.net/viy7xjb.css">
+<!--[if gte mso 9]><xml><o:OfficeDocumentSettings><o:AllowPNG/><o:PixelsPerInch>96</o:PixelsPerInch></o:OfficeDocumentSettings></xml><![endif]--><style type="text/css">
+		.ReadMsgBody {
+            width: 100%;
+        }
+        .ExternalClass {
+            width: 100%;
+        }
+        .ExternalClass,
+        .ExternalClass p,
+        .ExternalClass span,
+        .ExternalClass font,
+        .ExternalClass td,
+        .ExternalClass div {
+            line-height: 100%;
+        }
+        a[x-apple-data-detectors] {
+            color: inherit !important;
+            text-decoration: none !important;
+            font-size: inherit !important;
+            font-family: inherit !important;
+            font-weight: inherit !important;
+            line-height: inherit !important;
+        }
+        img {
+            -ms-interpolation-mode: bicubic;
+			border: 0;
+            line-height: 100%;
+            outline: none;
+            text-decoration: none;
+        }
+        table {
+            border-collapse: collapse !important;
+            table-layout: fixed;
+            overflow-wrap: break-word;
+            word-wrap: break-word;
+            -ms-word-break: break-all;
+            word-break: break-word;
+        }
+        table table table {
+            table-layout: auto;
+        }
+        .img table,
+        .social table,
+        .divider table {
+            table-layout: auto;
+        }
+        body {
+            height: 100% !important;
+			margin: 0 !important;
+            padding: 0 !important;
+            width: 100% !important;
+        }
+        a[x-apple-data-detectors] {
+            color: inherit !important;
+            text-decoration: none !important;
+            font-size: inherit !important;
+            font-family: inherit !important;
+            font-weight: inherit !important;
+            line-height: inherit !important;
+        }        
+        @media only screen and (max-device-width: 640px),
+        only screen and (max-width: 640px) {
+			.mhide {
+                display: none !important;
+            }
+            .mshow {
+                display: block !important;
+                width: auto !important;
+                max-height: inherit !important;
+                overflow: visible !important;
+                float: none !important;
+            }
+            .fluid {
+                width: 100% !important;
+                height: auto !important;
+                display: table !important;
+            }
+            .cta {
+                display: block !important;
+                width: 100% !important;
+                height: auto !important;
+            }
+            .mobile-align-center td {
+                text-align: center !important;
+            }
+            .mobile-align-left td {
+                text-align: left !important;
+            }
+            .mobile-align-right td {
+                text-align: right !important;
+            }
+            .mobile-align-center img,
+            .mobile-align-left img,
+            .mobile-align-right img {
+                display: inline-block !important;
+                margin: 0;
+                vertical-align: top;
+            }
+            .Col2 div,
+            .Col4 div,
+            .Col4 div {
+                display: block !important;
+                width: 100% !important;
+                max-width: 100% !important;
+                padding: 0 !important
+            }
+            .Col4 div.half-width {
+                display: inline-block !important;
+                width: 50% !important;
+                max-width: 50% !important;
+            }
+            .dhide,
+            .dhide tr,
+            .dhide td {
+                width: 100% !important;
+                max-height: inherit !important;
+                overflow: visible !important;
+                display: block !important;
+                float: none !important;
+            }
+            .dhide {
+                display: table !important;
+                width: 100% !important;
+            }
+            .dhide tr {
+                display: table-row !important;
+            }
+            .dhide td {
+                display: table-cell !important;
+            }
+            .colsplit {
+                display: block !important;
+                width: 100% !important;
+            }
+            .resizeImg {
+                display: block !important;
+                width: 100% !important;
+                height: auto !important;
+            }
+        }
+        
+        @media only screen and (max-device-width: 550px),
+        only screen and (max-width: 550px) {
+			 .colsplit {
+                display: block !important;
+                width: 100% !important;
+            }
+       .font20 {
+                font-size: 20px !important;
+                }
+       .nostoImage {
+              width: 150px !important;
+              }
+       .nostoText {
+              width: 150px !important;
+              }
+        }
+        
+    </style>
+<!--[if mso]>
+    <style>
+    p, table, td, strong, span {font-family: Arial, Helvetica, sans-serif !important;}
+    strong {font-style: normal !important}
+    ul li {text-indent: -1em;}
+    </style>
+	<![endif]-->
+</head>
+<body style="margin:0; padding:0; min-width:100%; background-color:#ffffff">
+<div style="color:transparent;visibility:hidden;opacity:0;font-size:0px;border:0;max-height:1px;width:1px;margin:0px;padding:0px;border-width:0px!important;display:none!important;line-height:0px!important;"><img border="0" width="1" height="1" src="http://trcksp.cordial.io/q/WSafKvHr4eqVCMTkWMESGA~~/AAAAAQA~/RgRinKqlPVcHY29yZGlhbEIKYLmlJbpgD0e73FIXbWFyeXNtaXRoODU1N0BnbWFpbC5jb21YBAAAAwk~"/></div>
+
+
+<table align="center" width="100%" class="structures" cellpadding="0" cellspacing="0" border="0"><tr><td align="center">
+<!--[if(gte mso 9)|(IE)]><table align="center" width="640" cellpadding="0" cellspacing="0" border="0" style="width: 640px;"> <tr> <td width="640" align="center"><![endif]--><table width="100%" class="contentBlock" cellpadding="0" cellspacing="0" border="0" style="max-width:640px;">
+<tr><td align="" class="button-container" style="background-color:#ffffff; padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px"><table align="center" width="100%" class="structures" cellpadding="0" cellspacing="0" border="0"><tr><td align="center" style="padding-bottom:5px; padding-top:5px;"><table width="95%" border="0" cellspacing="0" cellpadding="0" align="center" style="border-collapse: collapse; margin: 0; padding: 0;"><tr><td class="mhide1" align="center"><a title="You knead these cat styles." style="font-family: arial; font-size: 10px; color:#808080;" data-crdl-variant="" target="_blank" href="https://click.p.modcloth.com/c2/1298:60b7f6772dd8a64de72bf9d5:ot:60ae82e6fdc34634d9733ef3:1/df5fbded?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE2MjI4MTIwNjksImNkIjoiLnAubW9kY2xvdGguY29tIiwiY2UiOjg2NDAwLCJ0ayI6Im1vZGMiLCJtdGxJRCI6IjYwYjdmYjRhMmRkOGE2NzZjYjJhZDIxZCIsInR6IjotNywibGlua1VybCI6Imh0dHBzOlwvXC9tb2RjbG90aC5jb21cL2NvbGxlY3Rpb25zXC9naWZ0cy1mb3ItY2F0LWxvdmVycz91dG1fY2FtcGFpZ249MjEwNjA0X0NhdEh1Z0RheV8zMHBjdE9mZlRvcHNfY29yZGlhbCZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9zb3VyY2U9cHJvbW8mdXRtX2NvbnRlbnQ9Y2F0ZWdvcnlfMzAmdXRtX3Rlcm09SVBXLURheTEyIn0&jwtS=XMUF1X5La2X2OSDbung9naz3jVaOoVhBUdrN7yJArA0">You knead these cat styles.</a></td></tr></table></td></tr></table></td></tr>
+<tr><td align="center"><table align="center" width="100%" cellpadding="0" cellspacing="0" border="0" style="max-width:640px;">
+<tr><td align="center" style="background-color:#ffffff; padding-top: 15px; padding-bottom: 30px"><table align="center" width="100%" cellpadding="0" cellspacing="0" border="0"><tr class=".img"><td align="center"><a title="ModCloth" data-crdl-variant="" href="https://click.p.modcloth.com/c2/1298:60b7f6772dd8a64de72bf9d5:ot:60ae82e6fdc34634d9733ef3:1/0447ad3a?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE2MjI4MTIwNjksImNkIjoiLnAubW9kY2xvdGguY29tIiwiY2UiOjg2NDAwLCJ0ayI6Im1vZGMiLCJtdGxJRCI6IjYwYjdmYjRhMmRkOGE2NzZjYjJhZDIxZSIsInR6IjotNywibGlua1VybCI6Imh0dHBzOlwvXC93d3cubW9kY2xvdGguY29tXC8_dXRtX2NhbXBhaWduPTIxMDYwNF9DYXRIdWdEYXlfMzBwY3RPZmZUb3BzX2NvcmRpYWwmdXRtX21lZGl1bT1lbWFpbCZ1dG1fc291cmNlPXByb21vJnV0bV9jb250ZW50PWNhdGVnb3J5XzMwJnV0bV90ZXJtPUlQVy1EYXkxMiJ9&jwtS=gQe3Bxhu7iyE6KsD-HGKntRpzkKDLwuqd8diyBJA0tc"><img src="http://campaigns.brandedonline.com/MODC/template/modcloth-logo.png" alt="ModCloth" style="display:block; margin: 0 auto; width: 100%; max-width: 180px; border:0px;" width="180" height="32"></a></td></tr></table></td></tr>
+<tr><td align="center" style="background-color:#ffffff; padding-bottom:15px;"><table align="center" width="100%" cellpadding="0" cellspacing="0" border="0" style="max-width:250px;"><tr>
+<td style="vertical-align:middle;font-family:FuturaPTWeb,Arial,sans-serif;font-size:12px;line-height:18px;color:#767676;text-align:center;"><a title="New" data-crdl-variant="" style="display: block; margin:0 auto; font-family:FuturaPTWeb,Arial,sans-serif;font-size:12px;color:#767676;letter-spacing:3px;text-decoration:none;" href="https://click.p.modcloth.com/c2/1298:60b7f6772dd8a64de72bf9d5:ot:60ae82e6fdc34634d9733ef3:1/a256213a?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE2MjI4MTIwNjksImNkIjoiLnAubW9kY2xvdGguY29tIiwiY2UiOjg2NDAwLCJ0ayI6Im1vZGMiLCJtdGxJRCI6IjYwYjdmYjRhMmRkOGE2NzZjYjJhZDIxZiIsInR6IjotNywibGlua1VybCI6Imh0dHBzOlwvXC93d3cubW9kY2xvdGguY29tXC9zaG9wXC9uZXdhcnJpdmFscz91dG1fY2FtcGFpZ249MjEwNjA0X0NhdEh1Z0RheV8zMHBjdE9mZlRvcHNfY29yZGlhbCZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9zb3VyY2U9cHJvbW8mdXRtX2NvbnRlbnQ9Y2F0ZWdvcnlfMzAmdXRtX3Rlcm09SVBXLURheTEyIn0&jwtS=bcD_3qnRdPeGWqZ4mOogmLfYWlkPDgeLTyDLy1lwRVY">NEW</a></td>
+<td style="vertical-align:middle;font-family:FuturaPTWeb,Arial,sans-serif;font-size:12px;line-height:18px;color:#767676;text-align:center;"><a title="Dresses" data-crdl-variant="" style="display: block; margin:0 auto; font-family:FuturaPTWeb,Arial,sans-serif;font-size:12px;color:#767676;letter-spacing:3px;text-decoration:none;" href="https://click.p.modcloth.com/c2/1298:60b7f6772dd8a64de72bf9d5:ot:60ae82e6fdc34634d9733ef3:1/c6ed020b?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE2MjI4MTIwNjksImNkIjoiLnAubW9kY2xvdGguY29tIiwiY2UiOjg2NDAwLCJ0ayI6Im1vZGMiLCJtdGxJRCI6IjYwYjdmYjRhMmRkOGE2NzZjYjJhZDIyMCIsInR6IjotNywibGlua1VybCI6Imh0dHBzOlwvXC93d3cubW9kY2xvdGguY29tXC9zaG9wXC9kcmVzc2VzP3V0bV9jYW1wYWlnbj0yMTA2MDRfQ2F0SHVnRGF5XzMwcGN0T2ZmVG9wc19jb3JkaWFsJnV0bV9tZWRpdW09ZW1haWwmdXRtX3NvdXJjZT1wcm9tbyZ1dG1fY29udGVudD1jYXRlZ29yeV8zMCZ1dG1fdGVybT1JUFctRGF5MTIifQ&jwtS=kNjP5y6uNspFyRtBisIwPQfyYNATsWOVY8TIMiTzKXA">DRESSES</a></td>
+<td style="vertical-align:middle;font-family:FuturaPTWeb,Arial,sans-serif;font-size:12px;line-height:18px;color:#767676;text-align:center;"><a title="Sale" data-crdl-variant="" style="display: block; margin:0 auto; font-family:FuturaPTWeb,Arial,sans-serif;font-size:12px;color:#767676;letter-spacing:3px;text-decoration:none;" href="https://click.p.modcloth.com/c2/1298:60b7f6772dd8a64de72bf9d5:ot:60ae82e6fdc34634d9733ef3:1/57660ba1?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE2MjI4MTIwNjksImNkIjoiLnAubW9kY2xvdGguY29tIiwiY2UiOjg2NDAwLCJ0ayI6Im1vZGMiLCJtdGxJRCI6IjYwYjdmYjRhMmRkOGE2NzZjYjJhZDIyMSIsInR6IjotNywibGlua1VybCI6Imh0dHBzOlwvXC93d3cubW9kY2xvdGguY29tXC9zaG9wXC9zYWxlP3V0bV9jYW1wYWlnbj0yMTA2MDRfQ2F0SHVnRGF5XzMwcGN0T2ZmVG9wc19jb3JkaWFsJnV0bV9tZWRpdW09ZW1haWwmdXRtX3NvdXJjZT1wcm9tbyZ1dG1fY29udGVudD1jYXRlZ29yeV8zMCZ1dG1fdGVybT1JUFctRGF5MTIifQ&jwtS=hcwLO3-pt705X60u2mbjku_k26hGP_bdEassSG-ps44">SALE</a></td>
+</tr></table></td></tr>
+</table></td></tr>
+</table>
+<!--[if(gte mso 9)|(IE)]></td> </tr> </table><![endif]-->
+</td></tr></table>
+<table align="center" width="100%" cellpadding="0" cellspacing="0" border="0"><tr>
+<td>
+<div><table align="center" width="640" class="block_settings fluid" cellpadding="0" cellspacing="0" border="0"><tr><td align="center" style="background-color:#ffffff; padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px">
+<!--[if(gte mso 9)|(IE)]><table align="center" width="640" cellpadding="0" cellspacing="0" border="0" style="width: ;"> <tr> <td width="640" align="center"><![endif]--><table width="100%" cellpadding="0" cellspacing="0" border="0" style="max-width:640px;"><tr><td align="center" style="background-color:#ffffff; padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px"><table align="center" width="100%" cellpadding="0" cellspacing="0" border="0"><tr class=".img"><td align="center"><a data-crdl-variant="" title="It's The Most Spec-cat-ular Day of the Year!" target="_blank" href="https://click.p.modcloth.com/c2/1298:60b7f6772dd8a64de72bf9d5:ot:60ae82e6fdc34634d9733ef3:1/638808cf?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE2MjI4MTIwNjksImNkIjoiLnAubW9kY2xvdGguY29tIiwiY2UiOjg2NDAwLCJ0ayI6Im1vZGMiLCJtdGxJRCI6IjYwYjdmYjRhMmRkOGE2NzZjYjJhZDIyMiIsInR6IjotNywibGlua1VybCI6Imh0dHBzOlwvXC9tb2RjbG90aC5jb21cL2NvbGxlY3Rpb25zXC9naWZ0cy1mb3ItY2F0LWxvdmVycz91dG1fY2FtcGFpZ249MjEwNjA0X0NhdEh1Z0RheV8zMHBjdE9mZlRvcHNfY29yZGlhbCZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9zb3VyY2U9cHJvbW8mdXRtX2NvbnRlbnQ9Y2F0ZWdvcnlfMzAmdXRtX3Rlcm09SVBXLURheTEyIn0&jwtS=wuVv71QIDuslrXSfPUVK58BkP5gpZsNRRETsW9Aa698"><img src="http://campaigns.brandedonline.com/MODC/email/2021/06-June/CMODC-175-hug_your_cat_day-email_01.gif" alt="It's The Most Spec-cat-ular Day of the Year!" style="display:block; margin: 0 auto; width: 100%; max-width: 640px;border:0px;" width="640"></a></td></tr></table></td></tr></table>
+<!--[if(gte mso 9)|(IE)]></td> </tr> </table><![endif]-->
+</td></tr></table></div>
+            </td>
+        </tr></table>
+<table align="center" class="fluid" cellpadding="0" cellspacing="0" border="0" width="640" style="border-collapse:collapse; background-color:#ffffff;"><tr>
+<td align="center" bgcolor="#FFDEDE" style="padding:0px !important;">
+        	<table align="center" class="fluid" cellpadding="0" cellspacing="0" border="0" width="640" style="border-collapse:collapse; background-color:#FFDEDE;">
+<tr>
+<td align="center" valign="top" style="padding:0px !important;">
+                    	<a title="ModCloth x Collectif Rainbow Candies and Kitties Cardigan" data-crdl-variant="" target="_blank" href="https://click.p.modcloth.com/c2/1298:60b7f6772dd8a64de72bf9d5:ot:60ae82e6fdc34634d9733ef3:1/c9486a74?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE2MjI4MTIwNjksImNkIjoiLnAubW9kY2xvdGguY29tIiwiY2UiOjg2NDAwLCJ0ayI6Im1vZGMiLCJtdGxJRCI6IjYwYjdmYjRhMmRkOGE2NzZjYjJhZDIyMyIsInR6IjotNywibGlua1VybCI6Imh0dHBzOlwvXC9tb2RjbG90aC5jb21cL2NvbGxlY3Rpb25zXC9naWZ0cy1mb3ItY2F0LWxvdmVyc1wvcHJvZHVjdHNcL21vZGNsb3RoLXgtY29sbGVjdGlmLXJhaW5ib3ctY2FuZGllcy1hbmQta2l0dGllcy1jYXJkaWdhbi1ibHVlP3V0bV9jYW1wYWlnbj0yMTA2MDRfQ2F0SHVnRGF5XzMwcGN0T2ZmVG9wc19jb3JkaWFsJnV0bV9tZWRpdW09ZW1haWwmdXRtX3NvdXJjZT1wcm9tbyZ1dG1fY29udGVudD1jYXRlZ29yeV8zMCZ1dG1fdGVybT1JUFctRGF5MTIifQ&jwtS=afpCBkJFok3Bjzo0S2BmFdmADtENBL1hltUy_yvqow4"><img src="http://campaigns.brandedonline.com/MODC/email/2021/06-June/CMODC-175-hug_your_cat_day-email_02.gif" alt="ModCloth x Collectif Rainbow Candies and Kitties Cardigan" class="resizeImg" width="213" height="305" border="0" style="display:block; margin:0 auto;"></a>
+                    </td>
+                    <td align="center" valign="top" style="padding:0px !important;">
+                    	<a title="ModCloth x Collectif Rainbow Sky Kittens Swing Skirt" data-crdl-variant="" target="_blank" href="https://click.p.modcloth.com/c2/1298:60b7f6772dd8a64de72bf9d5:ot:60ae82e6fdc34634d9733ef3:1/db8a660c?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE2MjI4MTIwNjksImNkIjoiLnAubW9kY2xvdGguY29tIiwiY2UiOjg2NDAwLCJ0ayI6Im1vZGMiLCJtdGxJRCI6IjYwYjdmYjRhMmRkOGE2NzZjYjJhZDIyNCIsInR6IjotNywibGlua1VybCI6Imh0dHBzOlwvXC9tb2RjbG90aC5jb21cL2NvbGxlY3Rpb25zXC9naWZ0cy1mb3ItY2F0LWxvdmVyc1wvcHJvZHVjdHNcL21vZGNsb3RoLXgtY29sbGVjdGlmLXJhaW5ib3ctc2t5LWtpdHRlbnMtc3dpbmctc2tpcnQtbXVsdGk_dXRtX2NhbXBhaWduPTIxMDYwNF9DYXRIdWdEYXlfMzBwY3RPZmZUb3BzX2NvcmRpYWwmdXRtX21lZGl1bT1lbWFpbCZ1dG1fc291cmNlPXByb21vJnV0bV9jb250ZW50PWNhdGVnb3J5XzMwJnV0bV90ZXJtPUlQVy1EYXkxMiJ9&jwtS=Gfnf3TG2jnO1YIeo-KlkA2-CxzYQWkSVqTllzYzcFtc"><img src="http://campaigns.brandedonline.com/MODC/email/2021/06-June/CMODC-175-hug_your_cat_day-email_03.jpg" alt="ModCloth x Collectif Rainbow Sky Kittens Swing Skirt" class="resizeImg" width="213" height="305" border="0" style="display:block; margin:0 auto;"></a>
+                    </td>
+                    <td align="center" valign="top" style="padding:0px !important;">
+                    	<a title="One Keen Kitty Graphic Tank Top" data-crdl-variant="" target="_blank" href="https://click.p.modcloth.com/c2/1298:60b7f6772dd8a64de72bf9d5:ot:60ae82e6fdc34634d9733ef3:1/f90daa97?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE2MjI4MTIwNjksImNkIjoiLnAubW9kY2xvdGguY29tIiwiY2UiOjg2NDAwLCJ0ayI6Im1vZGMiLCJtdGxJRCI6IjYwYjdmYjRhMmRkOGE2NzZjYjJhZDIyNSIsInR6IjotNywibGlua1VybCI6Imh0dHBzOlwvXC9tb2RjbG90aC5jb21cL2NvbGxlY3Rpb25zXC9naWZ0cy1mb3ItY2F0LWxvdmVyc1wvcHJvZHVjdHNcL29uZS1rZWVuLWtpdHR5LWdyYXBoaWMtdGFuay10b3AtbmF2eT91dG1fY2FtcGFpZ249MjEwNjA0X0NhdEh1Z0RheV8zMHBjdE9mZlRvcHNfY29yZGlhbCZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9zb3VyY2U9cHJvbW8mdXRtX2NvbnRlbnQ9Y2F0ZWdvcnlfMzAmdXRtX3Rlcm09SVBXLURheTEyIn0&jwtS=OZXhqUS74XmrFBemqj5YjfcZYaCrDTPiUsKKnudzcYQ"><img src="http://campaigns.brandedonline.com/MODC/email/2021/06-June/CMODC-175-hug_your_cat_day-email_04.jpg" alt="One Keen Kitty Graphic Tank Top" class="resizeImg" width="214" height="305" border="0" style="display:block; margin:0 auto;"></a>
+                    </td>                    
+                </tr>
+<tr>
+<td align="center" valign="top" style="padding:0px !important;">
+                    	<a title="A Little Love Bite Graphic Sweatshirt" data-crdl-variant="" target="_blank" href="https://click.p.modcloth.com/c2/1298:60b7f6772dd8a64de72bf9d5:ot:60ae82e6fdc34634d9733ef3:1/b05b6700?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE2MjI4MTIwNjksImNkIjoiLnAubW9kY2xvdGguY29tIiwiY2UiOjg2NDAwLCJ0ayI6Im1vZGMiLCJtdGxJRCI6IjYwYjdmYjRhMmRkOGE2NzZjYjJhZDIyNiIsInR6IjotNywibGlua1VybCI6Imh0dHBzOlwvXC9tb2RjbG90aC5jb21cL2NvbGxlY3Rpb25zXC9naWZ0cy1mb3ItY2F0LWxvdmVyc1wvcHJvZHVjdHNcL2EtbGl0dGxlLWxvdmUtYml0ZS1ncmFwaGljLXN3ZWF0c2hpcnQtZ3JleT91dG1fY2FtcGFpZ249MjEwNjA0X0NhdEh1Z0RheV8zMHBjdE9mZlRvcHNfY29yZGlhbCZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9zb3VyY2U9cHJvbW8mdXRtX2NvbnRlbnQ9Y2F0ZWdvcnlfMzAmdXRtX3Rlcm09SVBXLURheTEyIn0&jwtS=n4HNyE32cE6SU-Pmv283Lw0GX1LMitRlcw0QiGY7nNk"><img src="http://campaigns.brandedonline.com/MODC/email/2021/06-June/CMODC-175-hug_your_cat_day-email_05.jpg" alt="A Little Love Bite Graphic Sweatshirt" class="resizeImg" width="213" height="305" border="0" style="display:block; margin:0 auto;"></a>
+                    </td>
+                    <td align="center" valign="top" style="padding:0px !important;">
+                    	<a title="Playtime Kitten Stud Earrings" data-crdl-variant="" target="_blank" href="https://click.p.modcloth.com/c2/1298:60b7f6772dd8a64de72bf9d5:ot:60ae82e6fdc34634d9733ef3:1/933eefd4?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE2MjI4MTIwNjksImNkIjoiLnAubW9kY2xvdGguY29tIiwiY2UiOjg2NDAwLCJ0ayI6Im1vZGMiLCJtdGxJRCI6IjYwYjdmYjRhMmRkOGE2NzZjYjJhZDIyNyIsInR6IjotNywibGlua1VybCI6Imh0dHBzOlwvXC9tb2RjbG90aC5jb21cL2NvbGxlY3Rpb25zXC9naWZ0cy1mb3ItY2F0LWxvdmVyc1wvcHJvZHVjdHNcL3BsYXl0aW1lLWtpdHRlbi1zdHVkLWVhcnJpbmdzLXBpbms_dXRtX2NhbXBhaWduPTIxMDYwNF9DYXRIdWdEYXlfMzBwY3RPZmZUb3BzX2NvcmRpYWwmdXRtX21lZGl1bT1lbWFpbCZ1dG1fc291cmNlPXByb21vJnV0bV9jb250ZW50PWNhdGVnb3J5XzMwJnV0bV90ZXJtPUlQVy1EYXkxMiJ9&jwtS=DxnSmBA7LIEWC3mMztNtqY8NzJe72dcpG0daUBoROG8"><img src="http://campaigns.brandedonline.com/MODC/email/2021/06-June/CMODC-175-hug_your_cat_day-email_06.jpg" alt="Playtime Kitten Stud Earrings" class="resizeImg" width="213" height="305" border="0" style="display:block; margin:0 auto;"></a>
+                    </td>
+                    <td align="center" valign="top" style="padding:0px !important;">
+                    	<a title="Nimbus and Nebula Kitties Babydoll Dress" data-crdl-variant="" target="_blank" href="https://click.p.modcloth.com/c2/1298:60b7f6772dd8a64de72bf9d5:ot:60ae82e6fdc34634d9733ef3:1/7d6994a4?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE2MjI4MTIwNjksImNkIjoiLnAubW9kY2xvdGguY29tIiwiY2UiOjg2NDAwLCJ0ayI6Im1vZGMiLCJtdGxJRCI6IjYwYjdmYjRhMmRkOGE2NzZjYjJhZDIyOCIsInR6IjotNywibGlua1VybCI6Imh0dHBzOlwvXC9tb2RjbG90aC5jb21cL2NvbGxlY3Rpb25zXC9naWZ0cy1mb3ItY2F0LWxvdmVyc1wvcHJvZHVjdHNcL25pbWJ1cy1hbmQtbmVidWxhLWtpdHRpZXMtYmFieWRvbGwtZHJlc3MtYmxhY2s_dXRtX2NhbXBhaWduPTIxMDYwNF9DYXRIdWdEYXlfMzBwY3RPZmZUb3BzX2NvcmRpYWwmdXRtX21lZGl1bT1lbWFpbCZ1dG1fc291cmNlPXByb21vJnV0bV9jb250ZW50PWNhdGVnb3J5XzMwJnV0bV90ZXJtPUlQVy1EYXkxMiJ9&jwtS=WR6pXgyCTilTXcA9KndD278yBik52FnDRXCVgT2kF8Q"><img src="http://campaigns.brandedonline.com/MODC/email/2021/06-June/CMODC-175-hug_your_cat_day-email_07.jpg" alt="Nimbus and Nebula Kitties Babydoll Dress" class="resizeImg" width="214" height="305" border="0" style="display:block; margin:0 auto;"></a>
+                    </td>                    
+                </tr>
+<tr>
+<td align="center" valign="top" style="padding:0px !important;">
+                    	<a title="Meow for Measuring Cups" data-crdl-variant="" target="_blank" href="https://click.p.modcloth.com/c2/1298:60b7f6772dd8a64de72bf9d5:ot:60ae82e6fdc34634d9733ef3:1/06f3ac56?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE2MjI4MTIwNjksImNkIjoiLnAubW9kY2xvdGguY29tIiwiY2UiOjg2NDAwLCJ0ayI6Im1vZGMiLCJtdGxJRCI6IjYwYjdmYjRhMmRkOGE2NzZjYjJhZDIyOSIsInR6IjotNywibGlua1VybCI6Imh0dHBzOlwvXC9tb2RjbG90aC5jb21cL2NvbGxlY3Rpb25zXC9naWZ0cy1mb3ItY2F0LWxvdmVyc1wvcHJvZHVjdHNcL21lb3ctZm9yLW1lYXN1cmluZy1jdXBzLW11bHRpP3V0bV9jYW1wYWlnbj0yMTA2MDRfQ2F0SHVnRGF5XzMwcGN0T2ZmVG9wc19jb3JkaWFsJnV0bV9tZWRpdW09ZW1haWwmdXRtX3NvdXJjZT1wcm9tbyZ1dG1fY29udGVudD1jYXRlZ29yeV8zMCZ1dG1fdGVybT1JUFctRGF5MTIifQ&jwtS=N2sUu5oErLJ8wprkcR5dLeps-HUO-J_F4xIiscTimSM"><img src="http://campaigns.brandedonline.com/MODC/email/2021/06-June/CMODC-175-hug_your_cat_day-email_08.jpg" alt="Meow for Measuring Cups" class="resizeImg" width="213" height="305" border="0" style="display:block; margin:0 auto;"></a>
+                    </td>
+                    <td align="center" valign="top" style="padding:0px !important;">
+                    	<a title="All Eyes on Me-ow Wallet" data-crdl-variant="" target="_blank" href="https://click.p.modcloth.com/c2/1298:60b7f6772dd8a64de72bf9d5:ot:60ae82e6fdc34634d9733ef3:1/10cabdfc?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE2MjI4MTIwNjksImNkIjoiLnAubW9kY2xvdGguY29tIiwiY2UiOjg2NDAwLCJ0ayI6Im1vZGMiLCJtdGxJRCI6IjYwYjdmYjRhMmRkOGE2NzZjYjJhZDIyYSIsInR6IjotNywibGlua1VybCI6Imh0dHBzOlwvXC9tb2RjbG90aC5jb21cL2NvbGxlY3Rpb25zXC9naWZ0cy1mb3ItY2F0LWxvdmVyc1wvcHJvZHVjdHNcL2FsbC1leWVzLW9uLW1lLW93LXdhbGxldC1ncmVlbj91dG1fY2FtcGFpZ249MjEwNjA0X0NhdEh1Z0RheV8zMHBjdE9mZlRvcHNfY29yZGlhbCZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9zb3VyY2U9cHJvbW8mdXRtX2NvbnRlbnQ9Y2F0ZWdvcnlfMzAmdXRtX3Rlcm09SVBXLURheTEyIn0&jwtS=mJNVRB7mmf5HX3G6jqaHhs-V16fJxtWa48sktkvQQVA"><img src="http://campaigns.brandedonline.com/MODC/email/2021/06-June/CMODC-175-hug_your_cat_day-email_09.gif" alt="All Eyes on Me-ow Wallet" class="resizeImg" width="213" height="305" border="0" style="display:block; margin:0 auto;"></a>
+                    </td>
+                    <td align="center" valign="top" style="padding:0px !important;">
+                    	<a title="Cheers to the Cutest Companions Coasters" data-crdl-variant="" target="_blank" href="https://click.p.modcloth.com/c2/1298:60b7f6772dd8a64de72bf9d5:ot:60ae82e6fdc34634d9733ef3:1/6bd5348e?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE2MjI4MTIwNjksImNkIjoiLnAubW9kY2xvdGguY29tIiwiY2UiOjg2NDAwLCJ0ayI6Im1vZGMiLCJtdGxJRCI6IjYwYjdmYjRhMmRkOGE2NzZjYjJhZDIyYiIsInR6IjotNywibGlua1VybCI6Imh0dHBzOlwvXC9tb2RjbG90aC5jb21cL2NvbGxlY3Rpb25zXC9naWZ0cy1mb3ItY2F0LWxvdmVyc1wvcHJvZHVjdHNcL2NoZWVycy10by10aGUtY3V0ZXN0LWNvbXBhbmlvbnMtY29hc3RlcnMtZ3JleT91dG1fY2FtcGFpZ249MjEwNjA0X0NhdEh1Z0RheV8zMHBjdE9mZlRvcHNfY29yZGlhbCZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9zb3VyY2U9cHJvbW8mdXRtX2NvbnRlbnQ9Y2F0ZWdvcnlfMzAmdXRtX3Rlcm09SVBXLURheTEyIn0&jwtS=2SHsMzovorzdh9tU-7SRZzeyj4xRWqGW-dtItU1UWEQ"><img src="http://campaigns.brandedonline.com/MODC/email/2021/06-June/CMODC-175-hug_your_cat_day-email_10.jpg" alt="Cheers to the Cutest Companions Coasters" class="resizeImg" width="213" height="305" border="0" style="display:block; margin:0 auto;"></a>
+                    </td>                    
+                </tr>
+</table>
+</td>
+    </tr></table>
+<table align="center" width="100%" cellpadding="0" cellspacing="0" border="0"><tr>
+<td>
+            <div><table align="center" width="640" class="block_settings fluid" cellpadding="0" cellspacing="0" border="0"><tr><td align="center" style="background-color:#ffffff; padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px">
+<!--[if(gte mso 9)|(IE)]><table align="center" width="640" cellpadding="0" cellspacing="0" border="0" style="width: ;"> <tr> <td width="640" align="center"><![endif]--><table width="100%" cellpadding="0" cellspacing="0" border="0" style="max-width:640px;"><tr><td align="center" style="background-color:#ffffff; padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px"><table align="center" width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr class=".img"><td align="center"><a data-crdl-variant="" title="Shop Cat Styles" target="_blank" href="https://click.p.modcloth.com/c2/1298:60b7f6772dd8a64de72bf9d5:ot:60ae82e6fdc34634d9733ef3:1/7e76e22c?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE2MjI4MTIwNjksImNkIjoiLnAubW9kY2xvdGguY29tIiwiY2UiOjg2NDAwLCJ0ayI6Im1vZGMiLCJtdGxJRCI6IjYwYjdmYjRhMmRkOGE2NzZjYjJhZDIyYyIsInR6IjotNywibGlua1VybCI6Imh0dHBzOlwvXC9tb2RjbG90aC5jb21cL2NvbGxlY3Rpb25zXC9naWZ0cy1mb3ItY2F0LWxvdmVycz91dG1fY2FtcGFpZ249MjEwNjA0X0NhdEh1Z0RheV8zMHBjdE9mZlRvcHNfY29yZGlhbCZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9zb3VyY2U9cHJvbW8mdXRtX2NvbnRlbnQ9Y2F0ZWdvcnlfMzAmdXRtX3Rlcm09SVBXLURheTEyIn0&jwtS=qUDQAnmsH72q9hunMUQkwF8DG6LMnncIw9YS6bxbWjA"><img src="http://campaigns.brandedonline.com/MODC/email/2021/06-June/CMODC-175-hug_your_cat_day-email_11.png" alt="Shop Cat Styles" style="display:block; margin: 0 auto; width: 100%; max-width: 640px;border:0px;" width="640"></a></td></tr>
+<tr class=".img"><td align="center"><a data-crdl-variant="" title="Summer Sale Fest | June 3-4: 30% Off All Tops" target="_blank" href="https://click.p.modcloth.com/c2/1298:60b7f6772dd8a64de72bf9d5:ot:60ae82e6fdc34634d9733ef3:1/4b04b9b0?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE2MjI4MTIwNjksImNkIjoiLnAubW9kY2xvdGguY29tIiwiY2UiOjg2NDAwLCJ0ayI6Im1vZGMiLCJtdGxJRCI6IjYwYjdmYjRhMmRkOGE2NzZjYjJhZDIyZCIsInR6IjotNywibGlua1VybCI6Imh0dHBzOlwvXC9tb2RjbG90aC5jb21cL2NvbGxlY3Rpb25zXC90b3BzP3V0bV9jYW1wYWlnbj0yMTA2MDRfQ2F0SHVnRGF5XzMwcGN0T2ZmVG9wc19jb3JkaWFsJnV0bV9tZWRpdW09ZW1haWwmdXRtX3NvdXJjZT1wcm9tbyZ1dG1fY29udGVudD1jYXRlZ29yeV8zMCZ1dG1fdGVybT1JUFctRGF5MTIifQ&jwtS=V1n9P50GOXjNfRfUXA7DRRmaOJM-JtXrp4ULJAdAV7k"><img src="http://campaigns.brandedonline.com/MODC/email/2021/06-June/Artboard%202_updated.jpg" alt="Summer Sale Fest | June 3-4: 30% Off All Tops" style="display:block; margin: 0 auto; width: 100%; max-width: 640px;border:0px;" width="640"></a></td></tr>
+</table></td></tr></table>
+<!--[if(gte mso 9)|(IE)]></td> </tr> </table><![endif]-->
+</td></tr></table></div>
+</td>
+        </tr></table>
+<table align="center" width="100%" class="structures" cellpadding="0" cellspacing="0" border="0"><tr>
+<td align="center">
+            <!--[if(gte mso 9)|(IE)]><table align="center" width="640" cellpadding="0" cellspacing="0" border="0" style="width: 640px;"> <tr> <td width="640" align="center"><![endif]-->
+            <table width="100%" class="contentBlock" cellpadding="0" cellspacing="0" border="0" style="max-width:640px;"><tr>
+<td align="" class="button-container" style="background-color:#ffffff; padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px">
+            
+            
+           
+            
+            
+            <table align="center" border="0" cellpadding="10" cellspacing="0" width="100%">
+<tr>
+<td align="center" style="padding:0px !important;">
+                        	<table align="center" cellpadding="0" cellspacing="0" width="95%" style="border-collapse:collapse; background-color:#ffffff;">
+<tr>
+<td align="center" height="10"></td>
+                                </tr>
+<tr>
+<td align="center" style="border-bottom:5px dotted #EBEBEB;"></td>
+                                </tr>
+<tr>
+<td align="center" height="10"></td>
+                                </tr>
+</table>
+</td>
+                    </tr>
+<table class="fluid" width="640px" border="0" align="center" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
+<tr>
+<td class="headertxt" align="center" valign="middle">
+										<h2 style="font-family: Arial; font-size: 24px; font-weight: normal; text-align: center; color: #000000; text-decoration: none; font-style: normal; padding: 20px 0 20px 0 !important; margin: 0 !important;">Recommended for you</h2>
+                                     </td>
+                                </tr>
+<tr>
+<td align="center" valign="top">
+                                        <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" style="border-collapse: collapse;"><tr>
+<td class="colsplit" width="50%" align="center" valign="top" style="padding-bottom:20px">
+                                                    <table class="Mwidth" width="100%" border="0" align="center" cellpadding="0" cellspacing="0" style="border-collapse: collapse;"><tr>
+<td width="50%" align="center" valign="top">
+                                                                <table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse: collapse" align="center">
+<tr>
+<td align="center" valign="top">
+                                                                             <a https: data-crdl-variant="" style="color: #2ba6cb; text-decoration: none;" href="https://click.p.modcloth.com/c2/1298:60b7f6772dd8a64de72bf9d5:ot:60ae82e6fdc34634d9733ef3:1/9c8c04a2?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE2MjI4MTIwNjksImNkIjoiLnAubW9kY2xvdGguY29tIiwiY2UiOjg2NDAwLCJ0ayI6Im1vZGMiLCJtdGxJRCI6IjYwYjdmYjRhMmRkOGE2NzZjYjJhZDIyZSIsInR6IjotNywibGlua1VybCI6Imh0dHBzOlwvXC9jb25uZWN0Lm5vc3RvLmNvbVwvaW1hZ2VcL3YxXC9zaG9waWZ5LTU1OTA2MDQyMDI3XC8xZWJiYjM3YjgyNGYzOWY3ZmE2NzI4Zjk5OGQ3Y2VlNWJmM2Q2MGUwXC8xXC9nbz91aWQ9bWFyeXNtaXRoODU1N0BnbWFpbC5jb20mdmVyc2lvbj0yLjEuMCZ1dG1fY2FtcGFpZ249MjEwNjA0X0NhdEh1Z0RheV8zMHBjdE9mZlRvcHNfY29yZGlhbCZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9zb3VyY2U9cHJvbW8mdXRtX2NvbnRlbnQ9Y2F0ZWdvcnlfMzAmdXRtX3Rlcm09SVBXLURheTEyIn0&jwtS=MyPoRUws-YSS9kFRXU11AkO7HR7sj5gY4SCJ0JA6OvE"><img border="0" class="nostoImage" width="142" src="https://connect.nosto.com/image/v1/shopify-55906042027/1ebbb37b824f39f7fa6728f998d7cee5bf3d60e0/1?uid=marysmith8557@gmail.com&amp;version=2.1.0" alt="" style="-ms-interpolation-mode: bicubic; max-width: 150px; display: block; margin: 0 auto;" align="none"></a>
+                                                                        </td>
+                                                                    </tr>
+<tr>
+<td align="center" valign="top">
+                                                                           <a https: data-crdl-variant="" style="color: #2ba6cb; text-decoration: none;" href="https://click.p.modcloth.com/c2/1298:60b7f6772dd8a64de72bf9d5:ot:60ae82e6fdc34634d9733ef3:1/9c8c04a2?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE2MjI4MTIwNjksImNkIjoiLnAubW9kY2xvdGguY29tIiwiY2UiOjg2NDAwLCJ0ayI6Im1vZGMiLCJtdGxJRCI6IjYwYjdmYjRhMmRkOGE2NzZjYjJhZDIyZSIsInR6IjotNywibGlua1VybCI6Imh0dHBzOlwvXC9jb25uZWN0Lm5vc3RvLmNvbVwvaW1hZ2VcL3YxXC9zaG9waWZ5LTU1OTA2MDQyMDI3XC8xZWJiYjM3YjgyNGYzOWY3ZmE2NzI4Zjk5OGQ3Y2VlNWJmM2Q2MGUwXC8xXC9nbz91aWQ9bWFyeXNtaXRoODU1N0BnbWFpbC5jb20mdmVyc2lvbj0yLjEuMCZ1dG1fY2FtcGFpZ249MjEwNjA0X0NhdEh1Z0RheV8zMHBjdE9mZlRvcHNfY29yZGlhbCZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9zb3VyY2U9cHJvbW8mdXRtX2NvbnRlbnQ9Y2F0ZWdvcnlfMzAmdXRtX3Rlcm09SVBXLURheTEyIn0&jwtS=MyPoRUws-YSS9kFRXU11AkO7HR7sj5gY4SCJ0JA6OvE"><img border="0" class="nostoText" width="142" src="https://connect.nosto.com/image/v1/shopify-55906042027/1ebbb37b824f39f7fa6728f998d7cee5bf3d60e0/1/desc?uid=marysmith8557@gmail.com&amp;version=2.1.0" alt="" style="-ms-interpolation-mode: bicubic; max-width: 140px; display: block; margin: 0 auto" align="none"></a>
+                                                                        </td>
+                                                                    </tr>
+</table>
+</td>
+                                                            <td width="50%" align="center" valign="top">
+                                                                <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
+<tr>
+<td align="center" valign="top">
+                                                                           <a https: data-crdl-variant="" style="color: #2ba6cb; text-decoration: none;" href="https://click.p.modcloth.com/c2/1298:60b7f6772dd8a64de72bf9d5:ot:60ae82e6fdc34634d9733ef3:1/d1fd049a?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE2MjI4MTIwNjksImNkIjoiLnAubW9kY2xvdGguY29tIiwiY2UiOjg2NDAwLCJ0ayI6Im1vZGMiLCJtdGxJRCI6IjYwYjdmYjRhMmRkOGE2NzZjYjJhZDIyZiIsInR6IjotNywibGlua1VybCI6Imh0dHBzOlwvXC9jb25uZWN0Lm5vc3RvLmNvbVwvaW1hZ2VcL3YxXC9zaG9waWZ5LTU1OTA2MDQyMDI3XC8xZWJiYjM3YjgyNGYzOWY3ZmE2NzI4Zjk5OGQ3Y2VlNWJmM2Q2MGUwXC8yXC9nbz91aWQ9bWFyeXNtaXRoODU1N0BnbWFpbC5jb20mdmVyc2lvbj0yLjEuMCZ1dG1fY2FtcGFpZ249MjEwNjA0X0NhdEh1Z0RheV8zMHBjdE9mZlRvcHNfY29yZGlhbCZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9zb3VyY2U9cHJvbW8mdXRtX2NvbnRlbnQ9Y2F0ZWdvcnlfMzAmdXRtX3Rlcm09SVBXLURheTEyIn0&jwtS=cjtJYlHYxtba1nR47ZSNYfAPGRmd9v459vCrpVNqkwo"><img border="0" class="nostoImage" width="142" src="https://connect.nosto.com/image/v1/shopify-55906042027/1ebbb37b824f39f7fa6728f998d7cee5bf3d60e0/2?uid=marysmith8557@gmail.com&amp;version=2.1.0" alt="" style="-ms-interpolation-mode: bicubic; max-width: 150px; display: block; margin: 0 auto;" align="none"></a>
+                                                                        </td>
+                                                                    </tr>
+<tr>
+<td align="center" valign="top">
+                                                                           <a https: data-crdl-variant="" style="color: #2ba6cb; text-decoration: none;" href="https://click.p.modcloth.com/c2/1298:60b7f6772dd8a64de72bf9d5:ot:60ae82e6fdc34634d9733ef3:1/d1fd049a?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE2MjI4MTIwNjksImNkIjoiLnAubW9kY2xvdGguY29tIiwiY2UiOjg2NDAwLCJ0ayI6Im1vZGMiLCJtdGxJRCI6IjYwYjdmYjRhMmRkOGE2NzZjYjJhZDIyZiIsInR6IjotNywibGlua1VybCI6Imh0dHBzOlwvXC9jb25uZWN0Lm5vc3RvLmNvbVwvaW1hZ2VcL3YxXC9zaG9waWZ5LTU1OTA2MDQyMDI3XC8xZWJiYjM3YjgyNGYzOWY3ZmE2NzI4Zjk5OGQ3Y2VlNWJmM2Q2MGUwXC8yXC9nbz91aWQ9bWFyeXNtaXRoODU1N0BnbWFpbC5jb20mdmVyc2lvbj0yLjEuMCZ1dG1fY2FtcGFpZ249MjEwNjA0X0NhdEh1Z0RheV8zMHBjdE9mZlRvcHNfY29yZGlhbCZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9zb3VyY2U9cHJvbW8mdXRtX2NvbnRlbnQ9Y2F0ZWdvcnlfMzAmdXRtX3Rlcm09SVBXLURheTEyIn0&jwtS=cjtJYlHYxtba1nR47ZSNYfAPGRmd9v459vCrpVNqkwo"><img border="0" class="nostoText" width="142" src="https://connect.nosto.com/image/v1/shopify-55906042027/1ebbb37b824f39f7fa6728f998d7cee5bf3d60e0/2/desc?uid=marysmith8557@gmail.com&amp;version=2.1.0" alt="" style="-ms-interpolation-mode: bicubic; max-width: 140px; display: block; margin: 0 auto" align="none"></a>
+                                                                        </td>
+                                                                    </tr>
+</table>
+</td>
+                                                        </tr></table>
+</td>
+                                                <td class="colsplit" width="50%" align="center" valign="top" style="padding-bottom:20px">
+                                                    <table class="Mwidth" border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse: collapse;" align="center"><tr>
+<td width="50%" align="center" valign="top">
+                                                                <table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse: collapse" align="center">
+<tr>
+<td align="center" valign="top">
+                                                                           <a https: data-crdl-variant="" style="color: #2ba6cb; text-decoration: none;" href="https://click.p.modcloth.com/c2/1298:60b7f6772dd8a64de72bf9d5:ot:60ae82e6fdc34634d9733ef3:1/01d3fe94?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE2MjI4MTIwNjksImNkIjoiLnAubW9kY2xvdGguY29tIiwiY2UiOjg2NDAwLCJ0ayI6Im1vZGMiLCJtdGxJRCI6IjYwYjdmYjRhMmRkOGE2NzZjYjJhZDIzMCIsInR6IjotNywibGlua1VybCI6Imh0dHBzOlwvXC9jb25uZWN0Lm5vc3RvLmNvbVwvaW1hZ2VcL3YxXC9zaG9waWZ5LTU1OTA2MDQyMDI3XC8xZWJiYjM3YjgyNGYzOWY3ZmE2NzI4Zjk5OGQ3Y2VlNWJmM2Q2MGUwXC8zXC9nbz91aWQ9bWFyeXNtaXRoODU1N0BnbWFpbC5jb20mdmVyc2lvbj0yLjEuMCZ1dG1fY2FtcGFpZ249MjEwNjA0X0NhdEh1Z0RheV8zMHBjdE9mZlRvcHNfY29yZGlhbCZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9zb3VyY2U9cHJvbW8mdXRtX2NvbnRlbnQ9Y2F0ZWdvcnlfMzAmdXRtX3Rlcm09SVBXLURheTEyIn0&jwtS=NAZznqqM7WQYnkKaBWA1oH7OeLPWiJqg_4WLpu1erJM"><img border="0" class="nostoImage" width="142" src="https://connect.nosto.com/image/v1/shopify-55906042027/1ebbb37b824f39f7fa6728f998d7cee5bf3d60e0/3?uid=marysmith8557@gmail.com&amp;version=2.1.0" alt="" style="-ms-interpolation-mode: bicubic; max-width: 150px; display: block; margin: 0 auto;" align="none"></a>
+                                                                        </td>
+                                                                    </tr>
+<tr>
+<td align="center" valign="top">
+                                                                             <a https: data-crdl-variant="" style="color: #2ba6cb; text-decoration: none;" href="https://click.p.modcloth.com/c2/1298:60b7f6772dd8a64de72bf9d5:ot:60ae82e6fdc34634d9733ef3:1/01d3fe94?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE2MjI4MTIwNjksImNkIjoiLnAubW9kY2xvdGguY29tIiwiY2UiOjg2NDAwLCJ0ayI6Im1vZGMiLCJtdGxJRCI6IjYwYjdmYjRhMmRkOGE2NzZjYjJhZDIzMCIsInR6IjotNywibGlua1VybCI6Imh0dHBzOlwvXC9jb25uZWN0Lm5vc3RvLmNvbVwvaW1hZ2VcL3YxXC9zaG9waWZ5LTU1OTA2MDQyMDI3XC8xZWJiYjM3YjgyNGYzOWY3ZmE2NzI4Zjk5OGQ3Y2VlNWJmM2Q2MGUwXC8zXC9nbz91aWQ9bWFyeXNtaXRoODU1N0BnbWFpbC5jb20mdmVyc2lvbj0yLjEuMCZ1dG1fY2FtcGFpZ249MjEwNjA0X0NhdEh1Z0RheV8zMHBjdE9mZlRvcHNfY29yZGlhbCZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9zb3VyY2U9cHJvbW8mdXRtX2NvbnRlbnQ9Y2F0ZWdvcnlfMzAmdXRtX3Rlcm09SVBXLURheTEyIn0&jwtS=NAZznqqM7WQYnkKaBWA1oH7OeLPWiJqg_4WLpu1erJM"><img border="0" class="nostoText" width="142" src="https://connect.nosto.com/image/v1/shopify-55906042027/1ebbb37b824f39f7fa6728f998d7cee5bf3d60e0/3/desc?uid=marysmith8557@gmail.com&amp;version=2.1.0" alt="" style="-ms-interpolation-mode: bicubic; max-width: 140px; display: block; margin: 0 auto" align="none"></a>
+                                                                        </td>
+                                                                    </tr>
+</table>
+</td>
+                                                            <td width="50%" align="center" valign="top">
+                                                                <table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse: collapse" align="center">
+<tr>
+<td align="center" valign="top">
+                                                                             <a https: data-crdl-variant="" style="color: #2ba6cb; text-decoration: none;" href="https://click.p.modcloth.com/c2/1298:60b7f6772dd8a64de72bf9d5:ot:60ae82e6fdc34634d9733ef3:1/4984c913?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE2MjI4MTIwNjksImNkIjoiLnAubW9kY2xvdGguY29tIiwiY2UiOjg2NDAwLCJ0ayI6Im1vZGMiLCJtdGxJRCI6IjYwYjdmYjRhMmRkOGE2NzZjYjJhZDIzMSIsInR6IjotNywibGlua1VybCI6Imh0dHBzOlwvXC9jb25uZWN0Lm5vc3RvLmNvbVwvaW1hZ2VcL3YxXC9zaG9waWZ5LTU1OTA2MDQyMDI3XC8xZWJiYjM3YjgyNGYzOWY3ZmE2NzI4Zjk5OGQ3Y2VlNWJmM2Q2MGUwXC80XC9nbz91aWQ9bWFyeXNtaXRoODU1N0BnbWFpbC5jb20mdmVyc2lvbj0yLjEuMCZ1dG1fY2FtcGFpZ249MjEwNjA0X0NhdEh1Z0RheV8zMHBjdE9mZlRvcHNfY29yZGlhbCZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9zb3VyY2U9cHJvbW8mdXRtX2NvbnRlbnQ9Y2F0ZWdvcnlfMzAmdXRtX3Rlcm09SVBXLURheTEyIn0&jwtS=BQU4IRwMJs3Ml1daDLTAtZVjtgOxeLw-JmxWdk2V8zo"><img border="0" class="nostoImage" width="142" src="https://connect.nosto.com/image/v1/shopify-55906042027/1ebbb37b824f39f7fa6728f998d7cee5bf3d60e0/4?uid=marysmith8557@gmail.com&amp;version=2.1.0" alt="" style="-ms-interpolation-mode: bicubic; max-width: 150px; display: block; margin: 0 auto;" align="none"></a>
+                                                                        </td>
+                                                                    </tr>
+<tr>
+<td align="center" valign="top">
+                                                                             <a https: data-crdl-variant="" style="color: #2ba6cb; text-decoration: none;" href="https://click.p.modcloth.com/c2/1298:60b7f6772dd8a64de72bf9d5:ot:60ae82e6fdc34634d9733ef3:1/4984c913?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE2MjI4MTIwNjksImNkIjoiLnAubW9kY2xvdGguY29tIiwiY2UiOjg2NDAwLCJ0ayI6Im1vZGMiLCJtdGxJRCI6IjYwYjdmYjRhMmRkOGE2NzZjYjJhZDIzMSIsInR6IjotNywibGlua1VybCI6Imh0dHBzOlwvXC9jb25uZWN0Lm5vc3RvLmNvbVwvaW1hZ2VcL3YxXC9zaG9waWZ5LTU1OTA2MDQyMDI3XC8xZWJiYjM3YjgyNGYzOWY3ZmE2NzI4Zjk5OGQ3Y2VlNWJmM2Q2MGUwXC80XC9nbz91aWQ9bWFyeXNtaXRoODU1N0BnbWFpbC5jb20mdmVyc2lvbj0yLjEuMCZ1dG1fY2FtcGFpZ249MjEwNjA0X0NhdEh1Z0RheV8zMHBjdE9mZlRvcHNfY29yZGlhbCZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9zb3VyY2U9cHJvbW8mdXRtX2NvbnRlbnQ9Y2F0ZWdvcnlfMzAmdXRtX3Rlcm09SVBXLURheTEyIn0&jwtS=BQU4IRwMJs3Ml1daDLTAtZVjtgOxeLw-JmxWdk2V8zo"><img border="0" class="nostoText" width="142" src="https://connect.nosto.com/image/v1/shopify-55906042027/1ebbb37b824f39f7fa6728f998d7cee5bf3d60e0/4/desc?uid=marysmith8557@gmail.com&amp;version=2.1.0" alt="" style="-ms-interpolation-mode: bicubic; max-width: 140px; display: block; margin: 0 auto" align="none"></a>
+                                                                        </td>
+                                                                    </tr>
+</table>
+</td>
+                                                        </tr></table>
+</td>
+                                            </tr></table>
+</td>
+                                </tr>
+</table>
+<table align="center" class="fluid" cellpadding="0" cellspacing="0" border="0" width="640" style="border-collapse:collapse; background-color:#ffffff;"><tr>
+<td align="center" bgcolor="#ffffff" style="padding:0px !important;">
+        	<table align="center" cellpadding="0" cellspacing="0" border="0" width="100%" style="border-collapse:collapse; background-color:#ffffff;">
+<!--Footer Navigation--><tr>
+<td align="center" bgcolor="#ffffff" style="padding:0px !important;">
+                    	<table align="center" cellpadding="0" cellspacing="0" border="0" width="100%" style="border-collapse:collapse; background-color:#ffffff;">
+<tr>
+<td align="center" bgcolor="#ffffff" height="15">
+                                </td>
+                            </tr>
+<tr>
+<td align="center" bgcolor="#ffffff" style="vertical-align:middle; font-family:FuturaPTWeb,Arial,sans-serif; font-size:12px; line-height:18px; color:#767676;text-align:center; padding:0px !important;">
+                                	<a title="New Arrivals" data-crdl-variant="" style="display: block; margin:0 auto; font-family:FuturaPTWeb,Arial,sans-serif; font-size:12px; color:#767676; letter-spacing:3px; text-decoration:none;" href="https://click.p.modcloth.com/c2/1298:60b7f6772dd8a64de72bf9d5:ot:60ae82e6fdc34634d9733ef3:1/4ccc18b0?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE2MjI4MTIwNjksImNkIjoiLnAubW9kY2xvdGguY29tIiwiY2UiOjg2NDAwLCJ0ayI6Im1vZGMiLCJtdGxJRCI6IjYwYjdmYjRhMmRkOGE2NzZjYjJhZDIzMiIsInR6IjotNywibGlua1VybCI6Imh0dHBzOlwvXC93d3cubW9kY2xvdGguY29tXC9zaG9wXC9uZXdhcnJpdmFscz91dG1fY2FtcGFpZ249MjEwNjA0X0NhdEh1Z0RheV8zMHBjdE9mZlRvcHNfY29yZGlhbCZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9zb3VyY2U9cHJvbW8mdXRtX2NvbnRlbnQ9Y2F0ZWdvcnlfMzAmdXRtX3Rlcm09SVBXLURheTEyIn0&jwtS=1SR4ycsNhGELcUkzdu8EiwSZXGiTjAsopG3W9Wixf9c">NEW ARRIVALS</a>
+                                </td>
+                            </tr>
+<tr>
+<td align="center" bgcolor="#ffffff" height="30">
+                                </td>
+                            </tr>
+<tr>
+<td align="center" bgcolor="#ffffff" style="vertical-align:middle; font-family:FuturaPTWeb,Arial,sans-serif; font-size:12px; line-height:18px; color:#767676;text-align:center; padding:0px !important;">
+                                	<a title="Best Sellers" data-crdl-variant="" style="display: block; margin:0 auto; font-family:FuturaPTWeb,Arial,sans-serif;font-size:12px;color:#767676;letter-spacing:3px;text-decoration:none;" href="https://click.p.modcloth.com/c2/1298:60b7f6772dd8a64de72bf9d5:ot:60ae82e6fdc34634d9733ef3:1/2b1e6466?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE2MjI4MTIwNjksImNkIjoiLnAubW9kY2xvdGguY29tIiwiY2UiOjg2NDAwLCJ0ayI6Im1vZGMiLCJtdGxJRCI6IjYwYjdmYjRhMmRkOGE2NzZjYjJhZDIzMyIsInR6IjotNywibGlua1VybCI6Imh0dHBzOlwvXC93d3cubW9kY2xvdGguY29tXC9zaG9wXC9iZXN0LXNlbGxlcnM_dXRtX2NhbXBhaWduPTIxMDYwNF9DYXRIdWdEYXlfMzBwY3RPZmZUb3BzX2NvcmRpYWwmdXRtX21lZGl1bT1lbWFpbCZ1dG1fc291cmNlPXByb21vJnV0bV9jb250ZW50PWNhdGVnb3J5XzMwJnV0bV90ZXJtPUlQVy1EYXkxMiJ9&jwtS=Tl4Kf3HsShaTZEr8kYevkhRiMu-nYXMztD2yDh4DWVE">BEST SELLERS</a>
+                                </td>
+                            </tr>
+<tr>
+<td align="center" bgcolor="#ffffff" height="30">
+                                </td>
+                            </tr>
+<tr>
+<td align="center" bgcolor="#ffffff" style="vertical-align:middle; font-family:FuturaPTWeb,Arial,sans-serif; font-size:12px; line-height:18px; color:#767676;text-align:center; padding:0px !important;">
+                                	<a title="Sale" data-crdl-variant="" style="display: block; margin:0 auto; font-family:FuturaPTWeb,Arial,sans-serif;font-size:12px;color:#767676;letter-spacing:3px;text-decoration:none;" href="https://click.p.modcloth.com/c2/1298:60b7f6772dd8a64de72bf9d5:ot:60ae82e6fdc34634d9733ef3:1/d1ab0429?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE2MjI4MTIwNjksImNkIjoiLnAubW9kY2xvdGguY29tIiwiY2UiOjg2NDAwLCJ0ayI6Im1vZGMiLCJtdGxJRCI6IjYwYjdmYjRhMmRkOGE2NzZjYjJhZDIzNCIsInR6IjotNywibGlua1VybCI6Imh0dHBzOlwvXC93d3cubW9kY2xvdGguY29tXC9zaG9wXC9zYWxlP3V0bV9jYW1wYWlnbj0yMTA2MDRfQ2F0SHVnRGF5XzMwcGN0T2ZmVG9wc19jb3JkaWFsJnV0bV9tZWRpdW09ZW1haWwmdXRtX3NvdXJjZT1wcm9tbyZ1dG1fY29udGVudD1jYXRlZ29yeV8zMCZ1dG1fdGVybT1JUFctRGF5MTIifQ&jwtS=nQ0hCEv4zo2Xm_J1zWuz0zgdjquM8jzqwySW0rbPJFs">SALE</a>
+                                </td>
+                            </tr>
+<tr>
+<td align="center" bgcolor="#ffffff" height="30">
+                                </td>
+                            </tr>
+<tr>
+<td align="center" bgcolor="#ffffff" style="vertical-align:middle; font-family:FuturaPTWeb,Arial,sans-serif; font-size:12px; line-height:18px; color:#767676;text-align:center; padding:0px !important;">
+                                	<a title="Download Our App" data-crdl-variant="" style="display: block; margin:0 auto; font-family:FuturaPTWeb,Arial,sans-serif;font-size:12px;color:#767676;letter-spacing:3px;text-decoration:none;" href="https://click.p.modcloth.com/c2/1298:60b7f6772dd8a64de72bf9d5:ot:60ae82e6fdc34634d9733ef3:1/6829dcbf?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE2MjI4MTIwNjksImNkIjoiLnAubW9kY2xvdGguY29tIiwiY2UiOjg2NDAwLCJ0ayI6Im1vZGMiLCJtdGxJRCI6IjYwYjdmYjRhMmRkOGE2NzZjYjJhZDIzNSIsInR6IjotNywibGlua1VybCI6Imh0dHBzOlwvXC93d3cubW9kY2xvdGguY29tXC9tb2JpbGU_dXRtX2NhbXBhaWduPTIxMDYwNF9DYXRIdWdEYXlfMzBwY3RPZmZUb3BzX2NvcmRpYWwmdXRtX21lZGl1bT1lbWFpbCZ1dG1fc291cmNlPXByb21vJnV0bV9jb250ZW50PWNhdGVnb3J5XzMwJnV0bV90ZXJtPUlQVy1EYXkxMiJ9&jwtS=4xKm5SFZdL-7mYkgtvb4GA3dduADOmSS3T8RWedWuKE">DOWNLOAD OUR APP</a>
+                                </td>
+                            </tr>
+<tr>
+<td align="center" bgcolor="#ffffff" height="30">
+                                </td>
+                            </tr>
+</table>
+</td>
+                </tr>
+<!--Social Media Icons--><tr>
+<td align="center" bgcolor="#ffffff" style="padding:0px !important;">
+                    	<table align="center" cellpadding="0" cellspacing="0" border="0" width="100%" style="max-width:280px; border-collapse:collapse; background-color:#ffffff;"><tr>
+<td align="center" bgcolor="#ffffff" style="padding:0px !important;">
+                                	<a title="Facebook" data-crdl-variant="" target="_blank" href="https://click.p.modcloth.com/c2/1298:60b7f6772dd8a64de72bf9d5:ot:60ae82e6fdc34634d9733ef3:1/a6284cd9?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE2MjI4MTIwNjksImNkIjoiLnAubW9kY2xvdGguY29tIiwiY2UiOjg2NDAwLCJ0ayI6Im1vZGMiLCJtdGxJRCI6IjYwYjdmYjRhMmRkOGE2NzZjYjJhZDIzNiIsInR6IjotNywibGlua1VybCI6Imh0dHBzOlwvXC93d3cuZmFjZWJvb2suY29tXC9Nb2RDbG90aD91dG1fY2FtcGFpZ249MjEwNjA0X0NhdEh1Z0RheV8zMHBjdE9mZlRvcHNfY29yZGlhbCZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9zb3VyY2U9cHJvbW8mdXRtX2NvbnRlbnQ9Y2F0ZWdvcnlfMzAmdXRtX3Rlcm09SVBXLURheTEyIn0&jwtS=i9WX0BsrVGyxLPoR5N_-1uPftaPjEpCg25RGbbeqc8s"><img src="http://campaigns.brandedonline.com/MODC/template/social-icon-fb.jpg" alt="Facebook" width="40" height="40" border="0" style="display:block; margin:0 auto;"></a>
+                                </td>
+                                <td align="center" bgcolor="#ffffff" style="padding:0px !important;">
+                                	<a title="Twitter" data-crdl-variant="" target="_blank" href="https://click.p.modcloth.com/c2/1298:60b7f6772dd8a64de72bf9d5:ot:60ae82e6fdc34634d9733ef3:1/325af648?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE2MjI4MTIwNjksImNkIjoiLnAubW9kY2xvdGguY29tIiwiY2UiOjg2NDAwLCJ0ayI6Im1vZGMiLCJtdGxJRCI6IjYwYjdmYjRhMmRkOGE2NzZjYjJhZDIzNyIsInR6IjotNywibGlua1VybCI6Imh0dHBzOlwvXC90d2l0dGVyLmNvbVwvTW9kQ2xvdGg_dXRtX2NhbXBhaWduPTIxMDYwNF9DYXRIdWdEYXlfMzBwY3RPZmZUb3BzX2NvcmRpYWwmdXRtX21lZGl1bT1lbWFpbCZ1dG1fc291cmNlPXByb21vJnV0bV9jb250ZW50PWNhdGVnb3J5XzMwJnV0bV90ZXJtPUlQVy1EYXkxMiJ9&jwtS=CfwpwHWyriZXEz4V9n3bY0HeHm3jLk2TdwYgcg35V1o"><img src="http://campaigns.brandedonline.com/MODC/template/social-icon-twitter.jpg" alt="Twitter" width="40" height="40" border="0" style="display:block; margin:0 auto;"></a>
+                                </td>
+                                <td align="center" bgcolor="#ffffff" style="padding:0px !important;">
+                                	<a title="Pinterest" data-crdl-variant="" target="_blank" href="https://click.p.modcloth.com/c2/1298:60b7f6772dd8a64de72bf9d5:ot:60ae82e6fdc34634d9733ef3:1/7aeb2b07?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE2MjI4MTIwNjksImNkIjoiLnAubW9kY2xvdGguY29tIiwiY2UiOjg2NDAwLCJ0ayI6Im1vZGMiLCJtdGxJRCI6IjYwYjdmYjRhMmRkOGE2NzZjYjJhZDIzOCIsInR6IjotNywibGlua1VybCI6Imh0dHBzOlwvXC93d3cucGludGVyZXN0LmNvbVwvbW9kY2xvdGhcL3BpbnM_dXRtX2NhbXBhaWduPTIxMDYwNF9DYXRIdWdEYXlfMzBwY3RPZmZUb3BzX2NvcmRpYWwmdXRtX21lZGl1bT1lbWFpbCZ1dG1fc291cmNlPXByb21vJnV0bV9jb250ZW50PWNhdGVnb3J5XzMwJnV0bV90ZXJtPUlQVy1EYXkxMiJ9&jwtS=loVHyZYoRVcMpfOG5jmVTw3miE-dyMEbSoJgXuWgb5c"><img src="http://campaigns.brandedonline.com/MODC/template/social-icon-pinterest.png" alt="Pinterest" width="40" height="40" border="0" style="display:block; margin:0 auto;"></a>
+                                </td>
+                                <td align="center" bgcolor="#ffffff" style="padding:0px !important;">
+                                	<a title="Instagram" data-crdl-variant="" target="_blank" href="https://click.p.modcloth.com/c2/1298:60b7f6772dd8a64de72bf9d5:ot:60ae82e6fdc34634d9733ef3:1/06011fcd?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE2MjI4MTIwNjksImNkIjoiLnAubW9kY2xvdGguY29tIiwiY2UiOjg2NDAwLCJ0ayI6Im1vZGMiLCJtdGxJRCI6IjYwYjdmYjRhMmRkOGE2NzZjYjJhZDIzOSIsInR6IjotNywibGlua1VybCI6Imh0dHBzOlwvXC93d3cuZmFjZWJvb2suY29tXC9Nb2RDbG90aD91dG1fY2FtcGFpZ249MjEwNjA0X0NhdEh1Z0RheV8zMHBjdE9mZlRvcHNfY29yZGlhbCZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9zb3VyY2U9cHJvbW8mdXRtX2NvbnRlbnQ9Y2F0ZWdvcnlfMzAmdXRtX3Rlcm09SVBXLURheTEyIn0&jwtS=oXMPLCUXSFUmxqiRHozqgFMDsnNdmSHlDm38GcfpHzQ"><img src="http://campaigns.brandedonline.com/MODC/template/social-icon-ig.png" alt="Instagram" width="40" height="40" border="0" style="display:block; margin:0 auto;"></a>
+                                </td>
+                            </tr></table>
+</td>
+                </tr>
+<!--Organization--><tr>
+<td align="center" bgcolor="#ffffff" style="padding:0px !important;">
+                    	<table align="center" cellpadding="0" cellspacing="0" border="0" width="90%" style="border-collapse:collapse; background-color:#ffffff;">
+<tr>
+<td align="center" bgcolor="#ffffff" height="30">
+                                </td>
+                            </tr>
+<tr>
+<td align="center" bgcolor="#ffffff" style="vertical-align:middle; font-family:FuturaPTWeb,Arial,sans-serif; font-size:12px; line-height:18px; font-weight:bold; color:#767676;text-align:center; padding:0px !important;">
+                                	<a title="Privacy Policy" data-crdl-variant="" style="font-family:FuturaPTWeb,Arial,sans-serif; font-size:12px; color:#767676; text-decoration:none;" href="https://click.p.modcloth.com/c2/1298:60b7f6772dd8a64de72bf9d5:ot:60ae82e6fdc34634d9733ef3:1/0f847086?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE2MjI4MTIwNjksImNkIjoiLnAubW9kY2xvdGguY29tIiwiY2UiOjg2NDAwLCJ0ayI6Im1vZGMiLCJtdGxJRCI6IjYwYjdmYjRhMmRkOGE2NzZjYjJhZDIzYSIsInR6IjotNywibGlua1VybCI6Imh0dHBzOlwvXC9oZWxwLm1vZGNsb3RoLmNvbVwvYXJ0aWNsZXNcL3ByaXZhY3ktcG9saWN5P3V0bV9jYW1wYWlnbj0yMTA2MDRfQ2F0SHVnRGF5XzMwcGN0T2ZmVG9wc19jb3JkaWFsJnV0bV9tZWRpdW09ZW1haWwmdXRtX3NvdXJjZT1wcm9tbyZ1dG1fY29udGVudD1jYXRlZ29yeV8zMCZ1dG1fdGVybT1JUFctRGF5MTIifQ&jwtS=MLQkjB1vL9CG3yjr2BsB88aG-vLf7bDy3IPstVYnWnk">Privacy Policy</a>    |    <a data-crdl-key="Footer: Unsubscribe" title="Unsubscribe" href="https://data.p.modcloth.com/optout/index.php?mcID=1298:60b7f6772dd8a64de72bf9d5:ot:60ae82e6fdc34634d9733ef3:1" data-crdl-notrack="true" target="_blank" style="font-family:FuturaPTWeb,Arial,sans-serif; font-size:12px; color:#767676; text-decoration:none;">Unsubscribe</a>
+                                </td>
+                            </tr>
+<tr>
+<td align="center" bgcolor="#ffffff" style="vertical-align:middle; font-family:FuturaPTWeb,Arial,sans-serif; font-size:12px; line-height:18px; color:#767676; text-align:center; padding:0px !important;">
+                                	<a title="ModCloth Customer Care" data-crdl-variant="" style="font-family:FuturaPTWeb,Arial,sans-serif; font-size:12px; color:#767676; text-decoration:none;" href="https://click.p.modcloth.com/c2/1298:60b7f6772dd8a64de72bf9d5:ot:60ae82e6fdc34634d9733ef3:1/0d4c23c4?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE2MjI4MTIwNjksImNkIjoiLnAubW9kY2xvdGguY29tIiwiY2UiOjg2NDAwLCJ0ayI6Im1vZGMiLCJtdGxJRCI6IjYwYjdmYjRhMmRkOGE2NzZjYjJhZDIzYiIsInR6IjotNywibGlua1VybCI6Imh0dHBzOlwvXC9tb2RjbG90aC5jb21cL3BhZ2VzXC9jb250YWN0LXVzP3V0bV9jYW1wYWlnbj0yMTA2MDRfQ2F0SHVnRGF5XzMwcGN0T2ZmVG9wc19jb3JkaWFsJnV0bV9tZWRpdW09ZW1haWwmdXRtX3NvdXJjZT1wcm9tbyZ1dG1fY29udGVudD1jYXRlZ29yeV8zMCZ1dG1fdGVybT1JUFctRGF5MTIifQ&jwtS=EPxrA2Z6_fkMW6zeRsKZE8xnBot2nTufgeOshnRzvzs">ModCloth Customer Care</a> | 2250 Roswell Dr., Pittsburgh, PA 15205
+                                </td>
+                            </tr>
+<tr>
+<td align="center" bgcolor="#ffffff" style="vertical-align:middle; font-family:FuturaPTWeb,Arial,sans-serif; font-size:12px; line-height:18px; font-weight:bold; color:#767676;text-align:center; padding:0px !important;">
+                                	©2021 <a title="ModCloth.com" data-crdl-variant="" style="font-family:FuturaPTWeb,Arial,sans-serif; font-size:12px; color:#767676; text-decoration:none;" href="hhttps://www.modcloth.com/">ModCloth.com</a>
+                                </td>
+                            </tr>
+<tr>
+<td align="center" bgcolor="#ffffff" height="30">
+                                </td>
+                            </tr>
+</table>
+</td>
+                </tr>
+</table>
+</td>
+    </tr></table>
+<tr>
+<td style="text-align: center;font-family: FuturaPTWeb,Arial,sans-serif;font-size: 12px; line-height: 150%; color: #767676" class="detailText disclaimerUS">
+                                                                      Offer valid 6/3/2021 12:00 am PT - 6/4/2021 11:59 pm PT. Must manually enter code in checkout to receive discount on select styles. Offer cannot be combined with other discounts or applied to tax, shipping, gift cards. No price adjustments on previous purchases.
+                                            </td>
+                    </tr>
+</table>
+</td>
+                </tr></table>
+<!--[if(gte mso 9)|(IE)]></td> </tr> </table><![endif]-->
+</td>
+    </tr></table>
+<img src="https://click.p.modcloth.com/o/p/1298:60b7f6772dd8a64de72bf9d5:ot:60ae82e6fdc34634d9733ef3:1/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2MjI4MTIwNjksInR6IjotN30.qTSmn-o_jvt0j26yFcTXK7-5GBGvQoKaUzZRIYeJKLU" height=1 width=1 />
+<img border="0" width="1" height="1" alt="" src="http://trcksp.cordial.io/q/hGq8CK1D-bANK9_NvH0Q8w~~/AAAAAQA~/RgRinKqlPlcHY29yZGlhbEIKYLmlJbpgD0e73FIXbWFyeXNtaXRoODU1N0BnbWFpbC5jb21YBAAAAwk~">
+</body>
+</html>
+

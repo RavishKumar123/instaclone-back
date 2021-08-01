@@ -1,0 +1,449 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="x-apple-disable-message-reformatting">
+        <style type="text/css">
+	        
+            
+	        .desktop-hide {
+		        display: none !important;
+	        }
+	        
+            /* MOBILE STYLES */
+            @media screen and (max-width: 600px) {
+                .full-width {
+                    width: 100% !important;
+                }
+                .mobile-block {
+	                display: block !important;
+                }
+                .mobile-hide {
+	                display: none !important;
+                }
+                .mobile-pad-reset {
+	                padding: 0 0 0 0 !important;
+                }
+                .mobile-text-pad {
+	                padding-right: 20px !important;
+	                padding-left: 20px !important; 
+                }
+                .mobile-social-pad {
+	                padding-right: 10px !important;
+                }
+                .mobile-reward-pad {
+	                padding-top: 0px !important;
+                }
+                .mobile-no-top-border {
+	                border-top: none !important;
+                }
+            }
+            
+            /* IOS GMAIL APP WIDTH FIX */
+            @media screen and (max-width: 480px) {
+	            u + .body .full-wrap { 
+					width: 100% !important;
+					width: 100vw !important;
+				}
+	        }
+	        
+        </style>
+        
+    <!-- OUTLOOK LINE HEIGHT ADJUST -->
+        <!--[if mso]>
+            <style type="text/css">
+                body, table tr, table td, a, span, table.MsoNormalTable {
+                    mso-line-height-rule: exactly !important;
+                    line-height: 100% !important;
+                    border-spacing: 0;
+                    border-collapse: collapse !important;
+                    mso-table-lspace: 0;
+                    mso-table-rspace: 0;
+                }
+                .mso-pad-reset {
+	                padding: 0 0 0 0 !important;
+	            }
+            </style>
+        <![endif]-->
+        
+    </head>
+    <body style="padding: 0; margin: 0;" class="body">
+        <center>
+
+        	<!-- OUTER WRAPPER -->
+	        <table width="100%" align="center" bgcolor="#ffffff" cellpadding="0" cellspacing="0" border="0" class="full-wrap">
+		        <tr>
+			        <td align="center" style="padding: 0 0 0 0;">
+				        
+				        <!-- CONTAINER -->
+						<table width="600" align="center" cellpadding="0" cellspacing="0" border="0" class="full-width">
+							
+							<!-- PREHEADER -->
+							<tr>
+								<td align="center" style="display: none; font-size: 1px; line-height: 1px; max-height: 0px; max-width: 0px; opacity: 0; overflow: hidden; padding: 0 0 0 0; font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 1.4; color: #666666; -webkit-text-size-adjust: none;">
+Paired with a colorful top + Free Shipping - you're set!</td>
+
+							</tr>
+							
+							<!-- LOGO -->
+							<tr>
+								<td align="center" style="padding: 5px 20px 10px 20px;" data-content-region-name="logo">
+<a href="https://shop.haband.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlYQGpTNb4qtleGfhDGLYoC39d5ifienzgzg9nhusza1NBKohEH1AMgjR6boK7YdApwNfVXtpKX%3DWCTYATTY&amp;_ei_=EqMeYp788NeYfd23lKauhdph2sGzrKxP2tlS_ZGGLIIl8NUK-J-81HRt0cR2LAS5Dawl_0ulxdaNwyKpUrJUy63CW_iht2oMIHYwWnNdr3HswvhadO1xA3B9BlFtZIsCU44t7gw10fTdi4xhBktBNsgjxZrq6jf6AP70r8HKQxIkML4TXjP1VueAQvygZyh40B5OVSIrNM.&amp;_di_=d3ga8njkousbm8vnmse9ev6hvu9q5nh16irdf0iofntdc2kf5f5g"><img src="https://static.cdn.responsys.net/i5/responsysimages/haband/contentlibrary/templates/navigation/HAB-LOGO-NEW2019.jpg" width="" height=""/></a></td>
+							</tr>
+							
+							<!-- DESKTOP NAV -->
+							<tr>
+								<td align="center" style="padding: 0 0 0 0;" data-content-region-name="desktop-nav" class="mobile-hide">
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="width:100%; max-width:600px;">
+  <tbody>
+    <tr>
+      <td align="center" style="padding: 0 0 0 0;" valign="top">
+        <table border="0" cellpadding="0" cellspacing="0" class="wdth90" style="width:100%;max-width:600px;">
+          <tbody>
+            <tr>
+              <td bgcolor="#ffffff" class="mblHide" style="padding: 0 0 0 0;border-top:1px solid #cccccc;border-bottom:1px solid #cccccc;" valign="top"><!--[if (gte mso 9)|(IE)]>
+<table align="center" border="0" cellspacing="0" cellpadding="0" style="width:600px;">
+<tr>
+<td>
+<![endif]--></td>
+            </tr>
+            <tr>
+              <td align="center" style="padding: 10px 0 10px 0;color:#666666;font-family:century gothic,Arial, Verdana, Helvetica, sans-serif;font-size:16px;font-weight: 400;text-decoration: none;text-align:center;line-height: 1px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://shop.haband.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlYQGpTNb4qtleGfhDGLYoC39d5ifienzgzg9nhusza1NBKohEH1AMgjR6boK7YdApwNfVXtpKX%3DWCTYATWY&_ei_=EqMeYp788NeYfd23lKauhdph2sGzrKxP2tlS_ZGGLIIl8NUK-J-81HRt0cR2LAS5Dawl_0ulxdaNwyKpUrJUy63CW_iht2oMIHYwWnNdr3HswvhadO1xA3B9BlFtZIsCU44t7gw10fTdi4xhBktBNsgjxZrq6jf6AP70r8HKQxIkML4TXjP1VueAQvygZyh40B5OVSIrNM.&_di_=4j2o5mnsa2d5kg4shcdg0tfm81q661alv33q8s21a77lh5k14lmg" style="color:#000000;font-family:Helvetica, Verdana, sans-serif;font-size:17px;font-weight: 500;text-decoration: none;text-align:center;line-height: 30px;">WOMEN</a>
+                  
+                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://shop.haband.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlYQGpTNb4qtleGfhDGLYoC39d5ifienzgzg9nhusza1NBKohEH1AMgjR6boK7YdApwNfVXtpKX%3DWCTYATAY&_ei_=EqMeYp788NeYfd23lKauhdph2sGzrKxP2tlS_ZGGLIIl8NUK-J-81HRt0cR2LAS5Dawl_0ulxdaNwyKpUrJUy63CW_iht2oMIHYwWnNdr3HswvhadO1xA3B9BlFtZIsCU44t7gw10fTdi4xhBktBNsgjxZrq6jf6AP70r8HKQxIkML4TXjP1VueAQvygZyh40B5OVSIrNM.&_di_=9mnblhrc2t4f2tj81lj22ehhm27cjtadqi4snnrjnrscno6mck8g" style="color:#000000;font-family:Helvetica, Verdana, sans-serif;font-size:17px;font-weight: 500;text-decoration: none;text-align:center;line-height: 30px;">MEN</a>
+                                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://shop.haband.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlYQGpTNb4qtleGfhDGLYoC39d5ifienzgzg9nhusza1NBKohEH1AMgjR6boK7YdApwNfVXtpKX%3DWCTYATCY&_ei_=EqMeYp788NeYfd23lKauhdph2sGzrKxP2tlS_ZGGLIIl8NUK-J-81HRt0cR2LAS5Dawl_0ulxdaNwyKpUrJUy63CW_iht2oMIHYwWnNdr3HswvhadO1xA3B9BlFtZIsCU44t7gw10fTdi4xhBktBNsgjxZrq6jf6AP70r8HKQxIkML4TXjP1VueAQvygZyh40B5OVSIrNM.&_di_=4qkc699gloh19qkvi2ci4b9qoo42t732an0qdvu8foqlfcl18ejg" style="color:#000000;font-family:Helvetica, Verdana, sans-serif;font-size:17px;font-weight: 500;text-decoration: none;text-align:center;line-height: 30px;">SHOES</a> 
+                                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://shop.haband.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlYQGpTNb4qtleGfhDGLYoC39d5ifienzgzg9nhusza1NBKohEH1AMgjR6boK7YdApwNfVXtpKX%3DWCTYAURY&_ei_=EqMeYp788NeYfd23lKauhdph2sGzrKxP2tlS_ZGGLIIl8NUK-J-81HRt0cR2LAS5Dawl_0ulxdaNwyKpUrJUy63CW_iht2oMIHYwWnNdr3HswvhadO1xA3B9BlFtZIsCU44t7gw10fTdi4xhBktBNsgjxZrq6jf6AP70r8HKQxIkML4TXjP1VueAQvygZyh40B5OVSIrNM.&_di_=4n003h7bke7gljeq6dcbdhn9d8kokttp6qg14m1j6ufco88cobd0" style="color:#000000;font-family:Helvetica, Verdana, sans-serif;font-size:17px;font-weight: 500;text-decoration: none;text-align:center;line-height: 30px;">SALE</a> 
+                                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://shop.haband.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlYQGpTNb4qtleGfhDGLYoC39d5ifienzgzg9nhusza1NBKohEH1AMgjR6boK7YdApwNfVXtpKX%3DWCTYAUTY&_ei_=EqMeYp788NeYfd23lKauhdph2sGzrKxP2tlS_ZGGLIIl8NUK-J-81HRt0cR2LAS5Dawl_0ulxdaNwyKpUrJUy63CW_iht2oMIHYwWnNdr3HswvhadO1xA3B9BlFtZIsCU44t7gw10fTdi4xhBktBNsgjxZrq6jf6AP70r8HKQxIkML4TXjP1VueAQvygZyh40B5OVSIrNM.&_di_=qs0l362s153ulsafldkb7h8l4gki1gb7l56l2uli07iufhrhlh4g" style="color:#000000;font-family:Helvetica, Verdana, sans-serif;font-size:17px;font-weight: 500;text-decoration: none;text-align:center;line-height: 30px;">CLEARANCE</a> 
+                                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+              </td>
+            </tr>
+            
+ <tr>
+              <td bgcolor="#ffffff" class="mblHide" style="padding: 0 0 0 0;border-top:1px solid #cccccc;border-bottom:1px solid #cccccc;" valign="top"><!--[if (gte mso 9)|(IE)]>
+<table align="center" border="0" cellspacing="0" cellpadding="0" style="width:600px;">
+<tr>
+<td>
+<![endif]--></td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+</tr>
+</table>
+<![endif]--><!-- /NAVIGATION--><!--[if (gte mso 9)|(IE)]>
+<table align="center" border="0" cellspacing="0" cellpadding="0" style="width:600px;">
+<tr>
+<td>
+<![endif]-->
+</td>
+							</tr>
+                            
+                             <!-- 
+PLCC POINTS -->      	
+ <tr><td align="center" style="padding: 0 0 0 0;" data-content-region-name="otb" class="mobile-text-pad">
+</td></tr> 							
+							<!-- BANNER -->
+							<tr>
+								<td align="center" style="padding: 5px 0 0 0;" data-content-region-name="promobanner" class="mobile-pad-reset">
+</td>
+                            </tr>
+                            
+							
+							<!-- HERO -->
+							<tr>
+								<td align="center" style="padding: 5px 0 0 0;" data-content-region-name="hero">
+
+
+
+<table  width="600" border="0" cellpadding="0" cellspacing="0">
+		<tr>
+		<td width="600px">
+		<a href="https://shop.haband.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlYQGpTNb4qtleGfhDGLYoC39d5ifienzgzg9nhusza1NBKohEH1AMgjR6boK7YdApwNfVXtpKX%3DWCTYABCY&_ei_=Eq2tf9zs59idfPO1Sc_9BbnYZJHdtOGdfioM4KsY9j9UwVKS5TDkKU-4OjNq-HEI.&_di_=bcg38ju88lqa4kr7cq591dli9egts2d8jfgmd9245lgsm760n7b0" rilt="LINK_1">
+		<img alt="Women's Summer Savings -Tops Bottoms Sandals and More - as low as $9.99"  src="https://static.cdn.responsys.net/i5/responsysimages/haband/contentlibrary/HAB_Promotional/2021Emails/2021_06_Jun/em_hb_20210604_SumSaveFSPromoPC_1274/1274-CONTENT-W_2T_01.jpg" style="background-color:#1898ce; color:#ffffff; font-family:Helvetica,Arial,sans-serif; font-size:20px; display:block" title="Women's Summer Savings -Tops Bottoms Sandals and More - as low as $9.99" width="600" /></a></td>
+		</tr>
+
+		<tr>
+		<td width="600px">
+		<a href="https://shop.haband.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlYQGpTNb4qtleGfhDGLYoC39d5ifienzgzg9nhusza1NBKohEH1AMgjR6boK7YdApwNfVXtpKX%3DWCTYACRY&_ei_=EqMeYp788NeYfd23lKauhdph2sGzrKxP2tlS_ZGGLIIlylhCbpqghN2mpb2ylzroAGNtGc9GutsbFiUbn2moMJXu2M.&_di_=80dtolc0gk0mjc7gm4jjjkja9a35rohd20sfkg10o09qhliddg1g" rilt="LINK_2">
+		<img alt="Women's Button-Yoke Knit Top as low as $14.99"  src="https://static.cdn.responsys.net/i5/responsysimages/haband/contentlibrary/HAB_Promotional/2021Emails/2021_06_Jun/em_hb_20210604_SumSaveFSPromoPC_1274/1274-CONTENT-W_2T_02.jpg" style="background-color:#1898ce; color:#ffffff; font-family:Helvetica,Arial,sans-serif; font-size:20px; display:block" title="Women's Button-Yoke Knit Top as low as $14.99" width="600" /></a></td>
+		</tr>
+
+		<tr>
+		<td width="600px">
+		<a href="https://shop.haband.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlYQGpTNb4qtleGfhDGLYoC39d5ifienzgzg9nhusza1NBKohEH1AMgjR6boK7YdApwNfVXtpKX%3DWCTYACTY&_ei_=EqMeYp788NeYfd23lKauhdph2sGzrKxP2tlS_ZGGLIIlylhCbpqghN2mpb2ylzroAGNtGc9GutsbFiUbn2moMJXu2M.&_di_=s5jp6h0jbo7out6v9v6f6mmovp41ju31mllgctfsiln5qgheoufg" rilt="LINK_3">
+		<img alt="Women's Secret Stretch Waist Capris with Tulip Hem as low as $16.99"  src="https://static.cdn.responsys.net/i5/responsysimages/haband/contentlibrary/HAB_Promotional/2021Emails/2021_06_Jun/em_hb_20210604_SumSaveFSPromoPC_1274/1274-CONTENT-W_2T_03.jpg" style="background-color:#1898ce; color:#ffffff; font-family:Helvetica,Arial,sans-serif; font-size:20px; display:block" title="Women's Secret Stretch Waist Capris with Tulip Hem as low as $16.99" width="600" /></a></td>
+		</tr> 
+		
+		<tr>
+		<td width="600px">
+		<a href="https://shop.haband.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlYQGpTNb4qtleGfhDGLYoC39d5ifienzgzg9nhusza1NBKohEH1AMgjR6boK7YdApwNfVXtpKX%3DWCTYACWY&_ei_=EqMeYp788NeYfd23lKauhdph2sGzrKxP2tlS_ZGGLIIlylhCbpqghN2mpb2ylzroAGNtGc9GutsbFiUbn2moMJXu2M.&_di_=06hm3s3fh749p5kb8p8s4mc4m928m2apdt044q5jeri3b9ahs21g" rilt="LINK_4">
+		<img alt="Women's Pintuck Knit Tunic as low as $16.99"  src="https://static.cdn.responsys.net/i5/responsysimages/haband/contentlibrary/HAB_Promotional/2021Emails/2021_06_Jun/em_hb_20210604_SumSaveFSPromoPC_1274/1274-CONTENT-W_2T_04.jpg" style="background-color:#1898ce; color:#ffffff; font-family:Helvetica,Arial,sans-serif; font-size:20px; display:block" title="Women's Pintuck Knit Tunic as low as $16.99" width="600" /></a></td>
+		</tr> 
+		
+		<tr>
+		<td width="600px">
+		<a href="https://shop.haband.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlYQGpTNb4qtleGfhDGLYoC39d5ifienzgzg9nhusza1NBKohEH1AMgjR6boK7YdApwNfVXtpKX%3DWCTYACAY&_ei_=EqMeYp788NeYfd23lKauhdph2sGzrKxP2tlS_ZGGLIIlylhCbpqghN2mpb2ylzroAGNtGc9GutsbFiUbn2moMJXu2M.&_di_=lud5c7bdos0uh89ab7lorrdcsgicheghf5p8emmofb2gq7eq7440" rilt="LINK_5">
+		<img alt="Women's Screen-Printed Capri Set as low as $19.99"  src="https://static.cdn.responsys.net/i5/responsysimages/haband/contentlibrary/HAB_Promotional/2021Emails/2021_06_Jun/em_hb_20210604_SumSaveFSPromoPC_1274/1274-CONTENT-W_2T_05.jpg" style="background-color:#1898ce; color:#ffffff; font-family:Helvetica,Arial,sans-serif; font-size:20px; display:block" title="Women's Screen-Printed Capri Set as low as $19.99" width="600" /></a></td>
+		</tr> 
+		
+</table>
+
+
+<table  width="600" border="0" cellpadding="0" cellspacing="0">
+		<tr>
+		<td colspan="2" height="146px" width="600px">
+		<a href="https://shop.haband.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlYQGpTNb4qtleGfhDGLYoC39d5ifienzgzg9nhusza1NBKohEH1AMgjR6boK7YdApwNfVXtpKX%3DWCTYAUWY&_ei_=EqMeYp788NeYfd23lKauhdph2sGzrKxP2tlS_ZGGLIIlylhCbpqghN2mpb2ylzroAGNtGc9GutsbFiUbn2moMJXu2M.&_di_=1nsi0pn4llt2vi1j10c62o1jjdp6iou42a6cgaau8jj0n7j6t03g" rilt="Promo">
+		<img alt="FREE SHIPPING on orders of $59 or more. Promo Code: JUNEFS. Ends June 11, 2021" height="146" src="https://static.cdn.responsys.net/i5/responsysimages/haband/contentlibrary/HAB_Promotional/2021Emails/2021_06_Jun/em_hb_20210604_SumSaveFSPromoPC_1274/SHORT-PROMO-FS-JUNEFS_01.jpg" style="background-color:#1898ce; color:#ffffff; font-family:Helvetica,Arial,sans-serif; font-size:20px; display:block" title="FREE SHIPPING on orders of $59 or more. Promo Code: JUNEFS. Ends June 11, 2021" width="600" /></a></td></tr>		
+		
+		<tr>
+		<td height="127px" width="300px">
+		<a href="https://shop.haband.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlYQGpTNb4qtleGfhDGLYoC39d5ifienzgzg9nhusza1NBKohEH1AMgjR6boK7YdApwNfVXtpKX%3DWCTYAUAY&_ei_=EqMeYp788NeYfd23lKauhdph2sGzrKxP2tlS_ZGGLIIlylhCbpqghN2mpb2ylzroAGNtGc9GutsbFiUbn2moMJXu2M.&_di_=di2srbb08l4i8f2b8h0ip34n4g25bqc9birefbktqadcd1d8pnug" rilt="WomensPR">
+		<img alt="FREE SHIPPING on orders of $59 or more. Promo Code: JUNEFS. Ends June 11, 2021 - Shop Women&#39;s" height="127" src="https://static.cdn.responsys.net/i5/responsysimages/haband/contentlibrary/HAB_Promotional/2021Emails/2021_06_Jun/em_hb_20210604_SumSaveFSPromoPC_1274/SHORT-PROMO-FS-JUNEFS_02.jpg" style="background-color:#1898ce; color:#ffffff; font-family:Helvetica,Arial,sans-serif; font-size:20px; display:block" title="FREE SHIPPING on orders of $59 or more. Promo Code: JUNEFS. Ends June 11, 2021 - Shop Women&#39;s" width="300" /></a></td>
+		
+		<td height="127px" width="300px">
+		<a href="https://shop.haband.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlYQGpTNb4qtleGfhDGLYoC39d5ifienzgzg9nhusza1NBKohEH1AMgjR6boK7YdApwNfVXtpKX%3DWCTYAUCY&_ei_=EqMeYp788NeYfd23lKauhdph2sGzrKxP2tlS_ZGGLIIlylhCbpqghN2mpb2ylzroAGNtGc9GutsbFiUbn2moMJXu2M.&_di_=hjurv0f14c31uu26h90qle2etl81olft5kp47bltiohcebc9poi0" rilt="MensPR">
+		<img alt="FREE SHIPPING on orders of $59 or more. Promo Code: JUNEFS. Ends June 11, 2021 - Shop Men&#39;s" height="127" src="https://static.cdn.responsys.net/i5/responsysimages/haband/contentlibrary/HAB_Promotional/2021Emails/2021_06_Jun/em_hb_20210604_SumSaveFSPromoPC_1274/SHORT-PROMO-FS-JUNEFS_03.jpg" style="background-color:#1898ce; color:#ffffff; font-family:Helvetica,Arial,sans-serif; font-size:20px; display:block" title="FREE SHIPPING on orders of $59 or more. Promo Code: JUNEFS. Ends June 11, 2021 - Shop Men&#39;s" width="300" /></a></td>
+		
+		</tr>
+</table></td>
+							</tr>
+                            
+							<!-- OFFER -->
+							<tr>
+								<td align="center" style="padding: 15px 0 0 0;" data-content-region-name="offer">
+</td>
+							</tr>
+							
+							<!-- BONUS -->
+							<tr>
+								<td align="center" style="padding: 0 0 0 0;" data-content-region-name="bonus" class="mobile-text-pad">
+</td>		</tr>
+                            <!-- BONUS -->
+							<tr>
+								<td align="center" style="padding: 0 0 0 0;" data-content-region-name="recs" class="mobile-text-pad">
+</td>		</tr> 
+                            <tr>
+								<td align="center" style="padding: 0 0 0 0;" data-content-region-name="size" class="mobile-text-pad">
+<table  width="600" border="0" cellpadding="0" cellspacing="0">
+		
+		<tr>
+		<td height="145px" width="151px">
+		<a href="https://shop.haband.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlYQGpTNb4qtleGfhDGLYoC39d5ifienzgzg9nhusza1NBKohEH1AMgjR6boK7YdApwNfVXtpKX%3DWCTYAWRY&_ei_=EqMeYp788NeYfd23lKauhdph2sGzrKxP2tlS_ZGGLIIlylhCbpqghN2mpb2ylzroAGNtGc9GutsbFiUbn2moMJXu2M.&_di_=r8valogmgfn3pqajbhde58asmt8n2f5kpuatdi1mfa904j4m8gdg" rilt="SzWmnsRg">
+		<img alt="We Have Your Size! The Looks You Want In Your Perfect Fit! - SHOP MISSES Sizes S-L, 6-16" height="145" src="https://static.cdn.responsys.net/i5/responsysimages/haband/contentlibrary/templates/banners/sizes/EMAIL-SIZESv2_01.jpg" style="background-color:#1898ce; color:#ffffff; font-family:Helvetica,Arial,sans-serif; font-size:20px; display:block" title="We Have Your Size! The Looks You Want In Your Perfect Fit! - SHOP MISSES Sizes S-L, 6-16" width="151" /></a></td>
+		
+		<td height="145px" width="146px">
+		<a href="https://shop.haband.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlYQGpTNb4qtleGfhDGLYoC39d5ifienzgzg9nhusza1NBKohEH1AMgjR6boK7YdApwNfVXtpKX%3DWCTYAWTY&_ei_=EqMeYp788NeYfd23lKauhdph2sGzrKxP2tlS_ZGGLIIlylhCbpqghN2mpb2ylzroAGNtGc9GutsbFiUbn2moMJXu2M.&_di_=ls1aus645hpdk7u00vcub2cqp78bqumkrcmhnlr5skmdld9cu1ng" rilt="SzPetites">
+		<img alt="We Have Your Size! The Looks You Want In Your Perfect Fit! - SHOP PLUS Sizes XL-4XL, 16W-26W" height="145" src="https://static.cdn.responsys.net/i5/responsysimages/haband/contentlibrary/templates/banners/sizes/EMAIL-SIZESv2_02.jpg" style="background-color:#1898ce; color:#ffffff; font-family:Helvetica,Arial,sans-serif; font-size:20px; display:block" title="We Have Your Size! The Looks You Want In Your Perfect Fit! - SHOP PLUS Sizes XL-4XL, 16W-26W" width="146" /></a></td>
+		
+		<td height="145px" width="146px">
+		<a href="https://shop.haband.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlYQGpTNb4qtleGfhDGLYoC39d5ifienzgzg9nhusza1NBKohEH1AMgjR6boK7YdApwNfVXtpKX%3DWCTYAWWY&_ei_=EqMeYp788NeYfd23lKauhdph2sGzrKxP2tlS_ZGGLIIlylhCbpqghN2mpb2ylzroAGNtGc9GutsbFiUbn2moMJXu2M.&_di_=363bpsff7frbar2j4butonem5pa3u5fts37jodq6taiktvt1saf0" rilt="SzPlus">
+		<img alt="We Have Your Size! The Looks You Want In Your Perfect Fit! - SHOP PETITE Sizes PS-P4XL, 6P-26P" height="145" src="https://static.cdn.responsys.net/i5/responsysimages/haband/contentlibrary/templates/banners/sizes/EMAIL-SIZESv2_03.jpg" style="background-color:#1898ce; color:#ffffff; font-family:Helvetica,Arial,sans-serif; font-size:20px; display:block" title="We Have Your Size! The Looks You Want In Your Perfect Fit! - SHOP PETITE Sizes PS-P4XL, 6P-26P" width="146" /></a></td>
+		
+		<td height="145px" width="157px">
+		<a href="https://shop.haband.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlYQGpTNb4qtleGfhDGLYoC39d5ifienzgzg9nhusza1NBKohEH1AMgjR6boK7YdApwNfVXtpKX%3DWCTYAWAY&_ei_=EqMeYp788NeYfd23lKauhdph2sGzrKxP2tlS_ZGGLIIlylhCbpqghN2mpb2ylzroAGNtGc9GutsbFiUbn2moMJXu2M.&_di_=ekqp4sdcr3ltk0b36matnld82idq4ajgl9atkq2lv5gj0po4j4og" rilt="SzMens">
+		<img alt="We Have Your Size! The Looks You Want In Your Perfect Fit! - SHOP MEN'S Sizes up to 6XL" height="145" src="https://static.cdn.responsys.net/i5/responsysimages/haband/contentlibrary/templates/banners/sizes/EMAIL-SIZESv2_04.jpg" style="background-color:#1898ce; color:#ffffff; font-family:Helvetica,Arial,sans-serif; font-size:20px; display:block" title="We Have Your Size! The Looks You Want In Your Perfect Fit! - SHOP MEN'S Sizes up to 6XLs" width="157" /></a></td>
+		
+		</tr>
+</table>
+</td>		</tr> 
+                            							<tr>
+								<td align="center" style="padding: 0 0 0 0;" data-content-region-name="stackednav" class="mobile-text-pad">
+
+<table  width="600" align="center" border="0" cellpadding="0" cellspacing="0">
+		
+		<tr>
+		<td height="20" width="600"></td>
+		</tr>
+
+		<tr>
+		<td height="50px" width="600px">
+		<a href="https://shop.haband.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlYQGpTNb4qtleGfhDGLYoC39d5ifienzgzg9nhusza1NBKohEH1AMgjR6boK7YdApwNfVXtpKX%3DWCTYAWCY&_ei_=EqMeYp788NeYfd23lKauhdph2sGzrKxP2tlS_ZGGLIIlylhCbpqghN2mpb2ylzroAGNtGc9GutsbFiUbn2moMJXu2M.&_di_=km1ijasis4imnhgvt02f1j1nn1dsmlqlcasrp1o5t1focbefd8ug" rilt="WomensStack">
+		<img alt="Shop Women&apos;s" height="50" src="https://static.cdn.responsys.net/i5/responsysimages/haband/contentlibrary/templates/navigation/stacked/STACK_NAV_01.jpg" style="background-color:#000000; color:#ffffff; font-family:Helvetica,Arial,sans-serif; font-size:20px; display:block" title="Shop Women&apos;s" width="600" /></a></td>
+		</tr>
+		
+		<tr>
+		<td height="50px" width="600px">
+		<a href="https://shop.haband.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlYQGpTNb4qtleGfhDGLYoC39d5ifienzgzg9nhusza1NBKohEH1AMgjR6boK7YdApwNfVXtpKX%3DWCTYAYRY&_ei_=EqMeYp788NeYfd23lKauhdph2sGzrKxP2tlS_ZGGLIIlylhCbpqghN2mpb2ylzroAGNtGc9GutsbFiUbn2moMJXu2M.&_di_=4tg9fs22q8thtgo86l4i6ue0hs9es8rdefs3vanmm65lm4jg8500" rilt="MensStack">
+		<img alt="Shop Men&apos;s" height="50" src="https://static.cdn.responsys.net/i5/responsysimages/haband/contentlibrary/templates/navigation/stacked/STACK_NAV_02.jpg" style="background-color:#000000; color:#ffffff; font-family:Helvetica,Arial,sans-serif; font-size:20px; display:block" title="Shop Men&apos;s" width="600" /></a></td>
+		</tr>
+		
+		<tr>
+		<td height="50px" width="600px">
+		<a href="https://shop.haband.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlYQGpTNb4qtleGfhDGLYoC39d5ifienzgzg9nhusza1NBKohEH1AMgjR6boK7YdApwNfVXtpKX%3DWCTYAYTY&_ei_=EqMeYp788NeYfd23lKauhdph2sGzrKxP2tlS_ZGGLIIlylhCbpqghN2mpb2ylzroAGNtGc9GutsbFiUbn2moMJXu2M.&_di_=5mbqtvn4dif1k74ljdrcn82udoaaipaeifehnj2ls4d552skq4i0" rilt="ShoesStack"> 
+		<img alt="Shop Shoes!" height="50" src="https://static.cdn.responsys.net/i5/responsysimages/haband/contentlibrary/templates/navigation/stacked/STACK_NAV_03.jpg" style="background-color:#000000; color:#ffffff; font-family:Helvetica,Arial,sans-serif; font-size:20px; display:block" title="Shop Shoes!" width="600" /></a></td>
+		</tr>
+		
+		<tr>
+		<td height="50px" width="600px">
+		<a href="https://shop.haband.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlYQGpTNb4qtleGfhDGLYoC39d5ifienzgzg9nhusza1NBKohEH1AMgjR6boK7YdApwNfVXtpKX%3DWCTYAYWY&_ei_=EqMeYp788NeYfd23lKauhdph2sGzrKxP2tlS_ZGGLIIlylhCbpqghN2mpb2ylzroAGNtGc9GutsbFiUbn2moMJXu2M.&_di_=0sne93pe9l2jlbpj3i7843fib3q9nbma0ggeqq15bfo10v56e9ag" rilt="ClearanceStack"> 
+		<img alt="Shop Clearance!" height="50" src="https://static.cdn.responsys.net/i5/responsysimages/haband/contentlibrary/templates/navigation/stacked/STACK_NAV_05.jpg" style="background-color:#000000; color:#ffffff; font-family:Helvetica,Arial,sans-serif; font-size:20px; display:block" title="Shop Clearance!" width="600" /></a></td>
+		</tr>
+		
+		<tr>
+		<td height="5" width="600"></td>
+		</tr>
+		
+		</table>
+</td>		</tr>
+											<!-- PLCC POINTS -->      	
+ <tr><td align="center" style="padding: 0 0 0 0;" data-content-region-name="otb_banner" class="mobile-text-pad"><table align="center" width="600">
+  <tbody>
+    <tr>
+      <td align="center" height="155" valign="middle" width="600"><a href="https://shop.haband.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlYQGpTNb4qtleGfhDGLYoC39d5ifienzgzg9nhusza1NBKohEH1AMgjR6boK7YdApwNfVXtpKX%3DWCTYAYAY&_ei_=EqMeYp788NeYfd23lKauhdph2sGzrKxP2tlS_ZGGLIIl8NUK-J-81HRt0cR2LAS5Dawl_0ulxdaNwyKpUrJUy63CW_iht2oMIHYwWnNdr3HswvhadO1xA3B9BlFtZIsCU44t7gw10fTdi4xhBktBNsgjxZrq6jf6AP70r8HKQxIkML4TXjP1VueAQvygZyh40B5OVSIrNM.&_di_=m2r3e3hgp3icm37hoessdnke6thrl2or402d93m1u90q8p2ultb0" rilt="creditcard-banner"><img border="0" height="150" src="https://static.cdn.responsys.net/i5/responsysimages/haband/contentlibrary/templates/banners/images/EMAIL-BANNER-PLCC-10OFF.jpg" style="display:block" width="600" /></a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</td></tr>                               <!-- PAYPAL -->
+                            <tr>
+								<td align="center" style="padding: 0 0 0 0;" data-content-region-name="paypal">
+<table align="center" border="0" cellpadding="0" cellspacing="0" height="49" id="Table_01" width="600">
+   <tbody>
+       <tr><td></td></tr>
+      <tr>
+
+         <td height="41" width="600"><img alt="Now Accepting PayPal!" border="0" height="41" src="https://static.cdn.responsys.net/i5/responsysimages/haband/contentlibrary/templates/footers/Haband_PayPal.gif" style="display:block;font-family:century gothic;color:#000000;font-size:16px;" title="Now Accepting PayPal!" width="600" /></td>
+
+      </tr>
+   </tbody>
+</table>
+</td></tr>
+     
+                            <!-- SOCIAL -->
+                            <tr>
+								<td align="center" style="padding: 0 0 0 0;" data-content-region-name="social">
+<table class="mblHide" align="center" border="0" cellpadding="0" cellspacing="0" width="600">
+  <tbody>
+    <tr>
+      <td style="padding-top: 10px;">
+      </td>
+    </tr>
+    <tr>
+        <td align="center" bgcolor="#4280BA"width="600"><a href="https://shop.haband.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlYQGpTNb4qtleGfhDGLYoC39d5ifienzgzg9nhusza1NBKohEH1AMgjR6boK7YdApwNfVXtpKX%3DWCTYAYCY&_ei_=Eq2tf9zs59idfPO1Sc_9BbnYZJHdtOGdfioM4KsY9j9UwVKS5TDkKU-4OjNq-HEI.&_di_=569mia1hi9bt6p6a7o9258a16u89847mvmk7p8pkeuffd7ev8bfg"><img alt="CONNECT WITH US" src="https://static.cdn.responsys.net/i5/responsysimages/haband/contentlibrary/templates/responsive/images/social.jpg" style="display:block;font-family:century gothic;color:#ffffff;font-size:16px;" width="600" /></a>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding-bottom: 10px;">
+      </td>
+    </tr>
+  </tbody>
+</table>
+</td></tr>
+                             <!-- PARTNER -->
+                            <tr>
+								<td align="center" style="padding: 0 0 0 10px;" data-content-region-name="partner">
+</td></tr>
+							<!-- MOBILE NAV -->
+							<tr>
+<td align="center" style="display: none; padding: 0 0 10px 0;" data-content-region-name="mobile-nav"  class="mso-pad-reset desktop-hide mobile-block">
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="mso-hide: all;" width="100%">
+  <tbody>
+    <tr>
+      <td align="center" style="font-family: century gothic, Arial, sans-serif; font-size: 14px; line-height: 1.0; color: #666666; text-transform: uppercase; -webkit-text-size-adjust: none; padding: 11px 20px 10px 20px; border-bottom: 1px #cccccc dashed;"><a href="https://shop.haband.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlYQGpTNb4qtleGfhDGLYoC39d5ifienzgzg9nhusza1NBKohEH1AMgjR6boK7YdApwNfVXtpKX%3DWCTYAARY&_ei_=EqMeYp788NeYfd23lKauhdph2sGzrKxP2tlS_ZGGLIIl8NUK-J-81HRt0cR2LAS5Dawl_0ulxdaNwyKpUrJUy63CW_iht2oMIHYwWnNdr3HswvhadO1xA3B9BlFtZIsCU44t7gw10fTdi4xhBktBNsgjxZrq6jf6AP70r8HKQxIkML4TXjP1VueAQvygZyh40B5OVSIrNM.&_di_=c5ojpbu3381q061638218p1ruhj5hppi35bc14qplml1m9j287p0" style="color: #666666; text-decoration: none;" target="_blank">Men </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="font-family: century gothic, Arial, sans-serif; font-size: 14px; line-height: 1.0; color: #666666; text-transform: uppercase; -webkit-text-size-adjust: none; padding: 11px 20px 10px 20px; border-bottom: 1px #cccccc dashed;"><a href="https://shop.haband.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlYQGpTNb4qtleGfhDGLYoC39d5ifienzgzg9nhusza1NBKohEH1AMgjR6boK7YdApwNfVXtpKX%3DWCTYAATY&_ei_=EqMeYp788NeYfd23lKauhdph2sGzrKxP2tlS_ZGGLIIl8NUK-J-81HRt0cR2LAS5Dawl_0ulxdaNwyKpUrJUy63CW_iht2oMIHYwWnNdr3HswvhadO1xA3B9BlFtZIsCU44t7gw10fTdi4xhBktBNsgjxZrq6jf6AP70r8HKQxIkML4TXjP1VueAQvygZyh40B5OVSIrNM.&_di_=lvuanrkc4saq5adp843du8c8d4mvde3gqotth2s7gburf4un52o0" style="color: #666666; text-decoration: none;" target="_blank">Women </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="font-family: century gothic, Arial, sans-serif; font-size: 14px; line-height: 1.0; color: #666666; text-transform: uppercase; -webkit-text-size-adjust: none; padding: 11px 20px 10px 20px; border-bottom: 1px #cccccc dashed;"><a href="https://shop.haband.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlYQGpTNb4qtleGfhDGLYoC39d5ifienzgzg9nhusza1NBKohEH1AMgjR6boK7YdApwNfVXtpKX%3DWCTYAAWY&_ei_=EqMeYp788NeYfd23lKauhdph2sGzrKxP2tlS_ZGGLIIl8NUK-J-81HRt0cR2LAS5Dawl_0ulxdaNwyKpUrJUy63CW_iht2oMIHYwWnNdr3HswvhadO1xA3B9BlFtZIsCU44t7gw10fTdi4xhBktBNsgjxZrq6jf6AP70r8HKQxIkML4TXjP1VueAQvygZyh40B5OVSIrNM.&_di_=6qq4h8r3fq5603flepfo1ua3o78969odq0ajm8r61ld5pbkp8uq0" style="color: #666666; text-decoration: none;" target="_blank">Shoes</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="font-family: century gothic, Arial, sans-serif; font-size: 14px; line-height: 1.0; color: #666666; text-transform: uppercase; -webkit-text-size-adjust: none; padding: 11px 20px 10px 20px; border-bottom: 1px #cccccc dashed;"><a href="https://shop.haband.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlYQGpTNb4qtleGfhDGLYoC39d5ifienzgzg9nhusza1NBKohEH1AMgjR6boK7YdApwNfVXtpKX%3DWCTYAAAY&_ei_=EqMeYp788NeYfd23lKauhdph2sGzrKxP2tlS_ZGGLIIl8NUK-J-81HRt0cR2LAS5Dawl_0ulxdaNwyKpUrJUy63CW_iht2oMIHYwWnNdr3HswvhadO1xA3B9BlFtZIsCU44t7gw10fTdi4xhBktBNsgjxZrq6jf6AP70r8HKQxIkML4TXjP1VueAQvygZyh40B5OVSIrNM.&_di_=kljfg0baa37o0j3fng2t0joe3d25k3ei56r67p6ovuonq3qkb880" style="color: #666666; text-decoration: none;" target="_blank">Clearance </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</td>
+                               </tr>
+                             <!-- DISCLAIMER -->
+<tr>
+								<td align="center" style="padding: 0 0 0 0;" class="mobile-text-pad"><table align="center" cellpadding="0" cellspacing="0" width="600">
+  <tbody>
+    <tr align="center">
+      <td align="left" style="font-family: Helvetica, Arial, sans-serif; font-size: 10px; line-height: 1.4; color: #666666; -webkit-text-size-adjust: none; padding: 0 0 10px 0;" data-content-region-name="disclaimer">
+<table align="center" cellpadding="0" cellspacing="0" width="600">
+   <tbody>      <tr>
+         <td><font color="#000001" face="Verdana,Geneva,SunSans-Regular,Helvetica,Swiss" size="1">*Can't be combined with any other offer. Online only promotion. This offer cannot be used on previously placed orders. Not redeemable for cash. To claim Free Standard Shipping  click the link provided in the email above or enter code JUNEFS at checkout. Minimum purchase of $59 or more is required for Free Standard Shipping. Free Standard Shipping applies to areas served by the US Postal Service. Offer ends 11:59pm ET 06/11/2021.</font></td>
+       </tr>
+   </tbody>
+</table></td>
+							</tr>
+                  					
+                                <!-- PLCC DISCLAIMER -->                                
+    							<tr>
+								<td align="left" style="padding: 15px 0 0 0; font-family: Helvetica, Arial, sans-serif; font-size: 10px; line-height: 1.4; color: #666666;" data-content-region-name="otb_disclaimer" class="mobile-text-pad" >
+</td>
+							</tr>  <tr><td></td></tr> 							<!-- FOOTER -->
+							<tr>
+								<td align="center" style="padding: 0 0 0 0;" class="mobile-text-pad">
+									<table width="100%" align="center" cellpadding="0" cellspacing="0" border="0">
+																				
+										<!-- ENSURE -->
+										<tr>
+											<td data-content-region-name="Region18" align="left" style="font-family: Helvetica, Arial, sans-serif; font-size: 10px; line-height: 1.4; color: #666666; -webkit-text-size-adjust: none; padding: 0 0 10px 0;">All Clearance items (price ending in $.97 at time of purchase) are <b>FINAL SALE.</b> These items cannot be returned or exchanged. If you do return it, you will <u>not</u> be refunded for the item or shipment cost.
+<br />
+<br />
+To ensure you continue receiving our emails please add email@shop.haband.com to your address book.</td>
+										</tr>
+										
+										<!-- BROWSER -->
+										<tr>
+											<td align="left" style="font-family: Helvetica, Arial, sans-serif; font-size: 10px; line-height: 1.4; color: #666666; -webkit-text-size-adjust: none; padding: 0 0 10px 0;">
+												Having trouble viewing this email? 
+  <a href="https://shop.haband.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlYQGpTNb4qtleGfhDGLYoC39d5ifienzgzg9nhusza1NBKohEH1AMgjR6boK7YdApwNfVXtpKX%3DWCTYAACY&amp;_ei_=Eq2tf9zs59idfPO1Sc_9BbnYZJHdtOGdfioM4KsY9j9UwVKS5TDkKU-4OjNq-HEI.&amp;_di_=mle4o9u7fc23cgdoihsqf3qik569chocot11e418aufupvs1kjb0" target="_blank" style="color: #666666; text-decoration: underline;">Click here.</a>
+											</td>
+										</tr>
+
+										<!-- UNSUBSCRIBE -->
+										<tr>
+											<td align="left" style="font-family: Helvetica, Arial, sans-serif; font-size: 10px; line-height: 1.4; color: #666666; -webkit-text-size-adjust: none; padding: 0 0 10px 0;">
+												This email may be considered an advertising or promotional message. If you no longer wish to receive these emails, unsubscribe by clicking 
+       <a href="https://shop.haband.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlYQGpTNb4qtleGfhDGLYoC39d5ifienzgzg9nhusza1NBKohEH1AMgjR6boK7YdApwNfVXtpKX%3DWCTYABRY&amp;_ei_=EiwPQ42l-mBFJGD0ZPxQdvkb7Py0Z1c5w9Q340nHmlnI2fjgTs_xgCZe_GDBUNvwoNJRr68j6JYyBBjnq9pOTaVKwspdjk2-rai1o4Ww1PV-fO_VZF1R3qA_59qcFlris_4Ra2g.&amp;_di_=oet6ditjn9j5coqueslbv8vaem7dc31618hf2h64dotgmim6lghg" target="_blank" style="color: #666666; text-decoration: underline;">here</a>.
+											</td>
+										</tr>
+										
+										<!-- CONTACT -->
+										<tr>
+											<td align="left" style="font-family: Helvetica, Arial, sans-serif; font-size: 10px; line-height: 1.4; color: #666666; -webkit-text-size-adjust: none; padding: 0 0 10px 0;">
+												Need to change your email address for Haband specials? Contact <a href="https://shop.haband.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlYQGpTNb4qtleGfhDGLYoC39d5ifienzgzg9nhusza1NBKohEH1AMgjR6boK7YdApwNfVXtpKX%3DWCTYABTY&amp;_ei_=EqMeYp788NeYfd23lKauhdph2sGzrKxP2tlS_ZGGLIIl8NUK-J-81HRt0cR2LAS5Dawl_0ulxdaNwyKpUrJUy63CW_iht2oMIHYwWnNdr3HswvhadO1xA3B9BlFtZIsCU44t7gw10fTdi4xhBktBNsgjxZrq6jf6AP70r8HKQxIkML4TXjP1VueAQvygZyh40B5OVSIrNM.&amp;_di_=mqd4unb4q8dmf0jt3cee7q43gvgehf61akfk6re2a5idctlqpb20" target="_blank" style="color: #666666; text-decoration: underline;">service@haband.net</a>.
+											</td>
+										</tr>
+										<tr>
+											<td align="left" style="font-family: Helvetica, Arial, sans-serif; font-size: 10px; line-height: 1.4; color: #666666; -webkit-text-size-adjust: none; padding: 0 0 10px 0;">
+												 <a href="https://shop.haband.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlYQGpTNb4qtleGfhDGLYoC39d5ifienzgzg9nhusza1NBKohEH1AMgjR6boK7YdApwNfVXtpKX%3DWCTYABWY&amp;_ei_=EqMeYp788NeYfd23lKauhdph2sGzrKxP2tlS_ZGGLIIl8NUK-J-81HRt0cR2LAS5Dawl_0ulxdaNwyKpUrJUy63CW_iht2oMIHYwWnNdr3HswvhadO1xA3B9BlFtZIsCU44t7gw10fTdi4xhBktBNsgjxZrq6jf6AP70r8HKQxIkML4TXjP1VueAQvygZyh40B5OVSIrNM.&amp;_di_=oa9qu293o5f9aigir2i42kjhfiqruqpghlg8i5791dna3crlmthg" target="_blank" style="color: #666666; text-decoration: underline;">Customer Service</a>&nbsp; | &nbsp; <a href="https://shop.haband.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlYQGpTNb4qtleGfhDGLYoC39d5ifienzgzg9nhusza1NBKohEH1AMgjR6boK7YdApwNfVXtpKX%3DWCTYABAY&amp;_ei_=EqMeYp788NeYfd23lKauhdph2sGzrKxP2tlS_ZGGLIIlylhCbpqghN2mpb2ylzroAGNtGc9GutsbFiUbn2moMJXu2M.&amp;_di_=nf0r1jjdsiptg7kvkuj6sjvbartdvaquj2japv3p2fmj35q4do40" target="_blank" style="color: #666666; text-decoration: underline;">Privacy Policy</a>
+											</td>
+										</tr>
+										
+										<!-- COPYRIGHT -->
+										<tr>
+											<td align="left" style="font-family: Helvetica, Arial, sans-serif; font-size: 10px; line-height: 1.4; color: #666666; -webkit-text-size-adjust: none; padding: 0 0 20px 0;">
+												&copy; 2021 Haband. All Rights Reserved.<br>
+1 International Blvd Suite<br>
+800 Mahwah, NJ 07495
+											</td>
+										</tr>
+                                        <tr>
+                                      <td align="center" style="padding-bottom:20px;font-family:Verdana, Helvetica, Arial, sans-serif; font-size:11px; color:#dcdcdc; text-align:left;" valign="top"><span style="font-weight:bold;">em_hb_20210604_SumSaveFSPromoPC_WnUn_1274</span></td>
+                                 </tr>
+									</table>
+								</td>
+							</tr>
+                                    </table></td></tr></tbody></table></td></tr></table></td></tr></table></center><table cellpadding="0" cellspacing="0" style="border: 0px; padding: 0px; margin: 0px; position: absolute; display: none; float: left">
+<tr>
+<td height="1" style="font-size: 1px; line-height: 1px; padding: 0px;">
+<br><img src="https://shop.haband.com/pub/as?_ri_=X0Gzc2X%3DAQpglLjHJlYQGpTNb4qtleGfhDGLYoC39d5ifienzgzg9nhusza1NBKohEH1AMgjR6boK7YdApwNfVXHkMX%3Dw&_ei_=EolaGGF4SNMvxFF7KucKuWOuFL-otA90wNm7AgejKFmHUQpU5TvxJM."></img>
+<br><!--Start BK pixel--><IMG SRC="https://tags.bluekai.com/site/35866?e_id_s35866=575082e2399fc084c48586e1445eec354f86a1e79b8c31293cf1dead56b8d14d&e_id_m35866=8e27d72118a85883744252ea6ab7cb16&id=" HEIGHT="1" WIDTH="1"><!--End BK pixel-->
+</td>
+</tr>
+</table></body></html>
+
+

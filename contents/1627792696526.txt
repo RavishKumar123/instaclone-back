@@ -1,0 +1,842 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional //EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+
+<head>
+	<!--[if gte mso 9]><xml><o:OfficeDocumentSettings><o:AllowPNG/><o:PixelsPerInch>96</o:PixelsPerInch></o:OfficeDocumentSettings></xml><![endif]-->
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="viewport" content="width=device-width">
+	<!--[if !mso]><!-->
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<!--<![endif]-->
+	<title></title>
+	<!--[if !mso]><!-->
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css">
+	<!--<![endif]-->
+	<style type="text/css">		body {
+			margin: 0;
+			padding: 0;
+		}
+
+		table,
+		td,
+		tr {
+			vertical-align: top;
+			border-collapse: collapse;
+		}
+
+		* {
+			line-height: inherit;
+		}
+
+		a[x-apple-data-detectors=true] {
+			color: inherit !important;
+			text-decoration: none !important;
+		}
+	</style>
+	<style type="text/css" id="media-query">		@media (max-width: 620px) {
+
+			.block-grid,
+			.col {
+				min-width: 320px !important;
+				max-width: 100% !important;
+				display: block !important;
+			}
+
+			.block-grid {
+				width: 100% !important;
+			}
+
+			.col {
+				width: 100% !important;
+			}
+
+			.col_cont {
+				margin: 0 auto;
+			}
+
+			img.fullwidth,
+			img.fullwidthOnMobile {
+				max-width: 100% !important;
+			}
+
+			.no-stack .col {
+				min-width: 0 !important;
+				display: table-cell !important;
+			}
+
+			.no-stack.two-up .col {
+				width: 50% !important;
+			}
+
+			.no-stack .col.num2 {
+				width: 16.6% !important;
+			}
+
+			.no-stack .col.num3 {
+				width: 25% !important;
+			}
+
+			.no-stack .col.num4 {
+				width: 33% !important;
+			}
+
+			.no-stack .col.num5 {
+				width: 41.6% !important;
+			}
+
+			.no-stack .col.num6 {
+				width: 50% !important;
+			}
+
+			.no-stack .col.num7 {
+				width: 58.3% !important;
+			}
+
+			.no-stack .col.num8 {
+				width: 66.6% !important;
+			}
+
+			.no-stack .col.num9 {
+				width: 75% !important;
+			}
+
+			.no-stack .col.num10 {
+				width: 83.3% !important;
+			}
+
+			.video-block {
+				max-width: none !important;
+			}
+
+			.mobile_hide {
+				min-height: 0px;
+				max-height: 0px;
+				max-width: 0px;
+				display: none;
+				overflow: hidden;
+				font-size: 0px;
+			}
+
+			.desktop_hide {
+				display: block !important;
+				max-height: none !important;
+			}
+		}
+	</style>
+</head>
+
+<body class="clean-body" style="margin: 0; padding: 0; -webkit-text-size-adjust: 100%; background-color: #FFFFFF;">
+	<!--[if IE]><div class="ie-browser"><![endif]-->
+	<table class="nl-container" style="table-layout: fixed; vertical-align: top; min-width: 320px; border-spacing: 0; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #FFFFFF; width: 100%;" cellpadding="0" cellspacing="0" role="presentation" width="100%" bgcolor="#FFFFFF" valign="top">
+		<tbody>
+			<tr style="vertical-align: top;" valign="top">
+				<td style="word-break: break-word; vertical-align: top;" valign="top">
+					<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td align="center" style="background-color:#FFFFFF"><![endif]-->
+					<div style="background-color:transparent;">
+						<div class="block-grid " style="min-width: 320px; max-width: 600px; overflow-wrap: break-word; word-wrap: break-word; word-break: break-word; Margin: 0 auto; background-color: transparent;">
+							<div style="border-collapse: collapse;display: table;width: 100%;background-color:transparent;">
+								<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:transparent;"><tr><td align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:600px"><tr class="layout-full-width" style="background-color:transparent"><![endif]-->
+								<!--[if (mso)|(IE)]><td align="center" width="600" style="background-color:transparent;width:600px; border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent;" valign="top"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 0px; padding-left: 0px; padding-top:5px; padding-bottom:5px;"><![endif]-->
+								<div class="col num12" style="min-width: 320px; max-width: 600px; display: table-cell; vertical-align: top; width: 600px;">
+									<div class="col_cont" style="width:100% !important;">
+										<!--[if (!mso)&(!IE)]><!-->
+										<div style="border-top:0px solid transparent; border-left:0px solid transparent; border-bottom:0px solid transparent; border-right:0px solid transparent; padding-top:5px; padding-bottom:5px; padding-right: 0px; padding-left: 0px;">
+											<!--<![endif]-->
+											<div style="font-size:16px;text-align:center;font-family:Helvetica Neue, Helvetica, Arial, sans-serif">
+												<div style="display: none; max-height: 0px; overflow: hidden;">
+													Shop the looks, see the action, live stream the runway show </div>
+											</div>
+											<!--[if (!mso)&(!IE)]><!-->
+										</div>
+										<!--<![endif]-->
+									</div>
+								</div>
+								<!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+								<!--[if (mso)|(IE)]></td></tr></table></td></tr></table><![endif]-->
+							</div>
+						</div>
+					</div>
+					<div style="background-color:transparent;">
+						<div class="block-grid two-up no-stack" style="min-width: 320px; max-width: 600px; overflow-wrap: break-word; word-wrap: break-word; word-break: break-word; Margin: 0 auto; background-color: transparent;">
+							<div style="border-collapse: collapse;display: table;width: 100%;background-color:transparent;">
+								<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:transparent;"><tr><td align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:600px"><tr class="layout-full-width" style="background-color:transparent"><![endif]-->
+								<!--[if (mso)|(IE)]><td align="center" width="300" style="background-color:transparent;width:300px; border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent;" valign="top"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 0px; padding-left: 0px; padding-top:5px; padding-bottom:20px;"><![endif]-->
+								<div class="col num6" style="display: table-cell; vertical-align: top; max-width: 320px; min-width: 300px; width: 300px;">
+									<div class="col_cont" style="width:100% !important;">
+										<!--[if (!mso)&(!IE)]><!-->
+										<div style="border-top:0px solid transparent; border-left:0px solid transparent; border-bottom:0px solid transparent; border-right:0px solid transparent; padding-top:5px; padding-bottom:20px; padding-right: 0px; padding-left: 0px;">
+											<!--<![endif]-->
+											<div class="img-container left fixedwidth" align="left" style="padding-right: 0px;padding-left: 10px;">
+												<!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr style="line-height:0px"><td style="padding-right: 0px;padding-left: 10px;" align="left"><![endif]-->
+												<div style="font-size:1px;line-height:10px">&nbsp;</div><a data-link_id="92147" href="https://t03.mailsrv-e.com/click?v=2&umk=60b9b4df04d706.9717330860b9b4df0&origurl=aHR0cHM6Ly9wZS1uYXRpb24uY29tL25ldy1hcnJpdmFscy8%2FdXRtX3NvdXJjZT1zbWFydG1haWwmdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249MDQuMDYuMjElMjBGQVNISU9OJTIwV0VFSyUyMEFBRldfVVMmdXRtX2NvbnRlbnQ9Jl9ybUlkPVcyTUUwOHd5NjhJd09MWWJCTk9sVHl6QjZLcnYzT2h2cjAzN0JZbg%3D%3D&link_id=92147&s=50feb58db787989c0399cce5dff910e0" target="_blank" style="outline:none" tabindex="-1"><img class="left fixedwidth" border="0" src="https://img-cdn.mailsrv-e.com/private/xa3p9kXK/P.E-NATION-LOGO-LANDSCAPE-BLACK.png" alt="P.E NATION" title="P.E NATION" style="text-decoration: none; -ms-interpolation-mode: bicubic; height: auto; border: 0; width: 100%; max-width: 210px; display: block;" width="210"></a>
+												<!--[if mso]></td></tr></table><![endif]-->
+											</div>
+											<!--[if (!mso)&(!IE)]><!-->
+										</div>
+										<!--<![endif]-->
+									</div>
+								</div>
+								<!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+								<!--[if (mso)|(IE)]></td><td align="center" width="300" style="background-color:transparent;width:300px; border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent;" valign="top"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 0px; padding-left: 0px; padding-top:5px; padding-bottom:5px;"><![endif]-->
+								<div class="col num6" style="display: table-cell; vertical-align: top; max-width: 320px; min-width: 300px; width: 300px;">
+									<div class="col_cont" style="width:100% !important;">
+										<!--[if (!mso)&(!IE)]><!-->
+										<div style="border-top:0px solid transparent; border-left:0px solid transparent; border-bottom:0px solid transparent; border-right:0px solid transparent; padding-top:5px; padding-bottom:5px; padding-right: 0px; padding-left: 0px;">
+											<!--<![endif]-->
+											<div class="mobile_hide">
+												<!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 10px; padding-left: 10px; padding-top: 15px; padding-bottom: 0px; font-family: Arial, sans-serif"><![endif]-->
+												<div style="color:#000000;font-family:Helvetica Neue, Helvetica, Arial, sans-serif;line-height:1.2;padding-top:15px;padding-right:10px;padding-bottom:0px;padding-left:10px;">
+													<div class="txtTinyMce-wrapper" style="line-height: 1.2; font-size: 12px; color: #000000; font-family: Helvetica Neue, Helvetica, Arial, sans-serif; mso-line-height-alt: 14px;">
+														<p style="margin: 0; font-size: 10px; line-height: 1.2; word-break: break-word; text-align: right; mso-line-height-alt: 12px; margin-top: 0; margin-bottom: 0;"><span style="font-size: 10px;"><a data-link_id="54750" href="https://t03.mailsrv-e.com/click?v=2&umk=60b9b4df04d706.9717330860b9b4df0&origurl=aHR0cHM6Ly9wZS1uYXRpb24uY29tL3Nob3AvP3V0bV9zb3VyY2U9c21hcnRtYWlsJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPTA0LjA2LjIxJTIwRkFTSElPTiUyMFdFRUslMjBBQUZXX1VTJnV0bV9jb250ZW50PSZfcm1JZD1XMk1FMDh3eTY4SXdPTFliQk5PbFR5ekI2S3J2M09odnIwMzdCWW4%3D&link_id=54750&s=50feb58db787989c0399cce5dff910e0" target="_blank" style="text-decoration: underline; color: #000000;" rel="noopener">SHOP&nbsp;</a> &nbsp; <a data-link_id="45521" href="https://t03.mailsrv-e.com/click?v=2&umk=60b9b4df04d706.9717330860b9b4df0&origurl=aHR0cHM6Ly9wZS1uYXRpb24uY29tL25ldy1hcnJpdmFscy8%2FdXRtX3NvdXJjZT1zbWFydG1haWwmdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249MDQuMDYuMjElMjBGQVNISU9OJTIwV0VFSyUyMEFBRldfVVMmdXRtX2NvbnRlbnQ9Jl9ybUlkPVcyTUUwOHd5NjhJd09MWWJCTk9sVHl6QjZLcnYzT2h2cjAzN0JZbg%3D%3D&link_id=45521&s=50feb58db787989c0399cce5dff910e0" target="_blank" style="text-decoration: underline; color: #000000;" rel="noopener">NEW ARRIVALS </a>&nbsp; &nbsp;<a data-link_id="77881" style="text-decoration: underline; color: #000000;" href="https://t03.mailsrv-e.com/click?v=2&umk=60b9b4df04d706.9717330860b9b4df0&origurl=aHR0cHM6Ly9wZS1uYXRpb24uY29tL2V4Y2x1c2l2ZXMvP3V0bV9zb3VyY2U9c21hcnRtYWlsJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPTA0LjA2LjIxJTIwRkFTSElPTiUyMFdFRUslMjBBQUZXX1VTJnV0bV9jb250ZW50PSZfcm1JZD1XMk1FMDh3eTY4SXdPTFliQk5PbFR5ekI2S3J2M09odnIwMzdCWW4%3D&link_id=77881&s=50feb58db787989c0399cce5dff910e0" target="_blank" rel="noopener">EXCLUSIVES</a></span></p>
+													</div>
+												</div>
+												<!--[if mso]></td></tr></table><![endif]-->
+											</div>
+											<!--[if (!mso)&(!IE)]><!-->
+										</div>
+										<!--<![endif]-->
+									</div>
+								</div>
+								<!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+								<!--[if (mso)|(IE)]></td></tr></table></td></tr></table><![endif]-->
+							</div>
+						</div>
+					</div>
+					<div style="background-color:transparent;">
+						<div class="block-grid  no-stack" style="min-width: 320px; max-width: 600px; overflow-wrap: break-word; word-wrap: break-word; word-break: break-word; Margin: 0 auto; background-color: transparent;">
+							<div style="border-collapse: collapse;display: table;width: 100%;background-color:transparent;">
+								<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:transparent;"><tr><td align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:600px"><tr class="layout-full-width" style="background-color:transparent"><![endif]-->
+								<!--[if (mso)|(IE)]><td align="center" width="600" style="background-color:transparent;width:600px; border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent;" valign="top"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 0px; padding-left: 0px; padding-top:10px; padding-bottom:0px;"><![endif]-->
+								<div class="col num12" style="min-width: 320px; max-width: 600px; display: table-cell; vertical-align: top; width: 600px;">
+									<div class="col_cont" style="width:100% !important;">
+										<!--[if (!mso)&(!IE)]><!-->
+										<div style="border-top:0px solid transparent; border-left:0px solid transparent; border-bottom:0px solid transparent; border-right:0px solid transparent; padding-top:10px; padding-bottom:0px; padding-right: 0px; padding-left: 0px;">
+											<!--<![endif]-->
+											<div class="img-container center  autowidth  fullwidth" align="center" style="padding-right: 0px;padding-left: 0px;">
+												<!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr style="line-height:0px"><td style="padding-right: 0px;padding-left: 0px;" align="center"><![endif]--><a data-link_id="48957" href="https://t03.mailsrv-e.com/click?v=2&umk=60b9b4df04d706.9717330860b9b4df0&origurl=aHR0cHM6Ly9hcHAubnlmdy5jb20vbGl2ZS8xODMyMzgvYWZ0ZXJwYXlzLWZ1dHVyZS1vZi1mYXNoaW9uLXJ1bndheT91dG1fc291cmNlPXNtYXJ0bWFpbCZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj0wNC4wNi4yMSUyMEZBU0hJT04lMjBXRUVLJTIwQUFGV19VUyZ1dG1fY29udGVudD0mX3JtSWQ9VzJNRTA4d3k2OEl3T0xZYkJOT2xUeXpCNktydjNPaHZyMDM3Qllu&link_id=48957&s=50feb58db787989c0399cce5dff910e0" target="_blank" style="outline:none" tabindex="-1"><img class="center  autowidth  fullwidth" align="center" border="0" src="https://img-cdn.mailsrv-e.com/private/xa3p9kXK/AAFW%2021/0406_AAFW_01.gif" alt="P.E NATION" title="P.E NATION" style="text-decoration: none; -ms-interpolation-mode: bicubic; height: auto; border: 0; width: 100%; max-width: 600px; display: block;" width="600"></a>
+												<!--[if mso]></td></tr></table><![endif]-->
+											</div>
+											<!--[if (!mso)&(!IE)]><!-->
+										</div>
+										<!--<![endif]-->
+									</div>
+								</div>
+								<!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+								<!--[if (mso)|(IE)]></td></tr></table></td></tr></table><![endif]-->
+							</div>
+						</div>
+					</div>
+					<div style="background-color:transparent;">
+						<div class="block-grid  no-stack" style="min-width: 320px; max-width: 600px; overflow-wrap: break-word; word-wrap: break-word; word-break: break-word; Margin: 0 auto; background-color: transparent;">
+							<div style="border-collapse: collapse;display: table;width: 100%;background-color:transparent;">
+								<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:transparent;"><tr><td align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:600px"><tr class="layout-full-width" style="background-color:transparent"><![endif]-->
+								<!--[if (mso)|(IE)]><td align="center" width="600" style="background-color:transparent;width:600px; border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent;" valign="top"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 0px; padding-left: 0px; padding-top:60px; padding-bottom:50px;"><![endif]-->
+								<div class="col num12" style="min-width: 320px; max-width: 600px; display: table-cell; vertical-align: top; width: 600px;">
+									<div class="col_cont" style="width:100% !important;">
+										<!--[if (!mso)&(!IE)]><!-->
+										<div style="border-top:0px solid transparent; border-left:0px solid transparent; border-bottom:0px solid transparent; border-right:0px solid transparent; padding-top:60px; padding-bottom:50px; padding-right: 0px; padding-left: 0px;">
+											<!--<![endif]-->
+											<div class="img-container center autowidth" align="center" style="padding-right: 0px;padding-left: 0px;">
+												<!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr style="line-height:0px"><td style="padding-right: 0px;padding-left: 0px;" align="center"><![endif]--><a data-link_id="54315" href="https://t03.mailsrv-e.com/click?v=2&umk=60b9b4df04d706.9717330860b9b4df0&origurl=aHR0cHM6Ly9hcHAubnlmdy5jb20vbGl2ZS8xODMyMzgvYWZ0ZXJwYXlzLWZ1dHVyZS1vZi1mYXNoaW9uLXJ1bndheT91dG1fc291cmNlPXNtYXJ0bWFpbCZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj0wNC4wNi4yMSUyMEZBU0hJT04lMjBXRUVLJTIwQUFGV19VUyZ1dG1fY29udGVudD0mX3JtSWQ9VzJNRTA4d3k2OEl3T0xZYkJOT2xUeXpCNktydjNPaHZyMDM3Qllu&link_id=54315&s=50feb58db787989c0399cce5dff910e0" target="_blank" style="outline:none" tabindex="-1"><img class="center autowidth" align="center" border="0" src="https://img-cdn.mailsrv-e.com/private/xa3p9kXK/AAFW%2021/0406_AAFW_02.jpg" style="text-decoration: none; -ms-interpolation-mode: bicubic; height: auto; border: 0; width: 100%; max-width: 600px; display: block;" width="600"></a>
+												<!--[if mso]></td></tr></table><![endif]-->
+											</div>
+											<div class="img-container center autowidth" align="center" style="padding-right: 0px;padding-left: 0px;">
+												<!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr style="line-height:0px"><td style="padding-right: 0px;padding-left: 0px;" align="center"><![endif]-->
+												<div style="font-size:1px;line-height:60px">&nbsp;</div><a data-link_id="46858" href="https://t03.mailsrv-e.com/click?v=2&umk=60b9b4df04d706.9717330860b9b4df0&origurl=aHR0cHM6Ly9hcHAubnlmdy5jb20vbGl2ZS8xODMyMzgvYWZ0ZXJwYXlzLWZ1dHVyZS1vZi1mYXNoaW9uLXJ1bndheT91dG1fc291cmNlPXNtYXJ0bWFpbCZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj0wNC4wNi4yMSUyMEZBU0hJT04lMjBXRUVLJTIwQUFGV19VUyZ1dG1fY29udGVudD0mX3JtSWQ9VzJNRTA4d3k2OEl3T0xZYkJOT2xUeXpCNktydjNPaHZyMDM3Qllu&link_id=46858&s=50feb58db787989c0399cce5dff910e0" target="_blank" style="outline:none" tabindex="-1"><img class="center autowidth" align="center" border="0" src="https://img-cdn.mailsrv-e.com/private/xa3p9kXK/AAFW%2021/0406_AAFW_03.jpg" style="text-decoration: none; -ms-interpolation-mode: bicubic; height: auto; border: 0; width: 100%; max-width: 600px; display: block;" width="600"></a>
+												<!--[if mso]></td></tr></table><![endif]-->
+											</div>
+											<div class="img-container center autowidth" align="center" style="padding-right: 0px;padding-left: 0px;">
+												<!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr style="line-height:0px"><td style="padding-right: 0px;padding-left: 0px;" align="center"><![endif]-->
+												<div style="font-size:1px;line-height:60px">&nbsp;</div><a data-link_id="40912" href="https://t03.mailsrv-e.com/click?v=2&umk=60b9b4df04d706.9717330860b9b4df0&origurl=aHR0cHM6Ly9hcHAubnlmdy5jb20vdmlkZW8vMjI3NzYyL2luLWNvbnZlcnNhdGlvbi13aXRoLWFsZXgtcGVycnktYW5kLXBlLW5hdGlvbi1hdC1hYWZ3LTIwMjE%2FdXRtX3NvdXJjZT1zbWFydG1haWwmdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249MDQuMDYuMjElMjBGQVNISU9OJTIwV0VFSyUyMEFBRldfVVMmdXRtX2NvbnRlbnQ9Jl9ybUlkPVcyTUUwOHd5NjhJd09MWWJCTk9sVHl6QjZLcnYzT2h2cjAzN0JZbg%3D%3D&link_id=40912&s=50feb58db787989c0399cce5dff910e0" target="_blank" style="outline:none" tabindex="-1"><img class="center autowidth" align="center" border="0" src="https://img-cdn.mailsrv-e.com/private/xa3p9kXK/AAFW%2021/0406_AAFW_04.jpg" style="text-decoration: none; -ms-interpolation-mode: bicubic; height: auto; border: 0; width: 100%; max-width: 600px; display: block;" width="600"></a>
+												<!--[if mso]></td></tr></table><![endif]-->
+											</div>
+											<!--[if (!mso)&(!IE)]><!-->
+										</div>
+										<!--<![endif]-->
+									</div>
+								</div>
+								<!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+								<!--[if (mso)|(IE)]></td></tr></table></td></tr></table><![endif]-->
+							</div>
+						</div>
+					</div>
+					<div style="background-color:transparent;">
+						<div class="block-grid  no-stack" style="min-width: 320px; max-width: 600px; overflow-wrap: break-word; word-wrap: break-word; word-break: break-word; Margin: 0 auto; background-color: transparent;">
+							<div style="border-collapse: collapse;display: table;width: 100%;background-color:transparent;">
+								<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:transparent;"><tr><td align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:600px"><tr class="layout-full-width" style="background-color:transparent"><![endif]-->
+								<!--[if (mso)|(IE)]><td align="center" width="600" style="background-color:transparent;width:600px; border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent;" valign="top"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 0px; padding-left: 0px; padding-top:10px; padding-bottom:60px;"><![endif]-->
+								<div class="col num12" style="min-width: 320px; max-width: 600px; display: table-cell; vertical-align: top; width: 600px;">
+									<div class="col_cont" style="width:100% !important;">
+										<!--[if (!mso)&(!IE)]><!-->
+										<div style="border-top:0px solid transparent; border-left:0px solid transparent; border-bottom:0px solid transparent; border-right:0px solid transparent; padding-top:10px; padding-bottom:60px; padding-right: 0px; padding-left: 0px;">
+											<!--<![endif]-->
+											<div class="img-container center autowidth" align="center" style="padding-right: 0px;padding-left: 0px;">
+												<!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr style="line-height:0px"><td style="padding-right: 0px;padding-left: 0px;" align="center"><![endif]--><a data-link_id="64957" href="https://t03.mailsrv-e.com/click?v=2&umk=60b9b4df04d706.9717330860b9b4df0&origurl=aHR0cHM6Ly9hcHAubnlmdy5jb20vdmlkZW8vMjI3NzYyL2luLWNvbnZlcnNhdGlvbi13aXRoLWFsZXgtcGVycnktYW5kLXBlLW5hdGlvbi1hdC1hYWZ3LTIwMjE%2FdXRtX3NvdXJjZT1zbWFydG1haWwmdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249MDQuMDYuMjElMjBGQVNISU9OJTIwV0VFSyUyMEFBRldfVVMmdXRtX2NvbnRlbnQ9Jl9ybUlkPVcyTUUwOHd5NjhJd09MWWJCTk9sVHl6QjZLcnYzT2h2cjAzN0JZbg%3D%3D&link_id=64957&s=50feb58db787989c0399cce5dff910e0" target="_blank" style="outline:none" tabindex="-1"><img class="center autowidth" align="center" border="0" src="https://img-cdn.mailsrv-e.com/private/xa3p9kXK/AAFW%2021/0406_AAFW_05.jpg" style="text-decoration: none; -ms-interpolation-mode: bicubic; height: auto; border: 0; width: 100%; max-width: 600px; display: block;" width="600"></a>
+												<!--[if mso]></td></tr></table><![endif]-->
+											</div>
+											<!--[if (!mso)&(!IE)]><!-->
+										</div>
+										<!--<![endif]-->
+									</div>
+								</div>
+								<!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+								<!--[if (mso)|(IE)]></td></tr></table></td></tr></table><![endif]-->
+							</div>
+						</div>
+					</div>
+					<div style="background-color:transparent;">
+						<div class="block-grid  no-stack" style="min-width: 320px; max-width: 600px; overflow-wrap: break-word; word-wrap: break-word; word-break: break-word; Margin: 0 auto; background-color: transparent;">
+							<div style="border-collapse: collapse;display: table;width: 100%;background-color:transparent;">
+								<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:transparent;"><tr><td align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:600px"><tr class="layout-full-width" style="background-color:transparent"><![endif]-->
+								<!--[if (mso)|(IE)]><td align="center" width="600" style="background-color:transparent;width:600px; border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent;" valign="top"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 0px; padding-left: 0px; padding-top:5px; padding-bottom:5px;"><![endif]-->
+								<div class="col num12" style="min-width: 320px; max-width: 600px; display: table-cell; vertical-align: top; width: 600px;">
+									<div class="col_cont" style="width:100% !important;">
+										<!--[if (!mso)&(!IE)]><!-->
+										<div style="border-top:0px solid transparent; border-left:0px solid transparent; border-bottom:0px solid transparent; border-right:0px solid transparent; padding-top:5px; padding-bottom:5px; padding-right: 0px; padding-left: 0px;">
+											<!--<![endif]-->
+											<div class="img-container center autowidth" align="center" style="padding-right: 0px;padding-left: 0px;">
+												<!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr style="line-height:0px"><td style="padding-right: 0px;padding-left: 0px;" align="center"><![endif]--><a data-link_id="98395" href="https://t03.mailsrv-e.com/click?v=2&umk=60b9b4df04d706.9717330860b9b4df0&origurl=aHR0cHM6Ly9hcHAubnlmdy5jb20vdmlkZW8vMjI3NzYyL2luLWNvbnZlcnNhdGlvbi13aXRoLWFsZXgtcGVycnktYW5kLXBlLW5hdGlvbi1hdC1hYWZ3LTIwMjE%2FdXRtX3NvdXJjZT1zbWFydG1haWwmdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249MDQuMDYuMjElMjBGQVNISU9OJTIwV0VFSyUyMEFBRldfVVMmdXRtX2NvbnRlbnQ9Jl9ybUlkPVcyTUUwOHd5NjhJd09MWWJCTk9sVHl6QjZLcnYzT2h2cjAzN0JZbg%3D%3D&link_id=98395&s=50feb58db787989c0399cce5dff910e0" target="_blank" style="outline:none" tabindex="-1"><img class="center autowidth" align="center" border="0" src="https://img-cdn.mailsrv-e.com/private/xa3p9kXK/AAFW%2021/0406_AAFW_06.jpg" style="text-decoration: none; -ms-interpolation-mode: bicubic; height: auto; border: 0; width: 100%; max-width: 600px; display: block;" width="600"></a>
+												<!--[if mso]></td></tr></table><![endif]-->
+											</div>
+											<!--[if (!mso)&(!IE)]><!-->
+										</div>
+										<!--<![endif]-->
+									</div>
+								</div>
+								<!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+								<!--[if (mso)|(IE)]></td></tr></table></td></tr></table><![endif]-->
+							</div>
+						</div>
+					</div>
+					<div style="background-color:transparent;">
+						<div class="block-grid  no-stack" style="min-width: 320px; max-width: 600px; overflow-wrap: break-word; word-wrap: break-word; word-break: break-word; Margin: 0 auto; background-color: transparent;">
+							<div style="border-collapse: collapse;display: table;width: 100%;background-color:transparent;">
+								<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:transparent;"><tr><td align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:600px"><tr class="layout-full-width" style="background-color:transparent"><![endif]-->
+								<!--[if (mso)|(IE)]><td align="center" width="600" style="background-color:transparent;width:600px; border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent;" valign="top"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 0px; padding-left: 0px; padding-top:55px; padding-bottom:50px;"><![endif]-->
+								<div class="col num12" style="min-width: 320px; max-width: 600px; display: table-cell; vertical-align: top; width: 600px;">
+									<div class="col_cont" style="width:100% !important;">
+										<!--[if (!mso)&(!IE)]><!-->
+										<div style="border-top:0px solid transparent; border-left:0px solid transparent; border-bottom:0px solid transparent; border-right:0px solid transparent; padding-top:55px; padding-bottom:50px; padding-right: 0px; padding-left: 0px;">
+											<!--<![endif]-->
+											<div class="img-container center autowidth" align="center" style="padding-right: 0px;padding-left: 0px;">
+												<!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr style="line-height:0px"><td style="padding-right: 0px;padding-left: 0px;" align="center"><![endif]--><a data-link_id="34286" href="https://t03.mailsrv-e.com/click?v=2&umk=60b9b4df04d706.9717330860b9b4df0&origurl=aHR0cHM6Ly9hcHAubnlmdy5jb20vdmlkZW8vMjI3NzYyL2luLWNvbnZlcnNhdGlvbi13aXRoLWFsZXgtcGVycnktYW5kLXBlLW5hdGlvbi1hdC1hYWZ3LTIwMjE%2FdXRtX3NvdXJjZT1zbWFydG1haWwmdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249MDQuMDYuMjElMjBGQVNISU9OJTIwV0VFSyUyMEFBRldfVVMmdXRtX2NvbnRlbnQ9Jl9ybUlkPVcyTUUwOHd5NjhJd09MWWJCTk9sVHl6QjZLcnYzT2h2cjAzN0JZbg%3D%3D&link_id=34286&s=50feb58db787989c0399cce5dff910e0" target="_blank" style="outline:none" tabindex="-1"><img class="center autowidth" align="center" border="0" src="https://img-cdn.mailsrv-e.com/private/xa3p9kXK/AAFW%2021/0406_AAFW_07.jpg" style="text-decoration: none; -ms-interpolation-mode: bicubic; height: auto; border: 0; width: 100%; max-width: 600px; display: block;" width="600"></a>
+												<!--[if mso]></td></tr></table><![endif]-->
+											</div>
+											<!--[if (!mso)&(!IE)]><!-->
+										</div>
+										<!--<![endif]-->
+									</div>
+								</div>
+								<!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+								<!--[if (mso)|(IE)]></td></tr></table></td></tr></table><![endif]-->
+							</div>
+						</div>
+					</div>
+					<div style="background-color:transparent;">
+						<div class="block-grid  no-stack" style="min-width: 320px; max-width: 600px; overflow-wrap: break-word; word-wrap: break-word; word-break: break-word; Margin: 0 auto; background-color: transparent;">
+							<div style="border-collapse: collapse;display: table;width: 100%;background-color:transparent;">
+								<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:transparent;"><tr><td align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:600px"><tr class="layout-full-width" style="background-color:transparent"><![endif]-->
+								<!--[if (mso)|(IE)]><td align="center" width="600" style="background-color:transparent;width:600px; border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent;" valign="top"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 0px; padding-left: 0px; padding-top:5px; padding-bottom:40px;"><![endif]-->
+								<div class="col num12" style="min-width: 320px; max-width: 600px; display: table-cell; vertical-align: top; width: 600px;">
+									<div class="col_cont" style="width:100% !important;">
+										<!--[if (!mso)&(!IE)]><!-->
+										<div style="border-top:0px solid transparent; border-left:0px solid transparent; border-bottom:0px solid transparent; border-right:0px solid transparent; padding-top:5px; padding-bottom:40px; padding-right: 0px; padding-left: 0px;">
+											<!--<![endif]-->
+											<div class="img-container center autowidth" align="center" style="padding-right: 0px;padding-left: 0px;">
+												<!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr style="line-height:0px"><td style="padding-right: 0px;padding-left: 0px;" align="center"><![endif]--><a data-link_id="35548" href="https://t03.mailsrv-e.com/click?v=2&umk=60b9b4df04d706.9717330860b9b4df0&origurl=aHR0cHM6Ly91cy5wZS1uYXRpb24uY29tL25ldy1hcnJpdmFscy8%2FdXRtX3NvdXJjZT1zbWFydG1haWwmdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249MDQuMDYuMjElMjBGQVNISU9OJTIwV0VFSyUyMEFBRldfVVMmdXRtX2NvbnRlbnQ9Jl9ybUlkPVcyTUUwOHd5NjhJd09MWWJCTk9sVHl6QjZLcnYzT2h2cjAzN0JZbg%3D%3D&link_id=35548&s=50feb58db787989c0399cce5dff910e0" target="_blank" style="outline:none" tabindex="-1"><img class="center autowidth" align="center" border="0" src="https://img-cdn.mailsrv-e.com/private/xa3p9kXK/AAFW%2021/0406_AAFW_08.jpg" style="text-decoration: none; -ms-interpolation-mode: bicubic; height: auto; border: 0; width: 100%; max-width: 600px; display: block;" width="600"></a>
+												<!--[if mso]></td></tr></table><![endif]-->
+											</div>
+											<!--[if (!mso)&(!IE)]><!-->
+										</div>
+										<!--<![endif]-->
+									</div>
+								</div>
+								<!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+								<!--[if (mso)|(IE)]></td></tr></table></td></tr></table><![endif]-->
+							</div>
+						</div>
+					</div>
+					<div style="background-color:transparent;">
+						<div class="block-grid two-up no-stack" style="min-width: 320px; max-width: 600px; overflow-wrap: break-word; word-wrap: break-word; word-break: break-word; Margin: 0 auto; background-color: transparent;">
+							<div style="border-collapse: collapse;display: table;width: 100%;background-color:transparent;">
+								<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:transparent;"><tr><td align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:600px"><tr class="layout-full-width" style="background-color:transparent"><![endif]-->
+								<!--[if (mso)|(IE)]><td align="center" width="300" style="background-color:transparent;width:300px; border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent;" valign="top"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 0px; padding-left: 0px; padding-top:5px; padding-bottom:5px;"><![endif]-->
+								<div class="col num6" style="display: table-cell; vertical-align: top; max-width: 320px; min-width: 300px; width: 300px;">
+									<div class="col_cont" style="width:100% !important;">
+										<!--[if (!mso)&(!IE)]><!-->
+										<div style="border-top:0px solid transparent; border-left:0px solid transparent; border-bottom:0px solid transparent; border-right:0px solid transparent; padding-top:5px; padding-bottom:5px; padding-right: 0px; padding-left: 0px;">
+											<!--<![endif]-->
+											<div class="img-container center autowidth" align="center" style="padding-right: 0px;padding-left: 0px;">
+												<!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr style="line-height:0px"><td style="padding-right: 0px;padding-left: 0px;" align="center"><![endif]--><a data-link_id="13674" href="https://t03.mailsrv-e.com/click?v=2&umk=60b9b4df04d706.9717330860b9b4df0&origurl=aHR0cHM6Ly91cy5wZS1uYXRpb24uY29tL25ldy1hcnJpdmFscy8%2FdXRtX3NvdXJjZT1zbWFydG1haWwmdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249MDQuMDYuMjElMjBGQVNISU9OJTIwV0VFSyUyMEFBRldfVVMmdXRtX2NvbnRlbnQ9Jl9ybUlkPVcyTUUwOHd5NjhJd09MWWJCTk9sVHl6QjZLcnYzT2h2cjAzN0JZbg%3D%3D&link_id=13674&s=50feb58db787989c0399cce5dff910e0" target="_blank" style="outline:none" tabindex="-1"><img class="center autowidth" align="center" border="0" src="https://img-cdn.mailsrv-e.com/private/xa3p9kXK/AAFW%2021/0406_AAFW_09.jpg" style="text-decoration: none; -ms-interpolation-mode: bicubic; height: auto; border: 0; width: 100%; max-width: 300px; display: block;" width="300"></a>
+												<!--[if mso]></td></tr></table><![endif]-->
+											</div>
+											<!--[if (!mso)&(!IE)]><!-->
+										</div>
+										<!--<![endif]-->
+									</div>
+								</div>
+								<!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+								<!--[if (mso)|(IE)]></td><td align="center" width="300" style="background-color:transparent;width:300px; border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent;" valign="top"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 0px; padding-left: 0px; padding-top:5px; padding-bottom:5px;"><![endif]-->
+								<div class="col num6" style="display: table-cell; vertical-align: top; max-width: 320px; min-width: 300px; width: 300px;">
+									<div class="col_cont" style="width:100% !important;">
+										<!--[if (!mso)&(!IE)]><!-->
+										<div style="border-top:0px solid transparent; border-left:0px solid transparent; border-bottom:0px solid transparent; border-right:0px solid transparent; padding-top:5px; padding-bottom:5px; padding-right: 0px; padding-left: 0px;">
+											<!--<![endif]-->
+											<div class="img-container center autowidth" align="center" style="padding-right: 0px;padding-left: 0px;">
+												<!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr style="line-height:0px"><td style="padding-right: 0px;padding-left: 0px;" align="center"><![endif]--><a data-link_id="66608" href="https://t03.mailsrv-e.com/click?v=2&umk=60b9b4df04d706.9717330860b9b4df0&origurl=aHR0cHM6Ly91cy5wZS1uYXRpb24uY29tL25ldy1hcnJpdmFscy8%2FdXRtX3NvdXJjZT1zbWFydG1haWwmdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249MDQuMDYuMjElMjBGQVNISU9OJTIwV0VFSyUyMEFBRldfVVMmdXRtX2NvbnRlbnQ9Jl9ybUlkPVcyTUUwOHd5NjhJd09MWWJCTk9sVHl6QjZLcnYzT2h2cjAzN0JZbg%3D%3D&link_id=66608&s=50feb58db787989c0399cce5dff910e0" target="_blank" style="outline:none" tabindex="-1"><img class="center autowidth" align="center" border="0" src="https://img-cdn.mailsrv-e.com/private/xa3p9kXK/AAFW%2021/0406_AAFW_10.jpg" style="text-decoration: none; -ms-interpolation-mode: bicubic; height: auto; border: 0; width: 100%; max-width: 300px; display: block;" width="300"></a>
+												<!--[if mso]></td></tr></table><![endif]-->
+											</div>
+											<!--[if (!mso)&(!IE)]><!-->
+										</div>
+										<!--<![endif]-->
+									</div>
+								</div>
+								<!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+								<!--[if (mso)|(IE)]></td></tr></table></td></tr></table><![endif]-->
+							</div>
+						</div>
+					</div>
+					<div style="background-color:transparent;">
+						<div class="block-grid two-up no-stack" style="min-width: 320px; max-width: 600px; overflow-wrap: break-word; word-wrap: break-word; word-break: break-word; Margin: 0 auto; background-color: transparent;">
+							<div style="border-collapse: collapse;display: table;width: 100%;background-color:transparent;">
+								<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:transparent;"><tr><td align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:600px"><tr class="layout-full-width" style="background-color:transparent"><![endif]-->
+								<!--[if (mso)|(IE)]><td align="center" width="300" style="background-color:transparent;width:300px; border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent;" valign="top"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 0px; padding-left: 0px; padding-top:5px; padding-bottom:5px;"><![endif]-->
+								<div class="col num6" style="display: table-cell; vertical-align: top; max-width: 320px; min-width: 300px; width: 300px;">
+									<div class="col_cont" style="width:100% !important;">
+										<!--[if (!mso)&(!IE)]><!-->
+										<div style="border-top:0px solid transparent; border-left:0px solid transparent; border-bottom:0px solid transparent; border-right:0px solid transparent; padding-top:5px; padding-bottom:5px; padding-right: 0px; padding-left: 0px;">
+											<!--<![endif]-->
+											<div class="img-container center autowidth" align="center" style="padding-right: 0px;padding-left: 0px;">
+												<!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr style="line-height:0px"><td style="padding-right: 0px;padding-left: 0px;" align="center"><![endif]--><a data-link_id="85167" href="https://t03.mailsrv-e.com/click?v=2&umk=60b9b4df04d706.9717330860b9b4df0&origurl=aHR0cHM6Ly91cy5wZS1uYXRpb24uY29tL3AtZS1lZGl0Lz91dG1fc291cmNlPXNtYXJ0bWFpbCZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj0wNC4wNi4yMSUyMEZBU0hJT04lMjBXRUVLJTIwQUFGV19VUyZ1dG1fY29udGVudD0mX3JtSWQ9VzJNRTA4d3k2OEl3T0xZYkJOT2xUeXpCNktydjNPaHZyMDM3Qllu&link_id=85167&s=50feb58db787989c0399cce5dff910e0" target="_blank" style="outline:none" tabindex="-1"><img class="center autowidth" align="center" border="0" src="https://img-cdn.mailsrv-e.com/private/xa3p9kXK/AAFW%2021/0406_AAFW_11.jpg" style="text-decoration: none; -ms-interpolation-mode: bicubic; height: auto; border: 0; width: 100%; max-width: 300px; display: block;" width="300"></a>
+												<!--[if mso]></td></tr></table><![endif]-->
+											</div>
+											<!--[if (!mso)&(!IE)]><!-->
+										</div>
+										<!--<![endif]-->
+									</div>
+								</div>
+								<!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+								<!--[if (mso)|(IE)]></td><td align="center" width="300" style="background-color:transparent;width:300px; border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent;" valign="top"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 0px; padding-left: 0px; padding-top:5px; padding-bottom:5px;"><![endif]-->
+								<div class="col num6" style="display: table-cell; vertical-align: top; max-width: 320px; min-width: 300px; width: 300px;">
+									<div class="col_cont" style="width:100% !important;">
+										<!--[if (!mso)&(!IE)]><!-->
+										<div style="border-top:0px solid transparent; border-left:0px solid transparent; border-bottom:0px solid transparent; border-right:0px solid transparent; padding-top:5px; padding-bottom:5px; padding-right: 0px; padding-left: 0px;">
+											<!--<![endif]-->
+											<div class="img-container center autowidth" align="center" style="padding-right: 0px;padding-left: 0px;">
+												<!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr style="line-height:0px"><td style="padding-right: 0px;padding-left: 0px;" align="center"><![endif]--><a data-link_id="70551" href="https://t03.mailsrv-e.com/click?v=2&umk=60b9b4df04d706.9717330860b9b4df0&origurl=aHR0cHM6Ly91cy5wZS1uYXRpb24uY29tL3Nob3Avb3V0ZXJ3ZWFyL2tuaXR3ZWFyLz91dG1fc291cmNlPXNtYXJ0bWFpbCZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj0wNC4wNi4yMSUyMEZBU0hJT04lMjBXRUVLJTIwQUFGV19VUyZ1dG1fY29udGVudD0mX3JtSWQ9VzJNRTA4d3k2OEl3T0xZYkJOT2xUeXpCNktydjNPaHZyMDM3Qllu&link_id=70551&s=50feb58db787989c0399cce5dff910e0" target="_blank" style="outline:none" tabindex="-1"><img class="center autowidth" align="center" border="0" src="https://img-cdn.mailsrv-e.com/private/xa3p9kXK/AAFW%2021/0406_AAFW_12.jpg" style="text-decoration: none; -ms-interpolation-mode: bicubic; height: auto; border: 0; width: 100%; max-width: 300px; display: block;" width="300"></a>
+												<!--[if mso]></td></tr></table><![endif]-->
+											</div>
+											<!--[if (!mso)&(!IE)]><!-->
+										</div>
+										<!--<![endif]-->
+									</div>
+								</div>
+								<!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+								<!--[if (mso)|(IE)]></td></tr></table></td></tr></table><![endif]-->
+							</div>
+						</div>
+					</div>
+					<div style="background-color:transparent;">
+						<div class="block-grid two-up no-stack" style="min-width: 320px; max-width: 600px; overflow-wrap: break-word; word-wrap: break-word; word-break: break-word; Margin: 0 auto; background-color: transparent;">
+							<div style="border-collapse: collapse;display: table;width: 100%;background-color:transparent;">
+								<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:transparent;"><tr><td align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:600px"><tr class="layout-full-width" style="background-color:transparent"><![endif]-->
+								<!--[if (mso)|(IE)]><td align="center" width="300" style="background-color:transparent;width:300px; border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent;" valign="top"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 0px; padding-left: 0px; padding-top:5px; padding-bottom:5px;"><![endif]-->
+								<div class="col num6" style="display: table-cell; vertical-align: top; max-width: 320px; min-width: 300px; width: 300px;">
+									<div class="col_cont" style="width:100% !important;">
+										<!--[if (!mso)&(!IE)]><!-->
+										<div style="border-top:0px solid transparent; border-left:0px solid transparent; border-bottom:0px solid transparent; border-right:0px solid transparent; padding-top:5px; padding-bottom:5px; padding-right: 0px; padding-left: 0px;">
+											<!--<![endif]-->
+											<div class="img-container center autowidth" align="center" style="padding-right: 0px;padding-left: 0px;">
+												<!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr style="line-height:0px"><td style="padding-right: 0px;padding-left: 0px;" align="center"><![endif]--><a data-link_id="58221" href="https://t03.mailsrv-e.com/click?v=2&umk=60b9b4df04d706.9717330860b9b4df0&origurl=aHR0cHM6Ly91cy5wZS1uYXRpb24uY29tL3Nob3Avb3V0ZXJ3ZWFyL2phY2tldHMvP3V0bV9zb3VyY2U9c21hcnRtYWlsJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPTA0LjA2LjIxJTIwRkFTSElPTiUyMFdFRUslMjBBQUZXX1VTJnV0bV9jb250ZW50PSZfcm1JZD1XMk1FMDh3eTY4SXdPTFliQk5PbFR5ekI2S3J2M09odnIwMzdCWW4%3D&link_id=58221&s=50feb58db787989c0399cce5dff910e0" target="_blank" style="outline:none" tabindex="-1"><img class="center autowidth" align="center" border="0" src="https://img-cdn.mailsrv-e.com/private/xa3p9kXK/AAFW%2021/0406_AAFW_13.jpg" style="text-decoration: none; -ms-interpolation-mode: bicubic; height: auto; border: 0; width: 100%; max-width: 300px; display: block;" width="300"></a>
+												<!--[if mso]></td></tr></table><![endif]-->
+											</div>
+											<!--[if (!mso)&(!IE)]><!-->
+										</div>
+										<!--<![endif]-->
+									</div>
+								</div>
+								<!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+								<!--[if (mso)|(IE)]></td><td align="center" width="300" style="background-color:transparent;width:300px; border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent;" valign="top"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 0px; padding-left: 0px; padding-top:5px; padding-bottom:5px;"><![endif]-->
+								<div class="col num6" style="display: table-cell; vertical-align: top; max-width: 320px; min-width: 300px; width: 300px;">
+									<div class="col_cont" style="width:100% !important;">
+										<!--[if (!mso)&(!IE)]><!-->
+										<div style="border-top:0px solid transparent; border-left:0px solid transparent; border-bottom:0px solid transparent; border-right:0px solid transparent; padding-top:5px; padding-bottom:5px; padding-right: 0px; padding-left: 0px;">
+											<!--<![endif]-->
+											<div class="img-container center autowidth" align="center" style="padding-right: 0px;padding-left: 0px;">
+												<!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr style="line-height:0px"><td style="padding-right: 0px;padding-left: 0px;" align="center"><![endif]--><a data-link_id="76404" href="https://t03.mailsrv-e.com/click?v=2&umk=60b9b4df04d706.9717330860b9b4df0&origurl=aHR0cHM6Ly91cy5wZS1uYXRpb24uY29tL3Nob3AvZWRpdHMvYmFzZWxpbmUvP3V0bV9zb3VyY2U9c21hcnRtYWlsJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPTA0LjA2LjIxJTIwRkFTSElPTiUyMFdFRUslMjBBQUZXX1VTJnV0bV9jb250ZW50PSZfcm1JZD1XMk1FMDh3eTY4SXdPTFliQk5PbFR5ekI2S3J2M09odnIwMzdCWW4%3D&link_id=76404&s=50feb58db787989c0399cce5dff910e0" target="_blank" style="outline:none" tabindex="-1"><img class="center autowidth" align="center" border="0" src="https://img-cdn.mailsrv-e.com/private/xa3p9kXK/AAFW%2021/0406_AAFW_14.jpg" style="text-decoration: none; -ms-interpolation-mode: bicubic; height: auto; border: 0; width: 100%; max-width: 300px; display: block;" width="300"></a>
+												<!--[if mso]></td></tr></table><![endif]-->
+											</div>
+											<!--[if (!mso)&(!IE)]><!-->
+										</div>
+										<!--<![endif]-->
+									</div>
+								</div>
+								<!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+								<!--[if (mso)|(IE)]></td></tr></table></td></tr></table><![endif]-->
+							</div>
+						</div>
+					</div>
+					<div style="background-color:transparent;">
+						<div class="block-grid two-up no-stack" style="min-width: 320px; max-width: 600px; overflow-wrap: break-word; word-wrap: break-word; word-break: break-word; Margin: 0 auto; background-color: transparent;">
+							<div style="border-collapse: collapse;display: table;width: 100%;background-color:transparent;">
+								<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:transparent;"><tr><td align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:600px"><tr class="layout-full-width" style="background-color:transparent"><![endif]-->
+								<!--[if (mso)|(IE)]><td align="center" width="300" style="background-color:transparent;width:300px; border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent;" valign="top"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 0px; padding-left: 0px; padding-top:5px; padding-bottom:5px;"><![endif]-->
+								<div class="col num6" style="display: table-cell; vertical-align: top; max-width: 320px; min-width: 300px; width: 300px;">
+									<div class="col_cont" style="width:100% !important;">
+										<!--[if (!mso)&(!IE)]><!-->
+										<div style="border-top:0px solid transparent; border-left:0px solid transparent; border-bottom:0px solid transparent; border-right:0px solid transparent; padding-top:5px; padding-bottom:5px; padding-right: 0px; padding-left: 0px;">
+											<!--<![endif]-->
+											<div class="img-container center autowidth" align="center" style="padding-right: 0px;padding-left: 0px;">
+												<!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr style="line-height:0px"><td style="padding-right: 0px;padding-left: 0px;" align="center"><![endif]--><a data-link_id="49063" href="https://t03.mailsrv-e.com/click?v=2&umk=60b9b4df04d706.9717330860b9b4df0&origurl=aHR0cHM6Ly91cy5wZS1uYXRpb24uY29tL25ldy1hcnJpdmFscy8%2FdXRtX3NvdXJjZT1zbWFydG1haWwmdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249MDQuMDYuMjElMjBGQVNISU9OJTIwV0VFSyUyMEFBRldfVVMmdXRtX2NvbnRlbnQ9Jl9ybUlkPVcyTUUwOHd5NjhJd09MWWJCTk9sVHl6QjZLcnYzT2h2cjAzN0JZbg%3D%3D&link_id=49063&s=50feb58db787989c0399cce5dff910e0" target="_blank" style="outline:none" tabindex="-1"><img class="center autowidth" align="center" border="0" src="https://img-cdn.mailsrv-e.com/private/xa3p9kXK/AAFW%2021/0406_AAFW_15.jpg" style="text-decoration: none; -ms-interpolation-mode: bicubic; height: auto; border: 0; width: 100%; max-width: 300px; display: block;" width="300"></a>
+												<!--[if mso]></td></tr></table><![endif]-->
+											</div>
+											<!--[if (!mso)&(!IE)]><!-->
+										</div>
+										<!--<![endif]-->
+									</div>
+								</div>
+								<!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+								<!--[if (mso)|(IE)]></td><td align="center" width="300" style="background-color:transparent;width:300px; border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent;" valign="top"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 0px; padding-left: 0px; padding-top:5px; padding-bottom:5px;"><![endif]-->
+								<div class="col num6" style="display: table-cell; vertical-align: top; max-width: 320px; min-width: 300px; width: 300px;">
+									<div class="col_cont" style="width:100% !important;">
+										<!--[if (!mso)&(!IE)]><!-->
+										<div style="border-top:0px solid transparent; border-left:0px solid transparent; border-bottom:0px solid transparent; border-right:0px solid transparent; padding-top:5px; padding-bottom:5px; padding-right: 0px; padding-left: 0px;">
+											<!--<![endif]-->
+											<div class="img-container center autowidth" align="center" style="padding-right: 0px;padding-left: 0px;">
+												<!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr style="line-height:0px"><td style="padding-right: 0px;padding-left: 0px;" align="center"><![endif]--><a data-link_id="52835" href="https://t03.mailsrv-e.com/click?v=2&umk=60b9b4df04d706.9717330860b9b4df0&origurl=aHR0cHM6Ly91cy5wZS1uYXRpb24uY29tL3Nob3AvZWRpdHMvYmFzZWxpbmUvP3V0bV9zb3VyY2U9c21hcnRtYWlsJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPTA0LjA2LjIxJTIwRkFTSElPTiUyMFdFRUslMjBBQUZXX1VTJnV0bV9jb250ZW50PSZfcm1JZD1XMk1FMDh3eTY4SXdPTFliQk5PbFR5ekI2S3J2M09odnIwMzdCWW4%3D&link_id=52835&s=50feb58db787989c0399cce5dff910e0" target="_blank" style="outline:none" tabindex="-1"><img class="center autowidth" align="center" border="0" src="https://img-cdn.mailsrv-e.com/private/xa3p9kXK/AAFW%2021/0406_AAFW_16.jpg" style="text-decoration: none; -ms-interpolation-mode: bicubic; height: auto; border: 0; width: 100%; max-width: 300px; display: block;" width="300"></a>
+												<!--[if mso]></td></tr></table><![endif]-->
+											</div>
+											<!--[if (!mso)&(!IE)]><!-->
+										</div>
+										<!--<![endif]-->
+									</div>
+								</div>
+								<!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+								<!--[if (mso)|(IE)]></td></tr></table></td></tr></table><![endif]-->
+							</div>
+						</div>
+					</div>
+					<div style="background-color:transparent;">
+						<div class="block-grid " style="min-width: 320px; max-width: 600px; overflow-wrap: break-word; word-wrap: break-word; word-break: break-word; Margin: 0 auto; background-color: transparent;">
+							<div style="border-collapse: collapse;display: table;width: 100%;background-color:transparent;">
+								<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:transparent;"><tr><td align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:600px"><tr class="layout-full-width" style="background-color:transparent"><![endif]-->
+								<!--[if (mso)|(IE)]><td align="center" width="600" style="background-color:transparent;width:600px; border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent;" valign="top"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 0px; padding-left: 0px; padding-top:5px; padding-bottom:5px;"><![endif]-->
+								<div class="col num12" style="min-width: 320px; max-width: 600px; display: table-cell; vertical-align: top; width: 600px;">
+									<div class="col_cont" style="width:100% !important;">
+										<!--[if (!mso)&(!IE)]><!-->
+										<div style="border-top:0px solid transparent; border-left:0px solid transparent; border-bottom:0px solid transparent; border-right:0px solid transparent; padding-top:5px; padding-bottom:5px; padding-right: 0px; padding-left: 0px;">
+											<!--<![endif]-->
+											<div class="img-container center autowidth" align="center" style="padding-right: 0px;padding-left: 0px;">
+												<!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr style="line-height:0px"><td style="padding-right: 0px;padding-left: 0px;" align="center"><![endif]-->
+												<div style="font-size:1px;line-height:50px">&nbsp;</div><a data-link_id="56819" href="https://t03.mailsrv-e.com/click?v=2&umk=60b9b4df04d706.9717330860b9b4df0&origurl=aHR0cHM6Ly91cy5wZS1uYXRpb24uY29tL25ldy1hcnJpdmFscy8%2FdXRtX3NvdXJjZT1zbWFydG1haWwmdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249MDQuMDYuMjElMjBGQVNISU9OJTIwV0VFSyUyMEFBRldfVVMmdXRtX2NvbnRlbnQ9Jl9ybUlkPVcyTUUwOHd5NjhJd09MWWJCTk9sVHl6QjZLcnYzT2h2cjAzN0JZbg%3D%3D&link_id=56819&s=50feb58db787989c0399cce5dff910e0" target="_blank" style="outline:none" tabindex="-1"><img class="center autowidth" align="center" border="0" src="https://img-cdn.mailsrv-e.com/private/xa3p9kXK/AAFW%2021/0406_AAFW_17.jpg" style="text-decoration: none; -ms-interpolation-mode: bicubic; height: auto; border: 0; width: 100%; max-width: 600px; display: block;" width="600"></a>
+												<!--[if mso]></td></tr></table><![endif]-->
+											</div>
+											<!--[if (!mso)&(!IE)]><!-->
+										</div>
+										<!--<![endif]-->
+									</div>
+								</div>
+								<!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+								<!--[if (mso)|(IE)]></td></tr></table></td></tr></table><![endif]-->
+							</div>
+						</div>
+					</div>
+					<div style="background-color:transparent;">
+						<div class="block-grid  no-stack" style="min-width: 320px; max-width: 600px; overflow-wrap: break-word; word-wrap: break-word; word-break: break-word; Margin: 0 auto; background-color: transparent;">
+							<div style="border-collapse: collapse;display: table;width: 100%;background-color:transparent;">
+								<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:transparent;"><tr><td align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:600px"><tr class="layout-full-width" style="background-color:transparent"><![endif]-->
+								<!--[if (mso)|(IE)]><td align="center" width="600" style="background-color:transparent;width:600px; border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent;" valign="top"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 0px; padding-left: 0px; padding-top:60px; padding-bottom:5px;"><![endif]-->
+								<div class="col num12" style="min-width: 320px; max-width: 600px; display: table-cell; vertical-align: top; width: 600px;">
+									<div class="col_cont" style="width:100% !important;">
+										<!--[if (!mso)&(!IE)]><!-->
+										<div style="border-top:0px solid transparent; border-left:0px solid transparent; border-bottom:0px solid transparent; border-right:0px solid transparent; padding-top:60px; padding-bottom:5px; padding-right: 0px; padding-left: 0px;">
+											<!--<![endif]-->
+											<table class="divider" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed; vertical-align: top; border-spacing: 0; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; min-width: 100%; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;" role="presentation" valign="top">
+												<tbody>
+													<tr style="vertical-align: top;" valign="top">
+														<td class="divider_inner" style="word-break: break-word; vertical-align: top; min-width: 100%; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; padding-top: 10px; padding-right: 10px; padding-bottom: 10px; padding-left: 10px;" valign="top">
+															<table class="divider_content" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed; vertical-align: top; border-spacing: 0; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-top: 2px solid #000000; height: 0px; width: 100%;" align="center" role="presentation" height="0" valign="top">
+																<tbody>
+																	<tr style="vertical-align: top;" valign="top">
+																		<td style="word-break: break-word; vertical-align: top; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;" height="0" valign="top"><span></span></td>
+																	</tr>
+																</tbody>
+															</table>
+														</td>
+													</tr>
+												</tbody>
+											</table>
+											<div class="img-container left fixedwidth" align="left" style="padding-right: 0px;padding-left: 10px;">
+												<!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr style="line-height:0px"><td style="padding-right: 0px;padding-left: 10px;" align="left"><![endif]-->
+												<div style="font-size:1px;line-height:20px">&nbsp;</div><a data-link_id="28610" href="https://t03.mailsrv-e.com/click?v=2&umk=60b9b4df04d706.9717330860b9b4df0&origurl=aHR0cHM6Ly9wZS1uYXRpb24uY29tLz91dG1fc291cmNlPXNtYXJ0bWFpbCZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj0wNC4wNi4yMSUyMEZBU0hJT04lMjBXRUVLJTIwQUFGV19VUyZ1dG1fY29udGVudD0mX3JtSWQ9VzJNRTA4d3k2OEl3T0xZYkJOT2xUeXpCNktydjNPaHZyMDM3Qllu&link_id=28610&s=50feb58db787989c0399cce5dff910e0" target="_blank" style="outline:none" tabindex="-1"><img class="left fixedwidth" border="0" src="https://img-cdn.mailsrv-e.com/private/xa3p9kXK/P.E-NATION-LOGO-LANDSCAPE-BLACK.png" alt="P.E NATION" title="P.E NATION" style="text-decoration: none; -ms-interpolation-mode: bicubic; height: auto; border: 0; width: 100%; max-width: 150px; display: block;" width="150"></a>
+												<!--[if mso]></td></tr></table><![endif]-->
+											</div>
+											<!--[if (!mso)&(!IE)]><!-->
+										</div>
+										<!--<![endif]-->
+									</div>
+								</div>
+								<!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+								<!--[if (mso)|(IE)]></td></tr></table></td></tr></table><![endif]-->
+							</div>
+						</div>
+					</div>
+					<div style="background-color:transparent;">
+						<div class="block-grid two-up no-stack" style="min-width: 320px; max-width: 600px; overflow-wrap: break-word; word-wrap: break-word; word-break: break-word; Margin: 0 auto; background-color: transparent;">
+							<div style="border-collapse: collapse;display: table;width: 100%;background-color:transparent;">
+								<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:transparent;"><tr><td align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:600px"><tr class="layout-full-width" style="background-color:transparent"><![endif]-->
+								<!--[if (mso)|(IE)]><td align="center" width="300" style="background-color:transparent;width:300px; border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent;" valign="top"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 0px; padding-left: 0px; padding-top:5px; padding-bottom:5px;"><![endif]-->
+								<div class="col num6" style="display: table-cell; vertical-align: top; max-width: 320px; min-width: 300px; width: 300px;">
+									<div class="col_cont" style="width:100% !important;">
+										<!--[if (!mso)&(!IE)]><!-->
+										<div style="border-top:0px solid transparent; border-left:0px solid transparent; border-bottom:0px solid transparent; border-right:0px solid transparent; padding-top:5px; padding-bottom:5px; padding-right: 0px; padding-left: 0px;">
+											<!--<![endif]-->
+											<!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 10px; padding-left: 10px; padding-top: 15px; padding-bottom: 20px; font-family: Arial, sans-serif"><![endif]-->
+											<div style="color:#555555;font-family:Helvetica Neue, Helvetica, Arial, sans-serif;line-height:1.2;padding-top:15px;padding-right:10px;padding-bottom:20px;padding-left:10px;">
+												<div class="txtTinyMce-wrapper" style="font-size: 12px; line-height: 1.2; font-family: Helvetica Neue, Helvetica, Arial, sans-serif; color: #555555; mso-line-height-alt: 14px;">
+													<p style="margin: 0; text-align: left; line-height: 1.2; word-break: break-word; font-size: 11px; mso-line-height-alt: 13px; margin-top: 0; margin-bottom: 0;"><span style="color: #000000; font-size: 11px;"><a data-link_id="46592" href="mailto:info-us@pe-nation.com" title="mailto:info-us@pe-nation.com" style="color: #000000;">info-us@pe-nation.com</a></span><br><span style="color: #000000; font-size: 11px;">INTL: +1 833 614 1980<a data-link_id="13208" style="text-decoration: underline; color: #000000;" title="tel:+610280743501" href="tel:+610280743501"></a></span></p>
+													<p style="margin: 0; text-align: left; line-height: 1.2; word-break: break-word; mso-line-height-alt: 14px; margin-top: 0; margin-bottom: 0;">&nbsp;</p>
+													<p style="margin: 0; text-align: left; line-height: 1.2; word-break: break-word; mso-line-height-alt: 14px; margin-top: 0; margin-bottom: 0;">&nbsp;</p>
+													<p style="margin: 0; text-align: left; line-height: 1.2; word-break: break-word; font-size: 11px; mso-line-height-alt: 13px; margin-top: 0; margin-bottom: 0;"><span style="color: #000000; font-size: 11px;">Customer Care Hours:</span><br><span style="color: #000000; font-size: 11px;">9.00am - 5.00pm AEST Monday to Friday,</span></p>
+													<p style="margin: 0; text-align: left; line-height: 1.2; word-break: break-word; font-size: 11px; mso-line-height-alt: 13px; margin-top: 0; margin-bottom: 0;"><span style="color: #000000; font-size: 11px;">Excluding Public Holidays</span></p>
+												</div>
+											</div>
+											<!--[if mso]></td></tr></table><![endif]-->
+											<!--[if (!mso)&(!IE)]><!-->
+										</div>
+										<!--<![endif]-->
+									</div>
+								</div>
+								<!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+								<!--[if (mso)|(IE)]></td><td align="center" width="300" style="background-color:transparent;width:300px; border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent;" valign="top"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 0px; padding-left: 0px; padding-top:5px; padding-bottom:5px;"><![endif]-->
+								<div class="col num6" style="display: table-cell; vertical-align: top; max-width: 320px; min-width: 300px; width: 300px;">
+									<div class="col_cont" style="width:100% !important;">
+										<!--[if (!mso)&(!IE)]><!-->
+										<div style="border-top:0px solid transparent; border-left:0px solid transparent; border-bottom:0px solid transparent; border-right:0px solid transparent; padding-top:5px; padding-bottom:5px; padding-right: 0px; padding-left: 0px;">
+											<!--<![endif]-->
+											<!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 10px; padding-left: 0px; padding-top: 5px; padding-bottom: 0px; font-family: Arial, sans-serif"><![endif]-->
+											<div style="color:#555555;font-family:Helvetica Neue, Helvetica, Arial, sans-serif;line-height:1.2;padding-top:5px;padding-right:10px;padding-bottom:0px;padding-left:0px;">
+												<div class="txtTinyMce-wrapper" style="font-size: 12px; line-height: 1.2; font-family: Helvetica Neue, Helvetica, Arial, sans-serif; color: #555555; mso-line-height-alt: 14px;">
+													<p style="margin: 0; font-size: 10px; line-height: 1.2; word-break: break-word; text-align: right; mso-line-height-alt: 12px; margin-top: 0; margin-bottom: 0;"><span style="font-size: 10px;"><a data-link_id="34381" style="text-decoration: underline; color: #000000;" href="https://t03.mailsrv-e.com/click?v=2&umk=60b9b4df04d706.9717330860b9b4df0&origurl=aHR0cHM6Ly9wZS1uYXRpb24uY29tL2luc3Rhc2hvcD91dG1fc291cmNlPXNtYXJ0bWFpbCZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj0wNC4wNi4yMSUyMEZBU0hJT04lMjBXRUVLJTIwQUFGV19VUyZ1dG1fY29udGVudD0mX3JtSWQ9VzJNRTA4d3k2OEl3T0xZYkJOT2xUeXpCNktydjNPaHZyMDM3Qllu&link_id=34381&s=50feb58db787989c0399cce5dff910e0" target="_blank" rel="noopener">INSTASHOP</a></span></p>
+												</div>
+											</div>
+											<!--[if mso]></td></tr></table><![endif]-->
+											<!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 10px; padding-left: 0px; padding-top: 0px; padding-bottom: 0px; font-family: Arial, sans-serif"><![endif]-->
+											<div style="color:#555555;font-family:Helvetica Neue, Helvetica, Arial, sans-serif;line-height:1.2;padding-top:0px;padding-right:10px;padding-bottom:0px;padding-left:0px;">
+												<div class="txtTinyMce-wrapper" style="font-size: 12px; line-height: 1.2; font-family: Helvetica Neue, Helvetica, Arial, sans-serif; color: #555555; mso-line-height-alt: 14px;">
+													<p style="margin: 0; font-size: 10px; line-height: 1.2; word-break: break-word; text-align: right; mso-line-height-alt: 12px; margin-top: 0; margin-bottom: 0;"><span style="font-size: 10px;"><span style="font-size: 10px;"><a data-link_id="48615" style="text-decoration: underline; color: #000000;" href="https://t03.mailsrv-e.com/click?v=2&umk=60b9b4df04d706.9717330860b9b4df0&origurl=aHR0cHM6Ly9wZS1uYXRpb24uY29tL3Nob3AvbmV3LWFycml2YWxzP3V0bV9zb3VyY2U9c21hcnRtYWlsJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPTA0LjA2LjIxJTIwRkFTSElPTiUyMFdFRUslMjBBQUZXX1VTJnV0bV9jb250ZW50PSZfcm1JZD1XMk1FMDh3eTY4SXdPTFliQk5PbFR5ekI2S3J2M09odnIwMzdCWW4%3D&link_id=48615&s=50feb58db787989c0399cce5dff910e0" target="_blank" rel="noopener">NEW ARRIVALS</a></span></span></p>
+												</div>
+											</div>
+											<!--[if mso]></td></tr></table><![endif]-->
+											<!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 10px; padding-left: 0px; padding-top: 0px; padding-bottom: 0px; font-family: Arial, sans-serif"><![endif]-->
+											<div style="color:#555555;font-family:Helvetica Neue, Helvetica, Arial, sans-serif;line-height:1.2;padding-top:0px;padding-right:10px;padding-bottom:0px;padding-left:0px;">
+												<div class="txtTinyMce-wrapper" style="font-size: 12px; line-height: 1.2; font-family: Helvetica Neue, Helvetica, Arial, sans-serif; color: #555555; mso-line-height-alt: 14px;">
+													<p style="margin: 0; font-size: 10px; line-height: 1.2; word-break: break-word; text-align: right; mso-line-height-alt: 12px; margin-top: 0; margin-bottom: 0;"><span style="font-size: 10px;"><a data-link_id="44082" style="text-decoration: underline; color: #000000;" href="https://t03.mailsrv-e.com/click?v=2&umk=60b9b4df04d706.9717330860b9b4df0&origurl=aHR0cHM6Ly9wZS1uYXRpb24uY29tL2RlbGl2ZXJ5LWFuZC1yZXR1cm5zP3V0bV9zb3VyY2U9c21hcnRtYWlsJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPTA0LjA2LjIxJTIwRkFTSElPTiUyMFdFRUslMjBBQUZXX1VTJnV0bV9jb250ZW50PSZfcm1JZD1XMk1FMDh3eTY4SXdPTFliQk5PbFR5ekI2S3J2M09odnIwMzdCWW4%3D&link_id=44082&s=50feb58db787989c0399cce5dff910e0" target="_blank" rel="noopener">DELIVERY &amp; RETURNS</a></span></p>
+												</div>
+											</div>
+											<!--[if mso]></td></tr></table><![endif]-->
+											<!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 10px; padding-left: 10px; padding-top: 0px; padding-bottom: 0px; font-family: Arial, sans-serif"><![endif]-->
+											<div style="color:#555555;font-family:Helvetica Neue, Helvetica, Arial, sans-serif;line-height:1.2;padding-top:0px;padding-right:10px;padding-bottom:0px;padding-left:10px;">
+												<div class="txtTinyMce-wrapper" style="font-size: 12px; line-height: 1.2; font-family: Helvetica Neue, Helvetica, Arial, sans-serif; color: #555555; mso-line-height-alt: 14px;">
+													<p style="margin: 0; font-size: 10px; line-height: 1.2; word-break: break-word; text-align: right; mso-line-height-alt: 12px; margin-top: 0; margin-bottom: 0;"><span style="font-size: 10px;"><span style><a data-link_id="95777" style="text-decoration: underline; color: #000000;" href="https://t03.mailsrv-e.com/click?v=2&umk=60b9b4df04d706.9717330860b9b4df0&origurl=aHR0cHM6Ly9wZS1uYXRpb24uY29tL2ZhcT91dG1fc291cmNlPXNtYXJ0bWFpbCZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj0wNC4wNi4yMSUyMEZBU0hJT04lMjBXRUVLJTIwQUFGV19VUyZ1dG1fY29udGVudD0mX3JtSWQ9VzJNRTA4d3k2OEl3T0xZYkJOT2xUeXpCNktydjNPaHZyMDM3Qllu&link_id=95777&s=50feb58db787989c0399cce5dff910e0" target="_blank" rel="noopener">FAQ'S</a></span></span></p>
+												</div>
+											</div>
+											<!--[if mso]></td></tr></table><![endif]-->
+											<!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 10px; padding-left: 10px; padding-top: 10px; padding-bottom: 0px; font-family: Arial, sans-serif"><![endif]-->
+											<div style="color:#555555;font-family:Helvetica Neue, Helvetica, Arial, sans-serif;line-height:1.2;padding-top:10px;padding-right:10px;padding-bottom:0px;padding-left:10px;">
+												<div class="txtTinyMce-wrapper" style="font-size: 12px; line-height: 1.2; font-family: Helvetica Neue, Helvetica, Arial, sans-serif; color: #555555; mso-line-height-alt: 14px;">
+													<p style="margin: 0; font-size: 14px; line-height: 1.2; word-break: break-word; text-align: right; mso-line-height-alt: 17px; margin-top: 0; margin-bottom: 0;"><a data-link_id="11117" style="text-decoration: underline; color: #000000;" href="https://t03.mailsrv-e.com/click?v=2&umk=60b9b4df04d706.9717330860b9b4df0&origurl=aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wLmUubmF0aW9uLz91dG1fc291cmNlPXNtYXJ0bWFpbCZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj0wNC4wNi4yMSUyMEZBU0hJT04lMjBXRUVLJTIwQUFGV19VUyZ1dG1fY29udGVudD0mX3JtSWQ9VzJNRTA4d3k2OEl3T0xZYkJOT2xUeXpCNktydjNPaHZyMDM3Qllu&link_id=11117&s=50feb58db787989c0399cce5dff910e0" target="_blank" rel="noopener"><span style="font-size: 10px; color: #000000;"><span style>INSTAGRAM</span></span></a></p>
+												</div>
+											</div>
+											<!--[if mso]></td></tr></table><![endif]-->
+											<!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 10px; padding-left: 10px; padding-top: 0px; padding-bottom: 0px; font-family: Arial, sans-serif"><![endif]-->
+											<div style="color:#555555;font-family:Helvetica Neue, Helvetica, Arial, sans-serif;line-height:1.2;padding-top:0px;padding-right:10px;padding-bottom:0px;padding-left:10px;">
+												<div class="txtTinyMce-wrapper" style="font-size: 12px; line-height: 1.2; font-family: Helvetica Neue, Helvetica, Arial, sans-serif; color: #555555; mso-line-height-alt: 14px;">
+													<p style="margin: 0; font-size: 10px; line-height: 1.2; word-break: break-word; text-align: right; mso-line-height-alt: 12px; margin-top: 0; margin-bottom: 0;"><span style="font-size: 10px;"><span style><a data-link_id="83374" style="text-decoration: underline; color: #000000;" href="https://t03.mailsrv-e.com/click?v=2&umk=60b9b4df04d706.9717330860b9b4df0&origurl=aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL3BlbmF0aW9uODAvP3V0bV9zb3VyY2U9c21hcnRtYWlsJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPTA0LjA2LjIxJTIwRkFTSElPTiUyMFdFRUslMjBBQUZXX1VTJnV0bV9jb250ZW50PSZfcm1JZD1XMk1FMDh3eTY4SXdPTFliQk5PbFR5ekI2S3J2M09odnIwMzdCWW4%3D&link_id=83374&s=50feb58db787989c0399cce5dff910e0" target="_blank" rel="noopener">FACEBOOK</a></span></span></p>
+												</div>
+											</div>
+											<!--[if mso]></td></tr></table><![endif]-->
+											<!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 10px; padding-left: 10px; padding-top: 0px; padding-bottom: 0px; font-family: Arial, sans-serif"><![endif]-->
+											<div style="color:#555555;font-family:Helvetica Neue, Helvetica, Arial, sans-serif;line-height:1.2;padding-top:0px;padding-right:10px;padding-bottom:0px;padding-left:10px;">
+												<div class="txtTinyMce-wrapper" style="font-size: 12px; line-height: 1.2; font-family: Helvetica Neue, Helvetica, Arial, sans-serif; color: #555555; mso-line-height-alt: 14px;">
+													<p style="margin: 0; font-size: 10px; line-height: 1.2; word-break: break-word; text-align: right; mso-line-height-alt: 12px; margin-top: 0; margin-bottom: 0;"><span style="font-size: 10px;"><span style><a data-link_id="22848" style="text-decoration: underline; color: #000000;" href="https://t03.mailsrv-e.com/click?v=2&umk=60b9b4df04d706.9717330860b9b4df0&origurl=aHR0cHM6Ly9vcGVuLnNwb3RpZnkuY29tL3VzZXIvMXlxMnE0aHQ5amhnMGZnOG5uZnZvYzBlOT91dG1fc291cmNlPXNtYXJ0bWFpbCZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj0wNC4wNi4yMSUyMEZBU0hJT04lMjBXRUVLJTIwQUFGV19VUyZ1dG1fY29udGVudD0mX3JtSWQ9VzJNRTA4d3k2OEl3T0xZYkJOT2xUeXpCNktydjNPaHZyMDM3Qllu&link_id=22848&s=50feb58db787989c0399cce5dff910e0" target="_blank" rel="noopener">SPOTIFY</a></span></span></p>
+												</div>
+											</div>
+											<!--[if mso]></td></tr></table><![endif]-->
+											<!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 10px; padding-left: 10px; padding-top: 0px; padding-bottom: 10px; font-family: Arial, sans-serif"><![endif]-->
+											<div style="color:#555555;font-family:Helvetica Neue, Helvetica, Arial, sans-serif;line-height:1.2;padding-top:0px;padding-right:10px;padding-bottom:10px;padding-left:10px;">
+												<div class="txtTinyMce-wrapper" style="font-size: 12px; line-height: 1.2; font-family: Helvetica Neue, Helvetica, Arial, sans-serif; color: #555555; mso-line-height-alt: 14px;">
+													<p style="margin: 0; font-size: 14px; line-height: 1.2; word-break: break-word; text-align: right; mso-line-height-alt: 17px; margin-top: 0; margin-bottom: 0;"><a data-link_id="22744" href="https://t03.mailsrv-e.com/click?v=2&umk=60b9b4df04d706.9717330860b9b4df0&origurl=aHR0cHM6Ly9tdXNpYy5hcHBsZS5jb20vYXUvY3VyYXRvci9wLWUtbmF0aW9uLzE1NTQxODkwOTY%2FdXRtX3NvdXJjZT1zbWFydG1haWwmdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249MDQuMDYuMjElMjBGQVNISU9OJTIwV0VFSyUyMEFBRldfVVMmdXRtX2NvbnRlbnQ9Jl9ybUlkPVcyTUUwOHd5NjhJd09MWWJCTk9sVHl6QjZLcnYzT2h2cjAzN0JZbg%3D%3D&link_id=22744&s=50feb58db787989c0399cce5dff910e0" target="_blank" style="text-decoration: underline; color: #000000;" rel="noopener"><span style="font-size: 10px;">APPLE MUSIC</span></a></p>
+												</div>
+											</div>
+											<!--[if mso]></td></tr></table><![endif]-->
+											<!--[if (!mso)&(!IE)]><!-->
+										</div>
+										<!--<![endif]-->
+									</div>
+								</div>
+								<!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+								<!--[if (mso)|(IE)]></td></tr></table></td></tr></table><![endif]-->
+							</div>
+						</div>
+					</div>
+					<div style="background-color:transparent;">
+						<div class="block-grid  no-stack" style="min-width: 320px; max-width: 600px; overflow-wrap: break-word; word-wrap: break-word; word-break: break-word; Margin: 0 auto; background-color: transparent;">
+							<div style="border-collapse: collapse;display: table;width: 100%;background-color:transparent;">
+								<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:transparent;"><tr><td align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:600px"><tr class="layout-full-width" style="background-color:transparent"><![endif]-->
+								<!--[if (mso)|(IE)]><td align="center" width="600" style="background-color:transparent;width:600px; border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent;" valign="top"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 0px; padding-left: 0px; padding-top:5px; padding-bottom:5px;"><![endif]-->
+								<div class="col num12" style="min-width: 320px; max-width: 600px; display: table-cell; vertical-align: top; width: 600px;">
+									<div class="col_cont" style="width:100% !important;">
+										<!--[if (!mso)&(!IE)]><!-->
+										<div style="border-top:0px solid transparent; border-left:0px solid transparent; border-bottom:0px solid transparent; border-right:0px solid transparent; padding-top:5px; padding-bottom:5px; padding-right: 0px; padding-left: 0px;">
+											<!--<![endif]-->
+											<table class="divider" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed; vertical-align: top; border-spacing: 0; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; min-width: 100%; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;" role="presentation" valign="top">
+												<tbody>
+													<tr style="vertical-align: top;" valign="top">
+														<td class="divider_inner" style="word-break: break-word; vertical-align: top; min-width: 100%; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; padding-top: 10px; padding-right: 10px; padding-bottom: 10px; padding-left: 10px;" valign="top">
+															<table class="divider_content" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed; vertical-align: top; border-spacing: 0; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-top: 2px solid #000000; height: 0px; width: 100%;" align="center" role="presentation" height="0" valign="top">
+																<tbody>
+																	<tr style="vertical-align: top;" valign="top">
+																		<td style="word-break: break-word; vertical-align: top; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;" height="0" valign="top"><span></span></td>
+																	</tr>
+																</tbody>
+															</table>
+														</td>
+													</tr>
+												</tbody>
+											</table>
+											<!--[if (!mso)&(!IE)]><!-->
+										</div>
+										<!--<![endif]-->
+									</div>
+								</div>
+								<!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+								<!--[if (mso)|(IE)]></td></tr></table></td></tr></table><![endif]-->
+							</div>
+						</div>
+					</div>
+					<div style="background-color:transparent;">
+						<div class="block-grid four-up no-stack" style="min-width: 320px; max-width: 600px; overflow-wrap: break-word; word-wrap: break-word; word-break: break-word; Margin: 0 auto; background-color: transparent;">
+							<div style="border-collapse: collapse;display: table;width: 100%;background-color:transparent;">
+								<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:transparent;"><tr><td align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:600px"><tr class="layout-full-width" style="background-color:transparent"><![endif]-->
+								<!--[if (mso)|(IE)]><td align="center" width="150" style="background-color:transparent;width:150px; border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent;" valign="top"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 0px; padding-left: 0px; padding-top:5px; padding-bottom:5px;"><![endif]-->
+								<div class="col num3" style="display: table-cell; vertical-align: top; max-width: 320px; min-width: 150px; width: 150px;">
+									<div class="col_cont" style="width:100% !important;">
+										<!--[if (!mso)&(!IE)]><!-->
+										<div style="border-top:0px solid transparent; border-left:0px solid transparent; border-bottom:0px solid transparent; border-right:0px solid transparent; padding-top:5px; padding-bottom:5px; padding-right: 0px; padding-left: 0px;">
+											<!--<![endif]-->
+											<div class="img-container center fixedwidth" align="center" style="padding-right: 0px;padding-left: 0px;">
+												<!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr style="line-height:0px"><td style="padding-right: 0px;padding-left: 0px;" align="center"><![endif]--><a data-link_id="96778" href="https://t03.mailsrv-e.com/click?v=2&umk=60b9b4df04d706.9717330860b9b4df0&origurl=aHR0cHM6Ly9wZS1uYXRpb24uY29tL2FmdGVycGF5Lz91dG1fc291cmNlPXNtYXJ0bWFpbCZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj0wNC4wNi4yMSUyMEZBU0hJT04lMjBXRUVLJTIwQUFGV19VUyZ1dG1fY29udGVudD0mX3JtSWQ9VzJNRTA4d3k2OEl3T0xZYkJOT2xUeXpCNktydjNPaHZyMDM3Qllu&link_id=96778&s=50feb58db787989c0399cce5dff910e0" target="_blank" style="outline:none" tabindex="-1"><img class="center fixedwidth" align="center" border="0" src="https://img-cdn.mailsrv-e.com/private/xa3p9kXK/Q1%20SHIPPING%20ICONS/Afterpay.jpg" alt="Alternate text" title="Alternate text" style="text-decoration: none; -ms-interpolation-mode: bicubic; height: auto; border: 0; width: 100%; max-width: 105px; display: block;" width="105"></a>
+												<!--[if mso]></td></tr></table><![endif]-->
+											</div>
+											<!--[if (!mso)&(!IE)]><!-->
+										</div>
+										<!--<![endif]-->
+									</div>
+								</div>
+								<!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+								<!--[if (mso)|(IE)]></td><td align="center" width="150" style="background-color:transparent;width:150px; border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent;" valign="top"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 0px; padding-left: 0px; padding-top:5px; padding-bottom:5px;"><![endif]-->
+								<div class="col num3" style="display: table-cell; vertical-align: top; max-width: 320px; min-width: 150px; width: 150px;">
+									<div class="col_cont" style="width:100% !important;">
+										<!--[if (!mso)&(!IE)]><!-->
+										<div style="border-top:0px solid transparent; border-left:0px solid transparent; border-bottom:0px solid transparent; border-right:0px solid transparent; padding-top:5px; padding-bottom:5px; padding-right: 0px; padding-left: 0px;">
+											<!--<![endif]-->
+											<div class="img-container center fixedwidth" align="center" style="padding-right: 0px;padding-left: 0px;">
+												<!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr style="line-height:0px"><td style="padding-right: 0px;padding-left: 0px;" align="center"><![endif]--><a data-link_id="37392" href="https://t03.mailsrv-e.com/click?v=2&umk=60b9b4df04d706.9717330860b9b4df0&origurl=aHR0cHM6Ly9wZS1uYXRpb24uY29tL2NvbnRhY3QtdXMvP3V0bV9zb3VyY2U9c21hcnRtYWlsJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPTA0LjA2LjIxJTIwRkFTSElPTiUyMFdFRUslMjBBQUZXX1VTJnV0bV9jb250ZW50PSZfcm1JZD1XMk1FMDh3eTY4SXdPTFliQk5PbFR5ekI2S3J2M09odnIwMzdCWW4%3D&link_id=37392&s=50feb58db787989c0399cce5dff910e0" target="_blank" style="outline:none" tabindex="-1"><img class="center fixedwidth" align="center" border="0" src="https://img-cdn.mailsrv-e.com/private/xa3p9kXK/Q1%20SHIPPING%20ICONS/Whatsapp.jpg" alt="Alternate text" title="Alternate text" style="text-decoration: none; -ms-interpolation-mode: bicubic; height: auto; border: 0; width: 100%; max-width: 113px; display: block;" width="113"></a>
+												<!--[if mso]></td></tr></table><![endif]-->
+											</div>
+											<!--[if (!mso)&(!IE)]><!-->
+										</div>
+										<!--<![endif]-->
+									</div>
+								</div>
+								<!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+								<!--[if (mso)|(IE)]></td><td align="center" width="150" style="background-color:transparent;width:150px; border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent;" valign="top"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 0px; padding-left: 0px; padding-top:5px; padding-bottom:5px;"><![endif]-->
+								<div class="col num3" style="display: table-cell; vertical-align: top; max-width: 320px; min-width: 150px; width: 150px;">
+									<div class="col_cont" style="width:100% !important;">
+										<!--[if (!mso)&(!IE)]><!-->
+										<div style="border-top:0px solid transparent; border-left:0px solid transparent; border-bottom:0px solid transparent; border-right:0px solid transparent; padding-top:5px; padding-bottom:5px; padding-right: 0px; padding-left: 0px;">
+											<!--<![endif]-->
+											<div class="img-container center fixedwidth" align="center" style="padding-right: 0px;padding-left: 0px;">
+												<!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr style="line-height:0px"><td style="padding-right: 0px;padding-left: 0px;" align="center"><![endif]--><a data-link_id="49418" href="https://t03.mailsrv-e.com/click?v=2&umk=60b9b4df04d706.9717330860b9b4df0&origurl=aHR0cHM6Ly9wZS1uYXRpb24uY29tL2RlbGl2ZXJ5LWFuZC1yZXR1cm5zLz91dG1fc291cmNlPXNtYXJ0bWFpbCZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj0wNC4wNi4yMSUyMEZBU0hJT04lMjBXRUVLJTIwQUFGV19VUyZ1dG1fY29udGVudD0mX3JtSWQ9VzJNRTA4d3k2OEl3T0xZYkJOT2xUeXpCNktydjNPaHZyMDM3Qllu&link_id=49418&s=50feb58db787989c0399cce5dff910e0" target="_blank" style="outline:none" tabindex="-1"><img class="center fixedwidth" align="center" border="0" src="https://img-cdn.mailsrv-e.com/private/xa3p9kXK/Q1%20SHIPPING%20ICONS/FreeShipping.jpg" alt="Alternate text" title="Alternate text" style="text-decoration: none; -ms-interpolation-mode: bicubic; height: auto; border: 0; width: 100%; max-width: 113px; display: block;" width="113"></a>
+												<!--[if mso]></td></tr></table><![endif]-->
+											</div>
+											<!--[if (!mso)&(!IE)]><!-->
+										</div>
+										<!--<![endif]-->
+									</div>
+								</div>
+								<!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+								<!--[if (mso)|(IE)]></td><td align="center" width="150" style="background-color:transparent;width:150px; border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent;" valign="top"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 0px; padding-left: 0px; padding-top:5px; padding-bottom:5px;"><![endif]-->
+								<div class="col num3" style="display: table-cell; vertical-align: top; max-width: 320px; min-width: 150px; width: 150px;">
+									<div class="col_cont" style="width:100% !important;">
+										<!--[if (!mso)&(!IE)]><!-->
+										<div style="border-top:0px solid transparent; border-left:0px solid transparent; border-bottom:0px solid transparent; border-right:0px solid transparent; padding-top:5px; padding-bottom:5px; padding-right: 0px; padding-left: 0px;">
+											<!--<![endif]-->
+											<div class="img-container center fixedwidth" align="center" style="padding-right: 0px;padding-left: 0px;">
+												<!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr style="line-height:0px"><td style="padding-right: 0px;padding-left: 0px;" align="center"><![endif]--><a data-link_id="60303" href="https://t03.mailsrv-e.com/click?v=2&umk=60b9b4df04d706.9717330860b9b4df0&origurl=aHR0cHM6Ly91cy5wZS1uYXRpb24uY29tL2RlbGl2ZXJ5LWFuZC1yZXR1cm5zLz91dG1fc291cmNlPXNtYXJ0bWFpbCZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj0wNC4wNi4yMSUyMEZBU0hJT04lMjBXRUVLJTIwQUFGV19VUyZ1dG1fY29udGVudD0mX3JtSWQ9VzJNRTA4d3k2OEl3T0xZYkJOT2xUeXpCNktydjNPaHZyMDM3Qllu&link_id=60303&s=50feb58db787989c0399cce5dff910e0" target="_blank" style="outline:none" tabindex="-1"><img class="center fixedwidth" align="center" border="0" src="https://img-cdn.mailsrv-e.com/private/raBpKZmJ/mid%20season%20continues/LiveChat.jpg" alt="Alternate text" title="Alternate text" style="text-decoration: none; -ms-interpolation-mode: bicubic; height: auto; border: 0; width: 100%; max-width: 105px; display: block;" width="105"></a>
+												<!--[if mso]></td></tr></table><![endif]-->
+											</div>
+											<!--[if (!mso)&(!IE)]><!-->
+										</div>
+										<!--<![endif]-->
+									</div>
+								</div>
+								<!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+								<!--[if (mso)|(IE)]></td></tr></table></td></tr></table><![endif]-->
+							</div>
+						</div>
+					</div>
+					<div style="background-color:transparent;">
+						<div class="block-grid  no-stack" style="min-width: 320px; max-width: 600px; overflow-wrap: break-word; word-wrap: break-word; word-break: break-word; Margin: 0 auto; background-color: transparent;">
+							<div style="border-collapse: collapse;display: table;width: 100%;background-color:transparent;">
+								<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:transparent;"><tr><td align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:600px"><tr class="layout-full-width" style="background-color:transparent"><![endif]-->
+								<!--[if (mso)|(IE)]><td align="center" width="600" style="background-color:transparent;width:600px; border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent;" valign="top"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 0px; padding-left: 0px; padding-top:5px; padding-bottom:5px;"><![endif]-->
+								<div class="col num12" style="min-width: 320px; max-width: 600px; display: table-cell; vertical-align: top; width: 600px;">
+									<div class="col_cont" style="width:100% !important;">
+										<!--[if (!mso)&(!IE)]><!-->
+										<div style="border-top:0px solid transparent; border-left:0px solid transparent; border-bottom:0px solid transparent; border-right:0px solid transparent; padding-top:5px; padding-bottom:5px; padding-right: 0px; padding-left: 0px;">
+											<!--<![endif]-->
+											<table class="divider" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed; vertical-align: top; border-spacing: 0; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; min-width: 100%; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;" role="presentation" valign="top">
+												<tbody>
+													<tr style="vertical-align: top;" valign="top">
+														<td class="divider_inner" style="word-break: break-word; vertical-align: top; min-width: 100%; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; padding-top: 10px; padding-right: 10px; padding-bottom: 10px; padding-left: 10px;" valign="top">
+															<table class="divider_content" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed; vertical-align: top; border-spacing: 0; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-top: 2px solid #000000; height: 0px; width: 100%;" align="center" role="presentation" height="0" valign="top">
+																<tbody>
+																	<tr style="vertical-align: top;" valign="top">
+																		<td style="word-break: break-word; vertical-align: top; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;" height="0" valign="top"><span></span></td>
+																	</tr>
+																</tbody>
+															</table>
+														</td>
+													</tr>
+												</tbody>
+											</table>
+											<!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 10px; padding-left: 10px; padding-top: 10px; padding-bottom: 10px; font-family: Arial, sans-serif"><![endif]-->
+											<div style="color:#000000;font-family:Helvetica Neue, Helvetica, Arial, sans-serif;line-height:1.2;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px;">
+												<div class="txtTinyMce-wrapper" style="font-size: 12px; line-height: 1.2; font-family: Helvetica Neue, Helvetica, Arial, sans-serif; color: #000000; mso-line-height-alt: 14px;">
+													<p style="margin: 0; font-size: 11px; line-height: 1.2; word-break: break-word; text-align: left; mso-line-height-alt: 13px; margin-top: 0; margin-bottom: 0;"><span style="font-size: 11px;"><span style>This email was sent to marysmith8557@gmail.com. You are receiving this email because you subscribed or opted in at <a data-link_id="29651" style="text-decoration: underline; color: #000000;" href="https://t03.mailsrv-e.com/click?v=2&umk=60b9b4df04d706.9717330860b9b4df0&origurl=aHR0cHM6Ly9wZS1uYXRpb24uY29tLz91dG1fc291cmNlPXNtYXJ0bWFpbCZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj0wNC4wNi4yMSUyMEZBU0hJT04lMjBXRUVLJTIwQUFGV19VUyZ1dG1fY29udGVudD0mX3JtSWQ9VzJNRTA4d3k2OEl3T0xZYkJOT2xUeXpCNktydjNPaHZyMDM3Qllu&link_id=29651&s=50feb58db787989c0399cce5dff910e0" target="_blank" rel="noopener">pe-nation.com</a>. To ensure delivery to your inbox (not bulk or junk folders), you can add <a data-link_id="74105" style="text-decoration: underline; color: #000000;" title="info@pe-nation.com" href="mailto:info@pe-nation.com">info@pe-nation.com</a> to your address book or safe list. We'd hate to see you go, but you can </span><a data-link_id="35808" style="text-decoration: underline; color: #000000;" title="unsubscribe" href="https://my.smartmail.io/public/subscribers/optout/umk/NjBiOWI0ZGYwNGQ3MDYuOTcxNzMzMDg2MGI5YjRkZjA=/email/bWFyeXNtaXRoODU1NyU0MGdtYWlsLmNvbQ==" target="_blank" rel="noopener"><span style>unsubscribe</span></a><span style> </span><span style>at any time.</span></span></p>
+													<p style="margin: 0; font-size: 14px; line-height: 1.2; word-break: break-word; text-align: left; mso-line-height-alt: 17px; margin-top: 0; margin-bottom: 0;">&nbsp;</p>
+													<p style="margin: 0; font-size: 11px; line-height: 1.2; word-break: break-word; text-align: left; mso-line-height-alt: 13px; margin-top: 0; margin-bottom: 0;"><span style="font-size: 11px;">© COPYRIGHT 2021 P.E NATION | ALL RIGHTS RESERVED</span></p>
+												</div>
+											</div>
+											<!--[if mso]></td></tr></table><![endif]-->
+											<!--[if (!mso)&(!IE)]><!-->
+										</div>
+										<!--<![endif]-->
+									</div>
+								</div>
+								<!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+								<!--[if (mso)|(IE)]></td></tr></table></td></tr></table><![endif]-->
+							</div>
+						</div>
+					</div>
+					<!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+				</td>
+			</tr>
+		</tbody>
+	</table>
+	<!--[if (IE)]></div><![endif]-->
+<img src="https://t03.mailsrv-e.com/open?v=2&umk=60b9b4df04d706.9717330860b9b4df0&s=50feb58db787989c0399cce5dff910e0" alt=""/></body>
+
+</html>

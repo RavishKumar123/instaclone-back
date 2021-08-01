@@ -1,0 +1,1012 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" lang="en" xml:lang="en">
+<head>
+<!--[if gte mso 9]>
+<xml>
+<o:OfficeDocumentSettings>
+<o:AllowPNG/>
+<o:PixelsPerInch>96</o:PixelsPerInch>
+</o:OfficeDocumentSettings>
+</xml>
+<![endif]-->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width">
+<meta name="robots" content="noindex">
+<link rel="canonical" href="https://www.theguardian.com/email/au/daily">
+<title>The Guardian Today Australia | The Guardian</title>
+<!--[if mso]>
+<style>
+h1, h2, h3, h4, h5, h6, p, blockquote {
+font-family: Georgia, serif !important;
+}
+</style>
+<![endif]-->
+<style>.ft__links a:visited { font-family: Helvetica, Arial, sans-serif !important; color: rgb(255, 255, 255) !important; font-size: 12px !important; font-weight: lighter !important; line-height: 14px !important; text-decoration: none !important } .ft__links a:hover { font-family: Helvetica, Arial, sans-serif !important; color: rgb(255, 255, 255) !important; font-size: 12px !important; font-weight: lighter !important; line-height: 14px !important; text-decoration: none !important } .ft__links a:active { font-family: Helvetica, Arial, sans-serif !important; color: rgb(255, 255, 255) !important; font-size: 12px !important; font-weight: lighter !important; line-height: 14px !important; text-decoration: none !important } .free-text a:hover { color: rgb(5, 86, 137) !important } @media screen and (-webkit-min-device-pixel-ratio: 0) {td { -webkit-font-smoothing: antialiased } } @-moz-document url-prefix(){td{-moz-osx-font-smoothing:grayscale}} @font-face {font-family: "Guardian Egyptian Web Header"; src: url(https://interactive.guim.co.uk/fonts/garnett/GHGuardianHeadline-Bold.woff2) format("woff2"), url(https://interactive.guim.co.uk/fonts/garnett/GHGuardianHeadline-Bold.woff) format("woff"); font-weight: 700; font-style: normal} @font-face {font-family: "Guardian Egyptian Web Headline"; src: url(https://interactive.guim.co.uk/fonts/garnett/GHGuardianHeadline-Medium.woff2) format("woff2"), url(https://interactive.guim.co.uk/fonts/garnett/GHGuardianHeadline-Medium.woff) format("woff"); font-weight: 500; font-style: normal} @font-face {font-family: "Guardian Egyptian Text"; src: url(https://assets.guim.co.uk/static/frontend/fonts/guardian-textegyptian/noalts-not-hinted/GuardianTextEgyptian-Regular.woff2) format("woff2"), url(https://assets.guim.co.uk/static/frontend/fonts/guardian-textegyptian/noalts-not-hinted/GuardianTextEgyptian-Regular.woff) format("woff"); font-weight: 400; font-style: normal} @font-face {font-family: "Guardian Egyptian Text"; src: url(https://assets.guim.co.uk/static/frontend/fonts/guardian-textegyptian/noalts-not-hinted/GuardianTextEgyptian-Bold.woff2) format("woff2"), url(https://assets.guim.co.uk/static/frontend/fonts/guardian-textegyptian/noalts-not-hinted/GuardianTextEgyptian-Bold.woff) format("woff"); font-weight: 700; font-style: normal} @font-face {font-family: "Guardian Egyptian Text"; src: url(https://assets.guim.co.uk/static/frontend/fonts/guardian-textegyptian/noalts-not-hinted/GuardianTextEgyptian-RegularItalic.woff2) format("woff2"), url(https://assets.guim.co.uk/static/frontend/fonts/guardian-textegyptian/noalts-not-hinted/GuardianTextEgyptian-RegularItalic.woff) format("woff"); font-weight: 400; font-style: italic} @media only screen and (max-width: 500px) {.center-element { min-width: 0 !important } .container { width: 100% !important } }</style>
+</head>
+<body style="min-width: 100%; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; margin: 0; padding: 0; box-sizing: border-box; width: 100%"><img src="https://ablink.editorial.theguardian.com/ss/o/ltzzm0tTsDh4aJAlLAPc0A/3ch/8thGCL31SleJw1wfvyCgag/ho.gif" alt="" width="1" height="1" border="0" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"/>
+<table class="body the-guardian-today-australia" style="border-spacing: 0; border-collapse: collapse; background: rgb(255, 255, 255); height: 100%; width: 100%">
+<tbody>
+<tr>
+<td class="center no-pad" align="center" valign="top" style="padding: 0">
+<center class="center-element" style="width: 100%">
+<table style="border-spacing: 0; border-collapse: collapse">
+<tbody>
+<tr>
+<td class="no-pad container-td" style="padding: 0; width: 500px">
+<table align="center" class="container float-center" style="border-spacing: 0; border-collapse: collapse; background: rgb(255, 255, 255); margin: 0 auto; text-align: left">
+<tbody>
+<tr>
+<td class="no-pad" style="padding: 0">
+<table class="row" style="border-spacing: 0; border-collapse: collapse; width: 100%">
+<tbody>
+<tr>
+<td> <img width="500" class="full-width" src="https://assets.guim.co.uk/images/email/banners/2f423e2f2a2aebce8729d2cd54c1ec1f/the-guardian-today-australia.png" alt="The Guardian Today Australia" style="outline: none; text-decoration: none; max-width: 100%; clear: both; display: block; width: 100%"> </td>
+</tr>
+</tbody>
+</table>
+<!-- Braze Placeholder - Above Collection 1 -->
+<table class="ct " style="border-spacing: 0; border-collapse: collapse; width: 100%">
+<tbody>
+<tr>
+<td class="ct__margin" style="padding: 0 0 12px">
+<table class="ct__inner" style="border-spacing: 0; border-collapse: collapse; width: 100%">
+<tbody>
+<tr>
+<td class="ct__padding" style='font-family: "Guardian Egyptian Web Header", Georgia, serif; font-size: 26px; color: rgb(18, 18, 18); padding: 4px 12px 0'> Headlines </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table>
+<table class="fc" style="border-spacing: 0; border-collapse: collapse; width: 100%">
+<tbody>
+<tr>
+<td class=" fc__margin" style="width: 100%; padding-bottom: 10px">
+<table class="fc__inner tone-live fc--large pillar-News" style="border-spacing: 0; border-collapse: collapse; padding: 0; width: 100%; position: relative; height: 56px; border-top: 1px solid rgb(255, 186, 200); background-color: rgb(173, 0, 6)">
+<tbody>
+<tr valign="top">
+<td class="no-pad" style="padding: 0"><a href="https://ablink.editorial.theguardian.com/ss/c/TBl-lE0k4WbTlFRn6v-lQXxTpTslqnvUsR2ofAkC00teaEyrmTsqTYt4WzwfOgB38LI5emV8wd-dz5HNuveQgWsX_5BOW16g3sTSsJhpbdkDyR-h9la5RjKObB8rdObU85qqAosq6p-lkCIw19yIc8-1RywvVAawvvPQwdYUhpGYNJ6QqB94z3agm7k0myKjYmEbwp-Id95SSEK2ygg-dQAcnEmLJ6hEyxmV1NmXY3HL5Yf_qvUiUdJQyK23hZ4LULXSRqyPg5XOdqORi7VFj7sbj1uu-CvMWMwxXfmSrMBhMTiVUAYajBuAAsuFoAbvFzBSoGqbqqll_wt17B0Xz1ljLJARjWNoiaj7BvvnjV0/3ch/8thGCL31SleJw1wfvyCgag/h0/2wfJCJB-4hZm1NwXhLYjCuJVQySJrWbqeA1N8gK0MU4"><img width="500" class="full-width" src="https://i.guim.co.uk/img/media/103b8fe205fef050ee2e6ae3790454d0d2329042/0_185_4302_2581/master/4302.jpg?width=500&amp;quality=45&amp;fit=max&amp;dpr=2&amp;sharpen=a0.8,r1,t1&amp;s=97676873c030d0aa722fd2bee6216530" alt="Australia coronavirus live: four new Victoria Covid cases as James Merlino says no plans to lift Melbourne lockdown early" style="outline: none; text-decoration: none; max-width: 100%; clear: both; display: block; border: 0; width: 100%"></a></td>
+</tr>
+<tr valign="top">
+<td class="headline" style='font-weight: normal; padding: 3px 10px 5px; font-family: "Guardian Egyptian Web Headline", Georgia, serif; color: rgb(255, 255, 255); font-size: 22px; line-height: 26px'> <a href="https://ablink.editorial.theguardian.com/ss/c/TBl-lE0k4WbTlFRn6v-lQXxTpTslqnvUsR2ofAkC00teaEyrmTsqTYt4WzwfOgB38LI5emV8wd-dz5HNuveQgWsX_5BOW16g3sTSsJhpbdkDyR-h9la5RjKObB8rdObU85qqAosq6p-lkCIw19yIc8-1RywvVAawvvPQwdYUhpGYNJ6QqB94z3agm7k0myKjYmEbwp-Id95SSEK2ygg-dQAcnEmLJ6hEyxmV1NmXY3HL5Yf_qvUiUdJQyK23hZ4LULXSRqyPg5XOdqORi7VFj7sbj1uu-CvMWMwxXfmSrMBhMTiVUAYajBuAAsuFoAbvFzBSoGqbqqll_wt17B0Xz1ljLJARjWNoiaj7BvvnjV0/3ch/8thGCL31SleJw1wfvyCgag/h1/erKU1BA2STT-jXKdAGIgZgr6sVY5nsywbqdD6XkfVZ4" class="fc-link" style="text-decoration: none; color: rgb(255, 255, 255)"> <span class="fc__kicker" style='font-family: "Guardian Egyptian Web Header", Georgia, serif; color: rgb(255, 186, 200)'><span class="live-pulse-icon flashing-image"></span>Live <span class="kicker-separator">/</span></span> Australia coronavirus live: four new Victoria Covid cases as James Merlino says no plans to lift Melbourne lockdown early </a> </td>
+</tr>
+<tr valign="top">
+<td class="trail-text" style="font-weight: normal; font-family: Georgia, serif; font-size: 14px; line-height: 18px; padding: 10px 10px 5px; color: rgb(255, 255, 255)"> <a href="https://ablink.editorial.theguardian.com/ss/c/TBl-lE0k4WbTlFRn6v-lQXxTpTslqnvUsR2ofAkC00teaEyrmTsqTYt4WzwfOgB38LI5emV8wd-dz5HNuveQgWsX_5BOW16g3sTSsJhpbdkDyR-h9la5RjKObB8rdObU85qqAosq6p-lkCIw19yIc8-1RywvVAawvvPQwdYUhpGYNJ6QqB94z3agm7k0myKjYmEbwp-Id95SSEK2ygg-dQAcnEmLJ6hEyxmV1NmXY3HL5Yf_qvUiUdJQyK23hZ4LULXSRqyPg5XOdqORi7VFj7sbj1uu-CvMWMwxXfmSrMBhMTiVUAYajBuAAsuFoAbvFzBSoGqbqqll_wt17B0Xz1ljLJARjWNoiaj7BvvnjV0/3ch/8thGCL31SleJw1wfvyCgag/h2/l7ecAn6AOr4XOCO6zkK020EtqZ-DOyBh4VYMCTC2AD8" class="fc-link" style="text-decoration: none; color: rgb(255, 255, 255)">Follow updates live</a> </td>
+</tr>
+<tr valign="top">
+<td class="fc__pad" style="padding-bottom: 26px"> </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table>
+<table class="fc" style="border-spacing: 0; border-collapse: collapse; width: 100%">
+<tbody>
+<tr>
+<td class=" fc__margin" style="width: 100%; padding-bottom: 10px">
+<table class="fc__inner tone-news pillar-News" style="border-spacing: 0; border-collapse: collapse; background-color: rgb(246, 246, 246); border-top: 1px solid rgb(199, 0, 0); padding: 0; width: 100%; position: relative; height: 56px">
+<tbody>
+<tr valign="top">
+<td class="headline" style='font-weight: normal; padding: 3px 10px 5px; font-family: "Guardian Egyptian Web Headline", Georgia, serif; font-size: 16px; line-height: 20px; color: rgb(18, 18, 18)'> <a href="https://ablink.editorial.theguardian.com/ss/c/TBl-lE0k4WbTlFRn6v-lQXxTpTslqnvUsR2ofAkC00teaEyrmTsqTYt4WzwfOgB3nTF1g7emR0TXyQ-ld84d0vqcCJTodb1D4DdSTpfMvUz9FLMBqlVf2LwI930M3LEgaC-MOWQm69ha4xYzJm5Zz9PtDlko3yuz1slqOACXGSTvmLmlt4MEfMSNlxjMNmz37loLrSZ6v0p4eNJfrQXftfGOEFYoaOIkNuQEgM782vb5u_2WBP2G1H1t-tk904-0St7v3eoJDCOchfANFDSrVBnpNCGgD2rFIHGg97Ogev5gNS_4-eOO5jcrMuyBpTKIo9Qf5o3qBbgYURavk9fhZJBjWQogw5s0sFr9bSO-U8Ajpu8HNrG34FvcEl1zEFr0FloZlz2zD-S6YeEzbrp0MQ/3ch/8thGCL31SleJw1wfvyCgag/h3/jjuP06b_KVlDFpQ-AKhr9S78Lv_yd2r12BDUOVj8z7U" class="fc-link" style="text-decoration: none; color: rgb(18, 18, 18)"> <span class="fc__kicker" style='font-family: "Guardian Egyptian Web Header", Georgia, serif; color: rgb(199, 0, 0)'>George Pell <span class="kicker-separator">/</span></span> News organisations fined more than $1m over reporting of sexual abuse verdict </a> </td>
+</tr>
+<tr valign="top">
+<td class="fc__pad" style="padding-bottom: 26px"> </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table>
+<table class="fc" style="border-spacing: 0; border-collapse: collapse; width: 100%">
+<tbody>
+<tr>
+<td class=" fc__margin" style="width: 100%; padding-bottom: 10px">
+<table class="fc__inner tone-news pillar-News" style="border-spacing: 0; border-collapse: collapse; background-color: rgb(246, 246, 246); border-top: 1px solid rgb(199, 0, 0); padding: 0; width: 100%; position: relative; height: 56px">
+<tbody>
+<tr valign="top">
+<td class="headline" style='font-weight: normal; padding: 3px 10px 5px; font-family: "Guardian Egyptian Web Headline", Georgia, serif; font-size: 16px; line-height: 20px; color: rgb(18, 18, 18)'> <a href="https://ablink.editorial.theguardian.com/ss/c/TBl-lE0k4WbTlFRn6v-lQXxTpTslqnvUsR2ofAkC00sy_-q9xCcdQQjMxRI6QJIQRjA7jXXO5GuTIn94AFp0eQKxNvdb3QhOflugKG-4TKUE4PVpgpbh2qZs3aN8JEXhEyiw_FKhf5per4wWcx3k8AypnISNHEa40332476m0_FL0KHiHJ6BbMm58U0IRmu9G2BkCoqfE2p54QoPwkZB7q26iIAs8LKK56BWiRPahOWUlHuTHQPk-y6Ox2UH5N7J-eqcqpEsmJ5yZwr3wHuqRWRLsjaxXIEe8NcBpIWJg5qn8pjnRFRuGRiQ7VXO4-zy6JJO3OiEzuE-_QSwDow8LALtftdUpynOifUSvedyrDtldaQXsnIpVKZBVkOByUsW/3ch/8thGCL31SleJw1wfvyCgag/h4/iGbOT8h3T1VIiFBeN3rCBdijCRY7uBkUF7Kfnz6XsAA" class="fc-link" style="text-decoration: none; color: rgb(18, 18, 18)"> <span class="fc__kicker" style='font-family: "Guardian Egyptian Web Header", Georgia, serif; color: rgb(199, 0, 0)'>David Attenborough documentary <span class="kicker-separator">/</span></span> Australian scientists break down in tears over climate crisis </a> </td>
+</tr>
+<tr valign="top">
+<td class="fc__pad" style="padding-bottom: 26px"> </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table>
+<table class="fc" style="border-spacing: 0; border-collapse: collapse; width: 100%">
+<tbody>
+<tr>
+<td class=" fc__margin" style="width: 100%; padding-bottom: 10px">
+<table class="fc__inner tone-news pillar-News" style="border-spacing: 0; border-collapse: collapse; background-color: rgb(246, 246, 246); border-top: 1px solid rgb(199, 0, 0); padding: 0; width: 100%; position: relative; height: 56px">
+<tbody>
+<tr valign="top">
+<td class="headline" style='font-weight: normal; padding: 3px 10px 5px; font-family: "Guardian Egyptian Web Headline", Georgia, serif; font-size: 16px; line-height: 20px; color: rgb(18, 18, 18)'> <a href="https://ablink.editorial.theguardian.com/ss/c/TBl-lE0k4WbTlFRn6v-lQXxTpTslqnvUsR2ofAkC00teaEyrmTsqTYt4WzwfOgB35ITEqOJ7UmylCZ6-om3D4DROKRrkbRWYK7lUt-LdhxCltcPUZaZHFGPapUXcjiSrCe9D7DQ28KoHvZDVpi7mmL-OTOLp8I2Fi5vhwQd7pEG9Fjn_0D4VMUsqSo7WOzJTCdpoENr-zuZmYKFUIiOEMujk5OxeWK6yySsGhLxOKnNIjh5Zo8pmrqKqCOlIL1VVzh9EYRMcugx83Thcu_humh9AvxBRdj11UIXGJx2ee5VvzWbfZtrtsTlDwFQdH5XVEcXkihFr9Rkz_-KTI_46jK5_mChbe-8pXRXvC-hnSOE/3ch/8thGCL31SleJw1wfvyCgag/h5/9_I-13sfJ-kY5sJ27GdbOyED7WuQ-NlmolDnMbwtbM0" class="fc-link" style="text-decoration: none; color: rgb(18, 18, 18)"> <span class="fc__kicker" style='font-family: "Guardian Egyptian Web Header", Georgia, serif; color: rgb(199, 0, 0)'>Brittany Higgins <span class="kicker-separator">/</span></span> Former Liberal staffer hospitalised and receiving support ‘after months of political pressure’ </a> </td>
+</tr>
+<tr valign="top">
+<td class="fc__pad" style="padding-bottom: 26px"> </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table>
+<table class="fc" style="border-spacing: 0; border-collapse: collapse; width: 100%">
+<tbody>
+<tr>
+<td class=" fc__margin" style="width: 100%; padding-bottom: 10px">
+<table class="fc__inner tone-news pillar-News" style="border-spacing: 0; border-collapse: collapse; background-color: rgb(246, 246, 246); border-top: 1px solid rgb(199, 0, 0); padding: 0; width: 100%; position: relative; height: 56px">
+<tbody>
+<tr valign="top">
+<td class="headline" style='font-weight: normal; padding: 3px 10px 5px; font-family: "Guardian Egyptian Web Headline", Georgia, serif; font-size: 16px; line-height: 20px; color: rgb(18, 18, 18)'> <a href="https://ablink.editorial.theguardian.com/ss/c/TBl-lE0k4WbTlFRn6v-lQXxTpTslqnvUsR2ofAkC00teaEyrmTsqTYt4WzwfOgB3tqQWgSxKf1nXteBefDZMmY1R6oVM3RYMfNjGpw89YQhFNchRDzoIjeAHa-odEytgQxTy1yZFqbxGw7NbffTUlSUToHYpTpwX5HAYOoo9CBOn6a8o07JbF5BKw8RRht_dTRLJEDv_dThfOV0yrgelvDbFNZ6RiVaMFsv8NHfTJfY_8klJcrOBfA0kM8g8RsNLBRdBztVflHxT0AWYhg5XptbWHTfhEBU6IF8Wss6_Xs7RJ2EchcS9Dz-jNI2aIDxTQIkGXfv07x-a6BjudGj31A/3ch/8thGCL31SleJw1wfvyCgag/h6/Ne_AG05MgNX2RpipFlEm9Wv9FuSZpn1FXyk1LMcPmxQ" class="fc-link" style="text-decoration: none; color: rgb(18, 18, 18)"> <span class="fc__kicker" style='font-family: "Guardian Egyptian Web Header", Georgia, serif; color: rgb(199, 0, 0)'>Healthcare standoff <span class="kicker-separator">/</span></span> Stoush over cost of hormone patches puts women’s health at risk </a> </td>
+</tr>
+<tr valign="top">
+<td class="fc__pad" style="padding-bottom: 26px"> </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table>
+<table class="fc" style="border-spacing: 0; border-collapse: collapse; width: 100%">
+<tbody>
+<tr>
+<td class=" fc__margin" style="width: 100%; padding-bottom: 10px">
+<table class="fc__inner tone-news pillar-News" style="border-spacing: 0; border-collapse: collapse; background-color: rgb(246, 246, 246); border-top: 1px solid rgb(199, 0, 0); padding: 0; width: 100%; position: relative; height: 56px">
+<tbody>
+<tr valign="top">
+<td class="headline" style='font-weight: normal; padding: 3px 10px 5px; font-family: "Guardian Egyptian Web Headline", Georgia, serif; font-size: 16px; line-height: 20px; color: rgb(18, 18, 18)'> <a href="https://ablink.editorial.theguardian.com/ss/c/TBl-lE0k4WbTlFRn6v-lQXxTpTslqnvUsR2ofAkC00tFDXQBfMrcjCU1ZbKdJ1alhuJHtQxzcm2J6-Mxoxqs0dW_uw96SF6Uq1bAltO_c0v3B-NTTqKt2VCnfKGl3mvBXQ1ztoU84Aj6_C3dZuBRR27nOm4OpPlDWu5XgBfB9syss9kDlIf79rQWVsvfyivfRF6CM2iqJO2O5PRWNVdJ8vN4SEwJcRujaBRLcNXp-zmF6h3K5V-GFjY6eUb6WHt6Li-Ry0ej_jRAndLCSEzDK4-RZYD55d1OqrSa7XWInTU/3ch/8thGCL31SleJw1wfvyCgag/h7/R8yhmLLiRmZjQtdDnY0OlLhLlNgAoSBFul9pj1mViLU" class="fc-link" style="text-decoration: none; color: rgb(18, 18, 18)"> <span class="fc__kicker" style='font-family: "Guardian Egyptian Web Header", Georgia, serif; color: rgb(199, 0, 0)'>Facebook <span class="kicker-separator">/</span></span> Company will end special treatment for politicians after Trump ban - report </a> </td>
+</tr>
+<tr valign="top">
+<td class="fc__pad" style="padding-bottom: 26px"> </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table>
+<!-- Braze Placeholder - Above Collection 2 -->
+<table class="ct ct--not-top" style="border-spacing: 0; border-collapse: collapse; width: 100%">
+<tbody>
+<tr>
+<td class="ct__margin" style="padding: 26px 0 12px">
+<table class="ct__inner" style="border-spacing: 0; border-collapse: collapse; width: 100%; border-top: 1px solid rgb(223, 223, 223)">
+<tbody>
+<tr>
+<td class="ct__padding" style='font-family: "Guardian Egyptian Web Header", Georgia, serif; font-size: 26px; color: rgb(18, 18, 18); padding: 4px 12px 0'> News extra </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table>
+<table class="fc" style="border-spacing: 0; border-collapse: collapse; width: 100%">
+<tbody>
+<tr>
+<td class=" fc__margin" style="width: 100%; padding-bottom: 10px">
+<table class="fc__inner tone-news fc--large pillar-News" style="border-spacing: 0; border-collapse: collapse; background-color: rgb(246, 246, 246); border-top: 1px solid rgb(199, 0, 0); padding: 0; width: 100%; position: relative; height: 56px">
+<tbody>
+<tr valign="top">
+<td class="no-pad" style="padding: 0"><a href="https://ablink.editorial.theguardian.com/ss/c/TBl-lE0k4WbTlFRn6v-lQXxTpTslqnvUsR2ofAkC00sHa-z0R6WWeipy9L7znGxPK0ypVMAYmJ6VolKjysBMB91wm0LIIbo---jesIf80KBJ_6CW6mBUdwxrjPqNd0r8DGeBM8ePLfSWQI758Ws98Ja_F0x2Hkp9GkgBAHnXL53Aq1tDHeISl0I1OSpANcrbo6sWIQH5GW6r1WmIhNLf63Uw4uS-H6UlnfxGubTq1THdj9swH4SECFN0HUeVwxIUZQCv6netHLf5tBTZU0w7AA41eUwVGcPWVSj_txd3kCI/3ch/8thGCL31SleJw1wfvyCgag/h8/ePejwzgQDXJl-6_69YqkpwoH64xoJoy4O-c818qrdI8"><img width="500" class="full-width" src="https://i.guim.co.uk/img/media/e239a4a19677aef349a05f84aee1c1fed4cbc0b2/0_40_4920_2952/master/4920.jpg?width=500&amp;quality=45&amp;fit=max&amp;dpr=2&amp;sharpen=a0.8,r1,t1&amp;s=d7e329ec204d82f09f5f4a2e032b8f83" alt="Mike Pence says he and Trump ‘may never see eye-to-eye’ on Capitol attack" style="outline: none; text-decoration: none; max-width: 100%; clear: both; display: block; border: 0; width: 100%"></a></td>
+</tr>
+<tr valign="top">
+<td class="headline" style='font-weight: normal; padding: 3px 10px 5px; font-family: "Guardian Egyptian Web Headline", Georgia, serif; color: rgb(18, 18, 18); font-size: 22px; line-height: 26px'> <a href="https://ablink.editorial.theguardian.com/ss/c/TBl-lE0k4WbTlFRn6v-lQXxTpTslqnvUsR2ofAkC00sHa-z0R6WWeipy9L7znGxPK0ypVMAYmJ6VolKjysBMB91wm0LIIbo---jesIf80KBJ_6CW6mBUdwxrjPqNd0r8DGeBM8ePLfSWQI758Ws98Ja_F0x2Hkp9GkgBAHnXL53Aq1tDHeISl0I1OSpANcrbo6sWIQH5GW6r1WmIhNLf63Uw4uS-H6UlnfxGubTq1THdj9swH4SECFN0HUeVwxIUZQCv6netHLf5tBTZU0w7AA41eUwVGcPWVSj_txd3kCI/3ch/8thGCL31SleJw1wfvyCgag/h9/pXvCGg7BJtsPDdXBiqvAOR72gVoNSYnERY33Ax2Algw" class="fc-link" style="text-decoration: none; color: rgb(18, 18, 18)"> <span class="fc__kicker" style='font-family: "Guardian Egyptian Web Header", Georgia, serif; color: rgb(199, 0, 0)'>'A dark day' <span class="kicker-separator">/</span></span> Mike Pence says he and Trump ‘may never see eye-to-eye’ on Capitol attack </a> </td>
+</tr>
+<tr valign="top">
+<td class="trail-text" style="font-weight: normal; font-family: Georgia, serif; font-size: 14px; line-height: 18px; padding: 10px 10px 5px; color: rgb(18, 18, 18)"> <a href="https://ablink.editorial.theguardian.com/ss/c/TBl-lE0k4WbTlFRn6v-lQXxTpTslqnvUsR2ofAkC00sHa-z0R6WWeipy9L7znGxPK0ypVMAYmJ6VolKjysBMB91wm0LIIbo---jesIf80KBJ_6CW6mBUdwxrjPqNd0r8DGeBM8ePLfSWQI758Ws98Ja_F0x2Hkp9GkgBAHnXL53Aq1tDHeISl0I1OSpANcrbo6sWIQH5GW6r1WmIhNLf63Uw4uS-H6UlnfxGubTq1THdj9swH4SECFN0HUeVwxIUZQCv6netHLf5tBTZU0w7AA41eUwVGcPWVSj_txd3kCI/3ch/8thGCL31SleJw1wfvyCgag/h10/7FMzg6RkX7Eeu9AhFUobB27wteRc1_-O1nSzzZ6qLjs" class="fc-link" style="text-decoration: none; color: rgb(18, 18, 18)">The former vice-president was speaking at a New Hampshire Republican dinner as he considers his own 2024 White House run</a> </td>
+</tr>
+<tr valign="top">
+<td class="fc__pad" style="padding-bottom: 26px"> </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table>
+<!-- Braze Placeholder - Above Collection 3 -->
+<table class="ct ct--not-top" style="border-spacing: 0; border-collapse: collapse; width: 100%">
+<tbody>
+<tr>
+<td class="ct__margin" style="padding: 26px 0 12px">
+<table class="ct__inner" style="border-spacing: 0; border-collapse: collapse; width: 100%; border-top: 1px solid rgb(223, 223, 223)">
+<tbody>
+<tr>
+<td class="ct__padding" style='font-family: "Guardian Egyptian Web Header", Georgia, serif; font-size: 26px; color: rgb(18, 18, 18); padding: 4px 12px 0'> <a class="ct-link" href="https://ablink.editorial.theguardian.com/ss/c/TBl-lE0k4WbTlFRn6v-lQXxTpTslqnvUsR2ofAkC00vYruMbTVkFiR1xbb-BivGu1JXyczxEGGqnSGdHqYe5qkTQ5kEi1QwqpInTgveO9xuGuBxb7RtiMbB4p_FmmvXsQb-BdGX8N8xaGhP2GmH4l_1nuT0AN-7lY_dxqgewkIigRBt3rKqqUy0vEUb71SZmbtS21KccWiCBJV_BI4SwOOEjmIjJbBdWer-fS3U4Qd9nZafAME9NkCpS9jGvrU2b/3ch/8thGCL31SleJw1wfvyCgag/h11/aDSfV3_vLXa_l_V8xYlNBFImN9CldH233p2wsBMzYRI" style="text-decoration: none; color: rgb(18, 18, 18)">Pacific Plunder</a> </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table>
+<table class="fc" style="border-spacing: 0; border-collapse: collapse; width: 100%">
+<tbody>
+<tr>
+<td class=" fc__margin" style="width: 100%; padding-bottom: 10px">
+<table class="fc__inner tone-feature fc--large pillar-News" style="border-spacing: 0; border-collapse: collapse; background-color: rgb(246, 246, 246); border-top: 1px solid rgb(199, 0, 0); padding: 0; width: 100%; position: relative; height: 56px">
+<tbody>
+<tr valign="top">
+<td class="no-pad" style="padding: 0"><a href="https://ablink.editorial.theguardian.com/ss/c/TBl-lE0k4WbTlFRn6v-lQXxTpTslqnvUsR2ofAkC00vii6uCGgz4pwGcXw-q0gjOYzL6uE5Sp-ISHxRWcS5_9B4KHABJsMwFtR6VDEU5ZooWQPHTygxZbDaq9Vr2inPXGsfiqj-vG_JDmqXnh9KDjuAifowmJiGZti-q3NyuqAAJlkVBICM06Hsr5SrJWHi2EoSFi6e6fxMol5DBfX-9ITcsbfN-ggM9zdxtqcdq6PybeuUXQCBILexj6vyorNuyaGcdI0p4Ur8OtFvnbPdFZEuo2YSnHnaj_mpxGFi8wx_4D3i2SKm2gkXxQfS2eCFet6zWN3waTuSu2lVg6EIVmKxXlSkTwD4hB0ykneqhx78/3ch/8thGCL31SleJw1wfvyCgag/h12/p12tu5Guq-rV3uJ_a8KBrn0wOEFpxnZ50XF4-gGLYrQ"><img width="500" class="full-width" src="https://i.guim.co.uk/img/media/85451f17eb719e3f974a39d3b8f274118a2f696b/0_140_5409_3245/master/5409.jpg?width=500&amp;quality=45&amp;fit=max&amp;dpr=2&amp;sharpen=a0.8,r1,t1&amp;s=aed4d1167b197f27ba58c85b3ed72814" alt="How China is getting rich off Pacific timber" style="outline: none; text-decoration: none; max-width: 100%; clear: both; display: block; border: 0; width: 100%"></a></td>
+</tr>
+<tr valign="top">
+<td class="headline" style='font-weight: normal; padding: 3px 10px 5px; font-family: "Guardian Egyptian Web Headline", Georgia, serif; color: rgb(18, 18, 18); font-size: 22px; line-height: 26px'> <a href="https://ablink.editorial.theguardian.com/ss/c/TBl-lE0k4WbTlFRn6v-lQXxTpTslqnvUsR2ofAkC00vii6uCGgz4pwGcXw-q0gjOYzL6uE5Sp-ISHxRWcS5_9B4KHABJsMwFtR6VDEU5ZooWQPHTygxZbDaq9Vr2inPXGsfiqj-vG_JDmqXnh9KDjuAifowmJiGZti-q3NyuqAAJlkVBICM06Hsr5SrJWHi2EoSFi6e6fxMol5DBfX-9ITcsbfN-ggM9zdxtqcdq6PybeuUXQCBILexj6vyorNuyaGcdI0p4Ur8OtFvnbPdFZEuo2YSnHnaj_mpxGFi8wx_4D3i2SKm2gkXxQfS2eCFet6zWN3waTuSu2lVg6EIVmKxXlSkTwD4hB0ykneqhx78/3ch/8thGCL31SleJw1wfvyCgag/h13/g4CdiwWcMMQu_I9j1pE5kPcJMqFRN8iYlkSmfwVaY20" class="fc-link" style="text-decoration: none; color: rgb(18, 18, 18)"> <span class="fc__kicker" style='font-family: "Guardian Egyptian Web Header", Georgia, serif; color: rgb(199, 0, 0)'>From a forest in Papua New Guinea to a floor in Sydney <span class="kicker-separator">/</span></span> How China is getting rich off Pacific timber </a> </td>
+</tr>
+<tr valign="top">
+<td class="trail-text" style="font-weight: normal; font-family: Georgia, serif; font-size: 14px; line-height: 18px; padding: 10px 10px 5px; color: rgb(18, 18, 18)"> <a href="https://ablink.editorial.theguardian.com/ss/c/TBl-lE0k4WbTlFRn6v-lQXxTpTslqnvUsR2ofAkC00vii6uCGgz4pwGcXw-q0gjOYzL6uE5Sp-ISHxRWcS5_9B4KHABJsMwFtR6VDEU5ZooWQPHTygxZbDaq9Vr2inPXGsfiqj-vG_JDmqXnh9KDjuAifowmJiGZti-q3NyuqAAJlkVBICM06Hsr5SrJWHi2EoSFi6e6fxMol5DBfX-9ITcsbfN-ggM9zdxtqcdq6PybeuUXQCBILexj6vyorNuyaGcdI0p4Ur8OtFvnbPdFZEuo2YSnHnaj_mpxGFi8wx_4D3i2SKm2gkXxQfS2eCFet6zWN3waTuSu2lVg6EIVmKxXlSkTwD4hB0ykneqhx78/3ch/8thGCL31SleJw1wfvyCgag/h14/JAcl57K_4OO9k0IKdLrA2kUkV7p_O66GRa1TdF3uKYY" class="fc-link" style="text-decoration: none; color: rgb(18, 18, 18)">China is the major buyer of wood from Pacific nations like PNG and Solomon Islands, which are implicated in illegal or unsustainable logging</a> </td>
+</tr>
+<tr valign="top">
+<td class="fc__pad" style="padding-bottom: 26px"> </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table>
+<!-- Braze Placeholder - Above Collection 4 -->
+<table class="ct ct--not-top" style="border-spacing: 0; border-collapse: collapse; width: 100%">
+<tbody>
+<tr>
+<td class="ct__margin" style="padding: 26px 0 12px">
+<table class="ct__inner" style="border-spacing: 0; border-collapse: collapse; width: 100%; border-top: 1px solid rgb(223, 223, 223)">
+<tbody>
+<tr>
+<td class="ct__padding" style='font-family: "Guardian Egyptian Web Header", Georgia, serif; font-size: 26px; color: rgb(18, 18, 18); padding: 4px 12px 0'> <a class="ct-link" href="https://ablink.editorial.theguardian.com/ss/c/TBl-lE0k4WbTlFRn6v-lQXxTpTslqnvUsR2ofAkC00tshQXxKfdT2t7zpXk_uKyoCypEzF5OOJRq-YE2EXeHOmTCRz5O3hAX7eF1-ibkc9diazinF2Y3vKHVWmma-E__sC1yaEeuLuOLogOGmNj1O0t2fHzhEalhNOyxLD2qY7T6m_Y387KBJ8ribzN5n8yZ7EXJwS0UDTuI2PG04V1JNX6h7idOvNSMJYjumsoNiqmb4lDeT12kQw-nneCbNK9Q/3ch/8thGCL31SleJw1wfvyCgag/h15/2FdeJvw_RmpP1Kp-VHeypGIkYDN1965YbF7OaGD0Wtg" style="text-decoration: none; color: rgb(18, 18, 18)">Coronavirus</a> </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table>
+<table class="fc" style="border-spacing: 0; border-collapse: collapse; width: 100%">
+<tbody>
+<tr>
+<td class=" fc__margin" style="width: 100%; padding-bottom: 10px">
+<table class="fc__inner tone-news fc--large pillar-News" style="border-spacing: 0; border-collapse: collapse; background-color: rgb(246, 246, 246); border-top: 1px solid rgb(199, 0, 0); padding: 0; width: 100%; position: relative; height: 56px">
+<tbody>
+<tr valign="top">
+<td class="no-pad" style="padding: 0"><a href="https://ablink.editorial.theguardian.com/ss/c/TBl-lE0k4WbTlFRn6v-lQXxTpTslqnvUsR2ofAkC00vii6uCGgz4pwGcXw-q0gjO_7w1lGhnLF_-PIQA_SGDxduXpw3-kxahuaYxY9bWLFmN9UrjQLy26TMmzJOkHhoQoG0trXtBGH9T7POK6-DEXwUPAsko8ZmqYrcZA50PNM8dGHix7QcsMjYnzG7DENplmRNhriP3o-zN5E4h32lI_XmAq0JUDlgjWHqEDUp4nf8cJRCvA_iMsEp_IJj6vTVJtBODxu6hCeNJbgrDrRmBTJe-Tpqkkz0zUSaOvrwVZ_jwqyOLw8FXn0D_Z-p1v5P0/3ch/8thGCL31SleJw1wfvyCgag/h16/_QAZz_84q-xnKg9kKpEK9U1PvMtJRtieipu4LmDeUkE"><img width="500" class="full-width" src="https://i.guim.co.uk/img/media/ee7f60b6719b5f50bdc794a1b11f8047f94935db/0_56_4577_2747/master/4577.jpg?width=500&amp;quality=45&amp;fit=max&amp;dpr=2&amp;sharpen=a0.8,r1,t1&amp;s=3c48c9007979aa1863c4c308d82477c6" alt="Borders and travel rules tightened as variants spark new alarm" style="outline: none; text-decoration: none; max-width: 100%; clear: both; display: block; border: 0; width: 100%"></a></td>
+</tr>
+<tr valign="top">
+<td class="headline" style='font-weight: normal; padding: 3px 10px 5px; font-family: "Guardian Egyptian Web Headline", Georgia, serif; color: rgb(18, 18, 18); font-size: 22px; line-height: 26px'> <a href="https://ablink.editorial.theguardian.com/ss/c/TBl-lE0k4WbTlFRn6v-lQXxTpTslqnvUsR2ofAkC00vii6uCGgz4pwGcXw-q0gjO_7w1lGhnLF_-PIQA_SGDxduXpw3-kxahuaYxY9bWLFmN9UrjQLy26TMmzJOkHhoQoG0trXtBGH9T7POK6-DEXwUPAsko8ZmqYrcZA50PNM8dGHix7QcsMjYnzG7DENplmRNhriP3o-zN5E4h32lI_XmAq0JUDlgjWHqEDUp4nf8cJRCvA_iMsEp_IJj6vTVJtBODxu6hCeNJbgrDrRmBTJe-Tpqkkz0zUSaOvrwVZ_jwqyOLw8FXn0D_Z-p1v5P0/3ch/8thGCL31SleJw1wfvyCgag/h17/B32-qGztMYPaU0rXeYG1_90mkit7PlMvTGHX07OVv1Q" class="fc-link" style="text-decoration: none; color: rgb(18, 18, 18)"> <span class="fc__kicker" style='font-family: "Guardian Egyptian Web Header", Georgia, serif; color: rgb(199, 0, 0)'>UK <span class="kicker-separator">/</span></span> Borders and travel rules tightened as variants spark new alarm </a> </td>
+</tr>
+<tr valign="top">
+<td class="trail-text" style="font-weight: normal; font-family: Georgia, serif; font-size: 14px; line-height: 18px; padding: 10px 10px 5px; color: rgb(18, 18, 18)"> <a href="https://ablink.editorial.theguardian.com/ss/c/TBl-lE0k4WbTlFRn6v-lQXxTpTslqnvUsR2ofAkC00vii6uCGgz4pwGcXw-q0gjO_7w1lGhnLF_-PIQA_SGDxduXpw3-kxahuaYxY9bWLFmN9UrjQLy26TMmzJOkHhoQoG0trXtBGH9T7POK6-DEXwUPAsko8ZmqYrcZA50PNM8dGHix7QcsMjYnzG7DENplmRNhriP3o-zN5E4h32lI_XmAq0JUDlgjWHqEDUp4nf8cJRCvA_iMsEp_IJj6vTVJtBODxu6hCeNJbgrDrRmBTJe-Tpqkkz0zUSaOvrwVZ_jwqyOLw8FXn0D_Z-p1v5P0/3ch/8thGCL31SleJw1wfvyCgag/h18/Sd1x4W-DRY1KgKHVjEqw1okE1NXEPgw8-dNK4KTXGWc" class="fc-link" style="text-decoration: none; color: rgb(18, 18, 18)">PHE data indicates dominant variant ‘more likely to cause serious illness’ as Grant Shapps warns of threat to reopening on 21 June</a> </td>
+</tr>
+<tr valign="top">
+<td class="fc__pad" style="padding-bottom: 26px"> </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table>
+<!-- Braze Placeholder - Above Collection 5 -->
+<table class="ct ct--not-top" style="border-spacing: 0; border-collapse: collapse; width: 100%">
+<tbody>
+<tr>
+<td class="ct__margin" style="padding: 26px 0 12px">
+<table class="ct__inner" style="border-spacing: 0; border-collapse: collapse; width: 100%; border-top: 1px solid rgb(223, 223, 223)">
+<tbody>
+<tr>
+<td class="ct__padding" style='font-family: "Guardian Egyptian Web Header", Georgia, serif; font-size: 26px; color: rgb(18, 18, 18); padding: 4px 12px 0'> Full Story podcast </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table>
+<table class="fc" style="border-spacing: 0; border-collapse: collapse; width: 100%">
+<tbody>
+<tr>
+<td class=" fc__margin" style="width: 100%; padding-bottom: 10px">
+<table class="fc__inner tone-media pillar-News" style="border-spacing: 0; border-collapse: collapse; border-top: 1px solid rgb(199, 0, 0); background-color: rgb(51, 51, 51); padding: 0; width: 100%; position: relative; height: 56px">
+<tbody>
+<tr valign="top">
+<td class="left-col" style="width: 60%">
+<table style="border-spacing: 0; border-collapse: collapse">
+<tbody>
+<tr valign="top">
+<td class="headline" style='font-weight: normal; padding: 3px 10px 5px; font-family: "Guardian Egyptian Web Headline", Georgia, serif; font-size: 16px; line-height: 20px; color: rgb(255, 255, 255)'> <a href="https://ablink.editorial.theguardian.com/ss/c/TBl-lE0k4WbTlFRn6v-lQXxTpTslqnvUsR2ofAkC00teaEyrmTsqTYt4WzwfOgB3okN5xoBZyjNPqUkkTLdqMUiv-0atO2L2xgJxSNkXtPK7yV9O4bx7YNenrIjgwh9N7xme2qjmq7u6wbBize9kYrT5h52JflPfqdIdnSnzI-EicQcZkDvJX0_5hVHzzJosCgtVwT4WyZuzDUdms3Mr1ztCDGS285j3WCIszhhfOm4ToiBk7lgNeAbh4tsT4RY8ZAl8uq03f-4MGUqW31maslv7eKo0Wvz-lL3lQ5xg2lEbmDuyzl09QP5anV9whIaiyUSO-ME6_3g5X-D5_3HCXw/3ch/8thGCL31SleJw1wfvyCgag/h19/C7dqOFkk6xgkhJEd1eX0ll829GFxzOioQPHiutdFE1A" class="fc-link" style="text-decoration: none; color: rgb(255, 255, 255)"> <span class="fc__kicker" style='font-family: "Guardian Egyptian Web Header", Georgia, serif; color: rgb(255, 77, 54)'>Full Story <span class="kicker-separator">/</span></span> Brittany Higgins, the prime minister’s office and a test of ethics </a> </td>
+</tr>
+<tr valign="top">
+<td class="media-icon-wrapper" style="padding: 3px 10px 6px"> <img height="12" src="https://assets.guim.co.uk/images/email/icons/94598db3da6794a7cf15058804f3c97d/podcast-news.png" class="icon media-icon icon-podcast-news" style="outline: none; text-decoration: none; width: auto; max-width: 100%; clear: both; display: inline; height: 28px"> </td>
+</tr>
+<tr valign="top">
+<td class="fc__pad" style="padding-bottom: 0"> </td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class="right-col no-pad" style="padding: 0; width: 40%"><a href="https://ablink.editorial.theguardian.com/ss/c/TBl-lE0k4WbTlFRn6v-lQXxTpTslqnvUsR2ofAkC00teaEyrmTsqTYt4WzwfOgB3okN5xoBZyjNPqUkkTLdqMUiv-0atO2L2xgJxSNkXtPK7yV9O4bx7YNenrIjgwh9N7xme2qjmq7u6wbBize9kYrT5h52JflPfqdIdnSnzI-EicQcZkDvJX0_5hVHzzJosCgtVwT4WyZuzDUdms3Mr1ztCDGS285j3WCIszhhfOm4ToiBk7lgNeAbh4tsT4RY8ZAl8uq03f-4MGUqW31maslv7eKo0Wvz-lL3lQ5xg2lEbmDuyzl09QP5anV9whIaiyUSO-ME6_3g5X-D5_3HCXw/3ch/8thGCL31SleJw1wfvyCgag/h20/xTxKYVqsCaXwKKo88QgIBOL2VfLeV-W35GmlwhHDI4w"><img width="208" class="full-width" src="https://i.guim.co.uk/img/media/6084515f839b250559d7a9c7fa834cbe3fdd6803/0_37_4047_2428/master/4047.jpg?width=208&amp;quality=45&amp;fit=max&amp;dpr=2&amp;sharpen=a0.8,r1,t1&amp;s=5b7a32582b0e6ed2883f8b3c5f3c2d24" alt="Brittany Higgins, the prime minister’s office and a test of ethics" style="outline: none; text-decoration: none; max-width: 100%; clear: both; display: block; border: 0; width: 100%"></a></td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table>
+<!-- Braze Placeholder - Above Collection 6 -->
+<table class="ct ct--not-top" style="border-spacing: 0; border-collapse: collapse; width: 100%">
+<tbody>
+<tr>
+<td class="ct__margin" style="padding: 26px 0 12px">
+<table class="ct__inner" style="border-spacing: 0; border-collapse: collapse; width: 100%; border-top: 1px solid rgb(223, 223, 223)">
+<tbody>
+<tr>
+<td class="ct__padding" style='font-family: "Guardian Egyptian Web Header", Georgia, serif; font-size: 26px; color: rgb(18, 18, 18); padding: 4px 12px 0'> <a class="ct-link" href="https://ablink.editorial.theguardian.com/ss/c/TBl-lE0k4WbTlFRn6v-lQXxTpTslqnvUsR2ofAkC00v69yxWjK0Z0OLSYyuIRSf3MB5LYvWBSvYPAGgLQspbhNhId-MPRSM5NmeVcDW4ZynYyxkKkR7TyKn8XUh4gbAou65QfLQZnfapWVuYJZYmAYGesBZfzJYzLzx1paYqVpxcfM7i02OewgdnnzPhBm782q-V1nRRMB8sQ5ZzNrXEHPGcyDJBiPIpx1PN8UlKi70/3ch/8thGCL31SleJw1wfvyCgag/h21/S0zbVLsltAHE-pWMj1OpOlRH0gE0tH5b1qx00K7syGs" style="text-decoration: none; color: rgb(18, 18, 18)">Sport</a> </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table>
+<table class="fc" style="border-spacing: 0; border-collapse: collapse; width: 100%">
+<tbody>
+<tr>
+<td class=" fc__margin" style="width: 100%; padding-bottom: 10px">
+<table class="fc__inner tone-feature pillar-Sport" style="border-spacing: 0; border-collapse: collapse; background-color: rgb(246, 246, 246); border-top: 1px solid rgb(0, 132, 198); padding: 0; width: 100%; position: relative; height: 56px">
+<tbody>
+<tr valign="top">
+<td class="left-col" style="width: 60%">
+<table style="border-spacing: 0; border-collapse: collapse">
+<tbody>
+<tr valign="top">
+<td class="headline" style='font-weight: normal; padding: 3px 10px 5px; font-family: "Guardian Egyptian Web Headline", Georgia, serif; font-size: 16px; line-height: 20px; color: rgb(18, 18, 18)'> <a href="https://ablink.editorial.theguardian.com/ss/c/TBl-lE0k4WbTlFRn6v-lQXxTpTslqnvUsR2ofAkC00uH_ATSqI8peShFJe1PwG75gqsI2904n2MHmw-KRqKMAvXkkSGT6x5mWNqCiVeDXXmsFfzbeINhl8V9RCL9FPwWRr7wgvJsV39kt-t2dsuZEApg9g5S0DIaFGXGksH8qjahaiYeplGn7YaPy2qiblG-rqvGQyurnETlmCGvEreLTsQYfpnUkzI_4Xb__B1tCjvR8KQ85BEjXDNMgXMXDkr82XHWgO0b4EVjhKfiqPMLoif9yE6RpJpgPeND92gGIJkzh9Nacbo0Or_df6e43Wr-IbLHLjb2A0bf1OasO8XTjg/3ch/8thGCL31SleJw1wfvyCgag/h22/MIGqnGZXJBxibd1Z2-6XvDmYEin-zmdEOmngOXL_U-Q" class="fc-link" style="text-decoration: none; color: rgb(18, 18, 18)"> <img height="12" src="https://assets.guim.co.uk/images/email/icons/b4b9407f64d0305ff1cc9a9b95524411/quote-sport.png" class="icon quote-icon icon-quote-sport" style="outline: none; text-decoration: none; width: auto; max-width: 100%; clear: both; border: 0; display: inline; height: 0.8em"> Hrustic points to bright future as Socceroos dust off cobwebs </a> </td>
+</tr>
+<tr valign="top">
+<td class="byline" style='font-weight: normal; font-family: "Guardian Egyptian Web Headline", Georgia, serif; font-size: 16px; line-height: 20px; padding: 0 10px 10px; color: rgb(0, 132, 198)'>Emma Kemp</td>
+</tr>
+<tr valign="top">
+<td class="fc__pad" style="padding-bottom: 26px"> </td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class="right-col no-pad" style="padding: 0; width: 40%"><a href="https://ablink.editorial.theguardian.com/ss/c/TBl-lE0k4WbTlFRn6v-lQXxTpTslqnvUsR2ofAkC00uH_ATSqI8peShFJe1PwG75gqsI2904n2MHmw-KRqKMAvXkkSGT6x5mWNqCiVeDXXmsFfzbeINhl8V9RCL9FPwWRr7wgvJsV39kt-t2dsuZEApg9g5S0DIaFGXGksH8qjahaiYeplGn7YaPy2qiblG-rqvGQyurnETlmCGvEreLTsQYfpnUkzI_4Xb__B1tCjvR8KQ85BEjXDNMgXMXDkr82XHWgO0b4EVjhKfiqPMLoif9yE6RpJpgPeND92gGIJkzh9Nacbo0Or_df6e43Wr-IbLHLjb2A0bf1OasO8XTjg/3ch/8thGCL31SleJw1wfvyCgag/h23/UA5Se8XcOWoJg7jsXNlWnrwdeVII4Pa5W1puaCv543E"><img width="208" class="full-width" src="https://i.guim.co.uk/img/media/01c46a50ceb748473fb549bd8be9a29cc91e8d1f/0_419_4594_2758/master/4594.jpg?width=208&amp;quality=45&amp;fit=max&amp;dpr=2&amp;sharpen=a0.8,r1,t1&amp;s=7f7a6433e97bf483f03466941b3091e7" alt="Hrustic points to bright future as Socceroos dust off cobwebs" style="outline: none; text-decoration: none; max-width: 100%; clear: both; display: block; border: 0; width: 100%"></a></td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table>
+<table class="fc" style="border-spacing: 0; border-collapse: collapse; width: 100%">
+<tbody>
+<tr>
+<td class=" fc__margin" style="width: 100%; padding-bottom: 10px">
+<table class="fc__inner tone-news pillar-Sport" style="border-spacing: 0; border-collapse: collapse; background-color: rgb(246, 246, 246); border-top: 1px solid rgb(0, 132, 198); padding: 0; width: 100%; position: relative; height: 56px">
+<tbody>
+<tr valign="top">
+<td class="headline" style='font-weight: normal; padding: 3px 10px 5px; font-family: "Guardian Egyptian Web Headline", Georgia, serif; font-size: 16px; line-height: 20px; color: rgb(18, 18, 18)'> <a href="https://ablink.editorial.theguardian.com/ss/c/TBl-lE0k4WbTlFRn6v-lQXxTpTslqnvUsR2ofAkC00uAE7UZp-ZWAgFuYTIVKRjlA3WIIyU1LEIFCQVyUc4TY0jINGE5OvaGBZ8WD-ljYmejTNm_zjWlEcUa31DE1y3z2n4n5ybZ5Az7wsy2TdBXVV9rRHKmWAyKSw__qbQTJiEsPq881eUeIq3--EZGzUP89FsaPaxTWTwTPpu0eztGsB5Bqwz_a9E8qSIy--HzrlIQH-HwX7tYMcDhkDfYq6VFSIz9Z7CFM2YD7EwmNn7ir9AFt1jD6_vluxRLm596afOAHgEKZHD9l4b9NCtMfZsJYhyYZIHzF9WoRoeHhgzQvp26jWJb90tIY6f63O8-aX0/3ch/8thGCL31SleJw1wfvyCgag/h24/eXdHLaV_HXvqYjgv12VLP5OqwNfyBcoPQuvO_4jYvsw" class="fc-link" style="text-decoration: none; color: rgb(18, 18, 18)"> <span class="fc__kicker" style='font-family: "Guardian Egyptian Web Header", Georgia, serif; color: rgb(0, 132, 198)'>French Open <span class="kicker-separator">/</span></span> World No 1 Barty retires from tournament with injury </a> </td>
+</tr>
+<tr valign="top">
+<td class="fc__pad" style="padding-bottom: 26px"> </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table>
+<table class="fc" style="border-spacing: 0; border-collapse: collapse; width: 100%">
+<tbody>
+<tr>
+<td class=" fc__margin" style="width: 100%; padding-bottom: 10px">
+<table class="fc__inner tone-news pillar-Sport" style="border-spacing: 0; border-collapse: collapse; background-color: rgb(246, 246, 246); border-top: 1px solid rgb(0, 132, 198); padding: 0; width: 100%; position: relative; height: 56px">
+<tbody>
+<tr valign="top">
+<td class="headline" style='font-weight: normal; padding: 3px 10px 5px; font-family: "Guardian Egyptian Web Headline", Georgia, serif; font-size: 16px; line-height: 20px; color: rgb(18, 18, 18)'> <a href="https://ablink.editorial.theguardian.com/ss/c/TBl-lE0k4WbTlFRn6v-lQXxTpTslqnvUsR2ofAkC00uAE7UZp-ZWAgFuYTIVKRjl3gLGcUTBxKeZCvYHKm1N6R1JSMmPgDUaBl8vHxhgPc9Q4a7WImZVUgaMPrmaqAzzRl0mkRyuqDILpAODlipfo8GTAsmE0B9xz4bGp2gvuW5y_q8szY5_M5uPjrTHte7oOE1F79t6c_Tm006I0NiYJ5BG_cm8RVRgcYkWb-A2RSokobj13_BHEX4GJ93hdrYX1D-VaEJtViiD41r78odAEYkgwKmLEjdX5QiPj21HlufN4RfQxYv_A5EKZycdJIq8/3ch/8thGCL31SleJw1wfvyCgag/h25/fCy52FtRhXAbMgJK7u29n0OIPCNqfPqm9J3r9ieHiFc" class="fc-link" style="text-decoration: none; color: rgb(18, 18, 18)"> <span class="fc__kicker" style='font-family: "Guardian Egyptian Web Header", Georgia, serif; color: rgb(0, 132, 198)'>Lewis Hamilton <span class="kicker-separator">/</span></span> F1 driver criticises backlash against Osaka’s withdrawal </a> </td>
+</tr>
+<tr valign="top">
+<td class="fc__pad" style="padding-bottom: 26px"> </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table>
+<!-- Braze Placeholder - Above Collection 7 -->
+<table class="ct ct--not-top" style="border-spacing: 0; border-collapse: collapse; width: 100%">
+<tbody>
+<tr>
+<td class="ct__margin" style="padding: 26px 0 12px">
+<table class="ct__inner" style="border-spacing: 0; border-collapse: collapse; width: 100%; border-top: 1px solid rgb(223, 223, 223)">
+<tbody>
+<tr>
+<td class="ct__padding" style='font-family: "Guardian Egyptian Web Header", Georgia, serif; font-size: 26px; color: rgb(18, 18, 18); padding: 4px 12px 0'> <a class="ct-link" href="https://ablink.editorial.theguardian.com/ss/c/TBl-lE0k4WbTlFRn6v-lQXxTpTslqnvUsR2ofAkC00v6Xq2RaZP8pccepU3GLIp6vw9gzDADeiFdty-3tH5vCX6wQ8gMoaOOmdkolBLbRpBmREM5bhbnR0pmBnQdNdCScYXEXDxozNkALnQkTJPEO77B_Z6u5yvMQ3UAKmVbWH4iLnD7pe9Fo_FLdKingjFSwYPrUI0ztxXWoDXepaCwozPxYeKCfqhAyXdpz5r8nCI/3ch/8thGCL31SleJw1wfvyCgag/h26/bMZCQA3aWp0qNarExuMEsC8oYRQtPc4FGI3Sb_v-BcI" style="text-decoration: none; color: rgb(18, 18, 18)">Culture</a> </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table>
+<table class="fc" style="border-spacing: 0; border-collapse: collapse; width: 100%">
+<tbody>
+<tr>
+<td class=" fc__margin" style="width: 100%; padding-bottom: 10px">
+<table class="fc__inner tone-review pillar-Arts" style="border-spacing: 0; border-collapse: collapse; background-color: rgb(246, 246, 246); border-top: 1px solid rgb(161, 132, 92); padding: 0; width: 100%; position: relative; height: 56px">
+<tbody>
+<tr valign="top">
+<td class="left-col" style="width: 60%">
+<table style="border-spacing: 0; border-collapse: collapse">
+<tbody>
+<tr valign="top">
+<td class="headline" style='font-weight: normal; padding: 3px 10px 5px; font-family: "Guardian Egyptian Web Headline", Georgia, serif; font-size: 16px; line-height: 20px; color: rgb(18, 18, 18)'> <a href="https://ablink.editorial.theguardian.com/ss/c/TBl-lE0k4WbTlFRn6v-lQXxTpTslqnvUsR2ofAkC00vd1nfpczOHx2e3FqKSBK_MWCnq54xClaj-fxuzZLQ6vRWscyAe0klxMEinDmjzgNqoAt6kMDVE_3a_CHXhyqc66Mm3Vi_WZ2k8dDqzzne886EtOEPOkPwQGOsC75Qmcm-IgeBc4b3tmjJYqtiPuh7gfZZFs7BzHWGreMNPGrv3cxUSyz-6iofI74O1ndrRl943DDfKquuUS4zbVmY6llELqVJx4GxMphNjgq23eGpmAD_ZeYqiKll-_PvImIIGZh5u-jXJB0yQVfO3TcG2kukGbA1R7n5KvJmQpSCbyn3a3_RCubPwQrGQ4JSLa5pjloM/3ch/8thGCL31SleJw1wfvyCgag/h27/RKUcF3gX85TYBcHKvKcqcOO0JHBiFyiipfpp4kaJmnU" class="fc-link" style="text-decoration: none; color: rgb(18, 18, 18)"> <span class="fc__kicker" style='font-family: "Guardian Egyptian Web Header", Georgia, serif; color: rgb(161, 132, 92)'>Crowded House: Dreamers Are Waiting review <span class="kicker-separator">/</span></span> Record of understated hope is a Finn family affair </a> </td>
+</tr>
+<tr valign="top">
+<td class="review-stars" style="padding: 6px 10px 0"> <span class="review-stars-bg" style="background-color: rgb(255, 229, 0); padding: 3px"> <img height="12" src="https://assets.guim.co.uk/images/email/icons/13acba8ba9808319a684b41bf7b9b0c9/star-golden.png" class="icon  icon-star-golden" style="outline: none; text-decoration: none; width: auto; max-width: 100%; clear: both; display: inline"> <img height="12" src="https://assets.guim.co.uk/images/email/icons/13acba8ba9808319a684b41bf7b9b0c9/star-golden.png" class="icon  icon-star-golden" style="outline: none; text-decoration: none; width: auto; max-width: 100%; clear: both; display: inline"> <img height="12" src="https://assets.guim.co.uk/images/email/icons/13acba8ba9808319a684b41bf7b9b0c9/star-golden.png" class="icon  icon-star-golden" style="outline: none; text-decoration: none; width: auto; max-width: 100%; clear: both; display: inline"> <img height="12" src="https://assets.guim.co.uk/images/email/icons/13acba8ba9808319a684b41bf7b9b0c9/star-golden.png" class="icon  icon-star-golden" style="outline: none; text-decoration: none; width: auto; max-width: 100%; clear: both; display: inline"> <img height="12" src="https://assets.guim.co.uk/images/email/icons/7933141ae28bdd648fa713bf255ac8a7/star-grey.png" class="icon  icon-star-grey" style="outline: none; text-decoration: none; width: auto; max-width: 100%; clear: both; display: inline"> </span> </td>
+</tr>
+<tr valign="top">
+<td class="fc__pad" style="padding-bottom: 26px"> </td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class="right-col no-pad" style="padding: 0; width: 40%"><a href="https://ablink.editorial.theguardian.com/ss/c/TBl-lE0k4WbTlFRn6v-lQXxTpTslqnvUsR2ofAkC00vd1nfpczOHx2e3FqKSBK_MWCnq54xClaj-fxuzZLQ6vRWscyAe0klxMEinDmjzgNqoAt6kMDVE_3a_CHXhyqc66Mm3Vi_WZ2k8dDqzzne886EtOEPOkPwQGOsC75Qmcm-IgeBc4b3tmjJYqtiPuh7gfZZFs7BzHWGreMNPGrv3cxUSyz-6iofI74O1ndrRl943DDfKquuUS4zbVmY6llELqVJx4GxMphNjgq23eGpmAD_ZeYqiKll-_PvImIIGZh5u-jXJB0yQVfO3TcG2kukGbA1R7n5KvJmQpSCbyn3a3_RCubPwQrGQ4JSLa5pjloM/3ch/8thGCL31SleJw1wfvyCgag/h28/l4arD4coEaLZJZvzxJkqH1Pa09wiVcyOg0rYz7Qm3EY"><img width="208" class="full-width" src="https://i.guim.co.uk/img/media/bf98f0442746f3a2c3afc2f47e0f2a42ef43efd0/0_481_7705_4626/master/7705.jpg?width=208&amp;quality=45&amp;fit=max&amp;dpr=2&amp;sharpen=a0.8,r1,t1&amp;s=a0678e2d4b2fd2a09c0572ccbd12fdd3" alt="Record of understated hope is a Finn family affair" style="outline: none; text-decoration: none; max-width: 100%; clear: both; display: block; border: 0; width: 100%"></a></td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table>
+<table class="fc" style="border-spacing: 0; border-collapse: collapse; width: 100%">
+<tbody>
+<tr>
+<td class=" fc__margin" style="width: 100%; padding-bottom: 10px">
+<table class="fc__inner tone-feature pillar-Arts" style="border-spacing: 0; border-collapse: collapse; background-color: rgb(246, 246, 246); border-top: 1px solid rgb(161, 132, 92); padding: 0; width: 100%; position: relative; height: 56px">
+<tbody>
+<tr valign="top">
+<td class="headline" style='font-weight: normal; padding: 3px 10px 5px; font-family: "Guardian Egyptian Web Headline", Georgia, serif; font-size: 16px; line-height: 20px; color: rgb(18, 18, 18)'> <a href="https://ablink.editorial.theguardian.com/ss/c/TBl-lE0k4WbTlFRn6v-lQXxTpTslqnvUsR2ofAkC00s_1KvZGe5Oi4MvCE1JuXMzQha1C_l5f37Q8d2XSHoPRipI-2na4UrIGYbOx9DGw9Z3ePFGFCZy8mRDvpJFDWAuktLwtyT9yb6pXQsqCpjq-LOegAUYrH0Q9Rz05rS2fku9DOuXvTjQmjS1sAv3xQ-cnf-hTlM6HGIqmzBhqP6XT9RPo01EfqEgu4NFuRp7HKD8iuy5zKE475ahxJ9YpJT6lVWrqv-YLeRGI0W3RwTBSX90kPutirngICmsp7RmisrRmybO1GjdEHS7VYxSwSGsrp2iI_BeRGkgCGt9aFjptd60WriJchpCoW8fjeECmCg/3ch/8thGCL31SleJw1wfvyCgag/h29/RCEIXQ9Pt5OuvyqCmaqeZBNdu3ezW9GZwu1qdXZ-rHE" class="fc-link" style="text-decoration: none; color: rgb(18, 18, 18)"> <span class="fc__kicker" style='font-family: "Guardian Egyptian Web Header", Georgia, serif; color: rgb(161, 132, 92)'>‘There’s got to be a day of reckoning' <span class="kicker-separator">/</span></span> The uncompromising art of Australia’s Richard Bell </a> </td>
+</tr>
+<tr valign="top">
+<td class="fc__pad" style="padding-bottom: 26px"> </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table>
+<table class="fc" style="border-spacing: 0; border-collapse: collapse; width: 100%">
+<tbody>
+<tr>
+<td class=" fc__margin" style="width: 100%; padding-bottom: 10px">
+<table class="fc__inner tone-review pillar-Arts" style="border-spacing: 0; border-collapse: collapse; background-color: rgb(246, 246, 246); border-top: 1px solid rgb(161, 132, 92); padding: 0; width: 100%; position: relative; height: 56px">
+<tbody>
+<tr valign="top">
+<td class="headline" style='font-weight: normal; padding: 3px 10px 5px; font-family: "Guardian Egyptian Web Headline", Georgia, serif; font-size: 16px; line-height: 20px; color: rgb(18, 18, 18)'> <a href="https://ablink.editorial.theguardian.com/ss/c/TBl-lE0k4WbTlFRn6v-lQXxTpTslqnvUsR2ofAkC00tawjxWOv_EDcqsk_AWR6v7Ca-h6oNn22PNcfWUHf-JafFeNeJqJJTwvRPMpHJG5MdipVaZijd3dcBBJ0NRwVpQMPEdHoBW9OlSYYMOjIrUZdADsCjYPFu4-M2vEvqHyjC5HDn7MYgimAIckI3NcryZ8D-2w2gisunIXii9gxtJiC8hNvKRpaTj0-LFyjyQe5j6WaJ9sysOkT2un_eOlNBL26gsNWBTnd14mvhwGxvWK3MXe2yH08kNICk927UvRjA2LhqFsn-JD8AnFPh9GZOBTchfS5WjjIV2JUV4Q8-PIw/3ch/8thGCL31SleJw1wfvyCgag/h30/tHGj3LzQScN1qV_7Sks8PBUWIIM6zHehEjtaiI7lZu4" class="fc-link" style="text-decoration: none; color: rgb(18, 18, 18)"> <span class="fc__kicker" style='font-family: "Guardian Egyptian Web Header", Georgia, serif; color: rgb(161, 132, 92)'>Echolalia by Briohny Doyle review <span class="kicker-separator">/</span></span> A dark, deft and gripping read about mania and motherhood </a> </td>
+</tr>
+<tr valign="top">
+<td class="fc__pad" style="padding-bottom: 26px"> </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table>
+<!-- Braze Placeholder - Above Collection 8 -->
+<table class="ct ct--not-top" style="border-spacing: 0; border-collapse: collapse; width: 100%">
+<tbody>
+<tr>
+<td class="ct__margin" style="padding: 26px 0 12px">
+<table class="ct__inner" style="border-spacing: 0; border-collapse: collapse; width: 100%; border-top: 1px solid rgb(223, 223, 223)">
+<tbody>
+<tr>
+<td class="ct__padding" style='font-family: "Guardian Egyptian Web Header", Georgia, serif; font-size: 26px; color: rgb(18, 18, 18); padding: 4px 12px 0'> <a class="ct-link" href="https://ablink.editorial.theguardian.com/ss/c/TBl-lE0k4WbTlFRn6v-lQXxTpTslqnvUsR2ofAkC00uaqBde6uuC-0aFnEJYrYCVTehI144M3i_kbfiz3TXs_h--bef8-GNjOaHcv9cOnr6QQKNWRh1Kzpoo-aVdMoWCTRdIGFLI9dGzV8GdezZKA4ZEHHYC-x8KcIVoKYWy2YefEZbWBDJiYHUxT80tOaoi_S4ooGd8-FnHu7aCujgpasYba27NY8rFKhZLL9agx2s/3ch/8thGCL31SleJw1wfvyCgag/h31/JPCbunC5uslf6mg9_Ud4J1JlXq96SCHo5Nx4QJ7Gg6Y" style="text-decoration: none; color: rgb(18, 18, 18)">Opinion</a> </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table>
+<table class="fc" style="border-spacing: 0; border-collapse: collapse; width: 100%">
+<tbody>
+<tr>
+<td class=" fc__margin" style="width: 100%; padding-bottom: 10px">
+<table class="fc__inner tone-comment pillar-Opinion" style="border-spacing: 0; border-collapse: collapse; border-top: 1px solid rgb(224, 94, 0); background-color: rgb(254, 249, 245); padding: 0; width: 100%; position: relative; height: 56px">
+<tbody>
+<tr valign="top">
+<td class="left-col" style="width: 60%">
+<table style="border-spacing: 0; border-collapse: collapse">
+<tbody>
+<tr valign="top">
+<td class="headline" style='font-weight: normal; padding: 3px 10px 5px; font-family: "Guardian Egyptian Web Headline", Georgia, serif; font-size: 16px; line-height: 20px; color: rgb(18, 18, 18)'> <a href="https://ablink.editorial.theguardian.com/ss/c/TBl-lE0k4WbTlFRn6v-lQXxTpTslqnvUsR2ofAkC00tYaqT6ZMySWX2FYAKIWSx4fURP7W-6pz_ekGlu7Ghe7B2tWlKyPAToN7M2_G1UWmEloa0VitxXc9t5v6dub7b3-mnivswbPFl92Qz7gc_OG-PcnbssKQsB-odlRw6kkA8XsYos-KUUwBJuBUsKjk1yzMdQ1NHGdO2macnDba4AENPQq7xdNNR8m8FZuGak7CDenavUNpjRWT4XpmHjePolu9rtNovkR2IJkwBf5uH1ZpfXPbBAX9wG-hb_TyOfabQEKi1A5CeONtfPvQhY_gN8DNFRu0xs8kJ5FpPf_CUwOg/3ch/8thGCL31SleJw1wfvyCgag/h32/MAvJKW_7mTrxx79ELaJBPyKmvJG3eMFhCBPOlCoM66Y" class="fc-link" style="text-decoration: none; color: rgb(18, 18, 18)"> <img height="12" src="https://assets.guim.co.uk/images/email/icons/cc614106682d8de187a64eb222116f3a/quote-opinion.png" class="icon quote-icon icon-quote-opinion" style="outline: none; text-decoration: none; width: auto; max-width: 100%; clear: both; border: 0; display: inline; height: 0.8em"> Lockdown support payments are good but the path there was shambolic </a> </td>
+</tr>
+<tr valign="top">
+<td class="byline" style='font-weight: normal; font-family: "Guardian Egyptian Web Headline", Georgia, serif; font-size: 16px; line-height: 20px; padding: 0 10px 10px; color: rgb(224, 94, 0)'>Chris Edmond and Steven Hamilton</td>
+</tr>
+<tr valign="top">
+<td class="fc__pad" style="padding-bottom: 26px"> </td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class="right-col no-pad" style="padding: 0; width: 40%"><a href="https://ablink.editorial.theguardian.com/ss/c/TBl-lE0k4WbTlFRn6v-lQXxTpTslqnvUsR2ofAkC00tYaqT6ZMySWX2FYAKIWSx4fURP7W-6pz_ekGlu7Ghe7B2tWlKyPAToN7M2_G1UWmEloa0VitxXc9t5v6dub7b3-mnivswbPFl92Qz7gc_OG-PcnbssKQsB-odlRw6kkA8XsYos-KUUwBJuBUsKjk1yzMdQ1NHGdO2macnDba4AENPQq7xdNNR8m8FZuGak7CDenavUNpjRWT4XpmHjePolu9rtNovkR2IJkwBf5uH1ZpfXPbBAX9wG-hb_TyOfabQEKi1A5CeONtfPvQhY_gN8DNFRu0xs8kJ5FpPf_CUwOg/3ch/8thGCL31SleJw1wfvyCgag/h33/6vxJ4s1r6wnp1aME0qpjPTxiYlgQjcPm5RQKGZeccgs"><img width="208" class="full-width" src="https://i.guim.co.uk/img/media/46114ebafffc6f2ab3a89dffa820ee1d983c33bf/0_30_3000_1801/master/3000.jpg?width=208&amp;quality=45&amp;fit=max&amp;dpr=2&amp;sharpen=a0.8,r1,t1&amp;s=a7a8525b16db8dd0b56e84e08cf1e9d2" alt="Lockdown support payments are good but the path there was shambolic" style="outline: none; text-decoration: none; max-width: 100%; clear: both; display: block; border: 0; width: 100%"></a></td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table>
+<table class="fc" style="border-spacing: 0; border-collapse: collapse; width: 100%">
+<tbody>
+<tr>
+<td class=" fc__margin" style="width: 100%; padding-bottom: 10px">
+<table class="fc__inner tone-comment pillar-Opinion" style="border-spacing: 0; border-collapse: collapse; border-top: 1px solid rgb(224, 94, 0); background-color: rgb(254, 249, 245); padding: 0; width: 100%; position: relative; height: 56px">
+<tbody>
+<tr valign="top">
+<td class="headline" style='font-weight: normal; padding: 3px 10px 5px; font-family: "Guardian Egyptian Web Headline", Georgia, serif; font-size: 16px; line-height: 20px; color: rgb(18, 18, 18)'> <a href="https://ablink.editorial.theguardian.com/ss/c/TBl-lE0k4WbTlFRn6v-lQXxTpTslqnvUsR2ofAkC00tYaqT6ZMySWX2FYAKIWSx4QxYSIxaeZMOdNzSiorvWGbIJwhDZLaQC7D6e0VDpnOpVtInpMMxtWI6zu2sEds216zrnyh4dEtxbpnV5xnj26d7otMDDV4Tzhkp7xnDMJHjwNXBZMgUZVIWg5fHVE8r7Jiy5KIrJxYPjJw01nfzdVtcj5PQgVxjqp3hj_cXZcIsDMRNiQWa2d2pys8WRzQHKw9hEtJ9COPywZ23tFT_eCefgvI0-ULoyqQ467vfzrXeNDhZqzO0IdJcsIeGu4ABf49snXTDj-wgbZbXvo0eQQ-8a0grJzhC6VY5Xu94LxQI/3ch/8thGCL31SleJw1wfvyCgag/h34/FnTPgNXxYdSQdNEvILY3RVJJI8beObM15ui3W7Ngag8" class="fc-link" style="text-decoration: none; color: rgb(18, 18, 18)"> <img height="12" src="https://assets.guim.co.uk/images/email/icons/cc614106682d8de187a64eb222116f3a/quote-opinion.png" class="icon quote-icon icon-quote-opinion" style="outline: none; text-decoration: none; width: auto; max-width: 100%; clear: both; border: 0; display: inline; height: 0.8em"> TikTok accidentally detected my ADHD. For 23 years everyone missed the warning signs </a> </td>
+</tr>
+<tr valign="top">
+<td class="byline" style='font-weight: normal; font-family: "Guardian Egyptian Web Headline", Georgia, serif; font-size: 16px; line-height: 20px; padding: 0 10px 10px; color: rgb(224, 94, 0)'>Matilda Boseley</td>
+</tr>
+<tr valign="top">
+<td class="fc__pad" style="padding-bottom: 26px"> </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table>
+<table class="fc" style="border-spacing: 0; border-collapse: collapse; width: 100%">
+<tbody>
+<tr>
+<td class=" fc__margin" style="width: 100%; padding-bottom: 10px">
+<table class="fc__inner tone-comment pillar-Opinion" style="border-spacing: 0; border-collapse: collapse; border-top: 1px solid rgb(224, 94, 0); background-color: rgb(254, 249, 245); padding: 0; width: 100%; position: relative; height: 56px">
+<tbody>
+<tr valign="top">
+<td class="headline" style='font-weight: normal; padding: 3px 10px 5px; font-family: "Guardian Egyptian Web Headline", Georgia, serif; font-size: 16px; line-height: 20px; color: rgb(18, 18, 18)'> <a href="https://ablink.editorial.theguardian.com/ss/c/TBl-lE0k4WbTlFRn6v-lQXxTpTslqnvUsR2ofAkC00tYaqT6ZMySWX2FYAKIWSx4jNCOIUgYyM4O2Ly4ABXrkLyGZ9pB8pUIE0a1r9BWGuvjN0x8srq7yqOyhG8JzrM7OBjjR23zVbRcAwaGtv3g-WoWuYwCkUouslxbyFIYZRZ5LlWXLFmUy0YP9Oni8TS5_qveB9eYGj0nB_sZWxuSo9FwLYTcV2lz-rR4tad9TaMM8RhJktasdO28EsA686dXU3FqlSiWeM9N8UO_ko5aGk35uJVvKJ0t0SKXen04tIrx5cCKQZl6AN4rHynWNybdiaMoBF-afYZSH5kTmaZofyqkOpdV5iCFf0JDkBuTr-0/3ch/8thGCL31SleJw1wfvyCgag/h35/7-KCzxpKzjlaOXy5BWVx5_IKu4-UfMH6Ap-SAb_oZaA" class="fc-link" style="text-decoration: none; color: rgb(18, 18, 18)"> <img height="12" src="https://assets.guim.co.uk/images/email/icons/cc614106682d8de187a64eb222116f3a/quote-opinion.png" class="icon quote-icon icon-quote-opinion" style="outline: none; text-decoration: none; width: auto; max-width: 100%; clear: both; border: 0; display: inline; height: 0.8em"> Anyone with a mental illness is watching Naomi Osaka’s treatment unfold in horror </a> </td>
+</tr>
+<tr valign="top">
+<td class="byline" style='font-weight: normal; font-family: "Guardian Egyptian Web Headline", Georgia, serif; font-size: 16px; line-height: 20px; padding: 0 10px 10px; color: rgb(224, 94, 0)'>Van Badham</td>
+</tr>
+<tr valign="top">
+<td class="fc__pad" style="padding-bottom: 26px"> </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table>
+<!-- Braze Placeholder - Above Collection 9 -->
+<table class="ct ct--not-top" style="border-spacing: 0; border-collapse: collapse; width: 100%">
+<tbody>
+<tr>
+<td class="ct__margin" style="padding: 26px 0 12px">
+<table class="ct__inner" style="border-spacing: 0; border-collapse: collapse; width: 100%; border-top: 1px solid rgb(223, 223, 223)">
+<tbody>
+<tr>
+<td class="ct__padding" style='font-family: "Guardian Egyptian Web Header", Georgia, serif; font-size: 26px; color: rgb(18, 18, 18); padding: 4px 12px 0'> <a class="ct-link" href="https://ablink.editorial.theguardian.com/ss/c/TBl-lE0k4WbTlFRn6v-lQXxTpTslqnvUsR2ofAkC00v3KrrZOgnlhUNIaRRiNIPawsKtgwc0n5j8yUM-CwR1EPrfrRxA2x0ofywseITaxGclZRaMsChTd4LJOOSF0vioqPI5soQ7HcTiJFEYFAqbUhi54k3xBgQVyFlPUUYcTZ_0LEIcYJVUTKseT814MkkHvE3NlUZo9lV-AoxzjvDE701uCCSCJE1gfr6xhQFaO5A/3ch/8thGCL31SleJw1wfvyCgag/h36/JKZlP30x7vFGi2rbcZ5jFfRp912tLKNuVzj6TvqDI8Y" style="text-decoration: none; color: rgb(18, 18, 18)">Lifestyle</a> </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table>
+<table class="fc" style="border-spacing: 0; border-collapse: collapse; width: 100%">
+<tbody>
+<tr>
+<td class=" fc__margin" style="width: 100%; padding-bottom: 10px">
+<table class="fc__inner tone-feature pillar-Lifestyle" style="border-spacing: 0; border-collapse: collapse; background-color: rgb(246, 246, 246); border-top: 1px solid rgb(187, 59, 128); padding: 0; width: 100%; position: relative; height: 56px">
+<tbody>
+<tr valign="top">
+<td class="left-col" style="width: 60%">
+<table style="border-spacing: 0; border-collapse: collapse">
+<tbody>
+<tr valign="top">
+<td class="headline" style='font-weight: normal; padding: 3px 10px 5px; font-family: "Guardian Egyptian Web Headline", Georgia, serif; font-size: 16px; line-height: 20px; color: rgb(18, 18, 18)'> <a href="https://ablink.editorial.theguardian.com/ss/c/TBl-lE0k4WbTlFRn6v-lQXxTpTslqnvUsR2ofAkC00u34VaPcrHLHxH7iPAwBU0Hn6xZiTRxbKcHOoko87ZEs_vHqyya_WK1yi_qOsxZV-Tmf1tqgHGjbEp1AJpZJNsP2_Ud4dC1_kXEe2dQhlcv4U5vamucWxgyzSA6ZO0W2Y_odf_r4hwE0xchtAGqFb18ORnpyRV992rL2pWJLHanGDda1xsJEaYbz793Yh2EphVXe3lWor0mr53W-lMCRpPBAUznapPCbYdXnuJEHYCv65kgbzY2ads3Tf6QfGVhJZWDzaciBYUuo8UhtS54mCG0A_onvFrlWRm4X3L6PzWt1DtQbtiGGrDdATGa0PrPuXY/3ch/8thGCL31SleJw1wfvyCgag/h37/mqeXutM6OO7erKR6qsRYMwtnUz0zlMr6h8k-HfsTus4" class="fc-link" style="text-decoration: none; color: rgb(18, 18, 18)"> <span class="fc__kicker" style='font-family: "Guardian Egyptian Web Header", Georgia, serif; color: rgb(187, 59, 128)'>Open sesame! <span class="kicker-separator">/</span></span> 10 tempting tahini recipes, from super salad dressing to delicious blondies </a> </td>
+</tr>
+<tr valign="top">
+<td class="fc__pad" style="padding-bottom: 26px"> </td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class="right-col no-pad" style="padding: 0; width: 40%"><a href="https://ablink.editorial.theguardian.com/ss/c/TBl-lE0k4WbTlFRn6v-lQXxTpTslqnvUsR2ofAkC00u34VaPcrHLHxH7iPAwBU0Hn6xZiTRxbKcHOoko87ZEs_vHqyya_WK1yi_qOsxZV-Tmf1tqgHGjbEp1AJpZJNsP2_Ud4dC1_kXEe2dQhlcv4U5vamucWxgyzSA6ZO0W2Y_odf_r4hwE0xchtAGqFb18ORnpyRV992rL2pWJLHanGDda1xsJEaYbz793Yh2EphVXe3lWor0mr53W-lMCRpPBAUznapPCbYdXnuJEHYCv65kgbzY2ads3Tf6QfGVhJZWDzaciBYUuo8UhtS54mCG0A_onvFrlWRm4X3L6PzWt1DtQbtiGGrDdATGa0PrPuXY/3ch/8thGCL31SleJw1wfvyCgag/h38/SIUs6lVDliR-loHSbx6VSQN6izNQ5zQ7eVEiQgOlyKI"><img width="208" class="full-width" src="https://i.guim.co.uk/img/media/135e197cdb144191d2eebe193b2c8ef14ab42965/0_0_2422_1453/master/2422.jpg?width=208&amp;quality=45&amp;fit=max&amp;dpr=2&amp;sharpen=a0.8,r1,t1&amp;s=f40acdadb3322a708bfde45bad0b64b4" alt="10 tempting tahini recipes, from super salad dressing to delicious blondies" style="outline: none; text-decoration: none; max-width: 100%; clear: both; display: block; border: 0; width: 100%"></a></td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table>
+<table class="fc" style="border-spacing: 0; border-collapse: collapse; width: 100%">
+<tbody>
+<tr>
+<td class=" fc__margin" style="width: 100%; padding-bottom: 10px">
+<table class="fc__inner tone-feature pillar-Lifestyle" style="border-spacing: 0; border-collapse: collapse; background-color: rgb(246, 246, 246); border-top: 1px solid rgb(187, 59, 128); padding: 0; width: 100%; position: relative; height: 56px">
+<tbody>
+<tr valign="top">
+<td class="headline" style='font-weight: normal; padding: 3px 10px 5px; font-family: "Guardian Egyptian Web Headline", Georgia, serif; font-size: 16px; line-height: 20px; color: rgb(18, 18, 18)'> <a href="https://ablink.editorial.theguardian.com/ss/c/TBl-lE0k4WbTlFRn6v-lQXxTpTslqnvUsR2ofAkC00u34VaPcrHLHxH7iPAwBU0HTvTy-s-uSNE0EXghZfLEcTd60O5IecX8YdLbXM2OWJi5VjCYwCNxI9JxFdhimBXhTtroA0CnoiJIbAqeyl9Nlj1ZmePeqddzK2lxbxg5nGEok5gj_E2oRaUDNJhy8YdSKAcNcjsnZw_dp7Pup7tMl5n1HBTwWOeybE60qBYOlDMYKFBuFOs_Js3wT810tiJiwmXAfolSenP5GdjzUovLgohxl6sj3B7pr2xn454rOZqMUvi1gTnUIIE8kCzxZQA1EhV31-4_PdWonmGUwikO_J4BebkKNBcOPmTthMChqdQ/3ch/8thGCL31SleJw1wfvyCgag/h39/uP18Mzg3TsRMmIaCZXUj-zQNBevhRkQlZ6sRW444O58" class="fc-link" style="text-decoration: none; color: rgb(18, 18, 18)"> <span class="fc__kicker" style='font-family: "Guardian Egyptian Web Header", Georgia, serif; color: rgb(187, 59, 128)'>Three things with Stefano de Pieri <span class="kicker-separator">/</span></span> <img height="12" src="https://assets.guim.co.uk/images/email/icons/88c54a3c173085cf29899be2d60d1480/quote-lifestyle.png" class="icon quote-icon icon-quote-lifestyle" style="outline: none; text-decoration: none; width: auto; max-width: 100%; clear: both; border: 0; display: inline; height: 0.8em"> It gives me the best risotto I could ever hope to cook </a> </td>
+</tr>
+<tr valign="top">
+<td class="fc__pad" style="padding-bottom: 26px"> </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table>
+<!-- Braze Placeholder - Above Collection 10 -->
+<table class="ct ct--not-top" style="border-spacing: 0; border-collapse: collapse; width: 100%">
+<tbody>
+<tr>
+<td class="ct__margin" style="padding: 26px 0 12px">
+<table class="ct__inner" style="border-spacing: 0; border-collapse: collapse; width: 100%; border-top: 1px solid rgb(223, 223, 223)">
+<tbody>
+<tr>
+<td class="ct__padding" style='font-family: "Guardian Egyptian Web Header", Georgia, serif; font-size: 26px; color: rgb(18, 18, 18); padding: 4px 12px 0'> <a class="ct-link" href="https://ablink.editorial.theguardian.com/ss/c/TBl-lE0k4WbTlFRn6v-lQXxTpTslqnvUsR2ofAkC00sAcmiyA5QsAF5YWGmFbmaxjEP8FIgMzVuOpub_1SRL0-I0uKhi7vwkPLkmca_0NEU-7iirDmPdbs0y7EYVVAUZSIAN9roAy9nQ8vGhwoF0Gfb2RDpbVA-98KJ25lIm2R3nonPBs_LbAZ8x_mTmxBa4sPixnMe2MRjnPpyrMn-lzfGyaQc3OzXOHckG78DWRpY/3ch/8thGCL31SleJw1wfvyCgag/h40/wIzK_CdkRmBh1ulQsk5KoUS9ydp461BaRwyqzpo898Q" style="text-decoration: none; color: rgb(18, 18, 18)">Technology</a> </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table>
+<table class="fc" style="border-spacing: 0; border-collapse: collapse; width: 100%">
+<tbody>
+<tr>
+<td class=" fc__margin" style="width: 100%; padding-bottom: 10px">
+<table class="fc__inner tone-news pillar-News" style="border-spacing: 0; border-collapse: collapse; background-color: rgb(246, 246, 246); border-top: 1px solid rgb(199, 0, 0); padding: 0; width: 100%; position: relative; height: 56px">
+<tbody>
+<tr valign="top">
+<td class="left-col" style="width: 60%">
+<table style="border-spacing: 0; border-collapse: collapse">
+<tbody>
+<tr valign="top">
+<td class="headline" style='font-weight: normal; padding: 3px 10px 5px; font-family: "Guardian Egyptian Web Headline", Georgia, serif; font-size: 16px; line-height: 20px; color: rgb(18, 18, 18)'> <a href="https://ablink.editorial.theguardian.com/ss/c/TBl-lE0k4WbTlFRn6v-lQXxTpTslqnvUsR2ofAkC00tFDXQBfMrcjCU1ZbKdJ1alHusyOe4411TqZv5jdoPg-w07KzQtxd1fB4kaJINQcdbCSc3_tSHjXCSDV09nCwz_TkzNjvykTt3UlpVNFeHiIanobnE1tMQ0JZK_PYGKH4f__7iPnVHeyd8Q17fWMFrQH1Rlpqjs1nizS5YnXhKe8oTNJrT4VF-4v3v0EZ8TLdvd3o_dG65YKnI8Jh4dIQY6YbLKXkOlkbFKGhAiRJinhVjFDENrFmK4uq170TWVmf2QzAp0vcJJoaW4P1Gsuf8LuoWDwhLS-R-hVQd8eytc9A/3ch/8thGCL31SleJw1wfvyCgag/h41/BxqeygYr2JR_bPeCO8s8LetI_980cQIw-Vsla6Mr23s" class="fc-link" style="text-decoration: none; color: rgb(18, 18, 18)"> <span class="fc__kicker" style='font-family: "Guardian Egyptian Web Header", Georgia, serif; color: rgb(199, 0, 0)'>Digital assets <span class="kicker-separator">/</span></span> Cryptocurrency dealers face closure for failing UK money laundering test </a> </td>
+</tr>
+<tr valign="top">
+<td class="fc__pad" style="padding-bottom: 26px"> </td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class="right-col no-pad" style="padding: 0; width: 40%"><a href="https://ablink.editorial.theguardian.com/ss/c/TBl-lE0k4WbTlFRn6v-lQXxTpTslqnvUsR2ofAkC00tFDXQBfMrcjCU1ZbKdJ1alHusyOe4411TqZv5jdoPg-w07KzQtxd1fB4kaJINQcdbCSc3_tSHjXCSDV09nCwz_TkzNjvykTt3UlpVNFeHiIanobnE1tMQ0JZK_PYGKH4f__7iPnVHeyd8Q17fWMFrQH1Rlpqjs1nizS5YnXhKe8oTNJrT4VF-4v3v0EZ8TLdvd3o_dG65YKnI8Jh4dIQY6YbLKXkOlkbFKGhAiRJinhVjFDENrFmK4uq170TWVmf2QzAp0vcJJoaW4P1Gsuf8LuoWDwhLS-R-hVQd8eytc9A/3ch/8thGCL31SleJw1wfvyCgag/h42/am3CLv3bHZPYkJBdF6iZQ3Zgw7WXZPHy3yBkCJrwAHE"><img width="208" class="full-width" src="https://i.guim.co.uk/img/media/9ea47791984b99fc197b82cb6c773593acdf9e97/0_38_3500_2101/master/3500.jpg?width=208&amp;quality=45&amp;fit=max&amp;dpr=2&amp;sharpen=a0.8,r1,t1&amp;s=25b95daa4604ea3e70b052a11a0afede" alt="Cryptocurrency dealers face closure for failing UK money laundering test" style="outline: none; text-decoration: none; max-width: 100%; clear: both; display: block; border: 0; width: 100%"></a></td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table>
+<!-- Braze Placeholder - Above Collection 11 -->
+<table class="ct ct--not-top" style="border-spacing: 0; border-collapse: collapse; width: 100%">
+<tbody>
+<tr>
+<td class="ct__margin" style="padding: 26px 0 12px">
+<table class="ct__inner" style="border-spacing: 0; border-collapse: collapse; width: 100%; border-top: 1px solid rgb(223, 223, 223)">
+<tbody>
+<tr>
+<td class="ct__padding" style='font-family: "Guardian Egyptian Web Header", Georgia, serif; font-size: 26px; color: rgb(18, 18, 18); padding: 4px 12px 0'> <a class="ct-link" href="https://ablink.editorial.theguardian.com/ss/c/TBl-lE0k4WbTlFRn6v-lQXxTpTslqnvUsR2ofAkC00vJRFEyGP1TJcu1TIfyvOly9vuyiALPhsGvZlvoNNmCCfmYMaOn65In4d7jlG50nLtvX9bcKshQKbuMbZ5O53kp_wfR88J3Mzz2uVEMOiqGacD8jIoefs1tCxZOaoYFHWaE_HZ1jthVjLUQ9RFcGnrjW7HQn-dNj24V0GyGM-Kq1A4gwREdeCMjDBT7m_0sN0o/3ch/8thGCL31SleJw1wfvyCgag/h43/fK_735n_BCRrCvG6uh2P2wOgIatStcOPx1iCQBljZcU" style="text-decoration: none; color: rgb(18, 18, 18)">Science</a> </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table>
+<table class="fc" style="border-spacing: 0; border-collapse: collapse; width: 100%">
+<tbody>
+<tr>
+<td class=" fc__margin" style="width: 100%; padding-bottom: 10px">
+<table class="fc__inner tone-feature pillar-News" style="border-spacing: 0; border-collapse: collapse; background-color: rgb(246, 246, 246); border-top: 1px solid rgb(199, 0, 0); padding: 0; width: 100%; position: relative; height: 56px">
+<tbody>
+<tr valign="top">
+<td class="left-col" style="width: 60%">
+<table style="border-spacing: 0; border-collapse: collapse">
+<tbody>
+<tr valign="top">
+<td class="headline" style='font-weight: normal; padding: 3px 10px 5px; font-family: "Guardian Egyptian Web Headline", Georgia, serif; font-size: 16px; line-height: 20px; color: rgb(18, 18, 18)'> <a href="https://ablink.editorial.theguardian.com/ss/c/TBl-lE0k4WbTlFRn6v-lQXxTpTslqnvUsR2ofAkC00vRBRMc5xsAJC9JOiDj8_7IPPhKPA_ahY8EFaZFUXaR-dE1pAxyg9l72NzFk9Q2LK5XSDDJJWcbZj77uXZWfzFL98lZaK2tj10xBFX5YLAQlE_05lpjuMOUlkz1D4kM7QJq5yOW_mIz4WnpjafY3eq586TuFPh0Gk9PAK-g3J1ccUf-Y1RBnzqAyp4LloNjWtD0SePUAt4CBPuZtT6_oHjrJ4ulmxw5X7vjnLrgBrIgDKhv8ifCsOORQ_gjl7e0siyPloZMJ1aCLyCC-YDOqd_y/3ch/8thGCL31SleJw1wfvyCgag/h44/X2R8m_upgI92-ftsRGFI7794JNtSdX6jyCg0wGLxUu8" class="fc-link" style="text-decoration: none; color: rgb(18, 18, 18)"> <span class="fc__kicker" style='font-family: "Guardian Egyptian Web Header", Georgia, serif; color: rgb(199, 0, 0)'>Anthropology <span class="kicker-separator">/</span></span> The empty office: what we lose when we work from home </a> </td>
+</tr>
+<tr valign="top">
+<td class="fc__pad" style="padding-bottom: 26px"> </td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class="right-col no-pad" style="padding: 0; width: 40%"><a href="https://ablink.editorial.theguardian.com/ss/c/TBl-lE0k4WbTlFRn6v-lQXxTpTslqnvUsR2ofAkC00vRBRMc5xsAJC9JOiDj8_7IPPhKPA_ahY8EFaZFUXaR-dE1pAxyg9l72NzFk9Q2LK5XSDDJJWcbZj77uXZWfzFL98lZaK2tj10xBFX5YLAQlE_05lpjuMOUlkz1D4kM7QJq5yOW_mIz4WnpjafY3eq586TuFPh0Gk9PAK-g3J1ccUf-Y1RBnzqAyp4LloNjWtD0SePUAt4CBPuZtT6_oHjrJ4ulmxw5X7vjnLrgBrIgDKhv8ifCsOORQ_gjl7e0siyPloZMJ1aCLyCC-YDOqd_y/3ch/8thGCL31SleJw1wfvyCgag/h45/Bpps7f42zRwr5ysy9aS9sE9hxEJhKe8a2t2ySDwzDp0"><img width="208" class="full-width" src="https://i.guim.co.uk/img/media/ccc69db38e30258c41507d402766f8f027d0e3ba/0_0_5184_3110/master/5184.jpg?width=208&amp;quality=45&amp;fit=max&amp;dpr=2&amp;sharpen=a0.8,r1,t1&amp;s=bdce1f3dff40bc6228ea3180041f65b6" alt="The empty office: what we lose when we work from home" style="outline: none; text-decoration: none; max-width: 100%; clear: both; display: block; border: 0; width: 100%"></a></td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table>
+<!-- Braze Placeholder - Above Collection 12 -->
+<table class="ct ct--not-top" style="border-spacing: 0; border-collapse: collapse; width: 100%">
+<tbody>
+<tr>
+<td class="ct__margin" style="padding: 26px 0 12px">
+<table class="ct__inner" style="border-spacing: 0; border-collapse: collapse; width: 100%; border-top: 1px solid rgb(223, 223, 223)">
+<tbody>
+<tr>
+<td class="ct__padding" style='font-family: "Guardian Egyptian Web Header", Georgia, serif; font-size: 26px; color: rgb(18, 18, 18); padding: 4px 12px 0'> <a class="ct-link" href="https://ablink.editorial.theguardian.com/ss/c/TBl-lE0k4WbTlFRn6v-lQXxTpTslqnvUsR2ofAkC00siKMG3NVrANH0w5aOUnoiutd2CWkxWqAWrEx6NnHJRachmflDTnGcY-Ni0sOFjungclNx-JcC1-L64aBnZsg7G8FiyatD0mhhcFcYNLquaR9703jdZA6837OgcNZZ1FK9Eqt5QiCNmPm2b0dejUkJrSLKqLVSIrdg-HIAl1NbHUrdoctUwzo-tmUmMIy25djU/3ch/8thGCL31SleJw1wfvyCgag/h46/cFVcii6H8vIyou9p_0yvNe8YRaR2cmpnkCoVpWVLMsY" style="text-decoration: none; color: rgb(18, 18, 18)">Environment</a> </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table>
+<table class="fc" style="border-spacing: 0; border-collapse: collapse; width: 100%">
+<tbody>
+<tr>
+<td class=" fc__margin" style="width: 100%; padding-bottom: 10px">
+<table class="fc__inner tone-media pillar-News" style="border-spacing: 0; border-collapse: collapse; border-top: 1px solid rgb(199, 0, 0); background-color: rgb(51, 51, 51); padding: 0; width: 100%; position: relative; height: 56px">
+<tbody>
+<tr valign="top">
+<td class="left-col" style="width: 60%">
+<table style="border-spacing: 0; border-collapse: collapse">
+<tbody>
+<tr valign="top">
+<td class="headline" style='font-weight: normal; padding: 3px 10px 5px; font-family: "Guardian Egyptian Web Headline", Georgia, serif; font-size: 16px; line-height: 20px; color: rgb(255, 255, 255)'> <a href="https://ablink.editorial.theguardian.com/ss/c/TBl-lE0k4WbTlFRn6v-lQXxTpTslqnvUsR2ofAkC00teaEyrmTsqTYt4WzwfOgB3ADc3c0agJ5QRFKTvPyFhZObEfwhBJzgP5_YD1gAxvSCm-b-Zvv5zIcVGTMwzqvPGYTmySx2lYiwsekUTPdaAOP-2kwJ5H7iNTdD4LOa_z46opVZ7Q-8XrBx9PQxzYtvp8XMtRzrKC_6oUrTn792OmKKQATsZTjXFCSdaE3bV3wdJ0YNPy7B7d6e0r025SGbwXedMeJ-dVSrOJ9T_WJ5lTZdfr_C07nOcOgRTI0YcSrpskgzvVbwCGLJf8SvGd4OT0WwXnKT7XujvVBZAee4YMFP2tYp7DMoOw95NpkBckyXwarSvjMBbf79VSPDVkJ8y/3ch/8thGCL31SleJw1wfvyCgag/h47/NU9GGseRsaR1hq1VstDDQMlWxboAnokiMP6TvpLwmbA" class="fc-link" style="text-decoration: none; color: rgb(255, 255, 255)"> <span class="fc__kicker" style='font-family: "Guardian Egyptian Web Header", Georgia, serif; color: rgb(255, 77, 54)'>Bushfires <span class="kicker-separator">/</span></span> New David Attenborough film looks at Australia's bushfires and the climate crisis – video trailer </a> </td>
+</tr>
+<tr valign="top">
+<td class="media-icon-wrapper" style="padding: 3px 10px 6px"> <img height="12" src="https://assets.guim.co.uk/images/email/icons/6dc0679f117533a33c10ccdffc37ec47/video-news.png" class="icon media-icon icon-video-news" style="outline: none; text-decoration: none; width: auto; max-width: 100%; clear: both; display: inline; height: 28px"> </td>
+</tr>
+<tr valign="top">
+<td class="fc__pad" style="padding-bottom: 0"> </td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class="right-col no-pad" style="padding: 0; width: 40%"><a href="https://ablink.editorial.theguardian.com/ss/c/TBl-lE0k4WbTlFRn6v-lQXxTpTslqnvUsR2ofAkC00teaEyrmTsqTYt4WzwfOgB3ADc3c0agJ5QRFKTvPyFhZObEfwhBJzgP5_YD1gAxvSCm-b-Zvv5zIcVGTMwzqvPGYTmySx2lYiwsekUTPdaAOP-2kwJ5H7iNTdD4LOa_z46opVZ7Q-8XrBx9PQxzYtvp8XMtRzrKC_6oUrTn792OmKKQATsZTjXFCSdaE3bV3wdJ0YNPy7B7d6e0r025SGbwXedMeJ-dVSrOJ9T_WJ5lTZdfr_C07nOcOgRTI0YcSrpskgzvVbwCGLJf8SvGd4OT0WwXnKT7XujvVBZAee4YMFP2tYp7DMoOw95NpkBckyXwarSvjMBbf79VSPDVkJ8y/3ch/8thGCL31SleJw1wfvyCgag/h48/MQHmFSN-YAo-nr2GcxN0he2jCk5X7EzjnGcIST1z3PU"><img width="208" class="full-width" src="https://i.guim.co.uk/img/media/83cd85d072c7ff6913f13a6c168e44237a8a2e39/60_0_1800_1080/master/1800.jpg?width=560&amp;quality=45&amp;dpr=2&amp;overlay-align=bottom,left&amp;overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvcGxheXgyLnBuZw&amp;s=2e4a614281dc1f11f87b1bafe144e856" alt="New David Attenborough film looks at Australia's bushfires and the climate crisis – video trailer" style="outline: none; text-decoration: none; max-width: 100%; clear: both; display: block; border: 0; width: 100%"></a></td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table>
+<table class="fc" style="border-spacing: 0; border-collapse: collapse; width: 100%">
+<tbody>
+<tr>
+<td class=" fc__margin" style="width: 100%; padding-bottom: 10px">
+<table class="fc__inner tone-news pillar-News" style="border-spacing: 0; border-collapse: collapse; background-color: rgb(246, 246, 246); border-top: 1px solid rgb(199, 0, 0); padding: 0; width: 100%; position: relative; height: 56px">
+<tbody>
+<tr valign="top">
+<td class="headline" style='font-weight: normal; padding: 3px 10px 5px; font-family: "Guardian Egyptian Web Headline", Georgia, serif; font-size: 16px; line-height: 20px; color: rgb(18, 18, 18)'> <a href="https://ablink.editorial.theguardian.com/ss/c/TBl-lE0k4WbTlFRn6v-lQXxTpTslqnvUsR2ofAkC00teaEyrmTsqTYt4WzwfOgB3kgzYik6Qu2GeUe1oQW2zJai3pcuIwqcDRY4PYmiISEMR4DjR_hgfTnkzFjP0If19ozcYMFYJPXcd0NjIixokzHY6eg7lNswBAsIub4GEF6KjGNIIJu3aRJA7HMqUerfm19GrkweSBM-Hcy7KqMTN509oELCPH4lU5H424VgH-oIQQzYbbNHA9bpqT1sZXKYSBj-coTTqDF0fkfreK8zco65fSS93VxNV5xng3oLFvOxs_dDkOOTmuDsSQagx8FLBHxVDli-1yutkofRAHdL2vIRTTm7JY4jHX6jWBlkuiIlRUFabChRsa9LoMwaGj8wu/3ch/8thGCL31SleJw1wfvyCgag/h49/P1udpE2riBs3HyVXpK0XOK7fz8bL5ePSv0UFPQNW-Bk" class="fc-link" style="text-decoration: none; color: rgb(18, 18, 18)"> <span class="fc__kicker" style='font-family: "Guardian Egyptian Web Header", Georgia, serif; color: rgb(199, 0, 0)'>Energy <span class="kicker-separator">/</span></span> Western Australia gas project ‘would create more emissions than Adani and damage Indigenous rock art’ </a> </td>
+</tr>
+<tr valign="top">
+<td class="fc__pad" style="padding-bottom: 26px"> </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table>
+<!-- Braze Placeholder - Above Collection 13 -->
+<table class="ct ct--not-top" style="border-spacing: 0; border-collapse: collapse; width: 100%">
+<tbody>
+<tr>
+<td class="ct__margin" style="padding: 26px 0 12px">
+<table class="ct__inner" style="border-spacing: 0; border-collapse: collapse; width: 100%; border-top: 1px solid rgb(223, 223, 223)">
+<tbody>
+<tr>
+<td class="ct__padding" style='font-family: "Guardian Egyptian Web Header", Georgia, serif; font-size: 26px; color: rgb(18, 18, 18); padding: 4px 12px 0'> <a class="ct-link" href="https://ablink.editorial.theguardian.com/ss/c/TBl-lE0k4WbTlFRn6v-lQXxTpTslqnvUsR2ofAkC00teaEyrmTsqTYt4WzwfOgB3rCbLGAkyXenEGyYFCRaEOn-XVu467Gg8P017j-gi-2-SdTv8PW4e6_QLZjdZocge-gPczc1eqoluOTFhA7WhQmY6xl7VCeVg4VxEvPRIF_X2LgriD86YAcudNKWwlCFkdAOAlorX-5qh5XtBJsmS4pmbjkNqx3YChhmdkoOLhIa0FhkaFFfbFqk70WLIx2IP/3ch/8thGCL31SleJw1wfvyCgag/h50/OKuUyk_jeZnLmTzW-DWuYYcjr4w-JFzEN8FKdqr8oQg" style="text-decoration: none; color: rgb(18, 18, 18)">Video</a> </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table>
+<table class="fc" style="border-spacing: 0; border-collapse: collapse; width: 100%">
+<tbody>
+<tr>
+<td class=" fc__margin" style="width: 100%; padding-bottom: 10px">
+<table class="fc__inner tone-media pillar-News" style="border-spacing: 0; border-collapse: collapse; border-top: 1px solid rgb(199, 0, 0); background-color: rgb(51, 51, 51); padding: 0; width: 100%; position: relative; height: 56px">
+<tbody>
+<tr valign="top">
+<td class="left-col" style="width: 60%">
+<table style="border-spacing: 0; border-collapse: collapse">
+<tbody>
+<tr valign="top">
+<td class="headline" style='font-weight: normal; padding: 3px 10px 5px; font-family: "Guardian Egyptian Web Headline", Georgia, serif; font-size: 16px; line-height: 20px; color: rgb(255, 255, 255)'> <a href="https://ablink.editorial.theguardian.com/ss/c/TBl-lE0k4WbTlFRn6v-lQXxTpTslqnvUsR2ofAkC00teaEyrmTsqTYt4WzwfOgB3ADc3c0agJ5QRFKTvPyFhZIoEsdFXmig1dLbECAtmJmst1s0T3KxedBSrcP9LQ4U-vebr8KyKuuEC30EnZQFZQHVqqIKU2PjBWYE3Y6nmQjEn1gYKxcWQTy7ApNTyM9kMkY6bvqP2oFHChshegPJ-1WxLq-RdJgQTn0wmGmNNHQz_V_frPXNQ65ph2znQ783s0ibT482bvVwb7qcNd1Gn32yQ7-R3T841_XGhcZG1PfvYyse3S7icikSZbXLW52Bpb_rbw9dhF_4ISFyKmTufiSW8UU99fn0jkucO6qc1-x757lsnylUFlzL414eoWMbn/3ch/8thGCL31SleJw1wfvyCgag/h51/u6xP5zqVbTU3HOHlCIUzLz-uApTGwOcb49_MpgnYmuo" class="fc-link" style="text-decoration: none; color: rgb(255, 255, 255)"> 'Up the front' to 'it's not a race': how Australia's bungled Covid vaccine rollout unfolded – video </a> </td>
+</tr>
+<tr valign="top">
+<td class="media-icon-wrapper" style="padding: 3px 10px 6px"> <img height="12" src="https://assets.guim.co.uk/images/email/icons/6dc0679f117533a33c10ccdffc37ec47/video-news.png" class="icon media-icon icon-video-news" style="outline: none; text-decoration: none; width: auto; max-width: 100%; clear: both; display: inline; height: 28px"> </td>
+</tr>
+<tr valign="top">
+<td class="fc__pad" style="padding-bottom: 0"> </td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class="right-col no-pad" style="padding: 0; width: 40%"><a href="https://ablink.editorial.theguardian.com/ss/c/TBl-lE0k4WbTlFRn6v-lQXxTpTslqnvUsR2ofAkC00teaEyrmTsqTYt4WzwfOgB3ADc3c0agJ5QRFKTvPyFhZIoEsdFXmig1dLbECAtmJmst1s0T3KxedBSrcP9LQ4U-vebr8KyKuuEC30EnZQFZQHVqqIKU2PjBWYE3Y6nmQjEn1gYKxcWQTy7ApNTyM9kMkY6bvqP2oFHChshegPJ-1WxLq-RdJgQTn0wmGmNNHQz_V_frPXNQ65ph2znQ783s0ibT482bvVwb7qcNd1Gn32yQ7-R3T841_XGhcZG1PfvYyse3S7icikSZbXLW52Bpb_rbw9dhF_4ISFyKmTufiSW8UU99fn0jkucO6qc1-x757lsnylUFlzL414eoWMbn/3ch/8thGCL31SleJw1wfvyCgag/h52/b0Ot-RsCU2zxvL1oyix_suwhWd5P-D92_xRcNl5wi9c"><img width="208" class="full-width" src="https://i.guim.co.uk/img/media/bfbedfeaf7da597e2fce29b4f4f23c6caf2b3a66/108_0_1800_1080/master/1800.jpg?width=560&amp;quality=45&amp;dpr=2&amp;overlay-align=bottom,left&amp;overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvcGxheXgyLnBuZw&amp;s=002589cca37a9e6b30f6164464e72e13" alt="'Up the front' to 'it's not a race': how Australia's bungled Covid vaccine rollout unfolded – video " style="outline: none; text-decoration: none; max-width: 100%; clear: both; display: block; border: 0; width: 100%"></a></td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table>
+<!-- Braze Placeholder - Above Collection 14 -->
+<table class="ct ct--not-top" style="border-spacing: 0; border-collapse: collapse; width: 100%">
+<tbody>
+<tr>
+<td class="ct__margin" style="padding: 26px 0 12px">
+<table class="ct__inner" style="border-spacing: 0; border-collapse: collapse; width: 100%; border-top: 1px solid rgb(223, 223, 223)">
+<tbody>
+<tr>
+<td class="ct__padding" style='font-family: "Guardian Egyptian Web Header", Georgia, serif; font-size: 26px; color: rgb(18, 18, 18); padding: 4px 12px 0'> <a class="ct-link" href="https://ablink.editorial.theguardian.com/ss/c/TBl-lE0k4WbTlFRn6v-lQXxTpTslqnvUsR2ofAkC00vbOkHackAsrFqI25KwYGpBvmCHQdHQR3gjFI0TEKiRnx2gq2PjGWj5Bn_BBXiQziDjraxPCll4h2htReYEELvKPxCFo0jBN-zpqkY0QjIsXhqofP3eaDHPd5ghAuvXu9TxH_DscrTAme8h3Q-wIILi0jlieWadik5DIuELdFyxcaegPbwYWPNYfRMNBk0Uh_k/3ch/8thGCL31SleJw1wfvyCgag/h53/kxZtV7nksCkTT1IgoSVVYIm-Q8vgN5njaXGMr3qy1KQ" style="text-decoration: none; color: rgb(18, 18, 18)">Most read in last 24 hours</a> </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table>
+<table class="fc" style="border-spacing: 0; border-collapse: collapse; width: 100%">
+<tbody>
+<tr>
+<td class=" fc__margin" style="width: 100%; padding-bottom: 10px">
+<table class="fc__inner tone-news pillar-News" style="border-spacing: 0; border-collapse: collapse; background-color: rgb(246, 246, 246); border-top: 1px solid rgb(199, 0, 0); padding: 0; width: 100%; position: relative; height: 56px">
+<tbody>
+<tr valign="top">
+<td class="left-col" style="width: 60%">
+<table style="border-spacing: 0; border-collapse: collapse">
+<tbody>
+<tr valign="top">
+<td class="headline" style='font-weight: normal; padding: 3px 10px 5px; font-family: "Guardian Egyptian Web Headline", Georgia, serif; font-size: 16px; line-height: 20px; color: rgb(18, 18, 18)'> <a href="https://ablink.editorial.theguardian.com/ss/c/TBl-lE0k4WbTlFRn6v-lQXxTpTslqnvUsR2ofAkC00vqZqulQhGGiqCuPww6vmTERnL43N0pk1uzjsFuLUf1u0-YDVBXdp3ZtfTJMcnTvhRjyoOtxXnva-dSbAhZHziyY7eMgxa1V6zaE4lE1BmI_z-MMsIXn2jHO0EzYlK3wEVRZZwzOiAtdPjr5zTfJbyzyqYBEmoOifNFIElVjxrkuNoVFTz0UjAYAPGFl3s-yKOr2BB-OgVAyL-dNzARsgSogf9Dck1ZsPxPBgGvjtCx44T06H7f9EpZtECTp0vE5MloqKMlxO1UU4syfriE2b_dgoRrywLuM8Vuygez63Ud1A/3ch/8thGCL31SleJw1wfvyCgag/h54/aPyKolh5tYsFNPQrfaNkaNkFTZThCfnIZkJT-rJCYYw" class="fc-link" style="text-decoration: none; color: rgb(18, 18, 18)"> ABC denies it ‘pulled’ Four Corners program on Scott Morrison and a supporter of QAnon </a> </td>
+</tr>
+<tr valign="top">
+<td class="fc__pad" style="padding-bottom: 26px"> </td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class="right-col no-pad" style="padding: 0; width: 40%"><a href="https://ablink.editorial.theguardian.com/ss/c/TBl-lE0k4WbTlFRn6v-lQXxTpTslqnvUsR2ofAkC00vqZqulQhGGiqCuPww6vmTERnL43N0pk1uzjsFuLUf1u0-YDVBXdp3ZtfTJMcnTvhRjyoOtxXnva-dSbAhZHziyY7eMgxa1V6zaE4lE1BmI_z-MMsIXn2jHO0EzYlK3wEVRZZwzOiAtdPjr5zTfJbyzyqYBEmoOifNFIElVjxrkuNoVFTz0UjAYAPGFl3s-yKOr2BB-OgVAyL-dNzARsgSogf9Dck1ZsPxPBgGvjtCx44T06H7f9EpZtECTp0vE5MloqKMlxO1UU4syfriE2b_dgoRrywLuM8Vuygez63Ud1A/3ch/8thGCL31SleJw1wfvyCgag/h55/YmGkIJfd8JMapCfaDGnxZ67aIk3RW3Rig7_p2wnD0Wk"><img width="208" class="full-width" src="https://i.guim.co.uk/img/media/e81fc7389a5e229aa6e0678d5fd89d2b3e5a4ff0/0_231_5616_3370/master/5616.jpg?width=208&amp;quality=45&amp;fit=max&amp;dpr=2&amp;sharpen=a0.8,r1,t1&amp;s=9558060e1962090d0bd33c31c9972d5d" alt="ABC denies it ‘pulled’ Four Corners program on Scott Morrison and a supporter of QAnon" style="outline: none; text-decoration: none; max-width: 100%; clear: both; display: block; border: 0; width: 100%"></a></td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table>
+<table class="fc" style="border-spacing: 0; border-collapse: collapse; width: 100%">
+<tbody>
+<tr>
+<td class=" fc__margin" style="width: 100%; padding-bottom: 10px">
+<table class="fc__inner tone-comment pillar-Opinion" style="border-spacing: 0; border-collapse: collapse; border-top: 1px solid rgb(224, 94, 0); background-color: rgb(254, 249, 245); padding: 0; width: 100%; position: relative; height: 56px">
+<tbody>
+<tr valign="top">
+<td class="headline" style='font-weight: normal; padding: 3px 10px 5px; font-family: "Guardian Egyptian Web Headline", Georgia, serif; font-size: 16px; line-height: 20px; color: rgb(18, 18, 18)'> <a href="https://ablink.editorial.theguardian.com/ss/c/TBl-lE0k4WbTlFRn6v-lQXxTpTslqnvUsR2ofAkC00tYaqT6ZMySWX2FYAKIWSx4YfUJLZYnETEXPQ9Jw-Da5iPNghWpiwafxGrUM9K13Mwqn-NPGFBwF9d_6utQLg2CKvsqtebk3O1zbKr-nmSXg-x8EFx7jWbu0TIYv4tqa18p_vt8SKleRlFJho1E_2V7-Il3FBY2FWv3ginewTTBwKxTHDz72TqUfwVokQQ8ew3gQPDrdq7ZJWvU8Yu02xkN2oSPgwe_A_HkM_opJRQpj-M39tzOKShBomaSqFbfPgg/3ch/8thGCL31SleJw1wfvyCgag/h56/QyqyYBf14A2uuQnYev87dZQ089VwRjZszFJyldUYUtE" class="fc-link" style="text-decoration: none; color: rgb(18, 18, 18)"> <img height="12" src="https://assets.guim.co.uk/images/email/icons/cc614106682d8de187a64eb222116f3a/quote-opinion.png" class="icon quote-icon icon-quote-opinion" style="outline: none; text-decoration: none; width: auto; max-width: 100%; clear: both; border: 0; display: inline; height: 0.8em"> Kate Winslet shows there’s more to middle age than a saggy belly </a> </td>
+</tr>
+<tr valign="top">
+<td class="byline" style='font-weight: normal; font-family: "Guardian Egyptian Web Headline", Georgia, serif; font-size: 16px; line-height: 20px; padding: 0 10px 10px; color: rgb(224, 94, 0)'>Gaby Hinsliff</td>
+</tr>
+<tr valign="top">
+<td class="fc__pad" style="padding-bottom: 26px"> </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table>
+<table class="fc" style="border-spacing: 0; border-collapse: collapse; width: 100%">
+<tbody>
+<tr>
+<td class=" fc__margin" style="width: 100%; padding-bottom: 10px">
+<table class="fc__inner tone-news pillar-Lifestyle" style="border-spacing: 0; border-collapse: collapse; background-color: rgb(246, 246, 246); border-top: 1px solid rgb(187, 59, 128); padding: 0; width: 100%; position: relative; height: 56px">
+<tbody>
+<tr valign="top">
+<td class="headline" style='font-weight: normal; padding: 3px 10px 5px; font-family: "Guardian Egyptian Web Headline", Georgia, serif; font-size: 16px; line-height: 20px; color: rgb(18, 18, 18)'> <a href="https://ablink.editorial.theguardian.com/ss/c/TBl-lE0k4WbTlFRn6v-lQXxTpTslqnvUsR2ofAkC00uT4qfRwja4Cz5Rh1784AtQXyslSkGi0GibNtLdRwo2Wq2SZwxhCyRjmHypUlOxV9r50foKv0xp4blvzTe1w1cj8Ehza9glJh8dOaCs55K3xxmhlI_dkFV5jcbYi_n7V5t1iSaKSz154kKO3qsQ9kOgRyMhtn87TZoavDgj4wtEpuxkw4W6ednpSqKEbGLFgcNSBZsIjumqHWRHLfrKRF7gV1FoxrrMcK64Fu6WBJy5C_5sZiJ6jlkQ_z16snkqrhClGOg1J-NzIHAjNV0JQrBKgPHNAMbxglHSMTR9djxQRA/3ch/8thGCL31SleJw1wfvyCgag/h57/GB8LHH82NJzuR6d_TcvDdiS0euUzf3sI_ZcgXVQ31is" class="fc-link" style="text-decoration: none; color: rgb(18, 18, 18)"> A swimsuit model at 71: ‘You’ve only got one body so you may as well be proud of it’ </a> </td>
+</tr>
+<tr valign="top">
+<td class="fc__pad" style="padding-bottom: 26px"> </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table>
+<!-- Braze Placeholder - Above Collection 15 -->
+<table class="ct ct--not-top" style="border-spacing: 0; border-collapse: collapse; width: 100%">
+<tbody>
+<tr>
+<td class="ct__margin" style="padding: 26px 0 12px">
+<table class="ct__inner" style="border-spacing: 0; border-collapse: collapse; width: 100%; border-top: 1px solid rgb(223, 223, 223)">
+<tbody>
+<tr>
+<td class="ct__padding" style='font-family: "Guardian Egyptian Web Header", Georgia, serif; font-size: 26px; color: rgb(18, 18, 18); padding: 4px 12px 0'> Get in touch </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table>
+<table class="row" style="border-spacing: 0; border-collapse: collapse; width: 100%">
+<tbody>
+<tr>
+<td class="free-text" style='font-family: "Guardian Egyptian Text", Georgia, serif; font-size: 15px; line-height: 20px; padding: 6px 10px'>If you have any questions or comments about any of our newsletters please email <a href="mailto:newsletters@theguardian.com?utm_term=a74d2831813ee5121073819bd6e608a2&amp;utm_campaign=GuardianTodayAUS&amp;utm_source=esp&amp;utm_medium=Email&amp;CMP=GTAU_email" style="color: rgb(0, 132, 198)">newsletters@theguardian.com</a>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table class="subscribe sc" align="center" style="border-spacing: 0; border-collapse: collapse; width: 100%; max-width: 500px">
+  <tr>
+    <td class="wrap-pad text-center" style="padding: 20px 10px 0; text-align: center; font-size: 0">
+      <!--[if (gte mso 9)|(IE)]>
+      <table width="100%">
+        <tr>
+          <td width="65%" valign="top">
+            <![endif]-->
+            <div class="column column-left" style="width: 100%; display: inline-block; vertical-align: top; max-width: 330px">
+              <table width="100%" style="border-spacing: 0; border-collapse: collapse">
+                <tr>
+                  <td align="left" class="sup-copy" style="display: block; font-family: Georgia, serif; font-size: 14px; line-height: 20px; mso-line-height-rule: exactly; color: rgb(18, 18, 18); padding-bottom: 15px">Support from readers powers Guardian journalism. It protects our independence, and ensures we can remain open for all. If there were ever a time to join us, it is now. Every form of support, however big or small, is so valuable for our future. Thank you for your generosity.</td>
+                </tr>
+              </table>
+            </div>
+            <!--[if (gte mso 9)|(IE)]>
+          </td>
+          <td width="35%" valign="top">
+            <![endif]-->
+            <div class="column column-right" style="width: 100%; display: inline-block; vertical-align: top; max-width: 150px">
+              <table width="100%" style="border-spacing: 0; border-collapse: collapse">
+                <tr>
+                  <td class="cta-pad" align="center" valign="middle" style="padding-bottom: 15px">
+                    <div>
+                      <!--[if mso]>
+                      <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://support.theguardian.com/contribute?acquisitionData=%7B%22source%22%3A%22EMAIL%22%2C%22campaignCode%22%3A%22EmailED%22%2C%22componentId%22%3A%22editorial_email_guardiantodayaus_a_support_ask_contribute%22%7D&INTCMP=EmailED&utm_source=eml&utm_medium=emedt&utm_content=Editorial_Merchandising_Component_Test&utm_campaign=guardiantodayaus&CMP_TU=mawns&CMP_BUNIT=edtrl&utm_term=a74d2831813ee5121073819bd6e608a2" style="height:30pt;v-text-anchor:middle;width:97pt;" arcsize="50%" strokecolor="#ffe500" fillcolor="#ffe500">
+                      <w:anchorlock></w:anchorlock>
+                      <center style="color:#000000;font-family:Georgia,serif;font-size:16px;font-weight:bold;">Contribute</center>
+                      </v:roundrect>
+                      <![endif]-->
+                      <a class="sm-btn" href="https://ablink.editorial.theguardian.com/ss/c/CBTDA9A8ekKRGj7WM2dV3mGTtSlwGUtU4W_nXP2YhnTxuFOan4J9KkQ2lZC0MirRk9tldtDiRKNmPoSVQn_EVK0NfCnK34QgXOQ-Mcrylv1whowQr0favdLgUtKxZs4yuj8-uCuw600jK3Fdt4RkF3V3c8TWHpAiwbzsa3Z2nsd_JnKWeyG7ygCtVujuO9DsVvugAwVIlSP5My8vQ2e1F39QzaYbNwIKIGs1P6aZ6D5QeOTPI0gS9cA6-W7Fw9Z8Tp6uMKHiRyFMPr9LyqTfbgHrslOfhsXTaKMyLUCvmQn8zhW8tTHHE37W-1zLF8mLDSMyWj5PumhDo8hdQfrMs0nMa7k1vA2ueCTwVvlclzmkwixD1pbEJxDaHLHtfH4fjCqnELyBHUMkkG6Syt-b39totMttCMj_jadOckLuv6lwPS4EJpxt1k5Ji_TW4wiVy8aZrEzAPoY2YGW6iyIegXOiUko5UAjwnln9s1ezJavJNDCIR3SDYkRhWcOXz-eVNpF1qWllcq1vbQrCH699u9CBk5cXclCKSTodKCnBC9h3YhvFyQz4wwYM9YVvgOm2/3ch/8thGCL31SleJw1wfvyCgag/h58/3RoC18bp2u_xUFYI-lH-HUfYuVIvseiD-qwGPoJ88Xg" style="background-color: rgb(255, 229, 0); border-radius: 20px; color: rgb(0, 0, 0); display: inline-block; font-family: Georgia, serif; font-size: 16px; line-height: 40px; font-weight: bold; text-align: center; text-decoration: none; min-width: 130px; -webkit-text-size-adjust: none; mso-hide: all">Contribute</a>
+                    </div>
+                  </td>
+                </tr>
+                <tr>
+                  <td class="cta-pad" align="center" valign="middle" style="padding-bottom: 15px">
+                    <div>
+                      <!--[if mso]>
+                      <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://support.theguardian.com/subscribe?acquisitionData=%7B%22source%22%3A%22EMAIL%22%2C%22campaignCode%22%3A%22EmailED%22%2C%22componentId%22%3A%22editorial_email_guardiantodayaus_a_support_ask_subscribe%22%7D&INTCMP=EmailED&utm_source=eml&utm_medium=emedt&utm_content=Editorial_Merchandising_Component_Test&utm_campaign=guardiantodayaus&CMP_TU=mawns&CMP_BUNIT=edtrl&utm_term=a74d2831813ee5121073819bd6e608a2" style="height:30pt;v-text-anchor:middle;width:97pt;" arcsize="50%" strokecolor="#ffe500" fillcolor="#ffe500">
+                      <w:anchorlock></w:anchorlock>
+                      <center style="color:#000000;font-family:Georgia,serif;font-size:16px;font-weight:bold;">Subscribe</center>
+                      </v:roundrect>
+                      <![endif]-->
+                      <a class="sm-btn" href="https://ablink.editorial.theguardian.com/ss/c/CBTDA9A8ekKRGj7WM2dV3mGTtSlwGUtU4W_nXP2YhnQ9aYJ7oD9BKnDrPWPEGYEp0gthByCq_LTO0NIl33YfrP9_-grtkANPsBybnAMIChhnCLb0cuu9mXcKbLZJlDjAhDnnV_Wp72ziD0TXFamPToH74fr52WjniZXZHnCs2cNwGt8NxsaMjxpDLo7KlIFbwWsFbJwq66N5QkZHgx-YAPr3GFuEmXhEoQls_5XdxPapVr9VWOhv7T7-NkhpBQ76S33zau5o-_WMfQO1daWe8fCaCRk1lKvG9G2F03y98YL6mlDF2Kgg9j8jmpeYvSAq54ekTWa69Dfpe4oZzVKrLh6d7ytkNABbONX7sXbFCnQWV3nloi4hph_8EMq3VxpYQ16UDKsMWfq6NIzf53yaye-kDE0nCt6Ly2kKAbGYgF_5jRMtz2yySk-togt4LNZ8m_AplTZS3BB3sIT1M00d77kAQpxX91OoIJOW8yIi3yA-QGR0vCphbHNWaJgYsFnPuZh7T5YNup46lVe2jSR2yvxBHIw13GXA4NY4S5t5Ia7KIYndqXMdX0WAg4_km5Rj/3ch/8thGCL31SleJw1wfvyCgag/h59/RmIPnxEYLmBEcIZ4ajpE-FDjh_217VdgLWPoZ9ZMVU8" style="background-color: rgb(255, 229, 0); border-radius: 20px; color: rgb(0, 0, 0); display: inline-block; font-family: Georgia, serif; font-size: 16px; line-height: 40px; font-weight: bold; text-align: center; text-decoration: none; min-width: 130px; -webkit-text-size-adjust: none; mso-hide: all">Subscribe</a>
+                    </div>
+                  </td>
+                </tr>
+              </table>
+            </div>
+            <!--[if (gte mso 9)|(IE)]>
+          </td>
+        </tr>
+      </table>
+      <![endif]--> 
+    </td>
+  </tr>
+</table>
+<img src="https://email.mvt.theguardian.com/1.gif?identity_id=105908026&amp;variant=Editorial_Merchandising_Component_Test&amp;send_id=a74d2831813ee5121073819bd6e608a2&amp;position=footer&amp;" alt="" width="1" height="1" border="0" style="display:block!important;height:1px!important;width:1px!important;border-width:0!important;margin-top:0!important;margin-bottom:0!important;margin-right:0!important;margin-left:0!important;padding-top:0!important;padding-bottom:0!important;padding-right:0!important;padding-left:0!important">
+<table class="ft" style="border-spacing: 0; border-collapse: collapse">
+<tbody>
+<tr>
+<td class="ft__margin" style="padding-top: 20px">
+<table class="ft__inner" style="border-spacing: 0; border-collapse: collapse; background-color: rgb(72, 72, 72); background-repeat: no-repeat; background-position: bottom right; background-image: url(https://assets.guim.co.uk/images/email/f189dff5bfa4dc66d092f57e973a51b9/grey-g.png)">
+<tbody>
+<tr>
+<td class="ft__padding" style="padding: 35px 0">
+<table style="border-spacing: 0; border-collapse: collapse">
+<tbody>
+<tr>
+<td class="ft__links" style="font-family: Helvetica, Arial, sans-serif; color: rgb(255, 255, 255); font-size: 12px; font-weight: lighter; line-height: 14px; text-decoration: none; text-align: center"> <a href="https://ablink.editorial.theguardian.com/ss/c/_aTD46XvGNsn-UWpVjTkvd00TM1KxNOYWnVuqz3edeD1p7GwvTect899FfZNb8JDfdAQz5CFcVudTBb-UrfY8dM5IBQ0BJwvjKiF5458Dc55akzx6gJQIA85eRgA1SK_TaqsdkWd4oZ_KVrcgfnYZFEDBP5_cxFGc4ly7ftXH0fICIcTewM4bRdsPiBTp4YkLTrhQezCllZNzY9005Af_JB0SMBwe0VXYr28M6_PHfI/3ch/8thGCL31SleJw1wfvyCgag/h60/X6vGi6-RD7hIiyA2wwYZYZDKnyKVOQVU6mL-wU4P-Hw" style="font-family: Helvetica, Arial, sans-serif; color: rgb(255, 255, 255); font-size: 12px; font-weight: lighter; line-height: 14px; text-decoration: none">Manage your emails</a> | <a href="https://ablink.editorial.theguardian.com/ss/c/_aTD46XvGNsn-UWpVjTkvd00TM1KxNOYWnVuqz3edeDl5auYzadGV9-0a5s-92s0uc8MUdKAluPp3lZJf1HO9vvdcDojboaNOjQ-seHyKzuB_sGNDDj-AbEd5tPfvRFO255wrcyIR9mBaDBFYOO2y0YkmkUmrJ_e5LgmjcRszD-VrFe7NeAIhVj2ff6qjq_0/3ch/8thGCL31SleJw1wfvyCgag/h61/ZXfLUcjdoXJygTeEX0KECvSvVTTCDqGJYbC6OL6svfM" style="font-family: Helvetica, Arial, sans-serif; color: rgb(255, 255, 255); font-size: 12px; font-weight: lighter; line-height: 14px; text-decoration: none">Unsubscribe</a> | <a href="https://ablink.editorial.theguardian.com/ss/c/TBl-lE0k4WbTlFRn6v-lQXxTpTslqnvUsR2ofAkC00unLL-p5QExmSRvSRvGuUcVv83AcxN3d2yfG3LK8tYd9t5mDroESPm8B8uLHWkbHm2vgoI4-4OO0vkHG3UyEhG9wP2e2-d_gY9or-XeKlogFdp8cLXjHSl3rb6dG2SL34ThGFtLhHt2pF2K8-d0Z5LHtCke4EOPGWxF4LO_KtJOA7PxLKmTJFfqT4Iav4ckhWw/3ch/8thGCL31SleJw1wfvyCgag/h62/l8UucfPGqPcA4jy3JyACH7ID7IZWJLOmWJUnklNYzk8" style="font-family: Helvetica, Arial, sans-serif; color: rgb(255, 255, 255); font-size: 12px; font-weight: lighter; line-height: 14px; text-decoration: none">Trouble viewing?</a> </td>
+</tr>
+<tr>
+<td class="ft__disclaimer" style="font-family: Helvetica, Arial, sans-serif; color: rgb(223, 223, 223); font-size: 10px; line-height: 14px; padding: 20px 12px 0; text-align: center"> You are receiving this email because you are a subscriber to The Guardian Today Australia. Guardian News &amp; Media Limited - a member of Guardian Media Group PLC. Registered Office: Kings Place, 90 York Way, London, N1 9GU. Registered in England No. 908396 </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table>
+</center> </td>
+</tr>
+</tbody>
+</table>
+<!-- prevent Gmail on iOS font size manipulation -->
+<div class="gmailfix" style="display: none; white-space: nowrap; font: 15px courier; line-height: 0">
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+</div>
+</body>
+</html>

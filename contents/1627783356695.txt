@@ -1,0 +1,733 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" 
+ xmlns:v="urn:schemas-microsoft-com:vml"
+ xmlns:o="urn:schemas-microsoft-com:office:office">
+<head>
+<script type="application/ld+json">
+[{
+  "@context": "http://schema.org/",
+  "@type": "Organization",
+
+  // WARNING: Before sending email, either point the logo
+  // at your own image or delete the logo annotation.
+  //
+  // If showing a logo, we recommend using an https URL.
+  // It's not a requirement today, but may be in the future.
+  "logo": "https://images.meredith.com/crossbrand/favicons/48p/realsimple-favicon.png"
+},{
+  "@context": "http://schema.org/",
+  "@type": "EmailMessage",
+
+  // Use this optional alternative subject line to avoid duplicate text
+  // between the subject, deal badge, and discount code.
+  "subjectLine": "Amazon's Secret Outlet Has Tons of Hidden Gems"
+},{
+  "@context": "http://schema.org/",
+  "@type": "DiscountOffer",
+
+  // Describe your discount, this will be shown as a badge (eg "25% off" or "free shipping")
+  "description": "",
+
+  "discountCode": "",
+  "availabilityStarts": "",
+  "availabilityEnds": ""
+},{
+  // Promotion card with single image.
+  // We recommend using an https URL.  It's not a requirement today, but may be in the future.
+  // Any image size will work and will just be cropped automatically.
+  // GIF & WEBP images are not supported and will be filtered out.
+  // Sample image is 538x138, 3.9 aspect ratio
+  "@context": "http://schema.org/",
+  "@type": "PromotionCard",
+  "image": ""
+}]
+    </script> 
+<!--[if gte mso 9]><xml>
+ <o:OfficeDocumentSettings>
+  <o:AllowPNG/>
+  <o:PixelsPerInch>96</o:PixelsPerInch>
+ </o:OfficeDocumentSettings>
+</xml><![endif]-->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!--[if !mso]><!-->
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<!--<![endif]-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="x-apple-disable-message-reformatting" />
+<title></title>
+<!-- Outlook Web Font Fix - Normalise space between bullets and text with <li> | Update font stacks to web-safe backups for Outlook --> 
+<!--[if gte mso 9]>
+<style type="text/css">
+h1, .hl-1 {font-family:Georgia, serif !important;}
+h2, .hl-2, p, .text, .footer-text, .bold, .bullet, .button_structure, .button_style, .headline-2, .headline-3, .preheader-link, .preheader-text, .button_structure-2, .button_style-2{font-family:Arial, sans-serif !important;}
+li {text-indent: -1em;}
+.button-text {font-size: 15px !important;letter-spacing: 2px !important;}
+.button {font-size: 15px !important;letter-spacing: 2px !important;}
+</style>
+<![endif]-->
+<style type="text/css">
+/* Webfont @import URL */
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;
+700&family=Spartan&display=swap");
+</style>
+<style type="text/css">
+/* Style CSS */
+ 
+
+/* Link Color */
+a {
+    color: #000000;
+    text-decoration: none;
+}
+/* Font Styling */
+h1, .hl-1 {
+    font-family: 'EB Garamond', Georgia, serif;
+}
+h2, .hl-2, p, .text, .footer-text, .bold, .bullet, .button_structure, .button_style, .headline-2, .headline-3, .preheader-link, .preheader-text, .button_structure-2, .button_style-2 {
+    font-family: 'Spartan', Verdana, sans-serif;
+}
+h1, .hl-1 {
+    font-size: 32px;
+    line-height: 39px;
+    font-weight: 700;
+    text-align: center;
+    color: #000000;
+}
+h2, .hl-2 {
+    font-size: 16px;
+    color: #000000;
+    line-height: 20px;
+    font-weight: 700;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+p, .text {
+    font-size: 15px;
+    line-height: 20px;
+    font-weight: 400;
+    text-align: left;
+    color: #808080;
+}
+.preheader-text {
+    font-size: 12px;
+    line-height: 15px;
+    font-weight: 400;
+    text-align: left;
+    color: #999999;
+}
+.footer-text {
+    font-size: 13px;
+    line-height: 16px;
+    color: #999999;
+    text-align: center;
+}
+/* Visual Elements */
+.border {
+    border-bottom: 2px solid #dddddd;
+}
+.bullet {
+    color: #333333;
+    width: 10px;
+}
+.button_structure {
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    border-radius: 0px;
+    height: 45px;
+    background-color: #f9cfe1;
+    text-align: center;
+    mso-line-height-rule: exactly !important;
+}
+.button_style {
+    font-size: 14px;
+    line-height: 14px;
+    font-weight: 700;
+    letter-spacing: 0px;
+    mso-line-height-rule: exactly !important;
+    color: #000000 !important;
+    text-decoration: none;
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    border-radius: 0px;
+    padding: 10px 0px;
+    display: inline-block;
+    width: 100%;
+}
+.button-text {
+    font-size: 18px;
+    line-height: 18px;
+    font-weight: 700;
+}
+/* Structural CSS */
+html {
+    Margin: 0 auto;
+    padding: 0;
+}
+body {
+    width: 100%;
+    min-width: 100%;
+    Margin: 0 auto !important;
+    padding: 0 !important;
+    border-collapse: collapse !important;
+    table-layout: fixed !important;
+}
+table td {
+    border-collapse: collapse !important;
+}
+img {
+    display: block;
+    border: none;
+    text-align: center;
+}
+.p-tblr-20 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.p-t-20-b-25 {
+    padding-top: 20px;
+    padding-bottom: 25px;
+}
+.p-b-10 {
+    padding-bottom: 10px;
+}
+.p-t-30 {
+    padding-top: 30px;
+}
+.p-tb-30 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+/* Client-specific CSS */
+#outlook a {
+    padding: 0 !important;
+}
+.ExternalClass * {
+    line-height: 100%;
+}
+* {
+    -webkit-text-size-adjust: none;
+}
+
+/* Mobile-Specific CSS */
+@media screen and (max-width: 480px) {
+u + .body .full-wrap {
+    width: 100% !important;
+    width: 100vw !important;
+}
+.mobile-only {
+    display: block!important;
+    width: auto!important;
+    max-height: inherit!important;
+    overflow: visible!important;
+    float: none!important;
+}
+.wrap {
+    width: 100%!important;
+    max-width: 100%!important;
+    height: auto!important;
+}
+.empty {
+    width: 0 !important;
+    height: 0 !important;
+    display: none !important;
+}
+.responsive-image {
+    width: 100% !important;
+    max-width: 100% !important;
+    height: auto !important;
+}
+.padding-none {
+    padding: 0px !important;
+}
+h1, .hl-1 {
+    font-size: 28px;
+    line-height: 35px;
+    font-weight: 700;
+    text-align: center;
+    color: #000000;
+}
+.mp-t-0-b-15 {
+    padding-top: 0px !important;
+    padding-bottom: 15px !important;
+}
+.mp-b-10 {
+    padding-bottom: 10px !important;
+}
+.mp-t-10 {
+    padding-top: 10px !important;
+}
+.mp-t-15 {
+    padding-top: 15px !important;
+}
+.mp-b-20 {
+    padding-bottom: 20px !important;
+}
+.mp-b-25 {
+    padding-bottom: 25px !important;
+}
+.mp-t-20 {
+    padding-top: 20px !important;
+}
+.mp-r-20 {
+    padding-right: 20px !important;
+}
+.mp-tblr-20 {
+    padding-top: 20px !important;
+    padding-bottom: 20px !important;
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+}
+.mp-lr-10 {
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+}
+.mp-lr-20 {
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+}
+.mp-t-10-b-25 {
+    padding-top: 10px !important;
+    padding-bottom: 25px !important;
+}
+.mp-t-20-b-25 {
+    padding-top: 20px !important;
+    padding-bottom: 25px !important;
+}
+.mp-t-20-b-10 {
+    padding-top: 20px !important;
+    padding-bottom: 10px !important;
+}
+.w100 {
+    width: 100px !important;
+    height: auto !important;
+}
+.w120 {
+    width: 120px !important;
+    height: auto !important;
+}
+.m-align {
+    vertical-align: middle !important;
+}
+.break {
+    display: block !important;
+}
+.text-center {
+    text-align: center !important;
+}
+.border-none {
+    border: none !important;
+}
+.m-border-t {
+    border-top: 2px solid #e6e6e6 !important;
+}
+.m-font-btn {
+    font-size: 12px !important;
+    line-height: 12px !important;
+}
+}
+</style>
+</head>
+
+<body style="Margin:0;padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;min-width:100%;background-color:#ffffff"><img src="http://l.mail.realsimple.com/rts/open.aspx?tp=i-1NGB-9U-2gqk-12VIRcR-Hv-B2p76-1c-12VGH2P-l68ofCh3VX-1yUuMF" height="1" width="1" style="display:none">
+
+<!--start wrapper table-->
+
+<table role="presentation" border="0" cellspacing="0" cellpadding="0" class="wrap full-wrap" width="700" align="center" bgcolor="#FFFFFF" style="background-color:#FFFFFF; margin-top:10px;">
+  <tr>
+    <td align="center"><!--start message content--> 
+      
+      <!--preheader links--> 
+      
+      <!--header-->
+
+      <table role="presentation" width="700" border="0" cellspacing="0" cellpadding="0" align="center" class="wrap" bgcolor="#ffffff" style="background:#ffffff;">
+        <tr>
+          <td align="center" class="p-tb-30 mp-lr-20" style="border-top: 6px solid #F9CFE1;"><table role="presentation" border="0" cellspacing="0" cellpadding="0" align="center" class="wrap">
+              <tr>
+                <td align="center"><table width="468" border="0" cellspacing="0" cellpadding="0" class="wrap">
+                    <tr>
+                      <td align="center"><a data-link-name="Header Logo" href="http://l.mail.realsimple.com/rts/go2.aspx?h=14198249&tp=i-1NGB-9U-2gqk-12VIRcR-Hv-B2p76-1c-12VGH2P-l68ofCh3VX-1yUuMF&x=cdd7c32a2f0bfcc00af494148b201cc9630f2f81%7c641374%7c20210604%7c060421%7c641374%7c59094963739"><img src="http://images.meredith.com/RealSimple/newsletters/2021/Shopping-Header-468x116.png" alt="Real Simple Shopping" width="468" class="responsive-image" style="max-width:468px !important;"/></a></td>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table></td>
+        </tr>
+      </table>
+      
+      <!--Main Module-->
+      
+      <table role="presentation" border="0" cellspacing="0" cellpadding="0" class="wrap" width="700" align="center">
+        <tr>
+          <td align="center" class="mp-lr-20" style="padding-bottom:40px;"><table role="presentation" border="0" cellspacing="0" cellpadding="0" class="wrap" width="700" align="center">
+              <tr>
+                <td align="center"><a data-link-name="MOD1 - Image" href="http://l.mail.realsimple.com/rts/go2.aspx?h=14198250&tp=i-1NGB-9U-2gqk-12VIRcR-Hv-B2p76-1c-12VGH2P-l68ofCh3VX-1yUuMF&x=cdd7c32a2f0bfcc00af494148b201cc9630f2f81%7c641374%7c20210604%7c060421%7c641374%7c59094963739"> <img src="https://static.onecms.io/wp-content/uploads/sites/23/2021/06/01/the-summer-grilling-capsule-tout.jpg" alt="" width="700" class="responsive-image" /> </a></td>
+              </tr>
+              <tr>
+                <td class="hl-1 mp-t-15" style="padding-top:20px;"><a data-link-name="MOD1 - Celebrate the Start of Summer With This Limited-Edition Grilling Capsule" href="http://l.mail.realsimple.com/rts/go2.aspx?h=14198251&tp=i-1NGB-9U-2gqk-12VIRcR-Hv-B2p76-1c-12VGH2P-l68ofCh3VX-1yUuMF&x=cdd7c32a2f0bfcc00af494148b201cc9630f2f81%7c641374%7c20210604%7c060421%7c641374%7c59094963739" style="color:#000000; text-decoration:none;">Celebrate the Start of Summer With This Limited-Edition Grilling Capsule</a></td>
+              </tr>
+              <tr>
+                <td align="center" style="padding-top:20px;" class="m-align mp-t-15"><table role="presentation" border="0" cellpadding="0" cellspacing="0" align="center" width="150" style="max-width:150px !important;">
+                    <tr>
+                      <td align="center" class="button_structure"><a data-link-name="MOD1 - Read More" href="http://l.mail.realsimple.com/rts/go2.aspx?h=14198252&tp=i-1NGB-9U-2gqk-12VIRcR-Hv-B2p76-1c-12VGH2P-l68ofCh3VX-1yUuMF&x=cdd7c32a2f0bfcc00af494148b201cc9630f2f81%7c641374%7c20210604%7c060421%7c641374%7c59094963739" target="_blank" class="button_style">Shop Now &raquo;</a></td>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table></td>
+        </tr>
+      </table>
+      
+      <!--2nd Module-->
+      
+      <table role="presentation" border="0" cellspacing="0" cellpadding="0" class="wrap" width="700" align="center">
+        <tr>
+          <td align="center" class="mp-lr-20" style="padding-bottom:40px;"><table role="presentation" border="0" cellspacing="0" cellpadding="0" class="wrap" width="700" align="center">
+              <tr>
+                <td align="center"><a data-link-name="MOD2 - Image" href="http://l.mail.realsimple.com/rts/go2.aspx?h=14198253&tp=i-1NGB-9U-2gqk-12VIRcR-Hv-B2p76-1c-12VGH2P-l68ofCh3VX-1yUuMF&x=cdd7c32a2f0bfcc00af494148b201cc9630f2f81%7c641374%7c20210604%7c060421%7c641374%7c59094963739"> <img src="https://static.onecms.io/wp-content/uploads/sites/23/2021/06/01/halogen-v-neck-top-regular-plus-size-tout.jpg" alt="" width="700" class="responsive-image" /> </a></td>
+              </tr>
+              <tr>
+                <td class="hl-1 mp-t-15" style="padding-top:20px;"><a data-link-name="MOD2 - 20,000+ Items Are Up for Grabs at Nordstrom’s Half-Yearly Sale" href="http://l.mail.realsimple.com/rts/go2.aspx?h=14198254&tp=i-1NGB-9U-2gqk-12VIRcR-Hv-B2p76-1c-12VGH2P-l68ofCh3VX-1yUuMF&x=cdd7c32a2f0bfcc00af494148b201cc9630f2f81%7c641374%7c20210604%7c060421%7c641374%7c59094963739" style="color:#000000; text-decoration:none;">20,000+ Items Are Up for Grabs at Nordstrom’s Half-Yearly Sale</a></td>
+              </tr>
+              <tr>
+                <td align="center" style="padding-top:20px;" class="m-align mp-t-15"><table role="presentation" border="0" cellpadding="0" cellspacing="0" align="center" width="150" style="max-width:150px !important;">
+                    <tr>
+                      <td align="center" class="button_structure"><a data-link-name="MOD2 - Read More" href="http://l.mail.realsimple.com/rts/go2.aspx?h=14198255&tp=i-1NGB-9U-2gqk-12VIRcR-Hv-B2p76-1c-12VGH2P-l68ofCh3VX-1yUuMF&x=cdd7c32a2f0bfcc00af494148b201cc9630f2f81%7c641374%7c20210604%7c060421%7c641374%7c59094963739" target="_blank" class="button_style">Shop Now &raquo;</a></td>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table></td>
+        </tr>
+      </table>
+      
+      <!--3rd Module-->
+      
+      <table role="presentation" border="0" cellspacing="0" cellpadding="0" class="wrap" width="700" align="center">
+        <tr>
+          <td align="center" class="mp-lr-20" style="padding-bottom:40px;"><table role="presentation" border="0" cellspacing="0" cellpadding="0" class="wrap" width="700" align="center">
+              <tr>
+                <td align="center"><a data-link-name="MOD3 - Image" href="http://l.mail.realsimple.com/rts/go2.aspx?h=14198256&tp=i-1NGB-9U-2gqk-12VIRcR-Hv-B2p76-1c-12VGH2P-l68ofCh3VX-1yUuMF&x=cdd7c32a2f0bfcc00af494148b201cc9630f2f81%7c641374%7c20210604%7c060421%7c641374%7c59094963739"> <img src="https://static.onecms.io/wp-content/uploads/sites/23/2021/06/01/mesh-38-wood-food-dome-hearth-38-hand-8482-with-magnolia-tout.jpg" alt="" width="700" class="responsive-image" /> </a></td>
+              </tr>
+              <tr>
+                <td class="hl-1 mp-t-15" style="padding-top:20px;"><a data-link-name="MOD3 - Joanna Gaines' $15 Food Dome Will Keep Your Picnic Fare Pest-Free" href="http://l.mail.realsimple.com/rts/go2.aspx?h=14198257&tp=i-1NGB-9U-2gqk-12VIRcR-Hv-B2p76-1c-12VGH2P-l68ofCh3VX-1yUuMF&x=cdd7c32a2f0bfcc00af494148b201cc9630f2f81%7c641374%7c20210604%7c060421%7c641374%7c59094963739" style="color:#000000; text-decoration:none;">Joanna Gaines' $15 Food Dome Will Keep Your Picnic Fare Pest-Free</a></td>
+              </tr>
+              <tr>
+                <td align="center" style="padding-top:20px;" class="m-align mp-t-15"><table role="presentation" border="0" cellpadding="0" cellspacing="0" align="center" width="150" style="max-width:150px !important;">
+                    <tr>
+                      <td align="center" class="button_structure"><a data-link-name="MOD3 - Read More" href="http://l.mail.realsimple.com/rts/go2.aspx?h=14198258&tp=i-1NGB-9U-2gqk-12VIRcR-Hv-B2p76-1c-12VGH2P-l68ofCh3VX-1yUuMF&x=cdd7c32a2f0bfcc00af494148b201cc9630f2f81%7c641374%7c20210604%7c060421%7c641374%7c59094963739" target="_blank" class="button_style">Shop Now &raquo;</a></td>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table></td>
+        </tr>
+      </table>
+      
+      <!--  MARQUEE #1 -->
+      
+      <table role="presentation" border="0" cellspacing="0" cellpadding="0" class="wrap" width="700" align="center">
+        <tr>
+          <td align="center" style="padding-bottom:10px;"><table border="0" cellpadding="0" cellspacing="0" class="wrap" align="center">
+              <tr>
+                <td colspan="2"><a data-link-name="Marquee Ad" href="http://l.mail.realsimple.com/rts/go2.aspx?h=14198259&tp=i-1NGB-9U-2gqk-12VIRcR-Hv-B2p76-1c-12VGH2P-l68ofCh3VX-1yUuMF&x=tobysmith8868@gmail.com%7c20210604%7ccdd7c32a2f0bfcc00af494148b201cc9630f2f81%7c641374%7c20210604%7c060421%7c641374%7c59094963739" rel="nofollow"><img src="http://sli.realsimple.com/imp?s=413245&li=RSP_Shopping&e=tobysmith8868@gmail.com&p=20210604" border="0" width="700" style="display: block; width: 100%; max-width: 700px !important; height:auto;" class="responsive-image"/></a></td>
+              </tr>
+              <tr style="display:block; height:1px; line-height:1px;">
+                <td><img src="http://sli.realsimple.com/imp?s=413246&li=RSP_Shopping&e=tobysmith8868@gmail.com&p=20210604" height="1" width="10" /></td>
+                <td><img src="http://sli.realsimple.com/imp?s=413247&li=RSP_Shopping&e=tobysmith8868@gmail.com&p=20210604" height="1" width="10" /></td>
+              </tr>
+              <tr>
+                <td align="left"><a style="display: block; max-width: 116px;  max-height: 15px;" data-link-name="Marquee Ad" href="http://l.mail.realsimple.com/rts/go2.aspx?h=14198260&tp=i-1NGB-9U-2gqk-12VIRcR-Hv-B2p76-1c-12VGH2P-l68ofCh3VX-1yUuMF&x=tobysmith8868@gmail.com%7c20210604%7ccdd7c32a2f0bfcc00af494148b201cc9630f2f81%7c641374%7c20210604%7c060421%7c641374%7c59094963739" rel="nofollow"><img src="http://sli.realsimple.com/imp?s=413389&li=RSP_Shopping&e=tobysmith8868@gmail.com&p=20210604" border="0"/></a></td>
+                <td align="right"><a style="display: block; max-width: 19px;  max-height: 15px;" data-link-name="Marquee Ad" href="http://l.mail.realsimple.com/rts/go2.aspx?h=14198261&tp=i-1NGB-9U-2gqk-12VIRcR-Hv-B2p76-1c-12VGH2P-l68ofCh3VX-1yUuMF&x=tobysmith8868@gmail.com%7c20210604%7ccdd7c32a2f0bfcc00af494148b201cc9630f2f81%7c641374%7c20210604%7c060421%7c641374%7c59094963739" rel="nofollow"><img src="http://sli.realsimple.com/imp?s=544459&li=RSP_Shopping&e=tobysmith8868@gmail.com&p=20210604" border="0"/></a></td>
+              </tr>
+            </table></td>
+        </tr>
+      </table>
+      
+      <!-- End 300x250 AD --> 
+      
+      <!--Module 4-->
+      
+      <table role="presentation" border="0" cellspacing="0" cellpadding="0" class="wrap" width="700" align="center">
+        <tr>
+          <td align="center" class="mp-lr-20" style="padding-bottom:40px; padding-top: 25px;"><table role="presentation" border="0" cellspacing="0" cellpadding="0" class="wrap" width="700" align="center">
+              <tr>
+                <td align="center"><a data-link-name="MOD4 - Image" href="http://l.mail.realsimple.com/rts/go2.aspx?h=14198262&tp=i-1NGB-9U-2gqk-12VIRcR-Hv-B2p76-1c-12VGH2P-l68ofCh3VX-1yUuMF&x=cdd7c32a2f0bfcc00af494148b201cc9630f2f81%7c641374%7c20210604%7c060421%7c641374%7c59094963739"> <img src="https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F23%2F2020%2F12%2F28%2Fnordstrom-cole-haan-levis-moto-jacket-tout.jpg" alt="" width="700" class="responsive-image" /> </a></td>
+              </tr>
+              <tr>
+                <td class="hl-1 mp-t-15" style="padding-top:20px;"><a data-link-name="MOD4 - The Best Deals From Nordstrom's Epic Half-Yearly Sale" href="http://l.mail.realsimple.com/rts/go2.aspx?h=14198263&tp=i-1NGB-9U-2gqk-12VIRcR-Hv-B2p76-1c-12VGH2P-l68ofCh3VX-1yUuMF&x=cdd7c32a2f0bfcc00af494148b201cc9630f2f81%7c641374%7c20210604%7c060421%7c641374%7c59094963739" style="color:#000000; text-decoration:none;">The Best Deals From Nordstrom's Epic Half-Yearly Sale</a></td>
+              </tr>
+              <tr>
+                <td align="center" style="padding-top:20px;" class="m-align mp-t-15"><table role="presentation" border="0" cellpadding="0" cellspacing="0" align="center" width="150" style="max-width:150px !important;">
+                    <tr>
+                      <td align="center" class="button_structure"><a data-link-name="MOD4 - Read More" href="http://l.mail.realsimple.com/rts/go2.aspx?h=14198264&tp=i-1NGB-9U-2gqk-12VIRcR-Hv-B2p76-1c-12VGH2P-l68ofCh3VX-1yUuMF&x=cdd7c32a2f0bfcc00af494148b201cc9630f2f81%7c641374%7c20210604%7c060421%7c641374%7c59094963739" target="_blank" class="button_style">Read More &raquo;</a></td>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table></td>
+        </tr>
+      </table>
+      
+      <!--Module 5-->
+      
+      <table role="presentation" border="0" cellspacing="0" cellpadding="0" class="wrap" width="700" align="center">
+        <tr>
+          <td align="center" class="mp-lr-20" style="padding-bottom:40px;"><table role="presentation" border="0" cellspacing="0" cellpadding="0" class="wrap" width="700" align="center">
+              <tr>
+                <td align="center"><a data-link-name="MOD5 - Image" href="http://l.mail.realsimple.com/rts/go2.aspx?h=14198265&tp=i-1NGB-9U-2gqk-12VIRcR-Hv-B2p76-1c-12VGH2P-l68ofCh3VX-1yUuMF&x=cdd7c32a2f0bfcc00af494148b201cc9630f2f81%7c641374%7c20210604%7c060421%7c641374%7c59094963739"> <img src="https://static.onecms.io/wp-content/uploads/sites/23/2021/06/01/okp-k7-robot-vacuum-cleaner-wifi-connected-robot-vacuum-tout.jpg" alt="" width="700" class="responsive-image" /> </a></td>
+              </tr>
+              <tr>
+                <td class="hl-1" style="padding-top:20px;"><a data-link-name="MOD5 - Amazon Quietly Launched a Huge $350 Discount on This Powerful Robot Vacuum" href="http://l.mail.realsimple.com/rts/go2.aspx?h=14198266&tp=i-1NGB-9U-2gqk-12VIRcR-Hv-B2p76-1c-12VGH2P-l68ofCh3VX-1yUuMF&x=cdd7c32a2f0bfcc00af494148b201cc9630f2f81%7c641374%7c20210604%7c060421%7c641374%7c59094963739" style="color:#000000; text-decoration:none;">Amazon Quietly Launched a Huge $350 Discount on This Powerful Robot Vacuum</a></td>
+              </tr>
+              <tr>
+                <td align="center" style="padding-top:20px;" class="m-align"><table role="presentation" border="0" cellpadding="0" cellspacing="0" align="center" width="150" style="max-width:150px !important;">
+                    <tr>
+                      <td align="left" class="button_structure"><a data-link-name="MOD5 - Read More" href="http://l.mail.realsimple.com/rts/go2.aspx?h=14198267&tp=i-1NGB-9U-2gqk-12VIRcR-Hv-B2p76-1c-12VGH2P-l68ofCh3VX-1yUuMF&x=cdd7c32a2f0bfcc00af494148b201cc9630f2f81%7c641374%7c20210604%7c060421%7c641374%7c59094963739" target="_blank" class="button_style">Shop Now &raquo;</a></td>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table></td>
+        </tr>
+      </table>
+      
+      <!--Module 6-->
+      
+      <table role="presentation" border="0" cellspacing="0" cellpadding="0" class="wrap" width="700" align="center">
+        <tr>
+          <td align="center" class="mp-lr-20" style="padding-bottom:40px;"><table role="presentation" border="0" cellspacing="0" cellpadding="0" class="wrap" width="700" align="center">
+              <tr>
+                <td align="center"><a data-link-name="MOD6 - Image" href="http://l.mail.realsimple.com/rts/go2.aspx?h=14198268&tp=i-1NGB-9U-2gqk-12VIRcR-Hv-B2p76-1c-12VGH2P-l68ofCh3VX-1yUuMF&x=cdd7c32a2f0bfcc00af494148b201cc9630f2f81%7c641374%7c20210604%7c060421%7c641374%7c59094963739"> <img src="https://static.onecms.io/wp-content/uploads/sites/23/2021/06/01/mens-im-not-old-sports-car-short-sleeve-tee-tout.jpg" alt="" width="700" class="responsive-image" /> </a></td>
+              </tr>
+              <tr>
+                <td class="hl-1 mp-t-15" style="padding-top:20px;"><a data-link-name="MOD6 - The 8 Best Father's Day Gifts for Every Type of Dad—Yes, Even Dog Dads" href="http://l.mail.realsimple.com/rts/go2.aspx?h=14198269&tp=i-1NGB-9U-2gqk-12VIRcR-Hv-B2p76-1c-12VGH2P-l68ofCh3VX-1yUuMF&x=cdd7c32a2f0bfcc00af494148b201cc9630f2f81%7c641374%7c20210604%7c060421%7c641374%7c59094963739" style="color:#000000; text-decoration:none;">The 8 Best Father's Day Gifts for Every Type of Dad—Yes, Even Dog Dads</a></td>
+              </tr>
+              <tr>
+                <td align="center" style="padding-top:20px;" class="m-align mp-t-15"><table role="presentation" border="0" cellpadding="0" cellspacing="0" align="center" width="150" style="max-width:150px !important;">
+                    <tr>
+                      <td align="center" class="button_structure"><a data-link-name="MOD6 - Read More" href="http://l.mail.realsimple.com/rts/go2.aspx?h=14198270&tp=i-1NGB-9U-2gqk-12VIRcR-Hv-B2p76-1c-12VGH2P-l68ofCh3VX-1yUuMF&x=cdd7c32a2f0bfcc00af494148b201cc9630f2f81%7c641374%7c20210604%7c060421%7c641374%7c59094963739" target="_blank" class="button_style">Read More &raquo;</a></td>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table></td>
+        </tr>
+      </table>
+      
+      <!--  MARQUEE #2 -->
+      
+      <table role="presentation" border="0" cellspacing="0" cellpadding="0" class="wrap" width="700" align="center">
+        <tr>
+          <td align="center"><table border="0" cellpadding="0" cellspacing="0" class="wrap" align="center">
+              <tr>
+                <td colspan="2"><a data-link-name="Marquee Ad 2" href="http://l.mail.realsimple.com/rts/go2.aspx?h=14198271&tp=i-1NGB-9U-2gqk-12VIRcR-Hv-B2p76-1c-12VGH2P-l68ofCh3VX-1yUuMF&x=tobysmith8868@gmail.com%7c20210604%7ccdd7c32a2f0bfcc00af494148b201cc9630f2f81%7c641374%7c20210604%7c060421%7c641374%7c59094963739" rel="nofollow"><img src="http://sli.realsimple.com/imp?s=413248&li=RSP_Shopping&e=tobysmith8868@gmail.com&p=20210604" border="0" width="700" style="display: block; width: 100%; max-width: 700px !important; height:auto;" class="responsive-image"/></a></td>
+              </tr>
+              <tr style="display:block; height:1px; line-height:1px;">
+                <td><img src="http://sli.realsimple.com/imp?s=413249&li=RSP_Shopping&e=tobysmith8868@gmail.com&p=20210604" height="1" width="10" /></td>
+                <td><img src="http://sli.realsimple.com/imp?s=413250&li=RSP_Shopping&e=tobysmith8868@gmail.com&p=20210604" height="1" width="10" /></td>
+              </tr>
+              <tr>
+                <td align="left"><a style="display: block; max-width: 116px;  max-height: 15px;" data-link-name="Marquee Ad 2" href="http://l.mail.realsimple.com/rts/go2.aspx?h=14198272&tp=i-1NGB-9U-2gqk-12VIRcR-Hv-B2p76-1c-12VGH2P-l68ofCh3VX-1yUuMF&x=tobysmith8868@gmail.com%7c20210604%7ccdd7c32a2f0bfcc00af494148b201cc9630f2f81%7c641374%7c20210604%7c060421%7c641374%7c59094963739" rel="nofollow"><img src="http://sli.realsimple.com/imp?s=413388&li=RSP_Shopping&e=tobysmith8868@gmail.com&p=20210604" border="0"/></a></td>
+                <td align="right"><a style="display: block; max-width: 19px;  max-height: 15px;" data-link-name="Marquee Ad 2" href="http://l.mail.realsimple.com/rts/go2.aspx?h=14198273&tp=i-1NGB-9U-2gqk-12VIRcR-Hv-B2p76-1c-12VGH2P-l68ofCh3VX-1yUuMF&x=tobysmith8868@gmail.com%7c20210604%7ccdd7c32a2f0bfcc00af494148b201cc9630f2f81%7c641374%7c20210604%7c060421%7c641374%7c59094963739" rel="nofollow"><img src="http://sli.realsimple.com/imp?s=544458&li=RSP_Shopping&e=tobysmith8868@gmail.com&p=20210604" border="0"/></a></td>
+              </tr>
+            </table></td>
+        </tr>
+      </table>
+      
+      <!-- End 300x250 AD --> 
+      
+      <!--Module 7-->
+      
+      <table role="presentation" border="0" cellspacing="0" cellpadding="0" class="wrap" width="700" align="center">
+        <tr>
+          <td align="center" class="mp-lr-20" style="padding-bottom:40px; padding-top: 25px;"><table role="presentation" border="0" cellspacing="0" cellpadding="0" class="wrap" width="700" align="center">
+              <tr>
+                <td align="center"><a data-link-name="MOD7 - Image" href="http://l.mail.realsimple.com/rts/go2.aspx?h=14198274&tp=i-1NGB-9U-2gqk-12VIRcR-Hv-B2p76-1c-12VGH2P-l68ofCh3VX-1yUuMF&x=cdd7c32a2f0bfcc00af494148b201cc9630f2f81%7c641374%7c20210604%7c060421%7c641374%7c59094963739"> <img src="https://static.onecms.io/wp-content/uploads/sites/23/2021/06/01/amazon-basics-ultra-soft-micromink-sherpa-comforter-bed-set-blush-tout.jpg" alt="" width="700" class="responsive-image" /> </a></td>
+              </tr>
+              <tr>
+                <td class="hl-1 mp-t-15" style="padding-top:20px;"><a data-link-name="MOD7 - Amazon's Secret Overstock Outlet Has Tons of Stylish Furniture for Less Than $200" href="http://l.mail.realsimple.com/rts/go2.aspx?h=14198275&tp=i-1NGB-9U-2gqk-12VIRcR-Hv-B2p76-1c-12VGH2P-l68ofCh3VX-1yUuMF&x=cdd7c32a2f0bfcc00af494148b201cc9630f2f81%7c641374%7c20210604%7c060421%7c641374%7c59094963739" style="color:#000000; text-decoration:none;">Amazon's Secret Overstock Outlet Has Tons of Stylish Furniture for Less Than $200</a></td>
+              </tr>
+              <tr>
+                <td align="center" style="padding-top:20px;" class="m-align mp-t-15"><table role="presentation" border="0" cellpadding="0" cellspacing="0" align="center" width="150" style="max-width:150px !important;">
+                    <tr>
+                      <td align="center" class="button_structure"><a data-link-name="MOD7 - Read More" href="http://l.mail.realsimple.com/rts/go2.aspx?h=14198276&tp=i-1NGB-9U-2gqk-12VIRcR-Hv-B2p76-1c-12VGH2P-l68ofCh3VX-1yUuMF&x=cdd7c32a2f0bfcc00af494148b201cc9630f2f81%7c641374%7c20210604%7c060421%7c641374%7c59094963739" target="_blank" class="button_style">Shop Now &raquo;</a></td>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table></td>
+        </tr>
+      </table>
+      
+      <!--Module 8-->
+      
+      <table role="presentation" border="0" cellspacing="0" cellpadding="0" class="wrap" width="700" align="center">
+        <tr>
+          <td align="center" class="mp-lr-20" style="padding-bottom:40px;"><table role="presentation" border="0" cellspacing="0" cellpadding="0" class="wrap" width="700" align="center">
+              <tr>
+                <td align="center"><a data-link-name="MOD8 - Image" href="http://l.mail.realsimple.com/rts/go2.aspx?h=14198277&tp=i-1NGB-9U-2gqk-12VIRcR-Hv-B2p76-1c-12VGH2P-l68ofCh3VX-1yUuMF&x=cdd7c32a2f0bfcc00af494148b201cc9630f2f81%7c641374%7c20210604%7c060421%7c641374%7c59094963739"> <img src="https://static.onecms.io/wp-content/uploads/sites/23/2021/05/18/amazon-basics-water-resistant-vinyl-shower-curtain-liner-tout.jpg" alt="" width="700" class="responsive-image" /> </a></td>
+              </tr>
+              <tr>
+                <td class="hl-1 mp-t-15" style="padding-top:20px;"><a data-link-name="MOD8 - The Best Shower Curtain Liners for Every Bathroom—Starting at $7" href="http://l.mail.realsimple.com/rts/go2.aspx?h=14198278&tp=i-1NGB-9U-2gqk-12VIRcR-Hv-B2p76-1c-12VGH2P-l68ofCh3VX-1yUuMF&x=cdd7c32a2f0bfcc00af494148b201cc9630f2f81%7c641374%7c20210604%7c060421%7c641374%7c59094963739" style="color:#000000; text-decoration:none;">The Best Shower Curtain Liners for Every Bathroom—Starting at $7</a></td>
+              </tr>
+              <tr>
+                <td align="center" style="padding-top:20px;" class="m-align mp-t-15"><table role="presentation" border="0" cellpadding="0" cellspacing="0" align="center" width="150" style="max-width:150px !important;">
+                    <tr>
+                      <td align="center" class="button_structure"><a data-link-name="MOD8 - Read More" href="http://l.mail.realsimple.com/rts/go2.aspx?h=14198279&tp=i-1NGB-9U-2gqk-12VIRcR-Hv-B2p76-1c-12VGH2P-l68ofCh3VX-1yUuMF&x=cdd7c32a2f0bfcc00af494148b201cc9630f2f81%7c641374%7c20210604%7c060421%7c641374%7c59094963739" target="_blank" class="button_style">Read More &raquo;</a></td>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table></td>
+        </tr>
+      </table>
+      
+      <!--Module 9-->
+      
+      <table role="presentation" border="0" cellspacing="0" cellpadding="0" class="wrap" width="700" align="center">
+        <tr>
+          <td align="center" class="mp-lr-20" style="padding-bottom:40px;"><table role="presentation" border="0" cellspacing="0" cellpadding="0" class="wrap" width="700" align="center">
+              <tr>
+                <td align="center"><a data-link-name="MOD9 - Image" href="http://l.mail.realsimple.com/rts/go2.aspx?h=14198280&tp=i-1NGB-9U-2gqk-12VIRcR-Hv-B2p76-1c-12VGH2P-l68ofCh3VX-1yUuMF&x=cdd7c32a2f0bfcc00af494148b201cc9630f2f81%7c641374%7c20210604%7c060421%7c641374%7c59094963739"> <img src="https://static.onecms.io/wp-content/uploads/sites/23/2021/06/01/alaster-womens-casual-summer-t-shirt-dress-loose-short-sleeve-tunic-dress-tout.jpg" alt="" width="700" class="responsive-image" /> </a></td>
+              </tr>
+              <tr>
+                <td class="hl-1 mp-t-15" style="padding-top:20px;"><a data-link-name="MOD9 - You Won't Regret Snagging This Ultra-Soft $25 T-Shirt Dress" href="http://l.mail.realsimple.com/rts/go2.aspx?h=14198281&tp=i-1NGB-9U-2gqk-12VIRcR-Hv-B2p76-1c-12VGH2P-l68ofCh3VX-1yUuMF&x=cdd7c32a2f0bfcc00af494148b201cc9630f2f81%7c641374%7c20210604%7c060421%7c641374%7c59094963739" style="color:#000000; text-decoration:none;">You Won't Regret Snagging This Ultra-Soft $25 T-Shirt Dress</a></td>
+              </tr>
+              <tr>
+                <td align="center" style="padding-top:20px;" class="m-align mp-t-15"><table role="presentation" border="0" cellpadding="0" cellspacing="0" align="center" width="150" style="max-width:150px !important;">
+                    <tr>
+                      <td align="center" class="button_structure"><a data-link-name="MOD9 - Read More" href="http://l.mail.realsimple.com/rts/go2.aspx?h=14198282&tp=i-1NGB-9U-2gqk-12VIRcR-Hv-B2p76-1c-12VGH2P-l68ofCh3VX-1yUuMF&x=cdd7c32a2f0bfcc00af494148b201cc9630f2f81%7c641374%7c20210604%7c060421%7c641374%7c59094963739" target="_blank" class="button_style">Shop Now &raquo;</a></td>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table></td>
+        </tr>
+      </table>
+      
+      <!--Module 10-->
+      
+      <table role="presentation" border="0" cellspacing="0" cellpadding="0" class="wrap" width="700" align="center">
+        <tr>
+          <td align="center" class="mp-lr-20" style="padding-bottom:40px;"><table role="presentation" border="0" cellspacing="0" cellpadding="0" class="wrap" width="700" align="center">
+              <tr>
+                <td align="center"><a data-link-name="MOD10 - Image" href="http://l.mail.realsimple.com/rts/go2.aspx?h=14198283&tp=i-1NGB-9U-2gqk-12VIRcR-Hv-B2p76-1c-12VGH2P-l68ofCh3VX-1yUuMF&x=cdd7c32a2f0bfcc00af494148b201cc9630f2f81%7c641374%7c20210604%7c060421%7c641374%7c59094963739"> <img src="https://static.onecms.io/wp-content/uploads/sites/23/2021/06/01/lasko-portable-electric-42-oscillating-tower-fan-tout.jpg" alt="" width="700" class="responsive-image" /> </a></td>
+              </tr>
+              <tr>
+                <td class="hl-1 mp-t-15" style="padding-top:20px;"><a data-link-name="MOD10 - A Tower Fan That'll Save You on Summer's Hottest Days" href="http://l.mail.realsimple.com/rts/go2.aspx?h=14198284&tp=i-1NGB-9U-2gqk-12VIRcR-Hv-B2p76-1c-12VGH2P-l68ofCh3VX-1yUuMF&x=cdd7c32a2f0bfcc00af494148b201cc9630f2f81%7c641374%7c20210604%7c060421%7c641374%7c59094963739" style="color:#000000; text-decoration:none;">A Tower Fan That'll Save You on Summer's Hottest Days</a></td>
+              </tr>
+              <tr>
+                <td align="center" style="padding-top:20px;" class="m-align mp-t-15"><table role="presentation" border="0" cellpadding="0" cellspacing="0" align="center" width="150" style="max-width:150px !important;">
+                    <tr>
+                      <td align="center" class="button_structure"><a data-link-name="MOD10 - Read More" href="http://l.mail.realsimple.com/rts/go2.aspx?h=14198285&tp=i-1NGB-9U-2gqk-12VIRcR-Hv-B2p76-1c-12VGH2P-l68ofCh3VX-1yUuMF&x=cdd7c32a2f0bfcc00af494148b201cc9630f2f81%7c641374%7c20210604%7c060421%7c641374%7c59094963739" target="_blank" class="button_style">Shop Now &raquo;</a></td>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table></td>
+        </tr>
+      </table>
+      
+      <!--Module 11-->
+      
+      <table role="presentation" border="0" cellspacing="0" cellpadding="0" class="wrap" width="700" align="center">
+        <tr>
+          <td align="center" class="mp-lr-20" style="padding-bottom:40px;"><table role="presentation" border="0" cellspacing="0" cellpadding="0" class="wrap" width="700" align="center">
+              <tr>
+                <td align="center"><a data-link-name="MOD11 - Image" href="http://l.mail.realsimple.com/rts/go2.aspx?h=14198286&tp=i-1NGB-9U-2gqk-12VIRcR-Hv-B2p76-1c-12VGH2P-l68ofCh3VX-1yUuMF&x=cdd7c32a2f0bfcc00af494148b201cc9630f2f81%7c641374%7c20210604%7c060421%7c641374%7c59094963739"> <img src="https://static.onecms.io/wp-content/uploads/sites/23/2021/06/01/cuisinart-c55-12pcksam-12-piece-color-knife-set-tout.jpg" alt="" width="700" class="responsive-image" /> </a></td>
+              </tr>
+              <tr>
+                <td class="hl-1 mp-t-15" style="padding-top:20px;"><a data-link-name="MOD11 - Shoppers Say This $20 Knife Set 'Cuts Like Butter'" href="http://l.mail.realsimple.com/rts/go2.aspx?h=14198287&tp=i-1NGB-9U-2gqk-12VIRcR-Hv-B2p76-1c-12VGH2P-l68ofCh3VX-1yUuMF&x=cdd7c32a2f0bfcc00af494148b201cc9630f2f81%7c641374%7c20210604%7c060421%7c641374%7c59094963739" style="color:#000000; text-decoration:none;">Shoppers Say This $20 Knife Set 'Cuts Like Butter'</a></td>
+              </tr>
+              <tr>
+                <td align="center" style="padding-top:20px;" class="m-align mp-t-15"><table role="presentation" border="0" cellpadding="0" cellspacing="0" align="center" width="150" style="max-width:150px !important;">
+                    <tr>
+                      <td align="center" class="button_structure"><a data-link-name="MOD11 - Read More" href="http://l.mail.realsimple.com/rts/go2.aspx?h=14198288&tp=i-1NGB-9U-2gqk-12VIRcR-Hv-B2p76-1c-12VGH2P-l68ofCh3VX-1yUuMF&x=cdd7c32a2f0bfcc00af494148b201cc9630f2f81%7c641374%7c20210604%7c060421%7c641374%7c59094963739" target="_blank" class="button_style">Shop Now &raquo;</a></td>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table></td>
+        </tr>
+      </table>
+      
+      <!--start Reuben_socnav4 content-->
+      
+      <table role="presentation" border="0" cellspacing="0" cellpadding="0" class="wrap" style="border-top: 1px solid #dddddd; border-bottom: 1px solid #dddddd" width="700">
+        <tr>
+          <td style="padding-bottom:25px; padding-top:25px" class="mp-lr-20"><table role="presentation" border="0" cellspacing="0" cellpadding="0" width="180" style="max-width: 280px !important;" class="wrap" align="center">
+              <tr>
+                <td align="center" style="padding-right:20px;"><a data-link-name="Facebook Footer" href="http://l.mail.realsimple.com/rts/go2.aspx?h=14198289&tp=i-1NGB-9U-2gqk-12VIRcR-Hv-B2p76-1c-12VGH2P-l68ofCh3VX-1yUuMF&x=cdd7c32a2f0bfcc00af494148b201cc9630f2f81%7c641374%7c20210604%7c060421%7c641374%7c59094963739"> <img name="" src="http://images.meredith.com/crossbrand/Social-Icons/facebook.png" width="30" alt="Facebook" class="responsive-image" style="max-width: 30px !important" /> </a></td>
+                <td align="center" style="padding-right:20px;"><a data-link-name="Pinterest Footer" href="http://l.mail.realsimple.com/rts/go2.aspx?h=14198290&tp=i-1NGB-9U-2gqk-12VIRcR-Hv-B2p76-1c-12VGH2P-l68ofCh3VX-1yUuMF&x=cdd7c32a2f0bfcc00af494148b201cc9630f2f81%7c641374%7c20210604%7c060421%7c641374%7c59094963739"> <img name="" src="http://images.meredith.com/crossbrand/Social-Icons/pinterest.png" width="30" alt="Pinterest" class="responsive-image" style="max-width: 30px !important" /> </a></td>
+                <td align="center" style="padding-right:20px;"><a data-link-name="Twitter Footer" href="http://l.mail.realsimple.com/rts/go2.aspx?h=14198291&tp=i-1NGB-9U-2gqk-12VIRcR-Hv-B2p76-1c-12VGH2P-l68ofCh3VX-1yUuMF&x=cdd7c32a2f0bfcc00af494148b201cc9630f2f81%7c641374%7c20210604%7c060421%7c641374%7c59094963739"> <img src="http://images.meredith.com/crossbrand/Social-Icons/twitter.png" alt="Twitter" name="" width="30" class="responsive-image" style="max-width: 30px !important" border="0" /> </a></td>
+                <td align="center"><a data-link-name="Instagram Footer" href="http://l.mail.realsimple.com/rts/go2.aspx?h=14198292&tp=i-1NGB-9U-2gqk-12VIRcR-Hv-B2p76-1c-12VGH2P-l68ofCh3VX-1yUuMF&x=cdd7c32a2f0bfcc00af494148b201cc9630f2f81%7c641374%7c20210604%7c060421%7c641374%7c59094963739"> <img name="" src="http://images.meredith.com/crossbrand/Social-Icons/instagram.png" width="30" alt="Instagram" class="responsive-image" style="max-width: 30px !important" /> </a></td>
+              </tr>
+            </table></td>
+        </tr>
+      </table>
+      
+      <!--end Reuben_socnav4 content--> 
+      
+      <!--start Reuben_foot2 content-->
+      
+      <table role="presentation" border="0" cellspacing="0" cellpadding="0" class="wrap" width="700" align="center">
+        <tr>
+          <td class="p-tblr-20"><table role="presentation" border="0" cellspacing="0" cellpadding="0" align="center" class="wrap">
+              <tr>
+                <td align="center"><table role="presentation" border="0" cellspacing="0" cellpadding="0" align="center">
+                    <tr>
+                      <td class="text" style="padding-right:15px; border-right:1px solid #e5e5e5; font-size:16px; font-weight:700; text-align:center;"><a data-link-name="Unsubscribe" href="http://l.mail.realsimple.com/rts/go2.aspx?h=14198245&tp=i-1NGB-9U-2gqk-12VIRcR-Hv-B2p76-1c-12VGH2P-l68ofCh3VX-1yUuMF&x=cdd7c32a2f0bfcc00af494148b201cc9630f2f81%7c641374%7c20210604%7c060421%7c641374%7c59094963739" style="color:#000000;">Unsubscribe</a></td>
+                      <td class="text" style="padding-left:15px; font-size:16px; font-weight:700; text-align:center;"><a data-link-name="Update User Profile" href="http://l.mail.realsimple.com/rts/go2.aspx?h=14198293&tp=i-1NGB-9U-2gqk-12VIRcR-Hv-B2p76-1c-12VGH2P-l68ofCh3VX-1yUuMF&x=cdd7c32a2f0bfcc00af494148b201cc9630f2f81%7c641374%7c20210604%7c060421%7c641374%7c59094963739" style="color:#000000;">Update User Profile</a></td>
+                    </tr>
+                  </table></td>
+              </tr>
+              <tr>
+                <td class="footer-text" style="padding:20px 0px;">This email was sent to tobysmith8868@gmail.com<span class="empty">&nbsp;&nbsp;|&nbsp;&nbsp;</span><span class="break">Was this email forwarded to you? <a data-link-name="Subscribe" href="http://l.mail.realsimple.com/rts/go2.aspx?h=14198294&tp=i-1NGB-9U-2gqk-12VIRcR-Hv-B2p76-1c-12VGH2P-l68ofCh3VX-1yUuMF&x=cdd7c32a2f0bfcc00af494148b201cc9630f2f81%7c641374%7c20210604%7c060421%7c641374%7c59094963739" style="color:#000000;">Subscribe here</a></span></td>
+              </tr>
+              <tr>
+                <td class="footer-text"><span class="break">Meredith Corporation</span><span class="empty">, </span>1716 Locust Street, Des Moines, IA 50309 <span class="break">&copy;2021. All Rights Reserved.</span> <br>
+                  <a data-link-name="Privacy Policy" href="http://l.mail.realsimple.com/rts/go2.aspx?h=14198246&tp=i-1NGB-9U-2gqk-12VIRcR-Hv-B2p76-1c-12VGH2P-l68ofCh3VX-1yUuMF&x=cdd7c32a2f0bfcc00af494148b201cc9630f2f81%7c641374%7c20210604%7c060421%7c641374%7c59094963739" style="color:#000000;">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a data-link-name="Terms of Service" href="http://l.mail.realsimple.com/rts/go2.aspx?h=14198247&tp=i-1NGB-9U-2gqk-12VIRcR-Hv-B2p76-1c-12VGH2P-l68ofCh3VX-1yUuMF&x=cdd7c32a2f0bfcc00af494148b201cc9630f2f81%7c641374%7c20210604%7c060421%7c641374%7c59094963739" style="color:#000000;">Terms of Service</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a data-link-name="Help Center" href="http://l.mail.realsimple.com/rts/go2.aspx?h=14198295&tp=i-1NGB-9U-2gqk-12VIRcR-Hv-B2p76-1c-12VGH2P-l68ofCh3VX-1yUuMF&x=cdd7c32a2f0bfcc00af494148b201cc9630f2f81%7c641374%7c20210604%7c060421%7c641374%7c59094963739" style="color:#000000;">Help Center</a></td>
+              </tr>
+            </table></td>
+        </tr>
+      </table>
+      
+      <!--end Reuben_foot2 content--> 
+      
+      <!--footer--> 
+      
+      <!---social module--><!--end message content--></td>
+  </tr>
+</table>
+
+<!-- end wrapper table --> 
+
+<!-- Safe RTB Code -->
+<table cellpadding="0" cellspacing="0" border="0" width="40" height="6">
+  <tbody>
+    <tr>
+      <td><img src="http://sli.realsimple.com/imp?s=125476100&li=RSP_Shopping&e=tobysmith8868@gmail.com&p=20210604" width="2" height="6" border="0" /></td>
+      <td><img src="http://sli.realsimple.com/imp?s=125476101&li=RSP_Shopping&e=tobysmith8868@gmail.com&p=20210604" width="2" height="6" border="0" /></td>
+      <td><img src="http://sli.realsimple.com/imp?s=125476102&li=RSP_Shopping&e=tobysmith8868@gmail.com&p=20210604" width="2" height="6" border="0" /></td>
+      <td><img src="http://sli.realsimple.com/imp?s=125476103&li=RSP_Shopping&e=tobysmith8868@gmail.com&p=20210604" width="2" height="6" border="0" /></td>
+      <td><img src="http://sli.realsimple.com/imp?s=125476104&li=RSP_Shopping&e=tobysmith8868@gmail.com&p=20210604" width="2" height="6" border="0" /></td>
+      <td><img src="http://sli.realsimple.com/imp?s=125476105&li=RSP_Shopping&e=tobysmith8868@gmail.com&p=20210604" width="2" height="6" border="0" /></td>
+      <td><img src="http://sli.realsimple.com/imp?s=125476106&li=RSP_Shopping&e=tobysmith8868@gmail.com&p=20210604" width="2" height="6" border="0" /></td>
+      <td><img src="http://sli.realsimple.com/imp?s=125476107&li=RSP_Shopping&e=tobysmith8868@gmail.com&p=20210604" width="2" height="6" border="0" /></td>
+      <td><img src="http://sli.realsimple.com/imp?s=125476108&li=RSP_Shopping&e=tobysmith8868@gmail.com&p=20210604" width="2" height="6" border="0" /></td>
+      <td><img src="http://sli.realsimple.com/imp?s=125476109&li=RSP_Shopping&e=tobysmith8868@gmail.com&p=20210604" width="2" height="6" border="0" /></td>
+      <td><img src="http://sli.realsimple.com/imp?s=125476110&li=RSP_Shopping&e=tobysmith8868@gmail.com&p=20210604" width="2" height="6" border="0" /></td>
+      <td><img src="http://sli.realsimple.com/imp?s=125476111&li=RSP_Shopping&e=tobysmith8868@gmail.com&p=20210604" width="2" height="6" border="0" /></td>
+      <td><img src="http://sli.realsimple.com/imp?s=125476112&li=RSP_Shopping&e=tobysmith8868@gmail.com&p=20210604" width="2" height="6" border="0" /></td>
+      <td><img src="http://sli.realsimple.com/imp?s=125476113&li=RSP_Shopping&e=tobysmith8868@gmail.com&p=20210604" width="2" height="6" border="0" /></td>
+      <td><img src="http://sli.realsimple.com/imp?s=125476114&li=RSP_Shopping&e=tobysmith8868@gmail.com&p=20210604" width="2" height="6" border="0" /></td>
+      <td><img src="http://sli.realsimple.com/imp?s=125476115&li=RSP_Shopping&e=tobysmith8868@gmail.com&p=20210604" width="2" height="6" border="0" /></td>
+      <td><img src="http://sli.realsimple.com/imp?s=125476116&li=RSP_Shopping&e=tobysmith8868@gmail.com&p=20210604" width="2" height="6" border="0" /></td>
+      <td><img src="http://sli.realsimple.com/imp?s=125476117&li=RSP_Shopping&e=tobysmith8868@gmail.com&p=20210604" width="2" height="6" border="0" /></td>
+      <td><img src="http://sli.realsimple.com/imp?s=125476118&li=RSP_Shopping&e=tobysmith8868@gmail.com&p=20210604" width="2" height="6" border="0" /></td>
+      <td><img src="http://sli.realsimple.com/imp?s=125476119&li=RSP_Shopping&e=tobysmith8868@gmail.com&p=20210604" width="2" height="6" border="0" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<!--Yahoo-specific CSS (compressed CSS block from <head> | visit minifier.org for online compression tool)-->
+
+<style type="text/css">a{color:#000;text-decoration:none}h1,.hl-1{font-family:'EB Garamond',Georgia,serif}h2,.hl-2,p,.text,.footer-text,.bold,.bullet,.button_structure,.button_style,.headline-2,.headline-3,.preheader-link,.preheader-text,.button_structure-2,.button_style-2{font-family:'Spartan',Verdana,sans-serif}h1,.hl-1{font-size:32px;line-height:39px;font-weight:700;text-align:center;color:#000}h2,.hl-2{font-size:16px;color:#000;line-height:20px;font-weight:700;text-align:center;padding-top:15px;padding-bottom:15px}p,.text{font-size:15px;line-height:20px;font-weight:400;text-align:left;color:gray}.preheader-text{font-size:12px;line-height:15px;font-weight:400;text-align:left;color:#999}.footer-text{font-size:13px;line-height:16px;color:#999;text-align:center}.border{border-bottom:2px solid #ddd}.bullet{color:#333;width:10px}.button_structure{-webkit-border-radius:0;-moz-border-radius:0;border-radius:0;height:45px;background-color:#f9cfe1;text-align:center;mso-line-height-rule:exactly!important}.button_style{font-size:14px;line-height:14px;font-weight:700;letter-spacing:0;mso-line-height-rule:exactly!important;color:#000000!important;text-decoration:none;-webkit-border-radius:0;-moz-border-radius:0;border-radius:0;padding:10px 0;display:inline-block;width:100%}.button-text{font-size:18px;line-height:18px;font-weight:700}html{Margin:0 auto;padding:0}body{width:100%;min-width:100%;Margin:0 auto!important;padding:0!important;border-collapse:collapse!important;table-layout:fixed!important}table td{border-collapse:collapse!important}img{display:block;border:none;text-align:center}.p-tblr-20{padding-top:20px;padding-bottom:20px;padding-left:20px;padding-right:20px}.p-t-20-b-25{padding-top:20px;padding-bottom:25px}.p-b-10{padding-bottom:10px}.p-t-30{padding-top:30px}.p-tb-30{padding-top:30px;padding-bottom:30px}#outlook a{padding:0!important}.ExternalClass *{line-height:100%}*{-webkit-text-size-adjust:none}@media screen and (max-width:480px){u+.body .full-wrap{width:100%!important;width:100vw!important}.mobile-only{display:block!important;width:auto!important;max-height:inherit!important;overflow:visible!important;float:none!important}.wrap{width:100%!important;max-width:100%!important;height:auto!important}.empty{width:0!important;height:0!important;display:none!important}.responsive-image{width:100%!important;max-width:100%!important;height:auto!important}.padding-none{padding:0px!important}h1,.hl-1{font-size:28px;line-height:35px;font-weight:700;text-align:center;color:#000}.mp-t-0-b-15{padding-top:0px!important;padding-bottom:15px!important}.mp-b-10{padding-bottom:10px!important}.mp-t-10{padding-top:10px!important}.mp-t-15{padding-top:15px!important}.mp-b-20{padding-bottom:20px!important}.mp-b-25{padding-bottom:25px!important}.mp-t-20{padding-top:20px!important}.mp-r-20{padding-right:20px!important}.mp-tblr-20{padding-top:20px!important;padding-bottom:20px!important;padding-left:20px!important;padding-right:20px!important}.mp-lr-10{padding-left:10px!important;padding-right:10px!important}.mp-lr-20{padding-left:20px!important;padding-right:20px!important}.mp-t-10-b-25{padding-top:10px!important;padding-bottom:25px!important}.mp-t-20-b-25{padding-top:20px!important;padding-bottom:25px!important}.mp-t-20-b-10{padding-top:20px!important;padding-bottom:10px!important}.w100{width:100px!important;height:auto!important}.w120{width:120px!important;height:auto!important}.m-align{vertical-align:middle!important}.break{display:block!important}.text-center{text-align:center!important}.border-none{border:none!important}.m-border-t{border-top:2px solid #e6e6e6!important}.m-font-btn{font-size:12px!important;line-height:12px!important}}
+</style>
+
+<!--end of Yahoo-specific CSS-->
+
+</body>
+</html>

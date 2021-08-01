@@ -1,0 +1,901 @@
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+  <meta name="x-apple-disable-message-reformatting" />
+  <meta name="format-detection" content="date=no" />
+  <meta name="format-detection" content="telephone=no" />
+  <title>BERGDORF GOODMAN</title>
+  <style>
+    /* Force hotmail/outlook.com to display at full width (outer div) */
+    .ReadMsgBody {
+      width: 100%;
+    }
+
+    /* Force hotmail/outlook.com to display at full width (inner div) */
+    .ExternalClass {
+      width: 100%;
+    }
+
+    /* Stop Wekbit and Windows Phone changing the font size */
+    body {
+      width: 100% !important;
+      margin: 0 auto;
+      padding: 0;
+      font-family: Larsseit, Helvetica, Arial, sans-serif;
+      font-size: 13px;
+      letter-spacing: .4px;
+      line-height: 1.5;
+      -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+    }
+
+    table {
+      padding: 0;
+      border-collapse: collapse;
+      mso-table-lspace: 0pt;
+      mso-table-rspace: 0pt;
+    }
+
+    table td {
+      border-collapse: collapse;
+      mso-line-height-rule: exactly;
+    }
+
+    /* Outlook Background Image Fix */
+    v:* {
+      behavior: url(#default#VML);
+      display: block;
+    }
+
+    /* iOS Links - Prevent color of certain content being changed (ie: dates/times) */
+    a[x-apple-data-detectors] {
+      font-size: inherit !important;
+      font-family: inherit !important;
+      font-weight: inherit !important;
+      line-height: inherit !important;
+      color: inherit !important;
+      text-decoration: none !important;
+    }
+
+    @font-face {
+      font-family: Larsseit-light;
+      src: url(https://www.bergdorfgoodman.com/assets/fonts/Larsseit-light.5f364de81bd37f937dd024fb4b7e9cee.eot);
+      src: url(https://www.bergdorfgoodman.com/assets/fonts/Larsseit-light.5f364de81bd37f937dd024fb4b7e9cee.eot) format("eot"), url(https://www.bergdorfgoodman.com/assets/fonts/Larsseit-light.5dd382ffdf890fcfc8e7c4e2c5c802b3.woff2) format("woff2"), url(https://www.bergdorfgoodman.com/assets/fonts/Larsseit-light.5c8302bff2f9e178301f0fcfb3f32dca.woff) format("woff"), url(https://www.bergdorfgoodman.com/assets/fonts/Larsseit-light.4bb9b940e7fff6d2df7886f27d9870b0.ttf) format("truetype");
+      font-weight: 300;
+      font-style: normal;
+      font-display: block;
+    }
+
+    @font-face {
+      font-family: Larsseit;
+      src: url(https://www.bergdorfgoodman.com/assets/fonts/Larsseit.891ed0b4955622dd5ce7b4ad976298e1.eot);
+      src: url(https://www.bergdorfgoodman.com/assets/fonts/Larsseit.891ed0b4955622dd5ce7b4ad976298e1.eot) format("eot"), url(https://www.bergdorfgoodman.com/assets/fonts/Larsseit.623085aeb0486af757ca6381e9dedaf0.woff2) format("woff2"), url(https://www.bergdorfgoodman.com/assets/fonts/Larsseit.745d7d20443a01e90b50cc2a75784b6b.woff) format("woff"), url(https://www.bergdorfgoodman.com/assets/fonts/Larsseit.affb9e091a4e13df01da079def3f9a31.ttf) format("truetype");
+      font-weight: 400;
+      font-style: normal;
+      font-display: block;
+    }
+
+    a {
+      color: #000000;
+      text-decoration: none;
+    }
+
+    @media only screen and (max-width: 500px) {
+      .contenttable {
+        width: 414px !important;
+      }
+
+      .mobile {
+        width: 414px !important;
+        height: auto !important;
+      }
+
+      .block {
+        display: block !important;
+      }
+
+      .hide {
+        display: none !important;
+      }
+
+      .showmobile {
+        display: block !important;
+        width: 414px !important;
+        height: auto !important;
+        max-height: inherit !important;
+        margin: auto !important;
+        overflow: visible !important;
+      }
+
+      /* CUSTOM */
+      .w10 {
+        width: 10px !important;
+      }
+
+      .w40 {
+        width: 40px !important;
+      }
+
+      .w120 {
+        width: 120px !important;
+        height: auto !important;
+      }
+
+      .w200 {
+        width: 200px !important;
+        height: auto !important;
+      }
+
+      .f24 {
+        font-size: 24px !important;
+        line-height: 35px !important;
+      }
+
+      .f12 {
+        font-size: 12px !important;
+        line-height: 16px !important;
+      }
+
+      .f11 {
+        font-size: 11px !important;
+        line-height: 30px !important;
+      }
+    }
+  </style>
+
+  <!-- [if gte mso 9]
+  <style type="text/css">
+    body {
+      font-family: Arial, Helvetica, sans-serif !important;
+    }
+
+    .contenttable {
+      width: 600px !important;
+      height: auto !important;
+    }
+  </style>
+  <xml>
+    <o:OfficeDocumentSettings>
+      <o:AllowPNG />
+      <o:PixelsPerInch>96</o:PixelsPerInch>
+    </o:OfficeDocumentSettings>
+  </xml>
+  [endif] -->
+
+</head>
+
+<body style="padding:0 !important"><img src="http://s.e.bergdorfgoodmanemail.com/wts/WebEvent/SetCookie.gif?tp=i-1NGB-Gv-3o7-1IlwIP-1n-LSCS-1c-1IjMph-l68nP1WIND-DbV6m" height="1" width="1" style="display:none"><img src="http://l.bergdorfgoodmanemail.com/rts/open.aspx?tp=i-1NGB-Gv-3o7-1IlwIP-1n-LSCS-1c-1IjMph-l68nP1WIND-DbV6m" height="1" width="1" style="display:none">
+  <!-- [if !mso]
+  <div style="display:none;font-size:0;line-height:0;max-height:0;max-width:0;width:0;opacity:0;overflow:hidden">
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  </div>
+[endif] -->
+
+  <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" align="center" bgcolor="#ffffff">
+    <tr>
+      <td align="center" valign="top">
+        <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="600" align="center"
+          class="contenttable">
+          <tr>
+            <td align="center" valign="top">
+              <!-- FREE SHIPPING -->
+              
+                <div style="display:none; width:0px; max-height:0px; overflow:hidden;" class="showmobilenone">
+  <table width="320" border="0" align="center" cellpadding="0" cellspacing="0" class="showmobilenone" style="margin: 0 auto; display: none; border: 0; max-height:0px; overflow:hidden;">
+   <tr>
+     <td>                 <!-- PREHEADER TEXT HERE -->
+      <span class="preheader">Be the first to order Bottega Veneta, Valentino, Prada and more.</span> 
+     </td>
+   </tr>
+  </table>
+</div>
+
+  
+ <!-- Fix for Promo Text Preview Start -->
+          <table width="550" class="contenttable" border="0" cellspacing="0" cellpadding="0" align="center">
+            <tr>         
+              <td style="display: none; max-height: 0px; overflow: hidden;">
+                &nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;
+                &nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;
+                &nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;
+                &nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;
+                &nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;
+                &nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;
+                &nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;
+                &nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;
+                &nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;
+                &nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;
+                &nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;</td>  
+            </tr>
+          </table>    
+          <!-- Fix for Promo Text Preview End -->   
+          
+              <table role="presentation" width="600" border="0" cellspacing="0" cellpadding="0" align="center"
+                class="contenttable" style="max-width:600px !important">
+                <tr>
+                  <td width="50%" height="25" align="left">
+                    <font
+                      style="font-family:Larsseit, Helvetica, Arial, sans-serif !important;font-size:10px;color:#666666">
+                      <a style="font-family:Larsseit, Helvetica, Arial, sans-serif !important;color:#999999"
+                        href="http://l.bergdorfgoodmanemail.com/rts/go2.aspx?h=511901&tp=i-1NGB-Gv-3o7-1IlwIP-1n-LSCS-1c-1IjMph-l68nP1WIND-DbV6m&x=i-1NGB-Gv-3o7-1IlwIP-1n-LSCS-1c-1IjMph-l68nP1WIND-DbV6m"
+                        data-link-name="mainp">
+                        Shop Now
+                      </a>
+                    </font>
+                    <!-- PROMO TEXT HERE -->
+                  </td>
+
+                  <td width="50%" height="25" align="right">
+                    <font
+                      style="font-family:Larsseit, Helvetica, Arial, sans-serif !important;font-size:10px;color:#999999">
+                      View on a <a style="font-family:Larsseit, Helvetica, Arial, sans-serif !important;color:#999999"
+                        href="http://l.bergdorfgoodmanemail.com/rts/go2.aspx?h=511836&tp=i-1NGB-Gv-3o7-1IlwIP-1n-LSCS-1c-1IjMph-l68nP1WIND-DbV6m&x=2312b00ee7e822b7bf4423d6da23fa3e%7ci-1NGB-Gv-3o7-1IlwIP-1n-LSCS-1c-1IjMph-l68nP1WIND-DbV6m"> <u>web browser</u>
+                      </a>
+                    </font>
+                  </td>
+                </tr>
+              </table>
+
+              <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="600" align="center"
+                bgcolor="#f3f3f3" class="contenttable">
+                <tr>
+                  <td height="30" bgcolor="#f3f3f3" style="font-size:0px;line-height:0px;mso-line-height-rule:exactly">
+                    <img src="https://res.cloudinary.com/bgecm/image/upload/v1614570349/EMAIL/spacer.gif" width="20"
+                      height="30" style="display:block" />
+                  </td>
+
+                  <td width="100%" align="center" valign="middle"
+                    style="font-size:14px;font-weight:100;letter-spacing:1px;line-height:20px;color:#000000;text-transform:uppercase">
+                    Free Shipping, Free Returns*
+                  </td>
+
+                  <td height="30" style="font-size:0px;line-height:0px;mso-line-height-rule:exactly">
+                    <img src="https://res.cloudinary.com/bgecm/image/upload/v1614570349/EMAIL/spacer.gif" width="20"
+                      height="30" style="display:block" />
+                  </td>
+                </tr>
+              </table>
+
+              <!-- TOP NAV -->
+
+              <!-- BG logo -->
+                 <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="600" align="center"
+          class="contenttable">
+<tr>
+  <td height="40" style="font-size:0px;line-height:0px;">
+              <img src="https://i.t.bergdorfgoodmanemail.com/wpm/1049/ContentUploads/2021/spacer.gif"
+   width="20" height="40" style="display: block;" /></td></tr>
+          <tr>
+            <td align="center">
+              <a href="http://l.bergdorfgoodmanemail.com/rts/go2.aspx?h=511866&tp=i-1NHD-Gv-3o7-1IlwIP-1n-LSCS-1c-t22-1IjMph-l68nP1WIND-jCuXz&x=7f4vd71EQ5hh36R7f1walg7%7ci-1NHD-Gv-3o7-1IlwIP-1n-LSCS-1c-t22-1IjMph-l68nP1WIND-jCuXz"
+               data-link-name="BGEM_HDBD" style="color:#000;text-decoration:none">
+                <img class="mobile" src="https://bergdorfgoodman.com/bgecm/image/upload/v1612812728/EMAIL/logo.gif" width="600" height="34"
+                  style="display:block;border:0" />
+              </a>
+            </td>
+          </tr>
+<tr>
+  <td height="40" style="font-size:0px;line-height:0px;">
+              <img src="https://i.t.bergdorfgoodmanemail.com/wpm/1049/ContentUploads/2021/spacer.gif"
+   width="20" height="40" style="display: block;" /></td></tr>
+        </table>
+
+        <!-- Nav links -->
+        <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="600" align="center"
+          class="contenttable">
+          <tr>
+            <td align="center" valign="top" width="142" style="padding-bottom:20px;text-transform:uppercase">
+              <a href="http://l.bergdorfgoodmanemail.com/rts/go2.aspx?h=511868&tp=i-1NHD-Gv-3o7-1IlwIP-1n-LSCS-1c-t22-1IjMph-l68nP1WIND-jCuXz&x=7f4vd71EQ5hh36R7f1walg7%7ci-1NHD-Gv-3o7-1IlwIP-1n-LSCS-1c-t22-1IjMph-l68nP1WIND-jCuXz" data-link-name="BGEM_HDAP"
+                style="color:#000;text-decoration:none">
+                Designers
+              </a>
+            </td>
+
+            <td align="center" valign="top" width="142" style="padding-bottom:20px;text-transform:uppercase">
+              <a href="http://l.bergdorfgoodmanemail.com/rts/go2.aspx?h=511869&tp=i-1NHD-Gv-3o7-1IlwIP-1n-LSCS-1c-t22-1IjMph-l68nP1WIND-jCuXz&x=7f4vd71EQ5hh36R7f1walg7%7ci-1NHD-Gv-3o7-1IlwIP-1n-LSCS-1c-t22-1IjMph-l68nP1WIND-jCuXz"
+               data-link-name="BGEM_HDSH" style="color:#000;text-decoration:none">
+                Shoes
+              </a>
+            </td>
+
+            <td align="center" valign="top" width="142" style="padding-bottom:20px;text-transform:uppercase">
+              <a href="http://l.bergdorfgoodmanemail.com/rts/go2.aspx?h=511871&tp=i-1NHD-Gv-3o7-1IlwIP-1n-LSCS-1c-t22-1IjMph-l68nP1WIND-jCuXz&x=7f4vd71EQ5hh36R7f1walg7%7ci-1NHD-Gv-3o7-1IlwIP-1n-LSCS-1c-t22-1IjMph-l68nP1WIND-jCuXz"
+               data-link-name="BGEM_HDHB" style="color:#000;text-decoration:none">
+                Handbags
+              </a>
+            </td>
+
+            <td align="center" valign="top" width="142" style="padding-bottom:20px;text-transform:uppercase">
+              <a href="http://l.bergdorfgoodmanemail.com/rts/go2.aspx?h=511872&tp=i-1NHD-Gv-3o7-1IlwIP-1n-LSCS-1c-t22-1IjMph-l68nP1WIND-jCuXz&x=7f4vd71EQ5hh36R7f1walg7%7ci-1NHD-Gv-3o7-1IlwIP-1n-LSCS-1c-t22-1IjMph-l68nP1WIND-jCuXz"
+               data-link-name="BGEM_HDSL" style="color:#000;text-decoration:none">
+                Sale
+              </a>
+            </td>
+          </tr>
+        </table>
+       
+
+
+
+              <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="600" align="center"
+                class="contenttable" style="max-width:600px">
+                <tbody>
+                  <tr>
+                    <td height="40"
+                      style="border-top:4px solid #e3e3e3;font-size:0px;line-height:0px;mso-line-height-rule:exactly">
+                      <img src="https://res.cloudinary.com/bgecm/image/upload/v1614570349/EMAIL/spacer.gif" width="10"
+                        height="40" />
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+
+              <!-- MAIN HERO -->
+
+              <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="600" align="center"
+                class="contenttable">
+                <tr>
+                  <td align="center" valign="top">
+                    <table role="presentation" border="0" cellpadding="0" cellspacing="0" align="center"
+                      bgcolor="#db944e" class="contenttable">
+                      <tr>
+                        <td height="25" valign="top" bgcolor="#ffffff" class="hide"
+                          style="font-size:0px;line-height:0px;mso-line-height-rule:exactly">
+                          <img src="https://res.cloudinary.com/bgecm/image/upload/v1614570349/EMAIL/spacer.gif"
+                            width="16" height="25" style="display:block" />
+                        </td>
+
+                        <td align="center">
+                          <img src="https://res.cloudinary.com/bgecm/image/upload/v1622673894/EMAIL/06_04_21_This_Just_In/B1_04_THISJUSTIN.png" width="139" height="258" style="display:block;border:0" />
+                        </td>
+
+                        <td width="180" class="w40" style="font-size:0px;line-height:0px">&nbsp;</td>
+
+                        <td align="right" valign="middle">
+                          <font
+                            style="font-family:Larsseit, Helvetica, Arial, sans-serif !important;font-size:18px;mso-ansi-font-size:18px;line-height:24px;mso-line-height-rule:exactly;mso-text-raise:4px;color:#000000">
+                            <span
+                              style="font-family:Larsseit, Helvetica, Arial, sans-serif !important;font-size:18px;mso-ansi-font-size:18px;letter-spacing:-.4px;line-height:24px;mso-line-height-rule:exactly;mso-text-raise:4px">
+                              Covetable new-season pieces from your favorite brands have just arrived.
+                              <br />
+                              <br />
+                              <a href="http://l.bergdorfgoodmanemail.com/rts/go2.aspx?h=511904&tp=i-1NGB-Gv-3o7-1IlwIP-1n-LSCS-1c-1IjMph-l68nP1WIND-DbV6m&x=7f4vd71EQ5hh36R7f1walg7%7ci-1NGB-Gv-3o7-1IlwIP-1n-LSCS-1c-1IjMph-l68nP1WIND-DbV6m" data-link-name="main1" style="color:#000000;text-decoration:underline">
+                                Shop Now
+                              </a>
+                            </span>
+                          </font>
+                        </td>
+
+                        <td valign="top" style="font-size:0px;line-height:0px;mso-line-height-rule:exactly">
+                          <img src="https://res.cloudinary.com/bgecm/image/upload/v1614570349/EMAIL/spacer.gif"
+                            width="25" height="20" style="display:block" />
+                        </td>
+
+                        <td valign="top" bgcolor="#ffffff" class="hide"
+                          style="font-size:0px;line-height:0px;mso-line-height-rule:exactly">
+                          <img src="https://res.cloudinary.com/bgecm/image/upload/v1614570349/EMAIL/spacer.gif"
+                            width="16" height="25" style="display:block" />
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+
+                <tr>
+                  <td height="16" style="font-size:0px;line-height:0px;mso-line-height-rule:exactly">
+                    <img src="https://res.cloudinary.com/bgecm/image/upload/v1614570349/EMAIL/spacer.gif" width="20"
+                      height="16" style="display:block" />
+                  </td>
+                </tr>
+
+                <tr>
+                  <td align="center" valign="top">
+                    <a href="http://l.bergdorfgoodmanemail.com/rts/go2.aspx?h=511906&tp=i-1NGB-Gv-3o7-1IlwIP-1n-LSCS-1c-1IjMph-l68nP1WIND-DbV6m&x=7f4vd71EQ5hh36R7f1walg7%7ci-1NGB-Gv-3o7-1IlwIP-1n-LSCS-1c-1IjMph-l68nP1WIND-DbV6m" data-link-name="main2" style="color:#000000;text-decoration:none">
+                      <img src="https://res.cloudinary.com/bgecm/image/upload/v1622673894/EMAIL/06_04_21_This_Just_In/B2_5Brands.gif" width="568" height="302" class="mobile"
+                        style="display:block;border:0" />
+                    </a>
+                  </td>
+                </tr>
+              </table>
+
+              <!-- SIDEBARS -->
+
+              <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="600" align="center"
+                class="contenttable">
+                <tr>
+                  <td height="40" style="font-size:0px;line-height:0px;mso-line-height-rule:exactly">
+                    <img src="https://res.cloudinary.com/bgecm/image/upload/v1614570349/EMAIL/spacer.gif" width="20"
+                      height="40" style="display:block" />
+                  </td>
+                </tr>
+
+                <tr>
+                  <td align="center">
+                    <a href="http://l.bergdorfgoodmanemail.com/rts/go2.aspx?h=511908&tp=i-1NGB-Gv-3o7-1IlwIP-1n-LSCS-1c-1IjMph-l68nP1WIND-DbV6m&x=7f4vd71EQ5hh36R7f1walg7%7ci-1NGB-Gv-3o7-1IlwIP-1n-LSCS-1c-1IjMph-l68nP1WIND-DbV6m" data-link-name="main3" style="color:#000000;text-decoration:none">
+                      <img src="https://res.cloudinary.com/bgecm/image/upload/v1622673894/EMAIL/06_04_21_This_Just_In/C1_Designer_Sale.gif" width="600" height="200" class="mobile" style="display:block;border:0" />
+                    </a>
+                  </td>
+                </tr>
+
+                <tr>
+                  <td height="40" style="font-size:0px;line-height:0px;mso-line-height-rule:exactly">
+                    <img src="https://res.cloudinary.com/bgecm/image/upload/v1614570349/EMAIL/spacer.gif" width="20"
+                      height="40" style="display:block" />
+                  </td>
+                </tr>
+              </table>
+
+              <!-- BOTTOM NAV -->
+
+                <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="600" align="center"
+          class="contenttable">
+          <tr>
+  <td valign="top">
+   <table role="presentation" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+  <td style="font-size:0px;line-height:0px;">
+              <img class="w10" src="https://i.t.bergdorfgoodmanemail.com/wpm/1049/ContentUploads/2021/spacer.gif" width="30"
+                height="20" style="display: block;" /></td>
+   <td align="center">
+              <a href="http://l.bergdorfgoodmanemail.com/rts/go2.aspx?h=511843&tp=i-1NHD-Gv-3o7-1IlwIP-1n-LSCS-1c-t23-1IjMph-l68nP1WIND-1dpl40&x=7f4vd71EQ5hh36R7f1walg7%7ci-1NHD-Gv-3o7-1IlwIP-1n-LSCS-1c-t23-1IjMph-l68nP1WIND-1dpl40"
+                data-link-name="BGEM_FTWN" style="color:#000;text-decoration:none">
+                <img class="w200" src="https://i.t.bergdorfgoodmanemail.com/wpm/1049/ContentUploads/2021/whats_new_0326.jpg" width="240"
+                  height="114" style="display:block;"/>
+              </a>
+            </td>
+  <td class="hide" style="font-size:0px;line-height:0px;">
+              <img src="https://i.t.bergdorfgoodmanemail.com/wpm/1049/ContentUploads/2021/spacer.gif" width="30"
+                height="20" style="display: block;" /></td>
+  <td style="font-size:0px;line-height:0px;">
+              <img class="w10" src="https://i.t.bergdorfgoodmanemail.com/wpm/1049/ContentUploads/2021/spacer.gif" width="30"
+                height="20" style="display: block;" /></td>
+            <td align="center">
+              <a href="http://l.bergdorfgoodmanemail.com/rts/go2.aspx?h=511875&tp=i-1NHD-Gv-3o7-1IlwIP-1n-LSCS-1c-t23-1IjMph-l68nP1WIND-1dpl40&x=7f4vd71EQ5hh36R7f1walg7%7ci-1NHD-Gv-3o7-1IlwIP-1n-LSCS-1c-t23-1IjMph-l68nP1WIND-1dpl40"
+                data-link-name="BGEM_FTTR" style="color:#000;text-decoration:none">
+                <img class="w200" src="https://i.t.bergdorfgoodmanemail.com/wpm/1049/ContentUploads/2021/whats_trending_0326.jpg"
+                  width="240" height="114" style="display:block;" />
+              </a>
+            </td>
+  <td style="font-size:0px;line-height:0px;">
+              <img class="w10" src="https://i.t.bergdorfgoodmanemail.com/wpm/1049/ContentUploads/2021/spacer.gif" width="30"
+                height="20" style="display: block;" /></td>
+   </tr>
+  </table>
+   
+   
+   </td>
+           
+          </tr>
+
+          <tr>
+  <td valign="top">
+   <table role="presentation" border="0" cellpadding="0" cellspacing="0">
+   <tr>
+  <td style="font-size:0px;line-height:0px;">
+              <img src="https://i.t.bergdorfgoodmanemail.com/wpm/1049/ContentUploads/2021/spacer.gif" width="30"
+                height="20" style="display: block;" /></td>
+   </tr>
+   <tr>
+            <td width="300" align="center">
+  <font style="font-family: Helvetica, Arial, sans-serif; font-size:14px; mso-ansi-font-size:14px; line-height:20px; mso-line-height-rule:exactly;mso-text-raise: 4px; color: #000000;"><span style="font-family: 'Avenir Roman', Helvetica, Arial, sans-serif !important; font-size:14px; mso-ansi-font-size:14px; line-height:20px; mso-line-height-rule:exactly;mso-text-raise: 4px;">
+              <a href="http://l.bergdorfgoodmanemail.com/rts/go2.aspx?h=511843&tp=i-1NHD-Gv-3o7-1IlwIP-1n-LSCS-1c-t23-1IjMph-l68nP1WIND-1dpl40&x=7f4vd71EQ5hh36R7f1walg7%7ci-1NHD-Gv-3o7-1IlwIP-1n-LSCS-1c-t23-1IjMph-l68nP1WIND-1dpl40"
+               data-link-name="BGEM_FTWN" style="color:#000;text-decoration:none; text-transform: uppercase;">
+                What's New
+  </a></span></font>
+            </td>
+            <td width="300" align="center">
+  <font style="font-family: Helvetica, Arial, sans-serif; font-size:14px; mso-ansi-font-size:14px; line-height:20px; mso-line-height-rule:exactly;mso-text-raise: 4px; color: #000000;"><span style="font-family: 'Avenir Roman', Helvetica, Arial, sans-serif !important; font-size:14px; mso-ansi-font-size:14px; line-height:20px; mso-line-height-rule:exactly;mso-text-raise: 4px;">
+              <a href="http://l.bergdorfgoodmanemail.com/rts/go2.aspx?h=511875&tp=i-1NHD-Gv-3o7-1IlwIP-1n-LSCS-1c-t23-1IjMph-l68nP1WIND-1dpl40&x=7f4vd71EQ5hh36R7f1walg7%7ci-1NHD-Gv-3o7-1IlwIP-1n-LSCS-1c-t23-1IjMph-l68nP1WIND-1dpl40"
+               data-link-name="BGEM_FTTR" style="color:#000;text-decoration:none; text-transform: uppercase;">
+                What's Trending
+  </a></span></font>
+            </td>
+   </tr>
+  <tr>
+  <td style="font-size:0px;line-height:0px;">
+              <img src="https://i.t.bergdorfgoodmanemail.com/wpm/1049/ContentUploads/2021/spacer.gif" width="30"
+                height="20" style="display: block;" /></td>
+   </tr>
+  </table>
+  </td>
+          </tr>
+
+          <tr>
+  <td valign="top">
+   <table role="presentation" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+  <td style="font-size:0px;line-height:0px;">
+              <img class="w10" src="https://i.t.bergdorfgoodmanemail.com/wpm/1049/ContentUploads/2021/spacer.gif" width="30"
+                height="20" style="display: block;" /></td>
+   <td align="center">
+              <a href="http://l.bergdorfgoodmanemail.com/rts/go2.aspx?h=511877&tp=i-1NHD-Gv-3o7-1IlwIP-1n-LSCS-1c-t23-1IjMph-l68nP1WIND-1dpl40&x=7f4vd71EQ5hh36R7f1walg7%7ci-1NHD-Gv-3o7-1IlwIP-1n-LSCS-1c-t23-1IjMph-l68nP1WIND-1dpl40"
+               data-link-name="BGEM_FTED" style="color:#000;text-decoration:none;">
+                <img class="w200" src="https://i.t.bergdorfgoodmanemail.com/wpm/1049/ContentUploads/2021/the_bg_edit_0326.jpg" width="240"
+                  height="114" style="display:block;" />
+              </a>
+            </td>
+  <td class="hide" style="font-size:0px;line-height:0px;">
+              <img src="https://i.t.bergdorfgoodmanemail.com/wpm/1049/ContentUploads/2021/spacer.gif" width="30"
+                height="20" style="display: block;" /></td>
+  <td style="font-size:0px;line-height:0px;">
+              <img class="w10" src="https://i.t.bergdorfgoodmanemail.com/wpm/1049/ContentUploads/2021/spacer.gif" width="30"
+                height="20" style="display: block;" /></td>
+            <td align="center">
+              <a href="http://l.bergdorfgoodmanemail.com/rts/go2.aspx?h=511878&tp=i-1NHD-Gv-3o7-1IlwIP-1n-LSCS-1c-t23-1IjMph-l68nP1WIND-1dpl40&x=7f4vd71EQ5hh36R7f1walg7%7ci-1NHD-Gv-3o7-1IlwIP-1n-LSCS-1c-t23-1IjMph-l68nP1WIND-1dpl40"
+               data-link-name="BGEM_FTBG" style="color:#000;text-decoration:none;">
+                <img class="w200" src="https://i.t.bergdorfgoodmanemail.com/wpm/1049/ContentUploads/2021/the_essentials_0326.jpg"
+                  width="240" height="114" style="display:block;" />
+              </a>
+            </td>
+  <td style="font-size:0px;line-height:0px;">
+              <img class="w10" src="https://i.t.bergdorfgoodmanemail.com/wpm/1049/ContentUploads/2021/spacer.gif" width="30"
+                height="20" style="display: block;" /></td>
+   </tr>
+  </table>
+   
+   
+   </td>
+           
+          </tr>
+
+          <tr>
+  <td valign="top">
+   <table role="presentation" border="0" cellpadding="0" cellspacing="0">
+   <tr>
+  <td style="font-size:0px;line-height:0px;">
+              <img src="https://i.t.bergdorfgoodmanemail.com/wpm/1049/ContentUploads/2021/spacer.gif" width="30"
+                height="20" style="display: block;" /></td>
+   </tr>
+   <tr>
+            <td width="300" align="center">
+  <font style="font-family: Helvetica, Arial, sans-serif; font-size:14px; mso-ansi-font-size:14px; line-height:20px; mso-line-height-rule:exactly;mso-text-raise: 4px; color: #000000;"><span style="font-family: 'Avenir Roman', Helvetica, Arial, sans-serif !important; font-size:14px; mso-ansi-font-size:14px; line-height:20px; mso-line-height-rule:exactly;mso-text-raise: 4px;">
+              <a href="http://l.bergdorfgoodmanemail.com/rts/go2.aspx?h=511877&tp=i-1NHD-Gv-3o7-1IlwIP-1n-LSCS-1c-t23-1IjMph-l68nP1WIND-1dpl40&x=7f4vd71EQ5hh36R7f1walg7%7ci-1NHD-Gv-3o7-1IlwIP-1n-LSCS-1c-t23-1IjMph-l68nP1WIND-1dpl40"
+               data-link-name="BGEM_FTED" style="color:#000;text-decoration:none; text-transform: uppercase;">
+                The BG Edit
+              </a></span></font>
+            </td>
+            <td width="300" align="center">
+  <font style="font-family: Helvetica, Arial, sans-serif; font-size:14px; mso-ansi-font-size:14px; line-height:20px; mso-line-height-rule:exactly;mso-text-raise: 4px; color: #000000;"><span style="font-family: 'Avenir Roman', Helvetica, Arial, sans-serif !important; font-size:14px; mso-ansi-font-size:14px; line-height:20px; mso-line-height-rule:exactly;mso-text-raise: 4px;">
+              <a href="http://l.bergdorfgoodmanemail.com/rts/go2.aspx?h=511878&tp=i-1NHD-Gv-3o7-1IlwIP-1n-LSCS-1c-t23-1IjMph-l68nP1WIND-1dpl40&x=7f4vd71EQ5hh36R7f1walg7%7ci-1NHD-Gv-3o7-1IlwIP-1n-LSCS-1c-t23-1IjMph-l68nP1WIND-1dpl40"
+               data-link-name="BGEM_FTBG" style="color:#000;text-decoration:none; text-transform: uppercase;">
+                The Essentials
+              </a></span></font>
+            </td>
+   </tr>
+  <tr>
+  <td style="font-size:0px;line-height:0px;">
+              <img src="https://i.t.bergdorfgoodmanemail.com/wpm/1049/ContentUploads/2021/spacer.gif" width="30"
+                height="20" style="display: block;" /></td>
+   </tr>
+  </table>
+  </td>
+          </tr>
+        </table>
+
+        <!-- FOOTER NAV -->
+
+        <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="600" align="center"
+          class="contenttable" style="max-width:600px">
+          <tr>
+            <td style="padding:0px;border-collapse:collapse;text-align:center;justify-content:center">
+
+              <!-- Download app -->
+              <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="600" align="center"
+                class="contenttable" style="max-width:600px;border-bottom: #e1e1eb 1px solid">
+                <tr>
+                  <td align="center" valign="middle">
+                    <a href="http://l.bergdorfgoodmanemail.com/rts/go2.aspx?h=511880&tp=i-1NHD-Gv-3o7-1IlwIP-1n-LSCS-1c-t23-1IjMph-l68nP1WIND-1dpl40&x=7f4vd71EQ5hh36R7f1walg7%7ci-1NHD-Gv-3o7-1IlwIP-1n-LSCS-1c-t23-1IjMph-l68nP1WIND-1dpl40"
+                     data-link-name="BGEM_FTDO" style="color:#000;text-decoration:none">
+                      <img class="mobile" src="https://www.bergdorfgoodman.com/content/dam/bergdorf-goodman/FINAL/EML/CTA_Mobile.jpg"
+                        style="display:block;border:0" />
+                    </a>
+                  </td>
+                </tr>
+              </table>
+
+              <!-- Category links -->
+              <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="600" align="center"
+                class="contenttable" style="max-width:600px;border-bottom: #e1e1eb 1px solid">
+                <tr>
+                  <td align="center" valign="middle" height="50" style="padding: 5px 0;font-size: 13px">
+
+  <font style="font-family: Helvetica, Arial, sans-serif; font-size:13px; mso-ansi-font-size:13px; line-height:15px; mso-line-height-rule:exactly;mso-text-raise: 4px; color: #737278;"><span style="font-family: 'Avenir Roman', Helvetica, Arial, sans-serif !important; font-size:13px; mso-ansi-font-size:13px; line-height:15px; mso-line-height-rule:exactly;mso-text-raise: 4px;">
+                    <a href="http://l.bergdorfgoodmanemail.com/rts/go2.aspx?h=511882&tp=i-1NHD-Gv-3o7-1IlwIP-1n-LSCS-1c-t23-1IjMph-l68nP1WIND-1dpl40&x=7f4vd71EQ5hh36R7f1walg7%7ci-1NHD-Gv-3o7-1IlwIP-1n-LSCS-1c-t23-1IjMph-l68nP1WIND-1dpl40" data-link-name="BGEM_FTDS"
+                      style="color:#000;text-decoration:none">
+                      Designers A-Z
+                    </a>
+  </span></font>
+                  </td>
+                </tr>
+              </table>
+
+              <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="600" align="center"
+                class="contenttable" style="max-width:600px;border-bottom: #e1e1eb 1px solid">
+                <tr>
+                  <td align="center" valign="middle" height="50" style="padding: 5px 0;font-size: 13px">
+   <font style="font-family: Helvetica, Arial, sans-serif; font-size:13px; mso-ansi-font-size:13px; line-height:15px; mso-line-height-rule:exactly;mso-text-raise: 4px; color: #737278;"><span style="font-family: 'Avenir Roman', Helvetica, Arial, sans-serif !important; font-size:13px; mso-ansi-font-size:13px; line-height:15px; mso-line-height-rule:exactly;mso-text-raise: 4px;">
+                    <a href="http://l.bergdorfgoodmanemail.com/rts/go2.aspx?h=511884&tp=i-1NHD-Gv-3o7-1IlwIP-1n-LSCS-1c-t23-1IjMph-l68nP1WIND-1dpl40&x=7f4vd71EQ5hh36R7f1walg7%7ci-1NHD-Gv-3o7-1IlwIP-1n-LSCS-1c-t23-1IjMph-l68nP1WIND-1dpl40" data-link-name="BGEM_FTAP"
+                      style="color:#000;text-decoration:none">
+                      Clothing
+                    </a>
+   </span></font>
+                  </td>
+                </tr>
+              </table>
+
+              <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="600" align="center"
+                class="contenttable" style="max-width:600px;border-bottom: #e1e1eb 1px solid">
+                <tr>
+                  <td align="center" valign="middle" height="50" style="padding: 5px 0;font-size: 13px">
+   <font style="font-family: Helvetica, Arial, sans-serif; font-size:13px; mso-ansi-font-size:13px; line-height:15px; mso-line-height-rule:exactly;mso-text-raise: 4px; color: #737278;"><span style="font-family: 'Avenir Roman', Helvetica, Arial, sans-serif !important; font-size:13px; mso-ansi-font-size:13px; line-height:15px; mso-line-height-rule:exactly;mso-text-raise: 4px;">
+                    <a href="http://l.bergdorfgoodmanemail.com/rts/go2.aspx?h=511886&tp=i-1NHD-Gv-3o7-1IlwIP-1n-LSCS-1c-t23-1IjMph-l68nP1WIND-1dpl40&x=7f4vd71EQ5hh36R7f1walg7%7ci-1NHD-Gv-3o7-1IlwIP-1n-LSCS-1c-t23-1IjMph-l68nP1WIND-1dpl40" data-link-name="BGEM_FTSH"
+                      style="color:#000;text-decoration:none">
+                      Shoes
+                    </a>
+   </span></font>
+                  </td>
+                </tr>
+              </table>
+
+              <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="600" align="center"
+                class="contenttable" style="max-width:600px;border-bottom: #e1e1eb 1px solid">
+                <tr>
+                  <td align="center" valign="middle" height="50" style="padding: 5px 0;font-size: 13px">
+   <font style="font-family: Helvetica, Arial, sans-serif; font-size:13px; mso-ansi-font-size:13px; line-height:15px; mso-line-height-rule:exactly;mso-text-raise: 4px; color: #737278;"><span style="font-family: 'Avenir Roman', Helvetica, Arial, sans-serif !important; font-size:13px; mso-ansi-font-size:13px; line-height:15px; mso-line-height-rule:exactly;mso-text-raise: 4px;">
+                    <a href="http://l.bergdorfgoodmanemail.com/rts/go2.aspx?h=511888&tp=i-1NHD-Gv-3o7-1IlwIP-1n-LSCS-1c-t23-1IjMph-l68nP1WIND-1dpl40&x=7f4vd71EQ5hh36R7f1walg7%7ci-1NHD-Gv-3o7-1IlwIP-1n-LSCS-1c-t23-1IjMph-l68nP1WIND-1dpl40"
+                    data-link-name="BGEM_FTHB"  style="color:#000;text-decoration:none">
+                      Handbags
+                    </a>
+   </span></font>
+                  </td>
+                </tr>
+              </table>
+
+              <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="600" align="center"
+                class="contenttable" style="max-width:600px;border-bottom: #e1e1eb 1px solid">
+                <tr>
+                  <td align="center" valign="middle" height="50" style="padding: 5px 0;font-size: 13px">
+   <font style="font-family: Helvetica, Arial, sans-serif; font-size:13px; mso-ansi-font-size:13px; line-height:15px; mso-line-height-rule:exactly;mso-text-raise: 4px; color: #737278;"><span style="font-family: 'Avenir Roman', Helvetica, Arial, sans-serif !important; font-size:13px; mso-ansi-font-size:13px; line-height:15px; mso-line-height-rule:exactly;mso-text-raise: 4px;">
+                    <a href="http://l.bergdorfgoodmanemail.com/rts/go2.aspx?h=511890&tp=i-1NHD-Gv-3o7-1IlwIP-1n-LSCS-1c-t23-1IjMph-l68nP1WIND-1dpl40&x=7f4vd71EQ5hh36R7f1walg7%7ci-1NHD-Gv-3o7-1IlwIP-1n-LSCS-1c-t23-1IjMph-l68nP1WIND-1dpl40"
+                     data-link-name="BGEM_FTBE" style="color:#000;text-decoration:none">
+                      Beauty
+                    </a>
+   </span></font>
+                  </td>
+                </tr>
+              </table>
+
+              <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="600" align="center"
+                class="contenttable" style="max-width:600px;border-bottom: #e1e1eb 1px solid">
+                <tr>
+                  <td align="center" valign="middle" height="50" style="padding: 5px 0;font-size: 13px">
+   <font style="font-family: Helvetica, Arial, sans-serif; font-size:13px; mso-ansi-font-size:13px; line-height:15px; mso-line-height-rule:exactly;mso-text-raise: 4px; color: #737278;"><span style="font-family: 'Avenir Roman', Helvetica, Arial, sans-serif !important; font-size:13px; mso-ansi-font-size:13px; line-height:15px; mso-line-height-rule:exactly;mso-text-raise: 4px;">
+                    <a href="http://l.bergdorfgoodmanemail.com/rts/go2.aspx?h=511891&tp=i-1NHD-Gv-3o7-1IlwIP-1n-LSCS-1c-t23-1IjMph-l68nP1WIND-1dpl40&x=7f4vd71EQ5hh36R7f1walg7%7ci-1NHD-Gv-3o7-1IlwIP-1n-LSCS-1c-t23-1IjMph-l68nP1WIND-1dpl40" data-link-name="BGEM_FTME"
+                      style="color:#000;text-decoration:none">
+                      Men
+                    </a>
+   </span></font>
+                  </td>
+                </tr>
+              </table>
+
+              <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="600" align="center"
+                class="contenttable" style="max-width:600px;border-bottom: #e1e1eb 1px solid">
+                <tr>
+                  <td align="center" valign="middle" height="50" style="padding: 5px 0;font-size: 13px">
+   <font style="font-family: Helvetica, Arial, sans-serif; font-size:13px; mso-ansi-font-size:13px; line-height:15px; mso-line-height-rule:exactly;mso-text-raise: 4px; color: #737278;"><span style="font-family: 'Avenir Roman', Helvetica, Arial, sans-serif !important; font-size:13px; mso-ansi-font-size:13px; line-height:15px; mso-line-height-rule:exactly;mso-text-raise: 4px;">
+                    <a href="http://l.bergdorfgoodmanemail.com/rts/go2.aspx?h=511893&tp=i-1NHD-Gv-3o7-1IlwIP-1n-LSCS-1c-t23-1IjMph-l68nP1WIND-1dpl40&x=7f4vd71EQ5hh36R7f1walg7%7ci-1NHD-Gv-3o7-1IlwIP-1n-LSCS-1c-t23-1IjMph-l68nP1WIND-1dpl40" data-link-name="BGEM_FTSL"
+                      style="color:#000;text-decoration:none">
+                      Sale
+                    </a>
+   </span></font>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+        </table>
+
+        <!-- SOCIAL ICONS  -->
+
+        <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="600" align="center"
+          class="contenttable">
+          <tr>
+  <td valign="top" align="center">
+  <table role="presentation" border="0" cellpadding="0" cellspacing="0" align="center">  
+  <tr>
+   <td align="center">
+              <a href="http://l.bergdorfgoodmanemail.com/rts/go2.aspx?h=511862&tp=i-1NHD-Gv-3o7-1IlwIP-1n-LSCS-1c-t23-1IjMph-l68nP1WIND-1dpl40&x=i-1NHD-Gv-3o7-1IlwIP-1n-LSCS-1c-t23-1IjMph-l68nP1WIND-1dpl40" data-link-name="instagram" style="color:#000;text-decoration:none">
+                <img alt="instagram"
+                  src="http://i.t.bergdorfgoodmanemail.com/wpm/1049/ContentUploads/2021/social_02.jpg"
+                  width="80" height="85" style="display:block;border:0" />
+              </a>
+            </td>
+            <td align="center">
+              <a href="http://l.bergdorfgoodmanemail.com/rts/go2.aspx?h=511860&tp=i-1NHD-Gv-3o7-1IlwIP-1n-LSCS-1c-t23-1IjMph-l68nP1WIND-1dpl40&x=i-1NHD-Gv-3o7-1IlwIP-1n-LSCS-1c-t23-1IjMph-l68nP1WIND-1dpl40" data-link-name="facebook" style="color:#000;text-decoration:none">
+                <img alt="facebook"
+                  src="http://i.t.bergdorfgoodmanemail.com/wpm/1049/ContentUploads/2021/social_03.jpg"
+                  width="78" height="85" style="display:block;border:0" />
+              </a>
+            </td>
+            <td align="center">
+              <a href="http://l.bergdorfgoodmanemail.com/rts/go2.aspx?h=511864&tp=i-1NHD-Gv-3o7-1IlwIP-1n-LSCS-1c-t23-1IjMph-l68nP1WIND-1dpl40&x=i-1NHD-Gv-3o7-1IlwIP-1n-LSCS-1c-t23-1IjMph-l68nP1WIND-1dpl40" data-link-name="twitter" style="color:#000;text-decoration:none">
+                <img alt="twitter"
+                  src="http://i.t.bergdorfgoodmanemail.com/wpm/1049/ContentUploads/2021/social_04.jpg"
+                  width="80" height="85" style="display:block;border:0" />
+              </a>
+            </td>
+            <td align="center">
+              <a href="http://l.bergdorfgoodmanemail.com/rts/go2.aspx?h=511895&tp=i-1NHD-Gv-3o7-1IlwIP-1n-LSCS-1c-t23-1IjMph-l68nP1WIND-1dpl40&x=i-1NHD-Gv-3o7-1IlwIP-1n-LSCS-1c-t23-1IjMph-l68nP1WIND-1dpl40" data-link-name="snapchat" style="color:#000;text-decoration:none">
+                <img alt="snapchat"
+                  src="http://i.t.bergdorfgoodmanemail.com/wpm/1049/ContentUploads/2021/social_05.jpg"
+                  width="80" height="85" style="display:block;border:0" />
+              </a>
+            </td>
+  </tr></table>
+  
+  
+  </td>
+
+           
+          </tr>
+        </table>
+
+        <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="600" align="center"
+          class="contenttable">
+          <tr>
+            <td align="center" valign="middle" height="50">
+ <font style="font-family: Helvetica, Arial, sans-serif; font-size:13px; mso-ansi-font-size:13px; line-height:15px; mso-line-height-rule:exactly;mso-text-raise: 4px; color: #737278;"><span style="font-family: 'Avenir Roman', Helvetica, Arial, sans-serif !important; font-size:13px; mso-ansi-font-size:13px; line-height:15px; mso-line-height-rule:exactly;mso-text-raise: 4px;">
+              <a href="http://l.bergdorfgoodmanemail.com/rts/go2.aspx?h=511897&tp=i-1NHD-Gv-3o7-1IlwIP-1n-LSCS-1c-t23-1IjMph-l68nP1WIND-1dpl40&x=7f4vd71EQ5hh36R7f1walg7%7ci-1NHD-Gv-3o7-1IlwIP-1n-LSCS-1c-t23-1IjMph-l68nP1WIND-1dpl40"
+                data-link-name="BGEM_FTST" style="color:#000;text-decoration:none">
+                The Store&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
+              </a>
+              <a href="http://l.bergdorfgoodmanemail.com/rts/go2.aspx?h=511899&tp=i-1NHD-Gv-3o7-1IlwIP-1n-LSCS-1c-t23-1IjMph-l68nP1WIND-1dpl40&x=7f4vd71EQ5hh36R7f1walg7%7ci-1NHD-Gv-3o7-1IlwIP-1n-LSCS-1c-t23-1IjMph-l68nP1WIND-1dpl40"
+               data-link-name="BGEM_FTAS" style="color:#000;text-decoration:none">
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Need Help?
+              </a>
+ </span></font>
+            </td>
+          </tr>
+        </table>
+
+
+              <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="600" align="center"
+                class="contenttable" style="max-width:600px">
+                <tr>
+                  <td align="center">
+                    <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="600" align="center"
+                      class="contenttable" style="max-width:600px">
+                      <tr>
+                        <td height="30" style="line-height:0px;font-size:0px;mso-line-height-rule:exactly">
+                          <img
+                            src="https://www.bergdorfgoodman.com/content/dam/bergdorf-goodman/FINAL/EML/2020/spacer.gif"
+                            width="10" height="30" style="display:block" />
+                        </td>
+                      </tr>
+                    </table>
+
+                    <!-- DISCLAIMERS -->
+
+                    <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="600" align="center"
+                      class="contenttable" style="max-width:600px">
+                      <tr>
+                        <td width="10" align="center"
+                          style="font-size:0px;line-height:0px;mso-line-height-rule:exactly">
+                          <img
+                            src="https://www.bergdorfgoodman.com/content/dam/bergdorf-goodman/FINAL/EML/2020/spacer.gif"
+                            width="10" height="50" style="display:block" />
+                        </td>
+                        <td align="left" valign="top">
+                          <font
+                            style="font-family:Larsseit, Helvetica, Arial, sans-serif !important;font-size:10px;mso-ansi-font-size:10px;line-height:15px;mso-line-height-rule:exactly;mso-text-raise:4px;color:#737278">
+                            <span
+                              style="font-family:Larsseit, Helvetica, Arial, sans-serif !important;font-size:10px;mso-ansi-font-size:10px;line-height:15px;mso-line-height-rule:exactly;mso-text-raise:4px">
+                             &#42;Free shipping for purchases and returns on most items, includes Standard Delivery only. No code
+                  required. Taxes apply to some orders. For a small percentage of items, such as oversized items,
+                  items shipped from vendors, or shipments outside of the United States, delivery and processing
+                  charges may apply. For complete delivery, shipping, and return and exchange details, including cost
+                  and delivery time, visit BergdorfGoodman.com, click on Assistance, select Shopping Online &amp;
+                  In-Store, then click on Shipping and Delivery or call 1.888.774.2424.<br />
+<br />
+&#42;Online and in-store. Offer may differ in store. Please see your sales associate for store details. Savings off original prices. Selected merchandise only. Savings will be reflected at checkout. Interim markdowns may have been taken. Some exclusions may apply. No adjustments for prior sales. Offer not valid on prior purchases/promotion does not apply to prior purchases. Bergdorf Goodman reserves the right to change or cancel this promotion at any time.
+                            </span>
+                          </font>
+                        </td>
+                        <td width="20" align="center"
+                          style="font-size:0px;line-height:0px;mso-line-height-rule:exactly">
+                          <img
+                            src="https://www.bergdorfgoodman.com/content/dam/bergdorf-goodman/FINAL/EML/2020/spacer.gif"
+                            width="20" height="50" style="display:block" />
+                        </td>
+                      </tr>
+                    </table>
+
+                    <!-- FOOTER NOTES -->
+
+                    <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="600" align="center"
+                      class="contenttable" style="max-width:600px">
+                      <tr>
+                        <td width="10" height="50" align="center"
+                          style="padding:0px;border-collapse:collapse;text-align:center">
+                          <img
+                            src="https://www.bergdorfgoodman.com/content/dam/bergdorf-goodman/FINAL/EML/2020/spacer.gif" />
+                        </td>
+                        <td align="center" valign="top">
+                          <font
+                            style="font-family:Larsseit, Helvetica, Arial, sans-serif !important;font-size:10px;mso-ansi-font-size:10px;line-height:15px;mso-line-height-rule:exactly;mso-text-raise:4px;color:#737278">
+                            <span
+                              style="font-family:Larsseit, Helvetica, Arial, sans-serif !important;font-size:10px;mso-ansi-font-size:10px;line-height:15px;mso-line-height-rule:exactly;mso-text-raise:4px">
+                              <br />
+                              This is an email advertisement sent to you by Bergdorf Goodman.
+                              <br />
+                              <br />
+                              <a href="http://l.bergdorfgoodmanemail.com/rts/go2.aspx?h=511910&tp=i-1NGB-Gv-3o7-1IlwIP-1n-LSCS-1c-1IjMph-l68nP1WIND-DbV6m&x=i-1NGB-Gv-3o7-1IlwIP-1n-LSCS-1c-1IjMph-l68nP1WIND-DbV6m%7ci-1NGB-Gv-3o7-1IlwIP-1n-LSCS-1c-1IjMph-l68nP1WIND-DbV6m" data-link-name="Unsub"
+                                style="color:#737278;text-decoration:none">
+                                <u>Click here</u>
+                              </a>
+                              to manage your email preferences or unsubscribe.
+                              <br />
+                              <br />
+                              To ensure delivery to your inbox, please add <a href="http://l.bergdorfgoodmanemail.com/rts/go2.aspx?h=511912&tp=i-1NGB-Gv-3o7-1IlwIP-1n-LSCS-1c-1IjMph-l68nP1WIND-DbV6m&x=i-1NGB-Gv-3o7-1IlwIP-1n-LSCS-1c-1IjMph-l68nP1WIND-DbV6m"
+                                style="color:#737278;text-decoration:none">BergdorfGoodman@bergdorfgoodmanemail.com</a>
+                              to your address book.
+                              <br />
+                              <br />
+                              Bergdorf Goodman
+                              <br />
+                              Attn: E-mail Removal, Customer Care Department, 111 Customer Way, Irving, Texas 75039
+                              <br />
+                              <br />
+                              &copy;2020 Bergdorf Goodman&nbsp;&nbsp; | &nbsp;&nbsp;
+                              <a href="http://l.bergdorfgoodmanemail.com/rts/go2.aspx?h=511914&tp=i-1NGB-Gv-3o7-1IlwIP-1n-LSCS-1c-1IjMph-l68nP1WIND-DbV6m&x=i-1NGB-Gv-3o7-1IlwIP-1n-LSCS-1c-1IjMph-l68nP1WIND-DbV6m" data-link-name="Privacy Policy"
+                                style="color:#737278;text-decoration:none">
+                                Privacy Policy
+                              </a>
+                            </span>
+                          </font>
+                        </td>
+                        <td width="20" height="50" align="center"
+                          style="padding:0px;border-collapse:collapse;text-align:center">
+                          <img
+                            src="https://www.bergdorfgoodman.com/content/dam/bergdorf-goodman/FINAL/EML/2020/spacer.gif" />
+                        </td>
+                      </tr>
+                    </table>
+
+                    <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="600" align="center"
+                      class="contenttable" style="max-width:600px">
+                      <tr>
+                        <td width="10" height="30" align="center"
+                          style="padding:0px;border-collapse:collapse;text-align:center">
+                          <img
+                            src="https://www.bergdorfgoodman.com/content/dam/bergdorf-goodman/FINAL/EML/2020/spacer.gif" />
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+              </table>
+
+              <!-- Google Code for Bergdorf Goodman Email Remarketing Pixel Remarketing List -->
+
+              <div style="display:inline">
+                <img style="border-style:none"
+                  src="http://www.googleadservices.com/pagead/conversion/1033283586/?value=0&label=2rtuCKjzlgMQgtDa7AM&guid=ON&script=0"
+                  height="1" width="1" />
+              </div>
+              
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</body>
+
+</html>

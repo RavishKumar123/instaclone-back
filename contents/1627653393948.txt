@@ -1,0 +1,1861 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+<head>
+<!--[if gte mso 9]>
+<xml>
+<o:OfficeDocumentSettings>
+<o:AllowPNG/>
+<o:PixelsPerInch>96</o:PixelsPerInch>
+</o:OfficeDocumentSettings>
+</xml>
+<![endif]-->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="x-apple-disable-message-reformatting" />
+<title></title>
+<style type="text/css" data-premailer="ignore">
+/* Gmail Font Increase Fix */
+/* //////////////////////////////////// */
+.gmailfix {
+display: none;
+display: none !important;
+}
+/* Responsive Media Queries */
+/* //////////////////////////////////// */
+@media only screen and (max-device-width: 600px),
+only screen and (max-width: 600px) {
+.fluid {
+width: 100% !important;
+height: auto !important;
+display: table !important;
+align: center !important;
+}
+.fluid93 {
+width: 93% !important;
+height: auto !important;
+display: table !important;
+align: center !important;
+}
+.fluid90 {
+width: 90% !important;
+height: auto !important;
+display: table !important;
+align: center !important;
+}
+.fluid88 {
+width: 88% !important;
+height: auto !important;
+display: table !important;
+align: center !important;
+}
+.fluid80 {
+width: 80% !important;
+height: auto !important;
+display: table !important;
+align: center !important;
+}
+.desk {
+display: none !important;
+}
+.show {
+display: block !important;
+width: auto !important;
+max-height: inherit !important;
+overflow: visible !important;
+float: none !important;
+}
+.noshow {
+display: none !important;
+}
+.mobshow {
+display: block !important;
+width: auto !important;
+max-height: inherit !important;
+overflow: visible !important;
+float: none !important;   
+}	
+.colsplit {
+display: block !important;
+width: 100% !important;
+text-align: center !important;
+}
+.resizeimg {
+width: 100% !important;
+height: auto;
+display: block !important;
+margin: auto;
+}
+.resizeimg88 {
+width: 88% !important;
+height: auto;
+display: block !important;
+margin: auto;
+}
+.resizeimg95 {
+width: 95% !important;
+height: auto;
+display: block !important;
+margin: auto;
+}
+.resizeimg90 {
+width: 90% !important;
+height: auto;
+display: block !important;
+margin: auto;
+}
+.resizeimg70 {
+width: 70% !important;
+height: auto;
+display: block !important;
+margin: auto;
+}
+.resizeimg73 {
+width: 73% !important;
+height: auto;
+display: block !important;
+margin: auto;
+}
+.font26{
+font-size: 26px !important;
+}
+.font18{
+font-size: 26px !important;
+}
+.font16{
+font-size: 16px !important;
+}
+.font15{
+font-size: 15px !important;
+}
+.font14{
+font-size: 14px !important;
+}
+.font13{
+font-size: 13px !important;
+}
+.font12{
+font-size: 12px !important;
+}
+.font11{
+font-size: 11px !important;
+}	
+.font10{
+font-size: 10px !important;
+}	
+.width22{
+width:20px!important
+}
+.buttonx {
+width: 80% !important;
+height: auto !important;
+}
+img {
+max-width: 100% !important;
+max-height: auto !important;
+}
+.container,
+.container--outline {
+border: none !important;
+}
+.header__logo img {
+width: 200px !important;
+height: 38px !important;
+}
+.section-header__text {
+font-size: 16px !important;
+letter-spacing: 2px !important;
+}
+.col {
+padding-bottom: 15px !important;
+}
+.col .content-image {
+margin-bottom: 5px !important;
+}
+.content-block {
+margin-bottom: 40px !important;
+}
+.icon--plus img {
+width: 23px !important;
+height: auto !important;
+}
+.button__default {
+margin-bottom: 30px !important;
+}
+.button__default.button__image-margin {
+margin-bottom: 25px !important;
+}
+.hero__image-container {
+margin-bottom: 30px !important;
+}
+.description__text   {
+font-size: 16px !important;
+line-height: 27px !important;
+margin: 0 25px 20px !important;
+}
+.description__container .description__text {
+margin-bottom: 0 !important;
+}
+.header__nav {
+margin-bottom: 30px !important;
+}
+.header__nav-banner {
+letter-spacing: 2.5px !important;
+}
+.default-header__image img {
+margin-bottom: 10px !important;
+}
+.email-footer {
+padding: 20px 14px 20px 14px !important;
+}
+.footer__logo img {
+width: 105px !important;
+}
+.social-header {
+padding: 25px 0 15px !important;
+font-size: 10px !important;
+}
+.social-icons .social-facebook img {
+width: 13px !important;
+}
+.social-icons .social-instagram img {
+width: 24px !important;
+}
+.social-icons .social-twitter img {
+width: 30px !important;
+}
+.social-icons .social-pinterest img {
+width: 19px !important;
+}
+.social-icons .social-youtube img {
+width: 32px !important;
+}
+.social-icons a {
+margin: 0 15px !important;
+}
+.maker__divider {
+width: 80.2px !important;
+height: 11.3px !important;
+}
+/* Keep if using partner header */
+/* //////////////////////////////////// */
+.header__partner-logo img {
+max-width: 100% !important;
+height: auto !important;
+}
+/* Keep if using dark hero */
+/* //////////////////////////////////// */
+.hero--dark .hero__content {
+margin-left: 27px !important;
+margin-right: 27px !important;
+}
+.hero--dark .hero__headline h1 {
+font-size: 27px !important;
+}
+.hero--dark .hero__description p {
+font-size: 16px !important;
+letter-spacing: 0.8px !important;
+}
+/* Keep if using letter layout hero */
+/* //////////////////////////////////// */
+.hero__content--letter {
+margin: 27px 27px 0 27px !important;
+}
+/* Keep if using 2017 holiday styles */
+/* //////////////////////////////////// */
+.header__logo--holiday img {
+width: 191px !important;
+height: 24px !important;
+}
+.hero__headline--holiday h1 a {
+font-size: 27px !important;
+line-height: 1.3 !important;
+letter-spacing: 0.4px !important;
+}
+.hero__ornament-top {
+width: 184px !important;
+height: 31px !important;
+}
+.hero__ornament-bottom {
+margin-top: 10px !important;
+}
+.hero__content--holiday .hero__description p {
+font-size: 16px !important;
+line-height: 1.5 !important;
+letter-spacing: 0.8px !important;
+}
+.hero__content--holiday-image .hero__description p {
+font-size: 13px !important;
+line-height: 1.46 !important;
+letter-spacing: 1.8px !important;
+}
+.section-header--holiday {
+margin-bottom: 10px !important;
+}
+.section-header__image--holiday img {
+width: 100px !important;
+height: 48px !important;
+}
+.col--holiday.col--two-side .content-title {
+padding-left: 27px !important;
+padding-right: 27px !important;
+font-size: 12px !important;
+line-height: 1.67 !important;
+letter-spacing: 1.6px !important;
+}
+.col__ornament {
+width: 39px !important;
+height: 8px !important;
+}
+.column-container {
+margin-bottom: 40px !important;
+}
+.hero__number a {
+line-height: 30px !important;
+}
+/* Keep if using two column layouts */
+/* //////////////////////////////////// */
+.col--two .content-image,
+.col--two .content-title,
+.col--two .content-description {
+margin-right: 7px !important;
+}
+.col--two.col--last .content-image,
+.col--two.col--last .content-title,
+.col--two.col--last .content-description {
+margin-right: 0 !important;
+margin-left: 7px !important;
+}
+.col--two-plus-icon img {
+padding-bottom: 15px !important;
+}
+.col--two-side-alt {
+padding-bottom: 0 !important;
+}
+.col--two-product-container tr {
+display: block !important;
+}
+.col--two-product-container .col--two {
+width: 100% !important;
+display: block !important;
+}
+.col--two-product .content-image {
+margin-right: 0 !important;
+}
+.col--two-product img {
+width: 100% !important;
+}
+.col--two-product-description {
+margin-left: 15px !important;
+margin-top: 7px !important;
+}
+.col--two-product-description a {
+font-size: 15px !important;
+}
+.content-description a {
+line-height: 1.4 !important;
+}
+/* Keep if using four column layouts */
+/* //////////////////////////////////// */
+.col--four {
+width: 50% !important;
+padding-bottom: 0 !important;
+margin-bottom: 15px !important;
+}
+.col__space--four {
+display: none !important;
+}
+.col--four .content-image,
+.col--four .content-title,
+.col--four .content-description {
+margin-right: 7px !important;
+}
+.col--four.col--last .content-image,
+.col--four.col--last .content-title,
+.col--four.col--last .content-description {
+margin-right: 0 !important;
+margin-left: 7px !important;
+}
+.col--four-side {
+width: 100% !important;
+padding-bottom: 0 !important;
+margin-bottom: 15px !important;
+}
+.col__inner--four-side,
+.col--last .col__inner--four-side {
+padding: 0 !important;
+}
+.col--four-side .content-image {
+margin-right: 7px !important;
+}
+.col--four-side .content-title,
+.col--four-side .content-description {
+margin: 0 7px !important;
+}
+/* Keep if using recipe block */
+/* //////////////////////////////////// */
+.recipe__block .default-header__text {
+max-width: 344px !important;
+display: block !important;
+margin: 0 auto !important;
+}
+.recipe__block .content-title {
+padding: 0 18px !important;
+font-size: 15px !important;
+}
+.recipe__block .content-link a {
+font-size: 12px !important;
+}
+.recipe__block .content-image {
+margin-bottom: 0 !important;
+}
+.recipe__block .col__ornament {
+width: 52.2px !important;
+height: 11.2px !important;
+}
+/* Keep if using quote block */
+/* //////////////////////////////////// */
+.quote {
+padding: 27px 35px !important;
+}
+.quote__marks {
+padding-bottom: 12px !important;
+}
+.quote__marks--bottom {
+padding: 12px 0 0 0 !important;
+}
+.quote__marks img {
+width: 18px !important;
+height: 13px !important;
+}
+.quote__text {
+font-size: 16px !important;
+line-height: 27px !important;
+}
+.quote__source {
+font-size: 13px !important;
+letter-spacing: 2.4px !important;
+line-height: 16px !important;
+padding-top: 17px !important;
+}
+.quote__source-title {
+font-size: 13px !important;
+line-height: 15px !important;
+}
+.quote__hotline-header {
+font-size: 13px !important;
+letter-spacing: 2.4px !important;
+padding-bottom: 20px !important;
+}
+.quote__block {
+width: auto !important;
+margin: 0 16px !important;
+}
+.quote__single {
+width: auto !important;
+}
+.quote__single,
+.quote__bio {
+margin: 0 16px 40px 16px !important;
+}
+.quote__single .quote,
+.quote__hotline {
+padding: 25px 30px !important;
+}
+.quote__hotline-link {
+font-size: 13px !important;
+}
+.quote__bio-container {
+display: block !important;
+width: 100% !important;
+margin-bottom: 15px !important;
+padding: 0 !important;
+}
+.quote__bio {
+width: auto !important;
+}
+.quote__text-side {
+display: block !important;
+border-left: none !important;
+width: 100% !important;
+padding: 0 !important;
+text-align: center !important;
+}
+.quote__attribution {
+padding: 25px 30px !important;
+}
+.quote__button-margin {
+margin-bottom: 25px !important;
+}
+/* Keep if Using Headlines */
+/* //////////////////////////////////// */
+.headline__large {
+font-size: 32px !important;
+line-height: 41px !important;
+margin: 0px 16px 10px 16px !important;
+}
+.headline__large-margin {
+margin-bottom: 30px !important;
+}
+.headline__medium {
+font-size: 26px !important;
+line-height: 32px !important;
+margin: 0px 16px 10px 16px!important;
+}
+.article__header-margin {
+margin-bottom: 17px !important;
+}
+.subtext__medium {
+width: 330px !important;
+font-size: 14px !important;
+line-height: 20px !important;
+letter-spacing: 2.2px !important;
+margin-bottom: 10px !important;
+}
+.subtext__medium-margin {
+margin-bottom: 20px !important;
+}
+.subtext__small {
+max-width: 315px;
+font-size: 11.5px !important;
+}
+.footer__banner img {
+width: 92% !important;
+}
+.headline__medium-margin {
+margin-bottom: 17px !important;
+}
+/* Kepp if Using Product Two Column */
+/* //////////////////////////////////// */
+.product-header__text {
+font-size: 11.5px !important;
+letter-spacing: 1.8px !important;
+display: block !important;
+margin: 0 auto !important;
+max-width: 315px !important;
+}
+.product-header__subtext {
+padding-top: 9px !important;
+}
+.product-header__subtext {
+max-width: 344px !important;
+display: block;
+margin: 0 auto;
+}
+.default-header {
+margin-bottom: 17px !important;
+}
+.col--two-product-container {
+margin: 0 16px !important;
+}
+.col--two-product {
+margin-bottom: 10px;
+}
+.col--two .col--two-product .content-image {
+margin-left: 0 !important;
+}
+.col--last .hero__number {
+padding-left: 0 !important;
+}
+/* Three Columns */
+/* //////////////////////////////////// */
+.col--three {
+min-width: 109px !important;
+}
+.col__space--three {
+width: 8px !important;
+min-width: 8px !important;
+}
+.col--two-header .col {
+padding-bottom: 30px !important;
+}
+.col--three-header .col {
+padding-bottom: 0 !important;
+}
+.supporting__article {
+margin-bottom: 0px !important;
+}
+.supporting__article .button__default {
+margin-bottom: 25px !important;
+}
+.supporting__article .full-image {
+margin: 0 16px !important;
+}
+.supporting__article .description__text {
+font-size: 15px !important;
+line-height: 22px !important;
+}
+/* Letter */
+/* //////////////////////////////////// */
+.letter__padding td {
+padding: 0 30px !important;
+}
+.letter__container h1 {
+font-size: 32px !important;
+line-height: 41px !important;
+}
+.letter__container p {
+font-size: 16px !important;
+line-height: 27px !important;
+}
+.letter__container {
+margin-bottom: 0px !important;
+}
+/* Article Two Column*/
+/* //////////////////////////////////// */
+.article__two-column {
+margin: 0 14px 40px 14px !important;
+}
+.article__two-column .col {
+padding-bottom: 20px !important;
+}
+.leaderboard-ad {
+max-width: 343px !important;
+}
+/* Roundup */
+/* //////////////////////////////////// */
+.roundup .button__default {
+margin-bottom: 0 !important;
+}
+.roundup .hero__link {
+margin-bottom: 0 !important;
+}
+.roundup .hero__headline h1 {
+font-size: 20px !important;
+line-height: 1.35 !important;
+letter-spacing: 0.8px !important;
+margin-bottom: 0 !important;
+}
+.roundup .hero__number a {
+font-size: 32px !important;
+line-height: 1.5 !important;
+}
+.roundup-divider {
+max-width: 300px !important;
+border-bottom-width: 40px !important;
+}
+/* Collection */
+/* //////////////////////////////////// */
+.collection__backboard {
+width: auto !important;
+max-height: 327px !important;
+}
+.collection__backboard table {
+min-width: 24px !important;
+}
+.collection-image img {
+width: 327px !important;
+}
+.collection__text {
+font-size: 18px !important;
+line-height: 25px !important;
+padding: 20px 24px 20px 60px !important;
+}
+.collection__left {
+padding: 20px 60px 20px 24px !important;
+}
+.collection__subtext {
+padding-top: 10px !important;
+}
+/* Three Article */
+/* //////////////////////////////////// */
+.article__three-spacer {
+width: 16px !important;
+}
+.article__three .content-description a {
+font-size: 15px !important;
+line-height:  1.4 !important;
+}
+.article__three .content-image {
+padding: 0 !important;
+}
+.article__three .col--two-side {
+padding-bottom: 10px !important;
+}
+/* Secondary Products */
+/* //////////////////////////////////// */
+.secondary__products.column-container {
+padding: 25px 16px !important;
+}
+.secondary__products .column-header {
+padding-bottom: 17px !important;
+}
+.secondary__products .content-image {
+margin-bottom: 10px !important;
+margin-right: 0 !important;
+}
+.secondary__products .content-description a {
+font-size: 15px !important;
+margin-right: 0 !important;
+}
+.secondary__products .col--two-header .col {
+padding-bottom: 20px !important;
+}
+.secondary__products .content-description a {
+line-height: 1.4 !important;
+}
+.secondary__products .col--two .content-image {
+margin-right: 4.5px !important;
+}
+.secondary__products .col--two .content-description a {
+margin-right: 4.5px !important;
+}
+.secondary__products .col--two.col--last .content-image,
+.secondary__products .col--two.col--last .content-description {
+margin-left: 3.5px !important;
+margin-right: 0 !important;
+}
+.article__three-block {
+margin-bottom: 30px !important;
+}
+.secondary__products.secondary__products-one .button__default {
+margin-bottom: 0 !important;
+}
+.secondary__products.secondary__products-one .col--two .content-image {
+margin-right: 0 !important;
+}
+.secondary__products.secondary__products-one .col--two {
+padding-bottom: 0 !important;
+}
+/* Genius Footer Banner Styles */
+/* ///////////////////////////////////// */
+.genius__footer {
+margin: 0 16px 40px 16px !important;
+}
+.genius__footer-header {
+margin-top: 22px !important;
+}
+.genius__footer-dek {
+font-size: 16px !important;
+padding: 10px 26px 22px 26px !important;
+}
+.section-divider {
+margin: 0 auto 20px auto !important;
+}
+.default-header__image .divider__margin {
+margin-bottom: 13px !important;
+}
+.subtext__small-container {
+max-width: 315px !important;
+margin: 0 auto 11px auto !important;
+}
+.article__two-column .content-description a {
+font-size: 15px !important;
+}
+.article__three-block .content-description {
+padding-right: 15px !important;
+}
+.roundup__headline {
+max-width: 300px !important;
+}
+/* Sponsor 2x */
+/* ////////////////// */
+.sponsor__link {
+padding: 15px 0 0 !important;
+}
+.sponsor__link a {
+font-size: 13px !important;
+}
+/* Nav w/ Banner */
+/* ////////////////// */
+.nav__banner a {
+font-size: 12px !important;
+letter-spacing: 2.8px !important;
+padding: 13px 0 12px 0 !important;
+}
+/* 2018 Holiday Icons */
+.roundup__holiday img {
+margin-bottom: 35px !important;
+width: 55.8px !important;
+}
+.holiday-header__image img {
+width: 73.3px !important;
+}
+.holiday-headline__image img {
+width: 38px !important;
+}
+.recipe-col__ornament {
+width: 37px !important;
+}
+.single-recipe {
+font-size: 14px !important;
+}
+/* Five Two Header */
+.column-container .five-two-header {
+padding-bottom: 15px !important;
+}
+.five-two-header img {
+width: 120px !important;
+height: 33 !important;
+}
+/* 2019 Holiday Hero Headlines */
+.holiday-generic-headline__default-header img {
+margin-bottom: 12px !important;
+width: 101px !important;
+}
+.holiday-generic-headline__headline-text {
+font-size: 28px !important;
+line-height: 36px !important;
+letter-spacing: 3.23px !important;
+margin: 0px 16px 15px 16px !important;
+}
+.holiday-headline-dek__divider img {
+margin-bottom: 12px !important;
+width: 101px !important;
+}
+.holiday-headline-dek__headline-text {
+font-size: 28px !important;
+line-height: 36px !important;
+letter-spacing: 3.23px !important;
+margin: 0px 16px 10px 16px !important;
+}
+.holiday-maker-launch-headline__headline-text {
+font-size: 28px !important;
+line-height: 36px !important;
+letter-spacing: 3.23px !important;
+margin: 0 16px 16px 16px !important;
+}
+.holiday-single-product-headline__headline-text {
+font-size: 28px !important;
+line-height: 36px !important;
+letter-spacing: 3.23px !important;
+margin: 0 16px 6px 16px !important;
+}
+.holiday-single-product-headline__divider img {
+margin-bottom: 10px !important;
+width: 49px !important;
+}
+/* 2019 Holiday General */
+.holiday-medium-headline__headline-text {
+font-size: 22px !important;
+line-height: 28px !important;
+letter-spacing: 2.54px !important;
+margin: 0px 16px 17px 16px !important;
+}
+.holiday-default-header-image img {
+margin-bottom: 25px !important;
+width: 343px !important;
+}
+.holiday-default-header-table {
+width: 343px !important;
+}
+.holiday-product__container {
+width: auto !important;
+max-width: 100% !important;
+}
+.holiday-product__content-description {
+font-size: 15px !important;
+line-height: 22px !important;
+margin: 12px auto 15px !important;
+width: 343px !important;
+}
+.holiday-product__content-image {
+margin: 0 auto !important;
+width: 343px !important;
+}
+.holiday-supporting-article__headline-text {
+font-size: 22px !important;
+line-height: 28px !important;
+letter-spacing: 2.54px !important;
+margin: 0px 16px 10px 16px !important;
+}
+/* 2019 Holiday Hero Images */
+.holiday-image-dek-cta__hero-image {
+width: 330px !important;
+}
+.holiday-image-dek-cta__hero-image a {
+display: block !important;
+}
+.holiday-product-details-4__number-link {
+margin-left: 9px;
+}
+/* 2019 Holiday Secondary Products */
+.holiday-product-1__container {
+width: 343px !important;
+}
+.holiday-product-1__content-description {
+font-size: 15px !important;
+line-height: 22px !important;
+width: 343px !important;
+}
+.holiday-product-1__content-image {
+width: 343px !important;
+}
+/* 2019 Holiday Supporting Article */
+.holiday-supporting-article {
+min-width: 343px !important;
+}
+.holiday-supporting-article-content-block__table {
+min-width: 340px !important;
+width: 340px !important;
+}
+.holiday-supporting-article__content-block {
+width: 330px !important;
+}
+.holiday-supporting-article__backboard-cell {
+height: 10px !important;
+}
+.holiday-supporting-article__bottom-backboard-table {
+width: 340px !important;
+}
+.holiday-supporting-article__bottom-left-backboard {
+width: 320px !important;
+}
+.holiday-supporting-article__bottom-right-backboard {
+width: 10px !important;
+}
+.holiday-supporting-article__left-backboard {
+width: 10px !important;
+}
+.holiday-supporting-article__image {
+width: 330px !important;
+}
+.holiday-supporting-article__image img {
+width: 330px !important;
+}
+.holiday-supporting-article__backdrop {
+height: 220px !important;
+width: 330px !important;
+}
+.holiday-supporting-article-1-1__backdrop {
+height: 330px !important;
+left: -10px !important;
+top: 10px !important;
+width: 330px !important;
+}
+/* 2019 Holiday Recipe */
+.holiday-recipe__ornament {
+height: 13.4px !important;
+width: 58px !important;
+}
+/* 2019 Holiday Roundup */
+.holiday-roundup__divider img {
+margin-bottom: 35px !important;
+width: 343px !important;
+}
+.holiday-nav-banner__link-text {
+font-size: 12px !important;
+letter-spacing: 2px !important;
+}
+/* 2019 BFCM */
+.holiday-bfcm-hero__button-cell{
+padding-bottom: 30px !important;
+}
+.holiday-bfcm-hero__description-text {
+margin-bottom: 20px !important;
+padding-top: 15px !important;
+}
+.holiday-bfcm-nav-banner__link {
+font-size: 12px !important;
+font-weight: 400 !important;
+letter-spacing: 2px !important;
+}
+.holiday-article__two-column {
+margin: 0 14px 40px 14px !important;
+}
+/* 2019 Holiday Quote Attribution */
+.holiday-quote__attribution {
+padding: 10px 30px !important;
+}
+}
+</style>
+</head>
+<body style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; background: #ffffff; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; margin: 0; padding: 0 !important; width: 100% !important; max-width: 600px;  min-width: 100% !important;" bgcolor="#ffffff">
+<style type="text/css">
+body {
+width: 100% !important; 
+min-width: 100% !important; 
+-webkit-text-size-adjust: 100%; 
+-ms-text-size-adjust: 100%; 
+margin: 0 auto !important; 
+padding: 0 !important; 
+background-color: #ffffff; 
+font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; 
+font-size: 14px;
+}
+img {
+outline: none; 
+text-decoration: none; 
+-ms-interpolation-mode: 
+bicubic; max-width: 100%; 
+height: auto !important;
+}
+</style>
+<center>
+<!--[if (gte mso 9)|(IE)]>
+<table width="600" align="center">
+<tr>
+<td width="600">
+<![endif]-->
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
+<tr>
+<td align="center" style="vertical-align: top;">
+<table width="600" border="0" align="center" cellpadding="0" cellspacing="0" class="fluid" style="border-collapse: collapse; width:600px;border: 1px solid #eaeaea;margin: 0 auto;">
+<tr>
+<td align="center" style="vertical-align: top; padding: 0px 0px 0px 0px; background-color: #ffffff;">
+<!-- MODULES AND CONTENT GO HERE -->
+<!-- Pre-Header -->
+<table class="preheadbg" width="100%" cellpadding="0" bgcolor="#f5f3f1" cellspacing="0" style="font-size: 11px; letter-spacing: 0.9px; text-align: center; background-color: #f5f3f1; color: #f5f3f1;" align="center">
+<tr>
+<td align="center">
+<table class="preheadbg" cellpadding="0" bgcolor="#f5f3f1" cellspacing="0" style="font-size: 11px; letter-spacing: 0.9px; margin-top: 2px; text-align: center; background-color: #f5f3f1; color: #f5f3f1;" align="center">
+<tr>
+<td align="center">
+<a href="https://l.food52.com/view/60b14c9ea8ae852e44730093ebfsw.uvtv/14c77237" class="preheadbg" style="color: #f5f3f1; text-decoration: none">The truffle hot sauce we wait all year for > another tie.</a>
+<!--[if !mso]><!-->
+<div style="display:none;font-size:1px;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;mso-hide:all;">
+‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;
+</div>
+<!--<![endif]-->
+</td>
+</tr>
+</table>    
+</td>
+</tr>
+</table>
+<!-- /Pre-Header -->
+<!-- HEADER LOGO -->
+<table class="headerbg" width="100%" bgcolor="#f5f3f1" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td align="center">
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="90%" class="fluid90" style="border-collapse: collapse;">
+<tr>
+<td height="20" class="noshow"></td>
+<td height="15" class="mobshow" style="display: none;"></td>
+</tr>
+<tr>
+<td align="center">
+<a title="Food52" href="https://l.food52.com/click/24048320.1440931/aHR0cDovL2Zvb2Q1Mi5jb20vP3V0bV90ZXJtPTI0MDQ4MzIwJnV0bV9jYW1wYWlnbj0yNDA0ODMyMF8yMDIxMDYwNF9zaG9wX3RydWZmX25vbmJ1eWVy/60b14c9ea8ae852e44730093Bbec5e622"><img src="https://media.sailthru.com/3sg/1k5/1/p/600f4c73eaff8.png" alt="Food52" width="600" style="display: block; margin: 0 auto;" border="0" /></a>
+</td>
+</tr>
+<tr>
+<td height="30"></td>
+</tr>
+<tr>
+<td align="center">
+<table align="center" cellpadding="0" cellspacing="0" border="0" width="95%">
+<tr>
+<td align="center"><hr style="color: #c4c4c4;" /></td>
+</tr>
+</table>
+</td>    
+</tr>
+<tr>
+<td height="10"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!-- /HEADER LOGO -->
+<!-- Headline Text Block -->
+<table class="headerbannerbg" align="center" border="0" cellpadding="0" cellspacing="0" bgcolor="#f5f3f1" width="100%" style="border-collapse: collapse;">
+<tr>
+<td>
+<table align="center" class="fluid90" border="0" cellpadding="0" cellspacing="0" width="87%" style="border-collapse: collapse;">
+<tr>
+<td class="font26" align="center" style="font-family: Georgia, HelveticaNeue-CondensedBold, Roboto-CondensedBold, Roboto-Bold, Helvetica-Bold, Arial-Bold, sans-serif-condensed, sans-serif; font-weight: bold; font-size: 40px; line-height: 100%; text-align: center; color: #444444; padding-bottom: 30px; padding-top: 15px;">
+Triple Play
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!-- /Headline Text Block -->
+<!-- Hero IMG  -->
+<table bgcolor="#f5f3f1" width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td align="center">
+<!-- Image Block-->
+<table align="center" cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td align="center">
+<table class="fluid" align="center" cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td align="center">
+<a target="_blank" href="https://l.food52.com/click/24048320.1440931/aHR0cHM6Ly9mb29kNTIuY29tL3Nob3AvcHJvZHVjdHMvNTAzMj91dG1fdGVybT0yNDA0ODMyMCZ1dG1fY2FtcGFpZ249MjQwNDgzMjBfMjAyMTA2MDRfc2hvcF90cnVmZl9ub25idXllcg/60b14c9ea8ae852e44730093B770c15b0" style="display: block; margin: 0; text-align: center; text-decoration: none"><img width="600" alt="TRUFF Truffle-Infused Hot Sauce" src="https://media.sailthru.com/3sg/1k5/6/3/60b9407e66f0c.jpg" style="display: block; margin: 0 auto;" class="resizeimg" /></a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!-- /Image Block -->
+</td>
+</tr>
+</table>
+<!-- /Hero IMG -->
+<!-- Hero DEK CTA -->
+<table class="heddekctabg" width="100%" bgcolor="#f5f3f1" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td align="center">
+<!-- Subtext Medium Block -->
+<table align="center" class="fluid95" border="0" cellpadding="0" cellspacing="0" width="88%" style="border-collapse: collapse">
+<tr>
+<td height="25"></td>
+</tr>
+<tr>
+<td class="font16" align="center" style="font-family: Georgia, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 20px; letter-spacing: normal; line-height: 155%; color: #444444;">
+This trio of sauces will spice things up—eggs, pizza, you name it. It comes in a gold-foiled gift box, so you won’t be needing any wrapping paper.	
+</td>
+</tr>
+<tr>
+<td height="25"></td>
+</tr>
+</table>
+<!-- /Subtext Medium Block -->
+<!-- CTA  -->
+<table cellpadding="0" class="fluid" cellspacing="0" border="0" width="100%">
+<tr>
+<td align="center" style="padding-top: 10px; padding-bottom: 10px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
+<tr>
+<td align="center" style="border-collapse: collapse; background-color:#2d4558;">
+<div><!--[if mso]>
+<v:rect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://food52.com/shop/products/5032" style="height:48px;v-text-anchor:middle;width:200px;" stroke="f" fillcolor="#2d4558">
+<w:anchorlock/>
+<center>
+<![endif]-->
+<a class="font14" href="https://l.food52.com/click/24048320.1440931/aHR0cHM6Ly9mb29kNTIuY29tL3Nob3AvcHJvZHVjdHMvNTAzMj91dG1fdGVybT0yNDA0ODMyMCZ1dG1fY2FtcGFpZ249MjQwNDgzMjBfMjAyMTA2MDRfc2hvcF90cnVmZl9ub25idXllcg/60b14c9ea8ae852e44730093C770c15b0" style="background-color:#2d4558;color:#ffffff;display:inline-block;font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;;font-size:18px;font-weight:normal;line-height:48px;text-align:center;text-decoration:none;width:200px;-webkit-text-size-adjust:none; text-transform: uppercase;">Shop Now</a>
+<!--[if mso]>
+</center>
+</v:rect>
+<![endif]--></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!-- /CTA  -->
+</td>
+</tr>
+<tr>
+<td align="center" height="30"><!-- Divider -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td align="center">
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="90%" class="fluid90" style="border-collapse: collapse;">
+<tr>
+<td height="15"></td>
+</tr>
+<tr>
+<td align="center">
+<a title="Divider" href=""><img src="https://media.sailthru.com/3sg/1k5/1/6/5ff5efabe4d7f.png" alt="Divider" width="600" class="resizeimg" style="display: block; margin: 0 auto;" border="0" /></a>
+</td>
+</tr>
+<tr>
+<td height="15"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!-- /Divider --></td>
+</tr>
+</table>
+<!-- /Hero DEK CTA -->
+<!-- Large RC - 1x1  -->
+<table width="100%" bgcolor="#F5F3F1" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td height="20"></td>
+</tr>
+<tr>
+<td align="center" valign="middle" style="vertical-align:middle; border-collapse: collapse; font-family: 'HelveticaNeue-Medium', Helvetica, Arial, sans-serif;">
+<!-- Headline Text Block -->
+<table align="center" style="border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; text-align: center; width: 520px; height: 46px;">
+<tr>
+<td align="center" style="border-collapse: collapse; padding-bottom: 15px; padding-top: 15px; font-family: Georgia, HelveticaNeue-CondensedBold, Roboto-CondensedBold, Roboto-Bold, Helvetica-Bold, Arial-Bold, sans-serif-condensed, sans-serif; font-weight: bold; font-size: 25px; line-height: 1.4; text-align: center; color: #444444;">
+Hot Stuff
+</td>
+</tr>
+</table>
+<!-- /Headline Text Block -->
+<!-- Image Block -->
+<table align="center" cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td align="center">
+<a target="_blank" href="https://l.food52.com/click/24048320.1440931/aHR0cHM6Ly9mb29kNTIuY29tL3Nob3AvcHJvZHVjdHMvNTAzMj91dG1fdGVybT0yNDA0ODMyMCZ1dG1fY2FtcGFpZ249MjQwNDgzMjBfMjAyMTA2MDRfc2hvcF90cnVmZl9ub25idXllcg/60b14c9ea8ae852e44730093D770c15b0" style="display: block; margin: 0; text-align: center; text-decoration: none"><img src="https://media.sailthru.com/3sg/1k5/6/3/60b940a20ce42.jpg" alt="TRUFF Truffle-Infused Hot Sauce" width="520" height="520" class="resizeimg90"  style="display: block; margin: 0 auto; border: none;" border="0" /></a>
+</td>
+</tr>
+</table>
+<!-- /Image Block -->
+<!-- Subtext Medium Block -->
+<table align="center" class="fluid95" border="0" cellpadding="0" cellspacing="0" width="88%" style="border-collapse: collapse">
+<tr>
+<td class="font15" align="center" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 18px; letter-spacing: normal; line-height: 150%; color: #444444; padding-top: 15px; padding-bottom: 15px;">
+White truffles are only in season for a short while—this flavor-packed hot sauce shows off their rich flavor (and adds zip to every bite). Get it while it's...well, you know.
+</td>
+</tr>
+</table>
+<!-- /Subtext Medium Block -->
+<!-- CTA  -->
+<table cellpadding="0" class="fluid" cellspacing="0" border="0" width="100%">
+<tr>
+<td align="center" style="padding-top: 30px; padding-bottom: 10px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
+<tr>
+<td align="center" style="border-collapse: collapse; background-color:#2d4558;">
+<div><!--[if mso]>
+<v:rect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://food52.com/shop/products/5032" style="height:48px;v-text-anchor:middle;width:200px;" stroke="f" fillcolor="#2d4558">
+<w:anchorlock/>
+<center>
+<![endif]-->
+<a class="font14" href="https://l.food52.com/click/24048320.1440931/aHR0cHM6Ly9mb29kNTIuY29tL3Nob3AvcHJvZHVjdHMvNTAzMj91dG1fdGVybT0yNDA0ODMyMCZ1dG1fY2FtcGFpZ249MjQwNDgzMjBfMjAyMTA2MDRfc2hvcF90cnVmZl9ub25idXllcg/60b14c9ea8ae852e44730093E770c15b0" style="background-color:#2d4558;color:#ffffff;display:inline-block;font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;;font-size:18px;font-weight:normal;line-height:48px;text-align:center;text-decoration:none;width:200px;-webkit-text-size-adjust:none; text-transform: uppercase;">Shop Now</a>
+<!--[if mso]>
+</center>
+</v:rect>
+<![endif]--></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!-- /CTA  -->
+</td>
+</tr>
+<tr>
+<td align="center" height="30"><!-- Divider -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td align="center">
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="90%" class="fluid90" style="border-collapse: collapse;">
+<tr>
+<td height="15"></td>
+</tr>
+<tr>
+<td align="center">
+<a title="Divider" href=""><img src="https://media.sailthru.com/3sg/1k5/1/6/5ff5efabe4d7f.png" alt="Divider" width="600" class="resizeimg" style="display: block; margin: 0 auto;" border="0" /></a>
+</td>
+</tr>
+<tr>
+<td height="15"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!-- /Divider --></td>
+</tr>
+</table>
+<!-- /Large RC - 1x1  -->
+<!-- Customer Quote -->
+<table align="center" width="100%" border="0" bgcolor="#F5F3F1" cellspacing="0" cellpadding="0" class="fluid custqbg" style="border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; text-align: center; width: 600px; color: #444444">
+<tr>
+<td align="center" style="border-collapse: collapse;">
+<table align="center" width="88%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+<tr>
+<td height="15"></td>
+</tr>
+<tr>
+<td align="center" style="border-collapse: collapse;">
+<img src="https://media.sailthru.com/3sg/1k4/a/8/5f7ef564e7748.png" border="0" width="26" height="26" align="center" alt="" style="-ms-interpolation-mode: bicubic; height: auto !important; max-width: 100%; outline: none; text-decoration: none; width: 26px" />
+</td>
+</tr>
+<tr>
+<td height="12"></td>
+</tr>
+<tr>
+<td class="font16" align="center" style="border-collapse: collapse; color: #444444; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 23px; font-style: italic; font-weight: normal; letter-spacing: normal; line-height: 156%;">
+The white truffle sauce tastes almost creamy, and a little goes a long way. The trio was a great gift for my hot-sauce-loving husband.		
+</td>
+</tr>
+<tr>
+<td height="12"></td>
+</tr>
+<tr>
+<td align="center" style="border-collapse: collapse;">
+<img src="https://media.sailthru.com/3sg/1k4/a/8/5f7ef583a1b7b.png" border="0" width="26" height="26" alt="" style="-ms-interpolation-mode: bicubic; height: auto !important; max-width: 100%; outline: none; text-decoration: none; width: 26px" />
+</td>
+</tr>
+<tr>
+<td height="15"></td>
+</tr>
+<tr>
+<td class="font12" align="center" style="border-collapse: collapse; color: #444444; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; font-weight: 500; letter-spacing: normal; line-height: 145%; text-transform: uppercase;">
+<strong>Candyurbanski</strong>
+</td>
+</tr>
+<tr>
+<td class="font12" align="center" style="border-collapse: collapse; color: #444444; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; letter-spacing: normal; line-height: 145%; font-style: italic;">
+A Food52 Community Member with great taste
+</td>
+</tr>
+<tr>
+<td height="10"></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td align="center" height="20"></td>
+</tr>
+</table>
+<!-- /Customer Quote -->
+<!-- Product Grid -->
+<table class="descprodgrid" width="100%" bgcolor="#FFFFFF" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td height="30"></td>
+</tr>
+<tr>
+<td align="center">
+<!-- Headline Text Block -->
+<table class="descprodgrid" align="center" style="border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; text-align: center; width: 520px; height: 46px;">
+<tr>
+<td class="font18" align="center" style="font-family: Georgia, HelveticaNeue-CondensedBold, Roboto-CondensedBold, Roboto-Bold, Helvetica-Bold, Arial-Bold, sans-serif-condensed, sans-serif; font-weight: bold; font-size: 25px; line-height: 140%; text-align: center; color: #444444;">
+More Surefire Gifts
+</td>
+</tr>
+</table>
+<!-- /Headline Text Block -->  
+<!--Product Grid 1-->
+<table class="fluid90" align="center" border="0" cellpadding="0" cellspacing="0" width="90%">
+<tr>
+<!--Product Grid ROW 1 - COL 1-->
+<td align="center" width="50%" valign="top">
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="center">
+<table cellpadding="0" cellspacing="0" border="0" width="100%" style="border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%;">
+<tr>
+<td height="20"></td>
+</tr>
+<tr>
+<td align="center">
+<a href="https://l.food52.com/click/24048320.1440931/aHR0cHM6Ly9mb29kNTIuY29tL3Nob3AvcHJvZHVjdHMvODQ0OT91dG1fdGVybT0yNDA0ODMyMCZ1dG1fY2FtcGFpZ249MjQwNDgzMjBfMjAyMTA2MDRfc2hvcF90cnVmZl9ub25idXllcg/60b14c9ea8ae852e44730093B38e0c5fd"><img src="https://media.sailthru.com/3sg/1k5/6/3/60b92d538ad18.jpg" alt="S'well Insulated Koozie" width="252" height="252" class="resizeimg95" style="display: block; margin:0 auto;" border="0"></a>
+</td>
+</tr>
+<tr>
+<td height="15" class="noshow"></td>
+<td height="9" class="mobshow" style="display:none"></td>
+</tr>
+<tr>
+<td align="center">
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="90%">
+<tr>
+<td class="font14" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; font-weight: normal;  line-height: 140%; text-align: center;color: #444444; ">
+<a target="_blank" href="https://l.food52.com/click/24048320.1440931/aHR0cHM6Ly9mb29kNTIuY29tL3Nob3AvcHJvZHVjdHMvODQ0OT91dG1fdGVybT0yNDA0ODMyMCZ1dG1fY2FtcGFpZ249MjQwNDgzMjBfMjAyMTA2MDRfc2hvcF90cnVmZl9ub25idXllcg/60b14c9ea8ae852e44730093C38e0c5fd" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; font-weight: normal;  line-height: 140%; text-align: center;color: #444444; text-decoration:none;">S'well Insulated Koozie&nbsp;<img src="https://media.sailthru.com/3sg/1k4/a/8/5f7eed518f447.png" width="18" style="display: inline-block; vertical-align:middle" border="0"></a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+<!-- /Product Grid 1 - COL 1-->
+<!-- Product Grid ROW 1 - COL 2-->
+<td align="center" width="50%" valign="top">
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="center" valign="top">
+<table cellpadding="0" cellspacing="0" border="0" width="100%" style="border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%;">
+<tr>
+<td height="20"></td>
+</tr>
+<tr>
+<td align="center" valign="top">
+<a href="https://l.food52.com/click/24048320.1440931/aHR0cHM6Ly9mb29kNTIuY29tL3Nob3AvcHJvZHVjdHMvODQzMT91dG1fdGVybT0yNDA0ODMyMCZ1dG1fY2FtcGFpZ249MjQwNDgzMjBfMjAyMTA2MDRfc2hvcF90cnVmZl9ub25idXllcg/60b14c9ea8ae852e44730093Bfdfa7889"><img src="https://media.sailthru.com/3sg/1k5/6/3/60b8f271b77cf.jpg" alt="Everdure CUBE Portable Charcoal Grill" width="252" height="252" class="resizeimg95" style="display: block; margin:0 auto;" border="0"></a>
+</td>
+</tr>
+<tr>
+<td height="15" class="noshow"></td>
+<td height="9" class="mobshow" style="display:none"></td>
+</tr>
+<tr>
+<td align="center">
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="90%">
+<tr>
+<td class="font14" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; font-weight: normal;  line-height: 140%; text-align: center;color: #444444; ">
+<a target="_blank" href="https://l.food52.com/click/24048320.1440931/aHR0cHM6Ly9mb29kNTIuY29tL3Nob3AvcHJvZHVjdHMvODQzMT91dG1fdGVybT0yNDA0ODMyMCZ1dG1fY2FtcGFpZ249MjQwNDgzMjBfMjAyMTA2MDRfc2hvcF90cnVmZl9ub25idXllcg/60b14c9ea8ae852e44730093Cfdfa7889" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; font-weight: normal;  line-height: 140%; text-align: center;color: #444444; text-decoration:none;">Everdure CUBE Portable Charcoal Grill&nbsp;<img src="https://media.sailthru.com/3sg/1k4/a/8/5f7eed518f447.png" width="18" style="display: inline-block; vertical-align:middle" border="0"></a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+<!-- /Product Gride ROW 1 - COL 2-->
+</tr>
+</table>
+<!-- /Product Grid 1-->
+<!--Product Grid 2-->
+<table class="fluid90" align="center" border="0" cellpadding="0" cellspacing="0" width="90%">
+<tr>
+<!--Product Grid ROW 2 - COL 1-->
+<td align="center" width="50%" valign="top">
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="center">
+<table cellpadding="0" cellspacing="0" border="0" width="100%" style="border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%;">
+<tr>
+<td height="20"></td>
+</tr>
+<tr>
+<td align="center">
+<a href="https://l.food52.com/click/24048320.1440931/aHR0cHM6Ly9mb29kNTIuY29tL3Nob3AvcHJvZHVjdHMvNzg4NT91dG1fdGVybT0yNDA0ODMyMCZ1dG1fY2FtcGFpZ249MjQwNDgzMjBfMjAyMTA2MDRfc2hvcF90cnVmZl9ub25idXllcg/60b14c9ea8ae852e44730093B8d3c48a9"><img src="https://media.sailthru.com/3sg/1k5/6/3/60b8f27fa585a.jpg" alt="Westholme Wagyu Beef" width="252" height="252" class="resizeimg95" style="display: block; margin:0 auto;" border="0"></a>
+</td>
+</tr>
+<tr>
+<td height="15" class="noshow"></td>
+<td height="9" class="mobshow" style="display:none"></td>
+</tr>
+<tr>
+<td align="center">
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="90%">
+<tr>
+<td class="font14" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; font-weight: normal;  line-height: 140%; text-align: center;color: #444444; ">
+<a target="_blank" href="https://l.food52.com/click/24048320.1440931/aHR0cHM6Ly9mb29kNTIuY29tL3Nob3AvcHJvZHVjdHMvNzg4NT91dG1fdGVybT0yNDA0ODMyMCZ1dG1fY2FtcGFpZ249MjQwNDgzMjBfMjAyMTA2MDRfc2hvcF90cnVmZl9ub25idXllcg/60b14c9ea8ae852e44730093C8d3c48a9" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; font-weight: normal;  line-height: 140%; text-align: center;color: #444444; text-decoration:none;">Westholme Wagyu Beef&nbsp;<img src="https://media.sailthru.com/3sg/1k4/a/8/5f7eed518f447.png" width="18" style="display: inline-block; vertical-align:middle" border="0"></a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+<!-- /Product Grid ROW 2 - COL 1-->
+<!-- Product Grid ROW 2 - COL 2-->
+<td align="center" width="50%" valign="top">
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="center" valign="top">
+<table cellpadding="0" cellspacing="0" border="0" width="100%" style="border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%;">
+<tr>
+<td height="20"></td>
+</tr>
+<tr>
+<td align="center" valign="top">
+<a href="https://l.food52.com/click/24048320.1440931/aHR0cHM6Ly9mb29kNTIuY29tL3Nob3AvcHJvZHVjdHMvODQzMj91dG1fdGVybT0yNDA0ODMyMCZ1dG1fY2FtcGFpZ249MjQwNDgzMjBfMjAyMTA2MDRfc2hvcF90cnVmZl9ub25idXllcg/60b14c9ea8ae852e44730093B19b5fdde"><img src="https://media.sailthru.com/3sg/1k5/6/3/60b92dd14fd60.jpg" alt="Everdure Premium Grilling Tools" width="252" height="252" class="resizeimg95" style="display: block; margin:0 auto;" border="0"></a>
+</td>
+</tr>
+<tr>
+<td height="15" class="noshow"></td>
+<td height="9" class="mobshow" style="display:none"></td>
+</tr>
+<tr>
+<td align="center">
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="90%">
+<tr>
+<td class="font14" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; font-weight: normal;  line-height: 140%; text-align: center;color: #444444; ">
+<a target="_blank" href="https://l.food52.com/click/24048320.1440931/aHR0cHM6Ly9mb29kNTIuY29tL3Nob3AvcHJvZHVjdHMvODQzMj91dG1fdGVybT0yNDA0ODMyMCZ1dG1fY2FtcGFpZ249MjQwNDgzMjBfMjAyMTA2MDRfc2hvcF90cnVmZl9ub25idXllcg/60b14c9ea8ae852e44730093C19b5fdde" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; font-weight: normal;  line-height: 140%; text-align: center;color: #444444; text-decoration:none;">Everdure Premium Grilling Tools&nbsp;<img src="https://media.sailthru.com/3sg/1k4/a/8/5f7eed518f447.png" width="18" style="display: inline-block; vertical-align:middle" border="0"></a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+<!-- /Product Gride ROW 2 - COL 2-->
+</tr>
+</table>
+<!-- /Product Grid 2-->
+<!--Product Grid 3-->
+<table class="fluid90" align="center" border="0" cellpadding="0" cellspacing="0" width="90%">
+<tr>
+<!--Product Grid ROW 3 - COL 1-->
+<td align="center" width="50%" valign="top">
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="center">
+<table cellpadding="0" cellspacing="0" border="0" width="100%" style="border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%;">
+<tr>
+<td height="20"></td>
+</tr>
+<tr>
+<td align="center">
+<a href="https://l.food52.com/click/24048320.1440931/aHR0cHM6Ly9mb29kNTIuY29tL3Nob3AvcHJvZHVjdHMvNzI0Mz91dG1fdGVybT0yNDA0ODMyMCZ1dG1fY2FtcGFpZ249MjQwNDgzMjBfMjAyMTA2MDRfc2hvcF90cnVmZl9ub25idXllcg/60b14c9ea8ae852e44730093B3a69ec9a"><img src="https://media.sailthru.com/3sg/1k5/6/3/60b8f299b3f71.jpg" alt="Tame to Insane Hot Sauce Box" width="252" height="252" class="resizeimg95" style="display: block; margin:0 auto;" border="0"></a>
+</td>
+</tr>
+<tr>
+<td height="15" class="noshow"></td>
+<td height="9" class="mobshow" style="display:none"></td>
+</tr>
+<tr>
+<td align="center">
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="90%">
+<tr>
+<td class="font14" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; font-weight: normal;  line-height: 140%; text-align: center;color: #444444; ">
+<a target="_blank" href="https://l.food52.com/click/24048320.1440931/aHR0cHM6Ly9mb29kNTIuY29tL3Nob3AvcHJvZHVjdHMvNzI0Mz91dG1fdGVybT0yNDA0ODMyMCZ1dG1fY2FtcGFpZ249MjQwNDgzMjBfMjAyMTA2MDRfc2hvcF90cnVmZl9ub25idXllcg/60b14c9ea8ae852e44730093C3a69ec9a" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; font-weight: normal;  line-height: 140%; text-align: center;color: #444444; text-decoration:none;">Tame to Insane Hot Sauce Box&nbsp;<img src="https://media.sailthru.com/3sg/1k4/a/8/5f7eed518f447.png" width="18" style="display: inline-block; vertical-align:middle" border="0"></a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+<!-- /Product Grid ROW 3 - COL 1-->
+<!-- Product Grid ROW 3 - COL 2-->
+<td align="center" width="50%" valign="top">
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="center" valign="top">
+<table cellpadding="0" cellspacing="0" border="0" width="100%" style="border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%;">
+<tr>
+<td height="20"></td>
+</tr>
+<tr>
+<td align="center" valign="top">
+<a href="https://l.food52.com/click/24048320.1440931/aHR0cHM6Ly9mb29kNTIuY29tL3Nob3AvcHJvZHVjdHMvNjE5Mj91dG1fdGVybT0yNDA0ODMyMCZ1dG1fY2FtcGFpZ249MjQwNDgzMjBfMjAyMTA2MDRfc2hvcF90cnVmZl9ub25idXllcg/60b14c9ea8ae852e44730093B4f659d1f"><img src="https://media.sailthru.com/3sg/1k5/6/3/60b8f2a70c0cf.jpg" alt="Keep-It-Carbonated Growler" width="252" height="252" class="resizeimg95" style="display: block; margin:0 auto;" border="0"></a>
+</td>
+</tr>
+<tr>
+<td height="15" class="noshow"></td>
+<td height="9" class="mobshow" style="display:none"></td>
+</tr>
+<tr>
+<td align="center">
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="90%">
+<tr>
+<td class="font14" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; font-weight: normal;  line-height: 140%; text-align: center;color: #444444; ">
+<a target="_blank" href="https://l.food52.com/click/24048320.1440931/aHR0cHM6Ly9mb29kNTIuY29tL3Nob3AvcHJvZHVjdHMvNjE5Mj91dG1fdGVybT0yNDA0ODMyMCZ1dG1fY2FtcGFpZ249MjQwNDgzMjBfMjAyMTA2MDRfc2hvcF90cnVmZl9ub25idXllcg/60b14c9ea8ae852e44730093C4f659d1f" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; font-weight: normal;  line-height: 140%; text-align: center;color: #444444; text-decoration:none;">Keep-It-Carbonated Growler&nbsp;<img src="https://media.sailthru.com/3sg/1k4/a/8/5f7eed518f447.png" width="18" style="display: inline-block; vertical-align:middle" border="0"></a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+<!-- /Product Gride ROW 3 - COL 2-->
+</tr>
+</table>
+<!-- /Product Grid 3-->
+</td>
+</tr>
+<tr>
+<td height="20"></td>
+</tr>
+</table>
+<!-- / Product Grid-->
+<!-- Hero HED DEK CTA -->
+<table width="100%" bgcolor="#ffffff" border="0" cellspacing="0" cellpadding="0"> 
+<tr>
+<td height="25" align="center">
+<!-- Divider -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td align="center">
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="90%" class="fluid90" style="border-collapse: collapse;">
+<tr>
+<td height="15"></td>
+</tr>
+<tr>
+<td align="center">
+<a title="Divider" href=""><img src="https://media.sailthru.com/3sg/1k5/1/6/5ff5efabe4d7f.png" alt="Divider" width="600" class="resizeimg" style="display: block; margin: 0 auto;" border="0" /></a>
+</td>
+</tr>
+<tr>
+<td height="15"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!-- /Divider -->
+</td>
+</tr>  
+</table>
+<!-- /Hero HED DEK CTA -->
+<!-- Footer Banner Large -->
+<table class="footer__banner content-block" cellpadding="0" cellspacing="0" border="0" style="border-collapse: collapse; color: #666; line-height: 1.5; margin: 0 0 25px; mso-table-lspace: 0pt; mso-table-rspace: 0pt; text-align: center; width: 100%">
+<tr>
+<td class="content-item" style="border-collapse: collapse; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; line-height: 1.5; margin-bottom: 12px; padding: 0">
+<a href="https://l.food52.com/click/24048320.1440931/aHR0cHM6Ly9mb29kNTIuY29tL3Nob3AvY29sbGVjdGlvbnMvZmF0aGVycy1kYXktZ2lmdHM_dXRtX3Rlcm09MjQwNDgzMjAmdXRtX2NhbXBhaWduPTI0MDQ4MzIwXzIwMjEwNjA0X3Nob3BfdHJ1ZmZfbm9uYnV5ZXI/60b14c9ea8ae852e44730093Bc922cb17"><img class="imagefix footer__banner-large" width="560" alt="Dad-Approved Gifts - The Father's Day Roundup" src="https://media.sailthru.com/3sg/1k5/6/3/60b9067a1c677.jpg" style="-ms-interpolation-mode: bicubic; border: none; height: auto !important; max-height: 373px; max-width: 100%; outline: none; text-decoration: none" /></a>
+</td>
+</tr>
+</table>
+<!-- /Footer Banner Large -->
+<!-- Article Grid -->
+<table class="artgrid" width="100%" bgcolor="#F2EFEE" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td height="30"></td>
+</tr>
+<tr>
+<td align="center">
+<!-- Headline Text Block -->
+<table align="center" class="fluid90" border="0" cellpadding="0" cellspacing="0" width="87%" style="border-collapse: collapse">       	
+<tr>
+<td class="font26" align="center" style="font-family: Georgia, HelveticaNeue-CondensedBold, Roboto-CondensedBold, Roboto-Bold, Helvetica-Bold, Arial-Bold, sans-serif-condensed, sans-serif; font-weight: bold; font-size: 25px; line-height: 140%; text-align: center; color: #444444; padding-bottom: 10px;">
+Here's to Them
+</td>
+</tr>
+</table>
+<!-- /Headline Text Block -->
+<!-- Main Article Image-->
+<table align="center" cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td align="center">
+<a target="_blank" href="https://l.food52.com/click/24048320.1440931/aHR0cHM6Ly9mb29kNTIuY29tL2Jsb2cvMTMxMjU_dXRtX3Rlcm09MjQwNDgzMjAmdXRtX2NhbXBhaWduPTI0MDQ4MzIwXzIwMjEwNjA0X3Nob3BfdHJ1ZmZfbm9uYnV5ZXI/60b14c9ea8ae852e44730093Bffea4d04" style="display: block; margin: 0; text-align: center; text-decoration: none"><img src="https://media.sailthru.com/3sg/1k5/6/3/60b8f42e1a593.jpg" alt="15 Father’s Day Breakfast Recipes the Whole Family Will Love" width="520" height="347" class="resizeimg90" style="display: block; margin: 0 auto;" border="0" /></a>
+</td>
+</tr>
+</table>
+<!-- /Main Article Image-->
+<!-- Main Article Text Block -->
+<table align="center" class="fluid95" border="0" cellpadding="0" cellspacing="0" width="88%" style="border-collapse: collapse">
+<tr>
+<td height="15" class="noshow"></td>
+<td height="9" class="mobshow" style="display:none"></td>
+</tr>
+<tr>
+<td class="font15" align="center" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 17px; letter-spacing: normal; line-height: 150%; color: #444444;">
+<a target="_blank" href="https://l.food52.com/click/24048320.1440931/aHR0cHM6Ly9mb29kNTIuY29tL2Jsb2cvMTMxMjU_dXRtX3Rlcm09MjQwNDgzMjAmdXRtX2NhbXBhaWduPTI0MDQ4MzIwXzIwMjEwNjA0X3Nob3BfdHJ1ZmZfbm9uYnV5ZXI/60b14c9ea8ae852e44730093Cffea4d04" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 17px; font-weight: normal;  line-height: 140%; text-align: center;color: #444444; text-decoration:none;">15 Father’s Day Breakfast Recipes the Whole Family Will Love&nbsp;<img src="https://media.sailthru.com/3sg/1k4/a/8/5f7eed518f447.png" width="18" style="display: inline-block; vertical-align:middle" border="0"></a>
+</td>
+</tr>
+<tr>
+<td height="20" class="noshow"></td>
+<td height="15" class="mobshow" style="display:none"></td>
+</tr>
+</table>
+<!-- /Main Article Text Block -->
+<!-- Sub Article -->
+<table class="fluid90" align="center" border="0" cellpadding="0" cellspacing="0" width="90%">
+<tr>
+<td align="center" width="50%" valign="top">
+<!-- Sub Article ROW 1 COL 1-->
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="center" valign="top">
+<table class="fluid" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="center">
+<a href="https://l.food52.com/click/24048320.1440931/aHR0cHM6Ly9mb29kNTIuY29tL2Jsb2cvMjYyMDQ_dXRtX3Rlcm09MjQwNDgzMjAmdXRtX2NhbXBhaWduPTI0MDQ4MzIwXzIwMjEwNjA0X3Nob3BfdHJ1ZmZfbm9uYnV5ZXI/60b14c9ea8ae852e44730093B5b59c243"><img src="https://media.sailthru.com/3sg/1k5/6/3/60b8f5ac52d42.jpg" alt="22 Ultra-Refreshing Summer Cocktails (Shaken, Stirred, Frozen)" width="252" height="252" class="resizeimg95" style="display: block; margin:0 auto;" border="0"></a>
+</td>
+</tr>
+<tr>
+<td height="15" class="noshow"></td>
+<td height="9" class="mobshow" style="display:none"></td>
+</tr>
+<tr>
+<td align="center">
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="90%">
+<tr>
+<td class="font15" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 17px; font-weight: normal;  line-height: 140%; text-align: center;color: #444444;"><a target="_blank" href="https://l.food52.com/click/24048320.1440931/aHR0cHM6Ly9mb29kNTIuY29tL2Jsb2cvMjYyMDQ_dXRtX3Rlcm09MjQwNDgzMjAmdXRtX2NhbXBhaWduPTI0MDQ4MzIwXzIwMjEwNjA0X3Nob3BfdHJ1ZmZfbm9uYnV5ZXI/60b14c9ea8ae852e44730093C5b59c243" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 17px; font-weight: normal;  line-height: 140%; text-align: center;color: #444444; text-decoration:none;">22 Ultra-Refreshing Summer Cocktails (Shaken, Stirred, Frozen)&nbsp;<img src="https://media.sailthru.com/3sg/1k4/a/8/5f7eed518f447.png" width="18" style="display: inline-block; vertical-align:middle" border="0"></a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!-- /Sub Article ROW 1 COL 1-->
+</td>
+<td align="center" width="50%" valign="top">
+<!-- Sub Article ROW 1 COL 2-->
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="center">
+<table class="fluid" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="center">
+<a href="https://l.food52.com/click/24048320.1440931/aHR0cHM6Ly9mb29kNTIuY29tL2Jsb2cvMjI0ODc_dXRtX3Rlcm09MjQwNDgzMjAmdXRtX2NhbXBhaWduPTI0MDQ4MzIwXzIwMjEwNjA0X3Nob3BfdHJ1ZmZfbm9uYnV5ZXI/60b14c9ea8ae852e44730093Bce98e846"><img src="https://media.sailthru.com/3sg/1k5/6/3/60b8f76014acd.jpg" alt="The 13 Best Father's Day Cakes for Dads (&amp; People Who Love Cake)" width="252" height="252" class="resizeimg95" style="display: block; margin:0 auto;" border="0"></a>
+</td>
+</tr>
+<tr>
+<td height="15" class="noshow"></td>
+<td height="9" class="mobshow" style="display:none"></td>
+</tr>
+<tr>
+<td align="center">
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="90%">
+<tr>
+<td class="font15" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 17px; font-weight: normal;  line-height: 140%; text-align: center;color: #444444;"><a target="_blank" href="https://l.food52.com/click/24048320.1440931/aHR0cHM6Ly9mb29kNTIuY29tL2Jsb2cvMjI0ODc_dXRtX3Rlcm09MjQwNDgzMjAmdXRtX2NhbXBhaWduPTI0MDQ4MzIwXzIwMjEwNjA0X3Nob3BfdHJ1ZmZfbm9uYnV5ZXI/60b14c9ea8ae852e44730093Cce98e846" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 17px; font-weight: normal;  line-height: 140%; text-align: center;color: #444444; text-decoration:none;">The 13 Best Father's Day Cakes for Dads (& People Who Love Cake)&nbsp;<img src="https://media.sailthru.com/3sg/1k4/a/8/5f7eed518f447.png" width="18" style="display: inline-block; vertical-align:middle" border="0"></a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!-- Sub Article ROW 1 COL 2-->
+</td>
+</tr>
+</table>
+<!-- /Sub Article -->
+</td>
+</tr>
+<tr>
+<td height="30"></td>
+</tr>
+</table>
+<!-- /Article Grid -->
+<!-- FOOTER START -->
+<table border="0" width="100%" align="center" style="border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+<tr>
+<td align="center" style="padding-top: 15px;">
+<table border="0" width="100%" align="center" bgcolor="#f7f7f7" style="border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+<tr>
+<td align="center" valign="middle" style="vertical-align:middle; border-collapse: collapse;">
+<!-- FOOTER.MENU DESKTOP-->
+<table class="desk footerbg" width="100%" cellpadding="0" cellspacing="0" border="0" style=" text-align: center; width: 100%"  bgcolor="#f7f7f7">
+<tr>
+<td width="100%" align="center" valign="middle" style="vertical-align:middle; border-collapse: collapse; padding-top: 10px; padding-bottom: 10px;">
+<table border="0" width="520" align="center" style="border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+<tr>
+<td width="33%" style="border-collapse: collapse; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding: 0; text-align: center" align="center">
+<a href="https://l.food52.com/click/24048320.1440931/aHR0cDovL2Zvb2Q1Mi5jb20vc2hvcD91dG1fdGVybT0yNDA0ODMyMCZ1dG1fY2FtcGFpZ249MjQwNDgzMjBfMjAyMTA2MDRfc2hvcF90cnVmZl9ub25idXllcg/60b14c9ea8ae852e44730093B3d0283a4" target="_blank" style="color: #a18f7a; display: block; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; font-weight: 500; letter-spacing: normal; line-height: 140%; text-decoration: none; text-transform: uppercase">Shop</a>
+</td>
+<td width="33%" style="border-collapse: collapse; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding: 0; text-align: center" align="center">
+<a href="https://l.food52.com/click/24048320.1440931/aHR0cDovL2Zvb2Q1Mi5jb20vcmVjaXBlcz91dG1fdGVybT0yNDA0ODMyMCZ1dG1fY2FtcGFpZ249MjQwNDgzMjBfMjAyMTA2MDRfc2hvcF90cnVmZl9ub25idXllcg/60b14c9ea8ae852e44730093B22bb556f" target="_blank" class="header__nav-middle" style="border-left-color: #d8d8d8; border-left-style: solid; border-left-width: 1px; border-right-color: #d8d8d8; border-right-style: solid; border-right-width: 1px;color: #a18f7a; display: block; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; font-weight: 500; letter-spacing: normal; line-height: 140%; text-decoration: none; text-transform: uppercase">Recipes</a>
+</td>
+<td width="33%" style="border-collapse: collapse; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding: 0; text-align: center" align="center">
+<a href="https://l.food52.com/click/24048320.1440931/aHR0cDovL2Zvb2Q1Mi5jb20vYmxvZz91dG1fdGVybT0yNDA0ODMyMCZ1dG1fY2FtcGFpZ249MjQwNDgzMjBfMjAyMTA2MDRfc2hvcF90cnVmZl9ub25idXllcg/60b14c9ea8ae852e44730093B9d9e84fc" target="_blank" style="color: #a18f7a; display: block; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; font-weight: 500; letter-spacing: normal; line-height: 140%; text-decoration: none; text-transform: uppercase">Articles</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!-- /FOOTER.MENU DESKTOP-->
+<!-- FOOTER.MENU MOBILE-->
+<!--[if !mso]><!-->
+<table class="fluid menubg" bgcolor="#f7f7f7" align="center" border="0" cellpadding="0" cellspacing="0" width="100%" style="display:none">
+<tr>
+<td align="center" style="width: 100%; text-align: center; display: table;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td height="31" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; text-align: center; border-bottom: 1px solid #d8d8d8;" width="100%" align="center">
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="100%" height="31" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; text-align: center; border-bottom: 1px solid #d8d8d8; border-top: 1px solid #d8d8d8;" align="center">
+<a href="https://l.food52.com/click/24048320.1440931/aHR0cDovL2Zvb2Q1Mi5jb20vc2hvcD91dG1fdGVybT0yNDA0ODMyMCZ1dG1fY2FtcGFpZ249MjQwNDgzMjBfMjAyMTA2MDRfc2hvcF90cnVmZl9ub25idXllcg/60b14c9ea8ae852e44730093C3d0283a4" target="_blank" style="color: #a18f7a; display: block; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 12px; font-weight: 500; letter-spacing: normal; line-height: 150%; text-decoration: none; text-transform: uppercase; text-align: center;">Shop</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td height="31" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; text-align: center; border-bottom: 1px solid #d8d8d8;" width="100%" align="center">
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="100%" height="31" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; text-align: center; border-bottom: 1px solid #d8d8d8;" align="center">
+<a href="https://l.food52.com/click/24048320.1440931/aHR0cDovL2Zvb2Q1Mi5jb20vcmVjaXBlcz91dG1fdGVybT0yNDA0ODMyMCZ1dG1fY2FtcGFpZ249MjQwNDgzMjBfMjAyMTA2MDRfc2hvcF90cnVmZl9ub25idXllcg/60b14c9ea8ae852e44730093C22bb556f" target="_blank" style="color: #a18f7a; display: block; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 12px; font-weight: 500; letter-spacing: normal; line-height: 150%; text-decoration: none; text-transform: uppercase; text-align: center;">Recipes</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td height="31" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; text-align: center; border-bottom: 1px solid #d8d8d8;" width="100%" align="center">
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td height="31" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; text-align: center; border-bottom: 1px solid #d8d8d8;" width="100%" align="center">
+<a href="https://l.food52.com/click/24048320.1440931/aHR0cDovL2Zvb2Q1Mi5jb20vYmxvZz91dG1fdGVybT0yNDA0ODMyMCZ1dG1fY2FtcGFpZ249MjQwNDgzMjBfMjAyMTA2MDRfc2hvcF90cnVmZl9ub25idXllcg/60b14c9ea8ae852e44730093C9d9e84fc" target="_blank" style="color: #a18f7a; display: block; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 12px; font-weight: 500; letter-spacing: normal; line-height: 150%; text-decoration: none; text-transform: uppercase; text-align: center;">Articles</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!--<![endif]-->
+<!-- /FOOTER.MENU MOBILE-->
+<!-- FOOTER.SOCIAL -->
+<table class="footerbg" width="100%" bgcolor="#f7f7f7" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td height="15"></td>
+</tr>
+<tr>
+<td align="center" valign="middle" style="vertical-align:middle; border-collapse: collapse; color: #909090; font-size: 13px; font-family: 'HelveticaNeue-Medium', Helvetica, Arial, sans-serif; font-weight: bold; letter-spacing: 0.8px; line-height: 2.15;; text-transform: uppercase;">
+Follow Us
+</td>
+</tr>
+<tr>
+<td height="15"></td>
+</tr>
+<tr>
+<td width="100%" align="center" valign="middle" style="vertical-align:middle; border-collapse: collapse;">
+<table align="center" style="border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+<tr>
+<td align="center" style="padding-left:15px; padding-right: 15px;">
+<a href="https://l.food52.com/click/24048320.1440931/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL2Zvb2Q1Mj91dG1fdGVybT0yNDA0ODMyMCZ1dG1fY2FtcGFpZ249MjQwNDgzMjBfMjAyMTA2MDRfc2hvcF90cnVmZl9ub25idXllcg/60b14c9ea8ae852e44730093B80305535" target="_blank"><img width="30" height="30" src="https://media.sailthru.com/3sg/1k4/a/m/5f91eaac63cad.png" alt="Facebook" style="-ms-interpolation-mode: bicubic; border: none; height: auto !important; outline: none;" /></a>
+</td>
+<td align="center" style="padding-left:15px; padding-right: 15px;">
+<a href="https://l.food52.com/click/24048320.1440931/aHR0cDovL2luc3RhZ3JhbS5jb20vZm9vZDUyP3V0bV90ZXJtPTI0MDQ4MzIwJnV0bV9jYW1wYWlnbj0yNDA0ODMyMF8yMDIxMDYwNF9zaG9wX3RydWZmX25vbmJ1eWVy/60b14c9ea8ae852e44730093Bc74894cb" target="_blank"><img width="30" height="30" src="https://media.sailthru.com/3sg/1k4/a/m/5f91eac2e0b7f.png" alt="Instagram" style="-ms-interpolation-mode: bicubic; border: none; height: auto !important; outline: none;" /></a>
+</td>
+<td align="center" style="padding-left:15px; padding-right: 15px;">
+<a href="https://l.food52.com/click/24048320.1440931/aHR0cHM6Ly90d2l0dGVyLmNvbS9mb29kNTI_dXRtX3Rlcm09MjQwNDgzMjAmdXRtX2NhbXBhaWduPTI0MDQ4MzIwXzIwMjEwNjA0X3Nob3BfdHJ1ZmZfbm9uYnV5ZXI/60b14c9ea8ae852e44730093B41dedce7" target="_blank"><img width="30" height="30" src="https://media.sailthru.com/3sg/1k4/a/m/5f91ebc612127.png" alt="Twitter" style="-ms-interpolation-mode: bicubic; border: none; height: auto !important; outline: none;" /></a>
+</td>
+<td align="center" style="padding-left:15px; padding-right: 15px;">
+<a href="https://l.food52.com/click/24048320.1440931/aHR0cDovL3d3dy5waW50ZXJlc3QuY29tL2Zvb2Q1Mj91dG1fdGVybT0yNDA0ODMyMCZ1dG1fY2FtcGFpZ249MjQwNDgzMjBfMjAyMTA2MDRfc2hvcF90cnVmZl9ub25idXllcg/60b14c9ea8ae852e44730093B9d76ca5f" target="_blank"><img width="30" height="30" src="https://media.sailthru.com/3sg/1k4/a/m/5f91eba9c99c9.png" alt="Pinterest" style="-ms-interpolation-mode: bicubic; border: none; height: auto !important; outline: none;" /></a>
+</td>
+<td align="center" style="padding-left:15px; padding-right: 15px;">
+<a href="https://l.food52.com/click/24048320.1440931/aHR0cHM6Ly93d3cueW91dHViZS5jb20vY2hhbm5lbC9VQ2ZGSThqSWp2SUFwVUFDSjNxamF4Mnc_dXRtX3Rlcm09MjQwNDgzMjAmdXRtX2NhbXBhaWduPTI0MDQ4MzIwXzIwMjEwNjA0X3Nob3BfdHJ1ZmZfbm9uYnV5ZXI/60b14c9ea8ae852e44730093Bba3bc3cc" target="_blank"><img width="30" height="30" src="https://media.sailthru.com/3sg/1k4/a/m/5f91ebe604fb0.png" alt="YouTube"  style="-ms-interpolation-mode: bicubic; border: none; height: auto !important; outline: none; width: 30px" /></a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td height="15"></td>
+</tr>
+</table>
+<!-- /FOOTER.SOCIAL -->
+<!-- FOOTER.PARAGRAPH AND TEXT -->
+<table class="footerbg" bgcolor="#f7f7f7" width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td align="center" style="font-family: 'HelveticaNeue-Medium', Helvetica, Arial, sans-serif; font-size: 10px; text-align: center; color: #909090; line-height: 150%;">
+<a href="https://l.food52.com/view/60b14c9ea8ae852e44730093ebfsw.uvtv/14c77237" style="color: #909090; text-decoration: underline">View in browser</a> | <a href="https://l.food52.com/forward/60b14c9ea8ae852e44730093ebfsw.uvtv/585af9cf" target="_blank" style="color: #909090; text-decoration: underline">Forward this email</a> to a friend.
+<br>
+<a href="https://l.food52.com/oc/60b14c9ea8ae852e44730093ebfsw.uvtv/83f42ed0" target="_blank" style="color: #909090; text-decoration: underline">Click here to unsubscribe or manage your preferences.</a>
+<br>
+&copy; 2021 Food52. All Rights Reserved.
+<br />
+122 West 26th Street, 8th Floor, New York, NY 10001
+</td>
+</tr>
+<tr>
+<td align="center" height="22" style="font-family: 'HelveticaNeue-Medium', Helvetica, Arial, sans-serif; font-size: 10px; text-align: center; color: #909090;">
+<a href="https://l.food52.com/click/24048320.1440931/aHR0cDovL3d3dy5mb29kNTIuY29tP3V0bV90ZXJtPTI0MDQ4MzIwJnV0bV9jYW1wYWlnbj0yNDA0ODMyMF8yMDIxMDYwNF9zaG9wX3RydWZmX25vbmJ1eWVy/60b14c9ea8ae852e44730093B071a81ef"><img src="https://l.food52.com/img/60b14c9ea8ae852e44730093ebfsw.uvtv/703bfe1a.gif" alt="" border="0" /></a>
+</td>
+</tr>
+</table>
+<!-- /FOOTER.PARAGRAPH AND TEXT -->       
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!-- /FOOTER END-->	
+<!-- /MODULES AND CONTENT GO HERE -->
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</center>
+<!-- Fix for unwanted font increases in gmail. KEEP THIS / DONT ALTER -->
+<div class="gmailfix" style="font: 15px courier; white-space: nowrap">
+</div>
+</body>
+</html>

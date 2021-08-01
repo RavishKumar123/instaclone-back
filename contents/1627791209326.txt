@@ -1,0 +1,457 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<meta content="width=device-width, initial-scale=1" name="viewport">
+<title></title>
+<style type="text/css">@media only screen and (max-width:480px){body,table,td,p,a,li,blockquote{-webkit-text-size-adjust:none !important}body{width:100% !important;min-width:100% !important}#bodyCell{padding:10px !important}table.kmMobileHide{display:none !important}table.kmDesktopOnly,td.kmDesktopOnly,th.kmDesktopOnly,tr.kmDesktopOnly,td.kmDesktopWrapHeaderMobileNone{display:none !important}table.kmMobileOnly{display:table !important}tr.kmMobileOnly{display:table-row !important}td.kmMobileOnly,td.kmDesktopWrapHeader,th.kmMobileOnly{display:table-cell !important}tr.kmMobileNoAlign,table.kmMobileNoAlign{float:none !important;text-align:initial !important;vertical-align:middle !important;table-layout:fixed !important}tr.kmMobileCenterAlign{float:none !important;text-align:center !important;vertical-align:middle !important;table-layout:fixed !important}td.kmButtonCollection{padding-left:9px !important;padding-right:9px !important;padding-top:9px !important;padding-bottom:9px !important}td.kmMobileHeaderStackDesktopNone,img.kmMobileHeaderStackDesktopNone,td.kmMobileHeaderStack{display:block !important;margin-left:auto !important;margin-right:auto !important;padding-bottom:9px !important;padding-right:0 !important;padding-left:0 !important}td.kmMobileWrapHeader,td.kmMobileWrapHeaderDesktopNone{display:inline-block !important}td.kmMobileHeaderSpacing{padding-right:10px !important}td.kmMobileHeaderNoSpacing{padding-right:0 !important}table.kmDesktopAutoWidth{width:inherit !important}table.kmMobileAutoWidth{width:100% !important}table.kmTextContentContainer{width:100% !important}table.kmBoxedTextContentContainer{width:100% !important}td.kmImageContent{padding-left:0 !important;padding-right:0 !important}img.kmImage{width:100% !important}td.kmMobileStretch{padding-left:0 !important;padding-right:0 !important}table.kmSplitContentLeftContentContainer,table.kmSplitContentRightContentContainer,table.kmColumnContainer,td.kmVerticalButtonBarContentOuter table.kmButtonBarContent,td.kmVerticalButtonCollectionContentOuter table.kmButtonCollectionContent,table.kmVerticalButton,table.kmVerticalButtonContent{width:100% !important}td.kmButtonCollectionInner{padding-left:9px !important;padding-right:9px !important;padding-top:9px !important;padding-bottom:9px !important}td.kmVerticalButtonIconContent,td.kmVerticalButtonTextContent,td.kmVerticalButtonContentOuter{padding-left:0 !important;padding-right:0 !important;padding-bottom:9px !important}table.kmSplitContentLeftContentContainer td.kmTextContent,table.kmSplitContentRightContentContainer td.kmTextContent,table.kmColumnContainer td.kmTextContent,table.kmSplitContentLeftContentContainer td.kmImageContent,table.kmSplitContentRightContentContainer td.kmImageContent{padding-top:9px !important}td.rowContainer.kmFloatLeft,td.rowContainer.kmFloatLeft,td.rowContainer.kmFloatLeft.firstColumn,td.rowContainer.kmFloatLeft.firstColumn,td.rowContainer.kmFloatLeft.lastColumn,td.rowContainer.kmFloatLeft.lastColumn{float:left;clear:both;width:100% !important}table.templateContainer,table.templateContainer.brandingContainer,div.templateContainer,div.templateContainer.brandingContainer,table.templateRow{max-width:600px !important;width:100% !important}h1{font-size:40px !important;line-height:1.1 !important}h2{font-size:32px !important;line-height:1.1 !important}h3{font-size:24px !important;line-height:1.1 !important}h4{font-size:18px !important;line-height:1.1 !important}td.kmTextContent{font-size:16px !important;line-height:1.3 !important}td.kmTextBlockInner td.kmTextContent{padding-right:18px !important;padding-left:18px !important}table.kmTableBlock.kmTableMobile td.kmTableBlockInner{padding-left:9px !important;padding-right:9px !important}table.kmTableBlock.kmTableMobile td.kmTableBlockInner .kmTextContent{font-size:16px !important;line-height:1.3 !important;padding-left:4px !important;padding-right:4px !important}}</style>
+<!--[if mso]>
+    <style>
+      
+      .templateContainer {
+        border: 1px solid #ECECEC;
+        background-color: #123034;
+        
+          border-radius: 0px;
+        
+      }
+      #brandingContainer {
+        background-color: transparent !important;
+        border: 0;
+      }
+      
+      
+      .templateContainerInner {
+        padding: 0px;
+      }
+      
+    </style>
+  <![endif]-->
+<style>span.yshortcuts:hover {background-color:none !important;border:none !important}
+span.yshortcuts:active {background-color:none !important;border:none !important}
+span.yshortcuts:focus {background-color:none !important;border:none !important}
+.rowContainer .kmTextContent a:link {color:#748684;font-weight:normal;text-decoration:underline}
+.rowContainer .kmTextContent a:visited {color:#748684;font-weight:normal;text-decoration:underline}
+.kmTable .kmTableRow:last-child > td {border-bottom:none !important}</style></head>
+<body style="margin:0; padding:0; background-color:#FFF">
+
+<div style="display:none !important;visibility:hidden;mso-hide:all;font-size:1px;color:#ffffff;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;">Here’s why and how to start</div>
+<div style="display:none !important;visibility:hidden;mso-hide:all;font-size:1px;color:#ffffff;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;"> ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌</div>
+<center>
+<table align="center" border="0" cellpadding="0" cellspacing="0" data-upload-file-url="/ajax/email-editor/file/upload" data-upload-files-url="/ajax/email-editor/files/upload" id="bodyTable" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; table-layout:auto; margin:0; padding:0; background-color:#FFF; height:100%; width:100%" width="100%">
+<tbody>
+<tr>
+<td align="center" id="bodyCell" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; table-layout:auto; margin:0; border-top:0; padding-bottom:20px; padding-left:20px; padding-right:20px; padding-top:50px; height:100%; width:100%" valign="top">
+<!--[if !mso]><!-->
+<div class="templateContainer" style="background-color:#123034; border:1px solid #ECECEC; border-radius:0; display:table; width:600px">
+<div class="templateContainerInner" style="padding:0">
+<!--<![endif]-->
+<!--[if mso]>
+              <table border="0" cellpadding="0" cellspacing="0" class="templateContainer"  width="600" style="border-collapse:collapse;mso-table-lspace:0;mso-table-rspace:0;">
+              <tbody>
+                <tr>
+                  <td class="templateContainerInner" style="border-collapse:collapse;mso-table-lspace:0;mso-table-rspace:0;">
+            <![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; table-layout:fixed" width="100%">
+<tr>
+<td align="center" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; table-layout:fixed" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" class="templateRow" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; table-layout:fixed" width="100%">
+<tbody>
+<tr>
+<td class="rowContainer kmFloatLeft" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; table-layout:fixed" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" class="kmTextBlock" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; table-layout:fixed" width="100%">
+<tbody class="kmTextBlockOuter">
+<tr>
+<td class="kmTextBlockInner" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; table-layout:fixed; padding-right:10px; background-color:#7D9D92; padding-left:10px" valign="top">
+<table align="left" border="0" cellpadding="0" cellspacing="0" class="kmTextContentContainer" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; table-layout:fixed" width="100%">
+<tbody>
+<tr>
+<td class="kmTextContent" style='border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; table-layout:fixed; color:#748684; font-family:"Helvetica Neue", Arial; font-size:18px; letter-spacing:0; line-height:1.5; max-width:100%; text-align:left; word-wrap:break-word; padding-top:15px; padding-bottom:15px; padding-left:12px; padding-right:12px' valign="top">
+<p style="margin-bottom:0; margin-left:0; margin-right:0; margin-top:0; padding-bottom:0; text-align:center; color:#fff; letter-spacing:1px"><span style="font-size:14px;"><font face="arial, helvetica, sans-serif">USE DISCOUNT CODE <strong>BETTER15 </strong>FOR 15% OFF YOUR FIRST PURCHASE</font></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" class="kmImageBlock" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; table-layout:fixed; min-width:100%" width="100%">
+<tbody class="kmImageBlockOuter">
+<tr>
+<td class="kmImageBlockInner" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; table-layout:fixed; padding:0; padding-top:0; padding-right:0; background-color:#E4ECE6; padding-left:0; padding-bottom:0" valign="top">
+<table align="left" border="0" cellpadding="0" cellspacing="0" class="kmImageContentContainer" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; table-layout:fixed; min-width:100%" width="100%">
+<tbody>
+<tr>
+<td class="kmImageContent" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; table-layout:fixed; font-size:0; padding:0; text-align:center" valign="top">
+<a href="https://trk.klclick1.com/ls/click?upn=3sAUStiohBSplI9tzJBdjDBHNHS0u35oOlgJoC5zK-2FD3tSJBvoxbROHZln6-2FRajHuhgqB5ERDOQ-2FacVT7JipFaiCn13Xt56l-2FuEYoWadf4y7CQoAQu1aTNgBsMjbqq1VOqeQaygF5Ohx6mVOQyGSxXrXBr90HV-2BbpudrYNCxqE-2BXivHmHtvOpe-2FR4JPcN6U3unvGwHSF4ABw2iJ39YkzH7IjyxY64byDBTljkoe7CbOZzzq-2Fwj45RvXOYcdQ1OxWCyPEIPTf-2FMI-2FMEYlHTwF1DZW-2Fu64T6mVLXxmOKdfRHRT-2FpuSVNLIr36e-2FwXl9IX7UzL0wlV42kS-2FYNbJD9SPho6KRAUrLj3P7r7oGOjG-2BvIckhJpvjGAbNqAWTKCCDDPfdvEVh7Ec69y5QOU9AhfBufMLszAdPhYZ9Z3sj4E-2BgdFTkIzTJ7a61jWvRkxvgm2JLqS71QBJkz1iSqBIz1SlHwr7Dh7tnjwWpffvlOaubqLr73mmiDY-2Bris11ZuPgUF4Nih981qlgxhNMjh7yIg9NjHqfhWguli4CdMDOb2sro64zYH6QFWhIvH9iW6K3hoyp8uUad5b5IVKHowHCGC7A-3D-3DmtWr_YTaHu0oW8JrXZuSFMqbRTG2K5CqNwIHnju02tp3wbPfYNinKPrt-2FqBXCQbrJn0QydQME9B8sCU4wWICRkD5Ll9XwLsq2snJuEbvNAGKNA6ipioO5VVrxK13cDGyktk2JCPenKs2OJ2iU93pBWGkEhNpHzobT7G88ZNOqs-2B9DivpUVJHLXCBAsULO4yhLztrwxmbhzlnEZAEjuQV4fUxZbA8sS6zOkXqsgmmwjFBuXMyhsKgMqY3nF7nCl-2FWKC5p4I9eXpFKkd2-2BKR4-2BuB4kr0gbGOc9IttPvohph32iRdAVqpjXi2wsfPLKPF5fEt-2F-2FqMbajtU3jhGlw7hdaURqr7RWRYX1Ax1GPgoZVWqCGKlto5r8WXFnsR5NSEXwyyZG1" style="max-width:100%; word-wrap:break-word" target="_self">
+<img align="center" alt="CBD for Beginners: New to CBD and don't know where to start? We've got you covered." class="kmImage" src="https://d3k81ch9hvuctc.cloudfront.net/company/PuNL8s/images/f478b0f0-3fa8-4b86-8058-9d35c1900b91.png" style="border:0; height:auto; line-height:100%; max-width:1200px; outline:none; text-decoration:none; font-size:12px; padding-bottom:0; vertical-align:top; width:100%; display:inline; padding:0; border-width:0" width="600">
+</a>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" class="kmImageBlock" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; table-layout:fixed; min-width:100%" width="100%">
+<tbody class="kmImageBlockOuter">
+<tr>
+<td class="kmImageBlockInner" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; table-layout:fixed; padding:0; padding-top:10px; padding-right:0; background-color:#FFFEF9; padding-left:0; padding-bottom:10px" valign="top">
+<table align="left" border="0" cellpadding="0" cellspacing="0" class="kmImageContentContainer" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; table-layout:fixed; min-width:100%" width="100%">
+<tbody>
+<tr>
+<td class="kmImageContent" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; table-layout:fixed; font-size:0; padding:0; text-align:center" valign="top">
+<a href="https://trk.klclick1.com/ls/click?upn=3sAUStiohBSplI9tzJBdjKwMwzWBDx4iAjsMdvrD6XWGJ-2FT6OC5D63Hakv9wpssryIEz7sOvEE4XusFfcGd94Ski-2FYozBeTme-2FUAb9ZP9uxwWVXD7Kby4MEByEuZU92KAmh6EUJ0hqwyNNwoP7oHlPtw0XT2LmtlVMJfW2stlxKq6H1fK6M5OWRK7QjsZuN72jhRB8BTae-2FAcmIihuDqAqDgK24nl68o9Md9uadMvLmZGf1zml1eK9sNhyoJTEbcdfN-2FzVAKyUTGvn8UoyBC9xwRr2Kns8JgPkD6d5qzn9i3y-2BUhKqOMQqY-2BRSw7akEbF9lZSxZE1m0r-2BaFx47fTDNaRutM42qAL-2BbQHGKNheGy-2BGthvTnx4yQTSgX4nqkTsAQqFWNOSjzoi1HqCh8g6Gt0siPgkqCtHcWKNRNDx95X3YytkkJPLlhFUyQYHWRnu4aRrCGQkjdc53o-2FphAi9SLZc017RYBTs7mWzK-2BPBRWQ6LALqYAz7KobJrzdwr6OnHuccvZcbrLmKum5nmnWUMA-3D-3DzQAL_YTaHu0oW8JrXZuSFMqbRTG2K5CqNwIHnju02tp3wbPfYNinKPrt-2FqBXCQbrJn0QydQME9B8sCU4wWICRkD5Ll9XwLsq2snJuEbvNAGKNA6ipioO5VVrxK13cDGyktk2JCPenKs2OJ2iU93pBWGkEhNpHzobT7G88ZNOqs-2B9DivpUVJHLXCBAsULO4yhLztrwxmbhzlnEZAEjuQV4fUxZbNTCwjUlrc2X3iWprYSIssL863uejzeaaHOgMlA7Z3E0-2FTE2sSVJtIpuFeO5J1JA1allhqURORAkjYn-2BRd7ZBl56F1Hc7X96Y5q-2F-2FFohvdOAqPBB9FgfVwMg-2FeOfRUHS40UA-2F3J3vMlAQQtJgVqLlf6Oq18VAg-2FB4nikoD-2B87vwf" style="max-width:100%; word-wrap:break-word" target="_self">
+<img align="center" alt="Slather it on: R+R CREAM |  750mg CBD + Eucalyptus and Menthol" class="kmImage" src="https://d3k81ch9hvuctc.cloudfront.net/company/PuNL8s/images/b1eeae73-20a1-4b6f-b38d-d2d0525a7745.png" style="border:0; height:auto; line-height:100%; max-width:1200px; outline:none; text-decoration:none; font-size:12px; padding-bottom:0; vertical-align:top; width:100%; display:inline; padding:0; border-width:0" width="600">
+</a>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" class="kmTextBlock" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; table-layout:fixed" width="100%">
+<tbody class="kmTextBlockOuter">
+<tr>
+<td class="kmTextBlockInner" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; table-layout:fixed; padding-right:0; background-color:#FFFEF9; padding-left:0" valign="top">
+<table align="left" border="0" cellpadding="0" cellspacing="0" class="kmTextContentContainer" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; table-layout:fixed" width="100%">
+<tbody>
+<tr>
+<td class="kmTextContent" style='border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; table-layout:fixed; color:#748684; font-family:"Helvetica Neue", Arial; font-size:18px; letter-spacing:0; line-height:1.5; max-width:100%; text-align:left; word-wrap:break-word; padding-top:0; padding-bottom:9px; padding-left:90px; padding-right:90px' valign="top">
+<p style="margin-bottom:0; margin-left:0; margin-right:0; margin-top:0; padding-bottom:0; text-align:center; color:#14312B; letter-spacing:0.25px"><a href="https://trk.klclick1.com/ls/click?upn=3sAUStiohBSplI9tzJBdjKwMwzWBDx4iAjsMdvrD6XWGJ-2FT6OC5D63Hakv9wpssryIEz7sOvEE4XusFfcGd94Ski-2FYozBeTme-2FUAb9ZP9uxwWVXD7Kby4MEByEuZU92KAmh6EUJ0hqwyNNwoP7oHlPtw0XT2LmtlVMJfW2stlxKq6H1fK6M5OWRK7QjsZuN72jhRB8BTae-2FAcmIihuDqAqDgK24nl68o9Md9uadMvLmZGf1zml1eK9sNhyoJTEbc9v-2BSE6K-2F1EKAxSVPhxqveQeHyJOmFWkK0S1uE9CYExMcWyLkCDOjUcGBfVt5dyB6WIIHHioiIwAMnofmWYDg-2BUftJ9KG2yOGly460sIDB6Pjiq0-2BOeVhyrBdRIwiwj8d4P-2FE6U4v2MFl1NQQUdkwvw-3D-3DGc9f_YTaHu0oW8JrXZuSFMqbRTG2K5CqNwIHnju02tp3wbPfYNinKPrt-2FqBXCQbrJn0QydQME9B8sCU4wWICRkD5Ll9XwLsq2snJuEbvNAGKNA6ipioO5VVrxK13cDGyktk2JCPenKs2OJ2iU93pBWGkEhNpHzobT7G88ZNOqs-2B9DivpUVJHLXCBAsULO4yhLztrwxmbhzlnEZAEjuQV4fUxZbF-2B-2F-2FjbEUtQHg55MJhgifkSDN5Zi6Rm2nAe52Fy9k-2B7KG4-2FHYIHy7EWnJQpPBuSv-2F-2BXVtDqGHFTCIXu21dJz05TeGcFljUQGOVtoiqjSWkVdDESuL4QMWZKTKIAvNzy-2FFrDojuCLrx1lx7wjcck7y4xhcXmx-2BrADib-2F2hMYo1apF" style="max-width:100%; color:#14312B; font-weight:normal; text-decoration:none; word-wrap:break-word"><span style="font-family:arial,helvetica,sans-serif;">Soothe and encourage whole-body recovery with our advanced rub.</span></a></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" class="kmButtonBlock" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; table-layout:fixed; width:100%" width="100%">
+<tbody class="kmButtonBlockOuter">
+<tr>
+<td align="center" class="kmButtonBlockInner" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; table-layout:fixed; min-width:60px; padding:9px 18px; padding-top:10px; padding-bottom:30px; background-color:#FFFEF9; padding-left:18; padding-right:18" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" class="kmButtonContentContainer" style="border-collapse:separate; mso-table-lspace:0; mso-table-rspace:0; table-layout:fixed; background-color:#14312B; border-bottom-left-radius:5px; border-bottom-right-radius:5px; border-top-left-radius:5px; border-top-right-radius:5px; border-radius:0" width="">
+<tbody>
+<tr>
+<!--[if !mso]><!-->
+<td align="center" class="kmButtonContent" style='border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; table-layout:fixed; color:#FFF; font-family:"Helvetica Neue", Arial; font-size:16px; letter-spacing:3px; font-weight:normal' valign="middle">
+<a class="kmButton" href="https://trk.klclick1.com/ls/click?upn=3sAUStiohBSplI9tzJBdjKwMwzWBDx4iAjsMdvrD6XWGJ-2FT6OC5D63Hakv9wpssryIEz7sOvEE4XusFfcGd94Ski-2FYozBeTme-2FUAb9ZP9uxwWVXD7Kby4MEByEuZU92KAmh6EUJ0hqwyNNwoP7oHlPtw0XT2LmtlVMJfW2stlxKq6H1fK6M5OWRK7QjsZuN72jhRB8BTae-2FAcmIihuDqAqDgK24nl68o9Md9uadMvLmZGf1zml1eK9sNhyoJTEbcRPSla04x8ukm6pBzHPNL8uD7v6CIEzndTBgfbSd2gyLKLHgporCXVR4J2AdgAoazv4GVMpO6ZnDk6JZEhzTAVrO-2BumGGm28YrroyRW8pZp35AnMSKpa-2BfkOqOPUpUyku-2BnWwM-2Fv-2Bp2j02WDwQ-2FwoGOCV7FamB-2F0RqLBFFhYKvRw-3Dqr4W_YTaHu0oW8JrXZuSFMqbRTG2K5CqNwIHnju02tp3wbPfYNinKPrt-2FqBXCQbrJn0QydQME9B8sCU4wWICRkD5Ll9XwLsq2snJuEbvNAGKNA6ipioO5VVrxK13cDGyktk2JCPenKs2OJ2iU93pBWGkEhNpHzobT7G88ZNOqs-2B9DivpUVJHLXCBAsULO4yhLztrwxmbhzlnEZAEjuQV4fUxZbERy6FWuqzQoPxswAnvCxSYUJaAf2X1KYKri2EyrgDBKTfw8sFAEjSGwfHze5yWGBdBDqIOYrjFyNuuwzjIlHL-2BjaieLWysMBWrppsGDnc59K1baaZvYIMxEvHnHlr53KasI7ReLNM1FVXnAq6tUggcMXjq5rfUBlYg-2BvC6U6ANC" style='max-width:100%; color:#FFF; font-family:"Helvetica Neue", Arial; font-size:16px; font-weight:normal; line-height:100%; text-align:center; text-decoration:none; word-wrap:break-word; display:inline-block; padding-top:15px; padding-bottom:15px; letter-spacing:3px; padding-left:50px; padding-right:50px' target="_self" title="">SHOP R+R CREAM</a>
+</td>
+<!--<![endif]-->
+<!--[if mso]>
+<td align="center" valign="middle" class="kmButtonContent"
+  style="padding:15px; padding-top:15px;padding-bottom:15px;font-size:16px;color:#FFFFFF;letter-spacing:3px;font-weight:normal;padding-left:50px;padding-right:50px;font-family:&quot;Helvetica Neue&quot;, Arial;">
+  <a class="kmButton" title="" href="https://trk.klclick1.com/ls/click?upn=3sAUStiohBSplI9tzJBdjKwMwzWBDx4iAjsMdvrD6XWGJ-2FT6OC5D63Hakv9wpssryIEz7sOvEE4XusFfcGd94Ski-2FYozBeTme-2FUAb9ZP9uxwWVXD7Kby4MEByEuZU92KAmh6EUJ0hqwyNNwoP7oHlPtw0XT2LmtlVMJfW2stlxKq6H1fK6M5OWRK7QjsZuN72jhRB8BTae-2FAcmIihuDqAqDgK24nl68o9Md9uadMvLmZGf1zml1eK9sNhyoJTEbcRPSla04x8ukm6pBzHPNL8uD7v6CIEzndTBgfbSd2gyLKLHgporCXVR4J2AdgAoazv4GVMpO6ZnDk6JZEhzTAVrO-2BumGGm28YrroyRW8pZp35AnMSKpa-2BfkOqOPUpUyku-2BnWwM-2Fv-2Bp2j02WDwQ-2FwoGOCV7FamB-2F0RqLBFFhYKvRw-3DGFnz_YTaHu0oW8JrXZuSFMqbRTG2K5CqNwIHnju02tp3wbPfYNinKPrt-2FqBXCQbrJn0QydQME9B8sCU4wWICRkD5Ll9XwLsq2snJuEbvNAGKNA6ipioO5VVrxK13cDGyktk2JCPenKs2OJ2iU93pBWGkEhNpHzobT7G88ZNOqs-2B9DivpUVJHLXCBAsULO4yhLztrwxmbhzlnEZAEjuQV4fUxZbCAUF7xar7pNtoT2hXZExOIInH1JexxE2lQS-2B2v93fRBPqbkKUO-2FA5ucnGzNOMOqoYolLDo6325fg-2BkG-2Bt-2FMJLwHlpdZpmXuis-2Bi3fORlR4Orf8TTMrK51lno0tesos4VGDETp937GSTShgS-2BtpXEAihuZ72krtWdsHH1XUxo5Qy" target="_self" style='text-decoration:none;padding-top:15px;padding-bottom:15px;font-size:16px;color:#FFFFFF;letter-spacing:3px;font-weight:normal;padding-left:50px;padding-right:50px;font-family:"Helvetica Neue", Arial;; margin-top:-15px;margin-bottom:-15px;margin-left:-50px;margin-right:-50px;'>SHOP R+R CREAM</a>
+</td>
+<![endif]-->
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" class="kmImageBlock" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; table-layout:fixed; min-width:100%" width="100%">
+<tbody class="kmImageBlockOuter">
+<tr>
+<td class="kmImageBlockInner" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; table-layout:fixed; padding:0; padding-top:10px; padding-right:0; background-color:#FFFEF9; padding-left:0; padding-bottom:10px" valign="top">
+<table align="left" border="0" cellpadding="0" cellspacing="0" class="kmImageContentContainer" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; table-layout:fixed; min-width:100%" width="100%">
+<tbody>
+<tr>
+<td class="kmImageContent" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; table-layout:fixed; font-size:0; padding:0; text-align:center" valign="top">
+<a href="https://trk.klclick1.com/ls/click?upn=3sAUStiohBSplI9tzJBdjKwMwzWBDx4iAjsMdvrD6XUkYx-2FCzSEqK0mFhe88cLJFh7biI3ThDZke6QPiJYrRgO4zWogu-2FReXbvhG44bFrEaASpsMF8yYzgtOoC3X-2BDc4tfdxDTyTvoIJt-2F4yUCuPFU8N2XA9-2F87kSkwmgJcCN9RvbnAU4J6q4HZhWurZVXUWnTFN0DEEyuZuE66SaNBwDneij2lVw23hqw4Wt1UETtkjwDg423zHVCa-2B35-2FzHIGjIDNTr8z-2FX49ysltm9pJTftMum7wtwXw2nmVPJg-2BqEX56OpyU-2FWIJWQQBb0gXAl9zVSSggu6EdZTmOhSzv66YEHYcEN30dbd1z36A02-2BxrwaG-2B7Tiedhi3J6-2Bom2UIBUJT-2FAok-2B2t0iE24Y1L8tWegwmda6AHMYmBibdKgUCjQg7OungJbUoRIPYtGzxAgKdXaGCam-2Bshd8YRXfuDplTERfjWWSQgmwbdZjlOxB4NqoGtGqEDfn7TChFIXPaJwqXem283XdpG7e6qISj-2F3vjqXA-3D-3DVKcB_YTaHu0oW8JrXZuSFMqbRTG2K5CqNwIHnju02tp3wbPfYNinKPrt-2FqBXCQbrJn0QydQME9B8sCU4wWICRkD5Ll9XwLsq2snJuEbvNAGKNA6ipioO5VVrxK13cDGyktk2JCPenKs2OJ2iU93pBWGkEhNpHzobT7G88ZNOqs-2B9DivpUVJHLXCBAsULO4yhLztrwxmbhzlnEZAEjuQV4fUxZbBp8fJ2ni7xst6PxwbseOzCB6UzLp6OZt0gGSkvNuNkDYK6HD3BBn17dGMrlIaHkQyW3E4MLr-2FVVVSyV5QE-2BAAltnCqgE0R-2Bxo7xkUX-2FAGoh5TtBmBEsuL0BW78gFzuLErnTgVr8-2FFoGn26lIINrP6BdXhCsy4fzhVGMKBqDZlD0" style="max-width:100%; word-wrap:break-word" target="_self">
+<img align="center" alt="Soak it in: BATH GEM | 25mg CBD + Epsom Salt and Meadowfoam" class="kmImage" src="https://d3k81ch9hvuctc.cloudfront.net/company/PuNL8s/images/6f578d7a-d371-4fd8-a20e-64fbf4fbeaf6.png" style="border:0; height:auto; line-height:100%; max-width:1200px; outline:none; text-decoration:none; font-size:12px; padding-bottom:0; vertical-align:top; width:100%; display:inline; padding:0; border-width:0" width="600">
+</a>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" class="kmTextBlock" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; table-layout:fixed" width="100%">
+<tbody class="kmTextBlockOuter">
+<tr>
+<td class="kmTextBlockInner" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; table-layout:fixed; padding-right:0; background-color:#FFFEF9; padding-left:0" valign="top">
+<table align="left" border="0" cellpadding="0" cellspacing="0" class="kmTextContentContainer" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; table-layout:fixed" width="100%">
+<tbody>
+<tr>
+<td class="kmTextContent" style='border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; table-layout:fixed; color:#748684; font-family:"Helvetica Neue", Arial; font-size:18px; letter-spacing:0; line-height:1.5; max-width:100%; text-align:left; word-wrap:break-word; padding-top:0; padding-bottom:9px; padding-left:90px; padding-right:90px' valign="top">
+<p style="margin-bottom:0; margin-left:0; margin-right:0; margin-top:0; padding-bottom:0; text-align:center; color:#14312B; letter-spacing:0.25px"><a href="https://trk.klclick1.com/ls/click?upn=3sAUStiohBSplI9tzJBdjKwMwzWBDx4iAjsMdvrD6XUkYx-2FCzSEqK0mFhe88cLJFh7biI3ThDZke6QPiJYrRgO4zWogu-2FReXbvhG44bFrEaASpsMF8yYzgtOoC3X-2BDc4tfdxDTyTvoIJt-2F4yUCuPFU8N2XA9-2F87kSkwmgJcCN9RvbnAU4J6q4HZhWurZVXUWnTFN0DEEyuZuE66SaNBwDneij2lVw23hqw4Wt1UETtkjwDg423zHVCa-2B35-2FzHIGjIDNTr8z-2FX49ysltm9pJTfoCUZPSZ1U70gUXcyNsqV2wT5VthEjZdHLaTX2aP6sjQtGwqYzoZBj4e89saefhakfWQ7oFqMxf8-2FHWkzoJvq5LSWEEeKfPdvylqAoZ1IqmvcpvWuXQLL-2FC8f-2FIpUyae0z-2FJbxKiSxSXacjP9vcOTWE-3D9zYr_YTaHu0oW8JrXZuSFMqbRTG2K5CqNwIHnju02tp3wbPfYNinKPrt-2FqBXCQbrJn0QydQME9B8sCU4wWICRkD5Ll9XwLsq2snJuEbvNAGKNA6ipioO5VVrxK13cDGyktk2JCPenKs2OJ2iU93pBWGkEhNpHzobT7G88ZNOqs-2B9DivpUVJHLXCBAsULO4yhLztrwxmbhzlnEZAEjuQV4fUxZbL-2BOV2tC9QepZnwcxuOw5YPQiQU6yhvCwMwPyVZD853tZ08JMv20QmPmwOdfaa2yfWSUCKF4d2o4yHTIEVFg90euPoqt7WnHv37rZ4xqg-2BreumX7-2F-2FjmG8KfTUolfA21n5BqismVTrQeCzeVDXquGFzGXILhSpmt4cC9EErGY8HQ" style="max-width:100%; color:#14312B; font-weight:normal; text-decoration:none; word-wrap:break-word"><span style="font-family:arial,helvetica,sans-serif;">Drop it in to ease stress, soften skin and indulge all of you in a well-deserved bath.</span></a></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" class="kmButtonBlock" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; table-layout:fixed; width:100%" width="100%">
+<tbody class="kmButtonBlockOuter">
+<tr>
+<td align="center" class="kmButtonBlockInner" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; table-layout:fixed; min-width:60px; padding:9px 18px; padding-top:10px; padding-bottom:45px; background-color:#FFFEF9; padding-left:18; padding-right:18" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" class="kmButtonContentContainer" style="border-collapse:separate; mso-table-lspace:0; mso-table-rspace:0; table-layout:fixed; background-color:#14312B; border-bottom-left-radius:5px; border-bottom-right-radius:5px; border-top-left-radius:5px; border-top-right-radius:5px; border-radius:0" width="">
+<tbody>
+<tr>
+<!--[if !mso]><!-->
+<td align="center" class="kmButtonContent" style='border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; table-layout:fixed; color:#FFF; font-family:"Helvetica Neue", Arial; font-size:16px; letter-spacing:3px; font-weight:normal' valign="middle">
+<a class="kmButton" href="https://trk.klclick1.com/ls/click?upn=3sAUStiohBSplI9tzJBdjKwMwzWBDx4iAjsMdvrD6XUkYx-2FCzSEqK0mFhe88cLJFh7biI3ThDZke6QPiJYrRgO4zWogu-2FReXbvhG44bFrEaASpsMF8yYzgtOoC3X-2BDc4tfdxDTyTvoIJt-2F4yUCuPFU8N2XA9-2F87kSkwmgJcCN9RvbnAU4J6q4HZhWurZVXUWnTFN0DEEyuZuE66SaNBwDneij2lVw23hqw4Wt1UETtkjwDg423zHVCa-2B35-2FzHIGjIDNTr8z-2FX49ysltm9pJTfmEQ2mQJ2N7e79PwO6kzfCWEXKaP3sAec-2BBkpu-2FNXcCAYeTiBYImoNG-2FgLIMWpsP7ryQMsVhNt7ljBcKBBgkHj6TnrVoSTtUge8UPEsQwHyUce5tzV3gQeXhIrwlsxZwL7fTbWUU9V8NfhpF5ODnrXt9EOUtfSLtPAjZVfYVJe09cUzx_YTaHu0oW8JrXZuSFMqbRTG2K5CqNwIHnju02tp3wbPfYNinKPrt-2FqBXCQbrJn0QydQME9B8sCU4wWICRkD5Ll9XwLsq2snJuEbvNAGKNA6ipioO5VVrxK13cDGyktk2JCPenKs2OJ2iU93pBWGkEhNpHzobT7G88ZNOqs-2B9DivpUVJHLXCBAsULO4yhLztrwxmbhzlnEZAEjuQV4fUxZbP0XgHN605xcw87F5F-2BiCMc3Yo5jV5KvCtTy1DHSl-2By-2FLfM7AsqdVwLM4HSND7zdDQA9w4wrMwVkLhaSKOIdIXiHVpuFs3oahG5q0wSxZGhIyn58Pn9NJEfmjpgAUpQLyhJKK8PzL0PIrQfrcxtEjUo40b1-2BM1ptLSS-2Bb5o6iOSv" style='max-width:100%; color:#FFF; font-family:"Helvetica Neue", Arial; font-size:16px; font-weight:normal; line-height:100%; text-align:center; text-decoration:none; word-wrap:break-word; display:inline-block; padding-top:15px; padding-bottom:15px; letter-spacing:3px; padding-left:50px; padding-right:50px' target="_self" title="">SHOP BATH GEM</a>
+</td>
+<!--<![endif]-->
+<!--[if mso]>
+<td align="center" valign="middle" class="kmButtonContent"
+  style="padding:15px; padding-top:15px;padding-bottom:15px;font-size:16px;color:#FFFFFF;letter-spacing:3px;font-weight:normal;padding-left:50px;padding-right:50px;font-family:&quot;Helvetica Neue&quot;, Arial;">
+  <a class="kmButton" title="" href="https://trk.klclick1.com/ls/click?upn=3sAUStiohBSplI9tzJBdjKwMwzWBDx4iAjsMdvrD6XUkYx-2FCzSEqK0mFhe88cLJFh7biI3ThDZke6QPiJYrRgO4zWogu-2FReXbvhG44bFrEaASpsMF8yYzgtOoC3X-2BDc4tfdxDTyTvoIJt-2F4yUCuPFU8N2XA9-2F87kSkwmgJcCN9RvbnAU4J6q4HZhWurZVXUWnTFN0DEEyuZuE66SaNBwDneij2lVw23hqw4Wt1UETtkjwDg423zHVCa-2B35-2FzHIGjIDNTr8z-2FX49ysltm9pJTfmEQ2mQJ2N7e79PwO6kzfCWEXKaP3sAec-2BBkpu-2FNXcCAYeTiBYImoNG-2FgLIMWpsP7ryQMsVhNt7ljBcKBBgkHj6TnrVoSTtUge8UPEsQwHyUce5tzV3gQeXhIrwlsxZwL7fTbWUU9V8NfhpF5ODnrXt9EOUtfSLtPAjZVfYVJe09Y1KH_YTaHu0oW8JrXZuSFMqbRTG2K5CqNwIHnju02tp3wbPfYNinKPrt-2FqBXCQbrJn0QydQME9B8sCU4wWICRkD5Ll9XwLsq2snJuEbvNAGKNA6ipioO5VVrxK13cDGyktk2JCPenKs2OJ2iU93pBWGkEhNpHzobT7G88ZNOqs-2B9DivpUVJHLXCBAsULO4yhLztrwxmbhzlnEZAEjuQV4fUxZbM8OOl-2FlzyCS7rxor92XoE0IyNdqkJ0uvebSKiHQ06v091qZHJmcjANqMmNXWefum-2BHd51fNC1E4xH33Jb9v7aMhhrgcgAyOxmSXJS80xqwFBDSBz-2FirsWbBtaYdVjnZtfiH-2BSQEqRhItGezCwKVCxZAnZ-2FjYr469-2BdilFfeZRSN" target="_self" style='text-decoration:none;padding-top:15px;padding-bottom:15px;font-size:16px;color:#FFFFFF;letter-spacing:3px;font-weight:normal;padding-left:50px;padding-right:50px;font-family:"Helvetica Neue", Arial;; margin-top:-15px;margin-bottom:-15px;margin-left:-50px;margin-right:-50px;'>SHOP BATH GEM</a>
+</td>
+<![endif]-->
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" class="kmImageBlock" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; table-layout:fixed; min-width:100%" width="100%">
+<tbody class="kmImageBlockOuter">
+<tr>
+<td class="kmImageBlockInner" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; table-layout:fixed; padding:0; padding-top:25px; padding-right:0; background-color:#FCF9EC; padding-left:0; padding-bottom:0" valign="top">
+<table align="left" border="0" cellpadding="0" cellspacing="0" class="kmImageContentContainer" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; table-layout:fixed; min-width:100%" width="100%">
+<tbody>
+<tr>
+<td class="kmImageContent" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; table-layout:fixed; font-size:0; padding:0; text-align:center" valign="top">
+<a href="https://trk.klclick1.com/ls/click?upn=3sAUStiohBSplI9tzJBdjOlmbppLZwBXvp6YDoeeym-2FwXpoKnop9cb11KL8ydZ6kBe56UljmqvAM6WV0WC7lTL5qC5N2WCJpgKkU2CJaiSUusb85-2BJI8S7oj-2FsI9T4BLiRKMtYAssTxclosEVCNp4WmiuCp2mjtX8fYCivTsCnQhkf48VX3IJ-2BOFo9I-2FPRg9ypyLe4VW1P1f1GoB98X92Mldimba1xC9AbWSDUERtghi5xZ-2FA1EEeED-2Bzh7gVBJ-2BIoyDNwnjyO-2FMbZdQzC8QkjX-2Bww1Oa1gxDCdtm-2FiJ44Ny5SHuxnEAfbS2To6ZCSmz6NmlA6ajk-2F182IQ0NYU6SL74bxNDBlZ2K-2F8kQ0uxVhnXJjZhZ7HpTPW6x0Lwj6wpHshmZSeRo3tlO0GJl64X9uqZaAIqUzwxKCMvdEXI3GuewRocgqGpBj92sHC5UlNxNd6O_YTaHu0oW8JrXZuSFMqbRTG2K5CqNwIHnju02tp3wbPfYNinKPrt-2FqBXCQbrJn0QydQME9B8sCU4wWICRkD5Ll9XwLsq2snJuEbvNAGKNA6ipioO5VVrxK13cDGyktk2JCPenKs2OJ2iU93pBWGkEhNpHzobT7G88ZNOqs-2B9DivpUVJHLXCBAsULO4yhLztrwxmbhzlnEZAEjuQV4fUxZbAEtVt9CppgAnmbKNtbdjBx-2BxGIj2oV-2BTScp9D1k2GAkcozB9y1V75LatyA1LiZVDYFJSnYB9-2BGP00cLs5qCDrWqVeDrP7qYfWxI88zAiFYdl5SMw28-2FLQPJDDNc-2FtJLHp10drWqyje5jhZbf2glCmzr89fd7PdnkngqkFuLB3wb" style="max-width:100%; word-wrap:break-word" target="_self">
+<img align="center" alt="How To Take CBD" class="kmImage" src="https://d3k81ch9hvuctc.cloudfront.net/company/PuNL8s/images/157497f9-4392-4fec-9f8b-b3e67d69a3ec.png" style="border:0; height:auto; line-height:100%; max-width:525px; outline:none; text-decoration:none; font-size:12px; padding-bottom:0; vertical-align:top; width:100%; display:inline; padding:0; border-width:0" width=" 525 ">
+</a>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" class="kmTextBlock" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; table-layout:fixed" width="100%">
+<tbody class="kmTextBlockOuter">
+<tr>
+<td class="kmTextBlockInner" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; table-layout:fixed; padding-right:10px; background-color:#FCF9EC; padding-left:10px" valign="top">
+<table align="left" border="0" cellpadding="0" cellspacing="0" class="kmTextContentContainer" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; table-layout:fixed" width="100%">
+<tbody>
+<tr>
+<td class="kmTextContent" style='border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; table-layout:fixed; color:#748684; font-family:"Helvetica Neue", Arial; font-size:18px; letter-spacing:0; line-height:1.5; max-width:100%; text-align:left; word-wrap:break-word; padding-top:10px; padding-bottom:9px; padding-left:80px; padding-right:80px' valign="top">
+<p style="margin-bottom:0; margin-left:0; margin-right:0; margin-top:0; padding-bottom:0; text-align:center; color:#14312B; letter-spacing:0.25px"><a href="https://trk.klclick1.com/ls/click?upn=3sAUStiohBSplI9tzJBdjOlmbppLZwBXvp6YDoeeym-2FwXpoKnop9cb11KL8ydZ6kBe56UljmqvAM6WV0WC7lTL5qC5N2WCJpgKkU2CJaiSUusb85-2BJI8S7oj-2FsI9T4BLiRKMtYAssTxclosEVCNp4WmiuCp2mjtX8fYCivTsCnQhkf48VX3IJ-2BOFo9I-2FPRg9ypyLe4VW1P1f1GoB98X92Mldimba1xC9AbWSDUERtghi5xZ-2FA1EEeED-2Bzh7gVBJ-2BIoyDNwnjyO-2FMbZdQzC8Qks5ZL38OE6TDZk-2BrEPHO8CbYfZV-2BILX3cd-2ByGGNNC6I84vmXKAb-2B6Hwk-2BllH5gc4dqQ1ildIfGeiEyvz4d9CiZwZte1QEGTEF7rspQMjb9vv8w1qUEBi0ASaMorweIdOx6gwUWIjY333ikiKDcbq5kE-3DEABm_YTaHu0oW8JrXZuSFMqbRTG2K5CqNwIHnju02tp3wbPfYNinKPrt-2FqBXCQbrJn0QydQME9B8sCU4wWICRkD5Ll9XwLsq2snJuEbvNAGKNA6ipioO5VVrxK13cDGyktk2JCPenKs2OJ2iU93pBWGkEhNpHzobT7G88ZNOqs-2B9DivpUVJHLXCBAsULO4yhLztrwxmbhzlnEZAEjuQV4fUxZbKyagXdumLaezDDBgE1z1rEXbaGgAVRvWqyMDm-2FrKZK6q46YNvEvawtWQSsWIl9g2-2BvGjG8Qt4Ej5X-2FhBzQRs2GSEoEBBERZWar-2BntJwIRsrPafFgUS5PT7UyhWMckOaSUpe7aQ-2FlXgtZowErXCl7xcTj-2FEZ2xActrFN4-2Bb66Gd4" style="max-width:100%; color:#14312B; font-weight:normal; text-decoration:none; word-wrap:break-word"><span style="font-family:arial,helvetica,sans-serif;">There are many kinds of CBD-infused products out there — we're breaking down what might be right for you.</span></a></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" class="kmButtonBlock" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; table-layout:fixed; width:100%" width="100%">
+<tbody class="kmButtonBlockOuter">
+<tr>
+<td align="center" class="kmButtonBlockInner" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; table-layout:fixed; min-width:60px; padding:9px 18px; padding-top:10px; padding-bottom:25px; background-color:#FCF9EC; padding-left:18; padding-right:18" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" class="kmButtonContentContainer" style="border-collapse:separate; mso-table-lspace:0; mso-table-rspace:0; table-layout:fixed; background-color:#14312B; border-bottom-left-radius:5px; border-bottom-right-radius:5px; border-top-left-radius:5px; border-top-right-radius:5px; border-radius:0" width="">
+<tbody>
+<tr>
+<!--[if !mso]><!-->
+<td align="center" class="kmButtonContent" style='border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; table-layout:fixed; color:#FFF; font-family:"Helvetica Neue", Arial; font-size:16px; letter-spacing:3px; font-weight:normal' valign="middle">
+<a class="kmButton" href="https://trk.klclick1.com/ls/click?upn=3sAUStiohBSplI9tzJBdjOlmbppLZwBXvp6YDoeeym-2FwXpoKnop9cb11KL8ydZ6kBe56UljmqvAM6WV0WC7lTL5qC5N2WCJpgKkU2CJaiSUusb85-2BJI8S7oj-2FsI9T4BLiRKMtYAssTxclosEVCNp4WmiuCp2mjtX8fYCivTsCnQhkf48VX3IJ-2BOFo9I-2FPRg9ypyLe4VW1P1f1GoB98X92Mldimba1xC9AbWSDUERtghi5xZ-2FA1EEeED-2Bzh7gVBJ-2BIoyDNwnjyO-2FMbZdQzC8QkkDRVWvEOFCL4gW3Vy5zyjRQ55BQhRh6AdxYriA741Z8FAHsifYTb-2FUz5UY0b0pwI4Y6kICJzfEtOle1u2jGIyul7oW4Q-2BTKOMVoLd-2BI-2Fb-2BxW6CJ7MVxBg3di8vVIwzCXWXjAdgeifYJ2-2B-2BYOSh-2F75Y-3DM-X2_YTaHu0oW8JrXZuSFMqbRTG2K5CqNwIHnju02tp3wbPfYNinKPrt-2FqBXCQbrJn0QydQME9B8sCU4wWICRkD5Ll9XwLsq2snJuEbvNAGKNA6ipioO5VVrxK13cDGyktk2JCPenKs2OJ2iU93pBWGkEhNpHzobT7G88ZNOqs-2B9DivpUVJHLXCBAsULO4yhLztrwxmbhzlnEZAEjuQV4fUxZbNktIhUDjbv2cHUR-2Fh94dnpQygejTIrraElB8dkAXNlkzl0inyskpomb6cyYUHe3OfwDWEqfeKfCCCV-2BXIoKlbcanae8cNMpPbMJ3RGYpewWUBvw-2FVCVy-2FONcIUoLEqQ7gQstewvbfesdQ1xw8UenIk-2FITiqpOfoTX1pFTd9ytZE" style='max-width:100%; color:#FFF; font-family:"Helvetica Neue", Arial; font-size:16px; font-weight:normal; line-height:100%; text-align:center; text-decoration:none; word-wrap:break-word; display:inline-block; padding-top:15px; padding-bottom:15px; letter-spacing:3px; padding-left:65px; padding-right:65px' target="_self" title="">LEARN MORE</a>
+</td>
+<!--<![endif]-->
+<!--[if mso]>
+<td align="center" valign="middle" class="kmButtonContent"
+  style="padding:15px; padding-top:15px;padding-bottom:15px;font-size:16px;color:#FFFFFF;letter-spacing:3px;font-weight:normal;padding-left:65px;padding-right:65px;font-family:&quot;Helvetica Neue&quot;, Arial;">
+  <a class="kmButton" title="" href="https://trk.klclick1.com/ls/click?upn=3sAUStiohBSplI9tzJBdjOlmbppLZwBXvp6YDoeeym-2FwXpoKnop9cb11KL8ydZ6kBe56UljmqvAM6WV0WC7lTL5qC5N2WCJpgKkU2CJaiSUusb85-2BJI8S7oj-2FsI9T4BLiRKMtYAssTxclosEVCNp4WmiuCp2mjtX8fYCivTsCnQhkf48VX3IJ-2BOFo9I-2FPRg9ypyLe4VW1P1f1GoB98X92Mldimba1xC9AbWSDUERtghi5xZ-2FA1EEeED-2Bzh7gVBJ-2BIoyDNwnjyO-2FMbZdQzC8QkkDRVWvEOFCL4gW3Vy5zyjRQ55BQhRh6AdxYriA741Z8FAHsifYTb-2FUz5UY0b0pwI4Y6kICJzfEtOle1u2jGIyul7oW4Q-2BTKOMVoLd-2BI-2Fb-2BxW6CJ7MVxBg3di8vVIwzCXWXjAdgeifYJ2-2B-2BYOSh-2F75Y-3D8D8x_YTaHu0oW8JrXZuSFMqbRTG2K5CqNwIHnju02tp3wbPfYNinKPrt-2FqBXCQbrJn0QydQME9B8sCU4wWICRkD5Ll9XwLsq2snJuEbvNAGKNA6ipioO5VVrxK13cDGyktk2JCPenKs2OJ2iU93pBWGkEhNpHzobT7G88ZNOqs-2B9DivpUVJHLXCBAsULO4yhLztrwxmbhzlnEZAEjuQV4fUxZbDhRSeCF1OB0kVsTx8FHwmOUzzAZ4McIA7ns-2BowYxMRaR5hgnwvKNbY1LgL6k-2BExiuUpK6OBOijIaaFcvRKB3xnlM0E1jdt5NjHI79xtojqYVkaSmng9FX-2BorRsQ9ALq7cMkdSBuF5InBisfdPH2myf2sJKcxxBIbOnAvEB7COSo" target="_self" style='text-decoration:none;padding-top:15px;padding-bottom:15px;font-size:16px;color:#FFFFFF;letter-spacing:3px;font-weight:normal;padding-left:65px;padding-right:65px;font-family:"Helvetica Neue", Arial;; margin-top:-15px;margin-bottom:-15px;margin-left:-65px;margin-right:-65px;'>LEARN MORE</a>
+</td>
+<![endif]-->
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" class="kmTextBlock" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; table-layout:fixed" width="100%">
+<tbody class="kmTextBlockOuter">
+<tr>
+<td class="kmTextBlockInner" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; table-layout:fixed; padding-top:12px; padding-bottom:12px; background-color:#FCF9EC; padding-left:12px; padding-right:12px" valign="top">
+<table align="left" border="0" cellpadding="0" cellspacing="0" class="kmTextContentContainer" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; table-layout:fixed" width="100%">
+<tbody>
+<tr>
+<td class="kmTextContent" style='border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; table-layout:fixed; color:#748684; font-family:"Helvetica Neue", Arial; font-size:18px; letter-spacing:0; line-height:1.5; max-width:100%; text-align:left; word-wrap:break-word; border-style:solid; padding-bottom:10px; border-color:#14312B; padding-right:10px; padding-left:10px; padding-top:10px; border-width:1px' valign="top">
+<p style="margin-bottom:0; margin-left:0; margin-right:0; margin-top:0; padding-bottom:0; text-align:center; color:#14312B; letter-spacing:0.5px; line-height:105%"><span style="font-family:arial,helvetica,sans-serif;"><a href="https://trk.klclick1.com/ls/click?upn=3sAUStiohBSplI9tzJBdjOlmbppLZwBXvp6YDoeeym-2FwXpoKnop9cb11KL8ydZ6kBe56UljmqvAM6WV0WC7lTL5qC5N2WCJpgKkU2CJaiSUusb85-2BJI8S7oj-2FsI9T4BLiRKMtYAssTxclosEVCNp4WmiuCp2mjtX8fYCivTsCnQhkf48VX3IJ-2BOFo9I-2FPRg9ypyLe4VW1P1f1GoB98X92Mldimba1xC9AbWSDUERtghi5xZ-2FA1EEeED-2Bzh7gVBJ-2BIoyDNwnjyO-2FMbZdQzC8Qks5ZL38OE6TDZk-2BrEPHO8CbYfZV-2BILX3cd-2ByGGNNC6I84vmXKAb-2B6Hwk-2BllH5gc4dqQ1ildIfGeiEyvz4d9CiZwZte1QEGTEF7rspQMjb9vv8w1qUEBi0ASaMorweIdOx6gwUWIjY333ikiKDcbq5kE-3DDKXZ_YTaHu0oW8JrXZuSFMqbRTG2K5CqNwIHnju02tp3wbPfYNinKPrt-2FqBXCQbrJn0QydQME9B8sCU4wWICRkD5Ll9XwLsq2snJuEbvNAGKNA6ipioO5VVrxK13cDGyktk2JCPenKs2OJ2iU93pBWGkEhNpHzobT7G88ZNOqs-2B9DivpUVJHLXCBAsULO4yhLztrwxmbhzlnEZAEjuQV4fUxZbH7WWd61UQ9bBxQ0vmLsWZo3953jGyM1j-2BIzyYUQh42Fz4bG55sM7KxDPCalXAy-2By-2FsIyF1joh5VNeSEYZIyKorZKp3pqKyu2OQDwtqkUsW7AukH8IyJyU-2FjF8HhMl-2BUP0NIsCikRjFvgEasu-2BWYjgj2T-2BJ53SgA7uWxy1YD8kP9" style="max-width:100%; color:#14312B; font-weight:normal; text-decoration:none; word-wrap:break-word"><span style="font-size:12px;">*These statements have not been evaluated by the FDA. These products are not intended to diagnose, treat, cure, or prevent any disease.</span></a></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" class="kmDividerBlock" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; table-layout:fixed" width="100%">
+<tbody class="kmDividerBlockOuter">
+<tr>
+<td class="kmDividerBlockInner" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; table-layout:fixed; padding-top:0; padding-bottom:0; padding-left:0; padding-right:0">
+<table border="0" cellpadding="0" cellspacing="0" class="kmDividerContent" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; table-layout:fixed; border-top-width:1px; border-top-style:solid; border-top-color:#93A3A6" width="100%">
+<tbody>
+<tr><td style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; table-layout:fixed"><span></span></td></tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td align="center" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; table-layout:fixed" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" class="templateRow" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; table-layout:fixed" width="100%">
+<tbody>
+<tr>
+<td class="rowContainer kmFloatLeft" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; table-layout:fixed" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" class="kmButtonBarBlock" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; table-layout:fixed" width="100%">
+<tbody class="kmButtonBarOuter">
+<tr>
+<td align="center" class="kmButtonBarInner" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; table-layout:fixed; padding-top:15px; padding-bottom:15px; padding-left:9px; padding-right:9px" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" class="kmButtonBarContentContainer" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; table-layout:fixed" width="100%">
+<tbody>
+<tr>
+<td align="center" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; table-layout:fixed">
+<table border="0" cellpadding="0" cellspacing="0" class="kmButtonBarContent" style='border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; table-layout:fixed; font-family:"Helvetica Neue", Arial'>
+<tbody>
+<tr>
+<td align="center" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; table-layout:fixed" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; table-layout:fixed">
+<tbody>
+<tr>
+<td style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; table-layout:fixed" valign="top">
+<table align="left" border="0" cellpadding="0" cellspacing="0" class="" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; table-layout:fixed">
+<tbody>
+<tr>
+<td align="center" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; table-layout:fixed" valign="top">
+<a href="https://trk.klclick1.com/ls/click?upn=3sAUStiohBSplI9tzJBdjMkADgpNcC8x-2F0xXiCh-2B517g3lVHk5VfwQcqE-2BWPCNPiFbY0FenI17VVzDPOSW5-2BFftrmKpKD7Yd-2Fgu0hBYMoPjkDtORkyP7A2MF-2Fdr9dqJgKvbZKV24UZ-2FA-2B-2B-2B9PjKwrFEjCmQfNzogB6vyxyPeOYNmm0WHVbsjS0vVZ7sQ0zGOCtZ8tRb3cFdtu-2BBG9x3NpLRLVAj2CdV4cV9ql9kP4knSWREJJqj0YXKv02LtBDHMW0M4uRWl1UWC7TguztC1t9itF04xIbiKFm0ugVnmAubbczivuY-2F1T-2B4Nn3D-2BNll0O1aHAY7nk7gF-2BQD3rd92F90JT2KUDzoMkfZfODOAKM4Ugsk-2BahM-2BRAF2YtjEec9KR8IXmfNEXISnBYKPo-2Bkq6w-3D-3D1-I3_YTaHu0oW8JrXZuSFMqbRTG2K5CqNwIHnju02tp3wbPfYNinKPrt-2FqBXCQbrJn0QydQME9B8sCU4wWICRkD5Ll9XwLsq2snJuEbvNAGKNA6ipioO5VVrxK13cDGyktk2JCPenKs2OJ2iU93pBWGkEhNpHzobT7G88ZNOqs-2B9DivpUVJHLXCBAsULO4yhLztrwxmbhzlnEZAEjuQV4fUxZbGtB4AG2bzLdqxE9iY-2FBY09DZVaNIp0SvpYFvzaFkX3LmQI9b5cfdkFPAX18cL6sAnEsPGnWu2DrC7SRiXcvXwkaJJa8TzPv0fUxI6ZWlq17Yv3wk-2FD3xKox67FUBY4B5hOZZ70Wd1WHY0ztrFcGkTh6IwLTN7TDGHZLT0nYKAc7" style="max-width:100%; word-wrap:break-word" target="_blank"><img alt="Instagram" class="kmButtonBlockIcon" src="https://d3k81ch9hvuctc.cloudfront.net/assets/email/buttons/subtleinverse/instagram_96.png" style="border:0; height:auto; line-height:100%; max-width:48px; outline:none; text-decoration:none; width:48px; display:block" width="48"></a>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if gte mso 6]></td><td align="left" valign="top"><![endif]-->
+<table align="left" border="0" cellpadding="0" cellspacing="0" class="" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; table-layout:fixed">
+<tbody>
+<tr>
+<td align="center" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; table-layout:fixed" valign="top">
+<a href="https://trk.klclick1.com/ls/click?upn=3sAUStiohBSplI9tzJBdjLDIyvteKSJh-2B-2Bc0spwEoBzNX6c-2B1-2B-2B9eek4AYaRqGzs4Y5ii5Gp7qly2xeTzBBSeRfzxHWnoIW2Bbw7uxrRb4kDZ7Cb-2FLracq83WvKoNcJnLIXfuf5lwK8Tl0a-2BidFEeoVIJolKn1YOjhshGYuo0ZoTMbG5deioSs9rBre0LlyqegKEoMvKiOx2Pt9yh1SQkm0Bm0jC05dP2Ns1FeNBlde6MTRggOzK1CVmzE76dRbV-2Ft9f4mkDk4sUKKxbuBubdyd9KTTEssHkgNQbOYXrbu37Y0rW6hbGxasuZovkALqq345FvRRwziStm8b3hYNgYmCHrDoyV1SwvtE2nKnTrACiobvnidDkSIEt0UW5H1fiLdDvAiWIJSg8wS8MrhC9eAoXrIJfY12bfpUs9cYfn2g-3DXlq7_YTaHu0oW8JrXZuSFMqbRTG2K5CqNwIHnju02tp3wbPfYNinKPrt-2FqBXCQbrJn0QydQME9B8sCU4wWICRkD5Ll9XwLsq2snJuEbvNAGKNA6ipioO5VVrxK13cDGyktk2JCPenKs2OJ2iU93pBWGkEhNpHzobT7G88ZNOqs-2B9DivpUVJHLXCBAsULO4yhLztrwxmbhzlnEZAEjuQV4fUxZbI39N-2BX53dqbkwit-2FJT9YUId4qUuIecFinDbBr5LdEM2f-2BkvA-2FKYAbnXoZlru4pmRUCxDwQozsaMKLg-2FIN7-2BVGX5IjF4NjoeAt-2FNI12vnJaSNuwILoUPFRDaaONdJkHDVbKEr99Zba2zwxA6S2RD9tWBjwnIgOCmVnY3ztAEFNHW" style="max-width:100%; word-wrap:break-word" target="_blank"><img alt="Spotify" class="kmButtonBlockIcon" src="https://d3k81ch9hvuctc.cloudfront.net/company/PuNL8s/images/414aede3-bd5f-410d-82fd-e53c103b420b.png?v=0" style="border:0; height:auto; line-height:100%; max-width:100%; outline:none; text-decoration:none; width:47pxpx; display:block" width="47"></a>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if gte mso 6]></td><td align="left" valign="top"><![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" class="kmTableBlock kmTableMobile" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; table-layout:fixed" width="100%">
+<tbody class="kmTableBlockOuter">
+<tr>
+<td class="kmTableBlockInner" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; table-layout:fixed; padding-top:0; padding-bottom:25px; padding-left:25px; padding-right:25px" valign="top">
+<table align="left" border="0" cellpadding="0" cellspacing="0" class="kmTable" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; table-layout:fixed; border-style:none; border-width:0; text-align:left" width="100%">
+<thead>
+<tr>
+<th class="kmTextContent" style='color:#748684; font-family:"Helvetica Neue", Arial; font-size:18px; letter-spacing:0; line-height:1.5; max-width:100%; text-align:left; word-wrap:break-word; width:70%; padding-top:0; font-weight:bold; padding-right:0; padding-left:0; padding-bottom:0' valign="top">
+</th>
+<th class="kmTextContent" style='color:#748684; font-family:"Helvetica Neue", Arial; font-size:18px; letter-spacing:0; line-height:1.5; max-width:100%; text-align:center; word-wrap:break-word; padding-top:0; font-weight:bold; padding-right:0; padding-left:0; padding-bottom:0' valign="top">
+</th>
+</tr>
+</thead>
+<tbody>
+<tr class="kmTableRow">
+<td class="kmTextContent" style='border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; table-layout:fixed; color:#748684; font-family:"Helvetica Neue", Arial; font-size:18px; letter-spacing:0; line-height:1.5; max-width:100%; text-align:left; word-wrap:break-word; width:70%; border-top-style:solid; padding-bottom:0; padding-right:0; padding-left:10px; padding-top:20px; border-top-color:#748684; border-top-width:1px' valign="top">
+<div style="line-height: 90% !important;">
+<p style="margin-bottom:0; margin-left:0; margin-right:0; margin-top:0; padding-bottom:1em"><span style="font-size:11px;"><span style="font-family:arial,helvetica,sans-serif;">2019 The Uplifters' Prima, PBC - All Rights Reserved<br>
+2633 Lincoln Blvd #224 Santa Monica, CA 90405</span></span></p>
+<p style="margin-bottom:0; margin-left:0; margin-right:0; margin-top:0; padding-bottom:0"><span style="font-size:11px; "><span style="font-family:arial,helvetica,sans-serif;"><a class="unsubscribe-link" style="color:#748684;font-weight:normal;text-decoration:underline;" href="https://trk.klclick1.com/ls/click?upn=3sAUStiohBSplI9tzJBdjKBpC1sr7m366l-2B0Oxwea5pSyuhwwnMAJRyXh2aHode5wIE0ZpkcXSiqHU-2FwDE-2By8S-2FPOoR3okEs-2BLOLHsa4au3-2BbXxGcBIMGZYFGscC7W4TcagU-2FvLfjwFNV55fpZplyn04bQomTtiLA-2FAZBqQQ0UYhK1x6-2BAAJbT93JImsZAS78MNSxCRXVz10Oxrr2zLHSQ-3D-3DHy1O_YTaHu0oW8JrXZuSFMqbRTG2K5CqNwIHnju02tp3wbPfYNinKPrt-2FqBXCQbrJn0QydQME9B8sCU4wWICRkD5Ll9XwLsq2snJuEbvNAGKNA6ipioO5VVrxK13cDGyktk2JCPenKs2OJ2iU93pBWGkEhNpHzobT7G88ZNOqs-2B9DivpUVJHLXCBAsULO4yhLztrwxmbhzlnEZAEjuQV4fUxZbCQ9WMR-2FiaOMEYMdbLy-2BFYAmHWi-2BIINVTQVPm1sdddMvnyRkecOjlTJTybf3id9dLv5NCGQzUuTudpC2IauD120Xs9pPsu9aSqrjPnyMRZmkEqdPaajLbtao5i6z4vkwhItj4CAmYeNMibLlT6dCyqV726R2rvUV7ataStOtMBdf">Unsubscribe</a><br>
+<br>
+<a href="https://trk.klclick1.com/ls/click?upn=3sAUStiohBSplI9tzJBdjM3Q1t2RL-2BwpEkVo5Qy5CQtkLUsPVJ2mZNuE0KujxoA22pOmS6swM5Z8HNgCX6efJ7z0DeHauRsv-2F9lhKJ-2FUqsj4cZCFfaYMd9-2F-2FiwWZjZpXZ2amDTE4pty-2Fz0djUILg7-2Fg1295iUsSlhhMAw52LTSCCOMRLaA3PtrxJeJYKFoqXazJbpS-2FyHGsyacG0dFUdPKgGvqQ2ituqGINjcM7Y65Wx20uuBpnqAjsFs8fJw-2BOs3nQPlpN0In0El4s3ykVZdeSW2tLOWM5HgrvnXWv6RlVaUWmEI7fWRDtzH9GEzZTeXqP-2BjJ7HIqsVEOsN-2B5lI2w0o2zpVYN4dkKxR552qEIvHnbE330-2F4I4ZWVGnFQZI7KzO9CXeZ9S4RF0Qmpa-2BTQSUuyBzd-2F04hCXTp8eHiF0twsfHXP2bwZW9lFFbM2T4mQ3go_YTaHu0oW8JrXZuSFMqbRTG2K5CqNwIHnju02tp3wbPfYNinKPrt-2FqBXCQbrJn0QydQME9B8sCU4wWICRkD5Ll9XwLsq2snJuEbvNAGKNA6ipioO5VVrxK13cDGyktk2JCPenKs2OJ2iU93pBWGkEhNpHzobT7G88ZNOqs-2B9DivpUVJHLXCBAsULO4yhLztrwxmbhzlnEZAEjuQV4fUxZbGrdF8GR88dyrPD-2Bnktik0A1-2BybHKcjUD-2F-2FtxKcRBQUR1VxlaTRsPTQ3G4cqhNqTxJlw6A29XXh0kgt7y-2F2hdyFvo5bJhWPUB-2FYog27-2BsOZOb7iC73z5wFrxpnUhP92NAgNjYwZ7yYBK2mpcHZcyFYav10PXEQqx7Q78GGalbprW" style="max-width:100%; color:#748684; font-weight:normal; text-decoration:underline; word-wrap:break-word">Terms &amp; Conditions</a> I <a href="https://trk.klclick1.com/ls/click?upn=3sAUStiohBSplI9tzJBdjJThI9PsTrl0R4Pxcew1nuwLheU2yq1O8TuVQA4mxaVvYPtPgsDcmlHcveO6oV3jsrXfxthsdd-2B-2BmW8P93cb1EsnUPvXxbt8TpxRUdaFNF40PwQzdvHuXT6bt6RGutSJKY6LGJqG5g2Q8HCaZ-2BYKvaaPaHJbD7bhHGDN9aoooJ-2Fxc8ib9N902SjdOUxNYnxM0OBg3Hog2i-2FdOJjKr2CvFMndoXHNrxz5fGBBL8XQijTgODRThgV7LYd1S32D3YX-2Fa9-2BiiAEuzwTWYcQ-2BokY-2Byhx82JRcGp5d-2FhyF006lxAx4s0yXnOVsAAcIke8-2FWNR5PFe7z10pFkv0RVYvW3WMfvAkw-2Bfu5HhqC2Jyy8PpI-2FRgAKyU3IVwPtFou8r4AfFKCrr1kW98np4Qv-2Fba3yZdvQo-3D0Eby_YTaHu0oW8JrXZuSFMqbRTG2K5CqNwIHnju02tp3wbPfYNinKPrt-2FqBXCQbrJn0QydQME9B8sCU4wWICRkD5Ll9XwLsq2snJuEbvNAGKNA6ipioO5VVrxK13cDGyktk2JCPenKs2OJ2iU93pBWGkEhNpHzobT7G88ZNOqs-2B9DivpUVJHLXCBAsULO4yhLztrwxmbhzlnEZAEjuQV4fUxZbLCwXjnFuoevcYtj8WxRSjYqpKN9kupxMeMeKbpDOYBaPfJC24lT7nP2l3A6pWTQg-2FJWgf-2Bv07fl8ahj2JaojvFacyWBrskNsTWYFLCsLaMetIVWe3yL4jEZWkdCVUzOS7upGigjtxeaepc3obf1IM0tvxWZP1ArY9PR-2Bwc-2BW-2BfP" style="max-width:100%; color:#748684; font-weight:normal; text-decoration:underline; word-wrap:break-word">Privacy Policy</a></span></span>  </p>
+</div>
+</td>
+<td class="kmTextContent" style='border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; table-layout:fixed; color:#748684; font-family:"Helvetica Neue", Arial; font-size:18px; letter-spacing:0; line-height:1.5; max-width:100%; text-align:center; word-wrap:break-word; border-right:none; border-top-style:solid; padding-bottom:0; padding-right:0; padding-left:10px; padding-top:20px; border-top-color:#748684; border-top-width:1px' valign="top">
+<table align="left" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; table-layout:fixed" width="100%">
+<tr>
+<td class="kmImageContent" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; table-layout:fixed; font-size:0; padding:0" valign="top">
+<a href="https://trk.klclick1.com/ls/click?upn=3sAUStiohBSplI9tzJBdjNxl-2FiyV9FZnY-2Fy0JyVCB0JW4iFMV7QD35o3rLNfZfEfPobIKOLCodrwEuT1cr-2BFTMt7fAeHvksiO1Zq-2BSgbUsTsEk-2BYl3EzopuI6dBf5QLa3Eh1olm2dofhBdJpHeXK1KnZwzVOU65lnOmwfLCOaVxbcCr4jXQ-2FnMcpexJPHh-2BUmoMBHQG929b2LGwnrhuQQYetaTyU0SnnVGLEQvivhojVJFJLgv6cLOYzprwRF9MKo4-2F-2BdfO5omxMdljRnpUswTsSvHcd2oE60TLYdjOezUmLLJYPYBaNRDOXn689vc5qenFP3mGRlnXCER-2Fjq5vzrJT5vE0bysaWUSElMJJ3JK3lRhFNJWb3z4LIZH3ED-2BrV5Hf3J5Hlg8CxSg2CG6ISiA-3D-3DjMaO_YTaHu0oW8JrXZuSFMqbRTG2K5CqNwIHnju02tp3wbPfYNinKPrt-2FqBXCQbrJn0QydQME9B8sCU4wWICRkD5Ll9XwLsq2snJuEbvNAGKNA6ipioO5VVrxK13cDGyktk2JCPenKs2OJ2iU93pBWGkEhNpHzobT7G88ZNOqs-2B9DivpUVJHLXCBAsULO4yhLztrwxmbhzlnEZAEjuQV4fUxZbLXyMLhr-2FyxI6YAHUpzSsxKyS4y0dCfYPFvcBb-2BxyM96EATwFglBUgVRXN-2F6ArGyDyXJQ-2BiSHNC-2BnskPFMe3NVJd4iGMYFMFZWWuIIG3PscAufLUA1lNxID27e-2FqKFnbuDnba-2BOJKzcUERX94MVDeXPl-2FZJoz4ugsiKStLOeyb3g" style="max-width:100%; color:#748684; font-weight:normal; text-decoration:underline; word-wrap:break-word" target="_self">
+<img align="right" alt="" class="kmImage" src="https://d3k81ch9hvuctc.cloudfront.net/company/PuNL8s/images/63c88ac8-7328-4632-822c-08e81934e503.png" style="border:0; height:auto; line-height:100%; max-width:100px; outline:none; text-decoration:none; margin-left:0; font-size:12px; padding-bottom:0; vertical-align:top; width:100%; display:inline" width=" 100 ">
+</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" class="kmTextBlock" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; table-layout:fixed" width="100%">
+<tbody class="kmTextBlockOuter">
+<tr>
+<td class="kmTextBlockInner" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; table-layout:fixed; padding-top:0; padding-bottom:0; background-color:#FFF; padding-left:0; padding-right:0" valign="top">
+<table align="left" border="0" cellpadding="0" cellspacing="0" class="kmTextContentContainer" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; table-layout:fixed" width="100%">
+<tbody>
+<tr>
+<td class="kmTextContent" style='border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; table-layout:fixed; color:#748684; font-family:"Helvetica Neue", Arial; font-size:18px; letter-spacing:0; line-height:1.5; max-width:100%; text-align:left; word-wrap:break-word; border-style:none; padding-bottom:14px; border-color:#14312B; padding-right:30px; padding-left:30px; padding-top:10px; border-width:0' valign="top">
+<p style="margin-bottom:0; margin-left:0; margin-right:0; margin-top:0; padding-bottom:0; text-align:left; color:#14312B; letter-spacing:0.2px; line-height:90%"><span style="font-size:10px;"><span style="font-family:arial,helvetica,sans-serif;">*Offer code "BETTER15" valid for 15% off a purchase on www.prima.co. Savings not applicable on taxes or shipping. May not be combined with any other offer. One per customer, one-time use only. Return refunds will be at the prorated discounted rate. Offer is subject to change without notice and may be suspended or terminated at any time. Not valid on previous purchases. </span></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</table>
+<!--[if !mso]><!-->
+</div>
+</div>
+<div style="display:none !important;visibility:hidden;mso-hide:all;font-size:1px;color:#ffffff;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;">‌</div>
+<!--<![endif]-->
+<!--[if mso]>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            <![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+<img src="https://trk.klclick1.com/wf/open?upn=DjixgsrV-2FbPMFy-2BpA02zE7vmevXYXlRWo28nFZ18C-2BM8NSfzjgX8qXQ2p7JOqV3JgSx3Noi1LCEyQuLfC5H9ccTtTRyL1v15RaRME0X25FX1B1nzAYkjsHPTkWF3NadSOkRXIU7xL9X9EvH1l-2B26-2BvfdafHNoEYl9q2DcCkyRU22nwg5GXswvt26Hp-2B9B1UiP9-2BCaM4zFBNpaUsq6J55sqa5dzB6Yeq8yLhAt3B-2F2uWiZNuD7NKzYbkF90CNkl2dPoWZzMhpGnQpDfRi6NWs5NExfzdgX9MT5-2FR4tbMjZHU3roDxKXS-2Bm-2F7NWSPvGZdL2gyGXYWRiUTCpiqqIxHUHrtnHmetGzgoxj16dcG9TmLF0zOjkqdeDtoWkAosagjJJ3Edopruld-2BugV58QzaTEA-3D-3D" alt="" width="1" height="1" border="0" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"/></body>
+</html>

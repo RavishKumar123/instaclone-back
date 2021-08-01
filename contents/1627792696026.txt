@@ -1,0 +1,864 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="color: #000;">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no">
+    <title>Welcome To SSENSE Editorial</title>
+    <style type="text/css">
+      #outlook a {
+        padding:0;
+      }
+
+      .ExternalClass {
+        width:100%;
+      }
+
+      .ExternalClass,.ExternalClass p,.ExternalClass span,.ExternalClass font,.ExternalClass td,.ExternalClass div {
+        line-height:100%;
+      }
+
+      p {
+        margin:0;
+        padding:0;
+        font-size:0;
+        line-height:0;
+      }
+
+      table td {
+        border-collapse:collapse;
+      }
+
+      table {
+        border-collapse:collapse;
+        mso-table-lspace:0;
+        mso-table-rspace:0;
+      }
+
+      @font-face {
+        font-family:'Favorit SSENSE Inter';
+        src:url(https://res.cloudinary.com/ssenseweb/raw/upload/v1504879826/web/fonts/favorit-times/FavoritSSENSE-Inter.eot);
+        src:url(https://res.cloudinary.com/ssenseweb/raw/upload/v1504879826/web/fonts/favorit-times/FavoritSSENSE-Inter.eot?#iefix) format("embedded-opentype"),url(https://res.cloudinary.com/ssenseweb/raw/upload/v1504879826/web/fonts/favorit-times/FavoritSSENSE-Inter.woff2) format("woff2"),url(https://res.cloudinary.com/ssenseweb/raw/upload/v1504879826/web/fonts/favorit-times/FavoritSSENSE-Inter.woff) format("woff");
+      }
+
+      @font-face {
+        font-family:'Favorit SSENSE Regular';
+        src:url(https://res.cloudinary.com/ssenseweb/raw/upload/v1504879826/web/fonts/favorit-times/FavoritSSENSE-Regular.eot);
+        src:url(https://res.cloudinary.com/ssenseweb/raw/upload/v1504879826/web/fonts/favorit-times/FavoritSSENSE-Regular.eot?#iefix) format("embedded-opentype"),url(https://res.cloudinary.com/ssenseweb/raw/upload/v1504879826/web/fonts/favorit-times/FavoritSSENSE-Regular.woff2) format("woff2"),url(https://res.cloudinary.com/ssenseweb/raw/upload/v1504879826/web/fonts/favorit-times/FavoritSSENSE-Regular.woff) format("woff");
+      }
+
+      @font-face {
+        font-family:'plain';
+        src:url(https://res.cloudinary.com/ssenseweb/raw/upload/v1453312962/plain-medium_2-webfont_n5fmjs.eot);
+        src:url(https://res.cloudinary.com/ssenseweb/raw/upload/v1453312962/plain-medium_2-webfont_n5fmjs.eot?#iefix) format("embedded-opentype"),url(https://res.cloudinary.com/ssenseweb/raw/upload/v1453312962/plain-medium_2-webfont_e7m8nc.woff2) format("woff2"),url(https://res.cloudinary.com/ssenseweb/raw/upload/v1453312962/plain-medium_2-webfont_pvoklw.woff) format("woff"),url(https://res.cloudinary.com/ssenseweb/raw/upload/v1453312962/plain-medium_2-webfont_lqmofs.ttf) format("truetype");
+        font-weight:bold;
+        font-style:normal;
+      }
+
+      @font-face {
+        font-family:'plain';
+        src:url(https://res.cloudinary.com/ssenseweb/raw/upload/v1453312962/plain-regular_2-webfont_ata73x.eot);
+        src:url(https://res.cloudinary.com/ssenseweb/raw/upload/v1453312962/plain-regular_2-webfont_ata73x.eot?#iefix) format("embedded-opentype"),url(https://res.cloudinary.com/ssenseweb/raw/upload/v1453312962/plain-regular_2-webfont_yavkem.woff2) format("woff2"),url(https://res.cloudinary.com/ssenseweb/raw/upload/v1453312962/plain-regular_2-webfont_zxu14u.woff) format("woff"),url(https://res.cloudinary.com/ssenseweb/raw/upload/v1453312962/plain-regular_2-webfont_jmeheh.ttf) format("truetype");
+        font-weight:normal;
+        font-style:normal;
+      }
+
+      @font-face {
+        font-family:'JHA Times Now';
+        src:url(https://res.cloudinary.com/ssenseweb/raw/upload/v1493055756/web/fonts/favorit-times/TimesNow-SemiLight.eot);
+        src:url(https://res.cloudinary.com/ssenseweb/raw/upload/v1493055756/web/fonts/favorit-times/TimesNow-SemiLight.eot?#iefix) format("embedded-opentype"),url(https://res.cloudinary.com/ssenseweb/raw/upload/v1493055756/web/fonts/favorit-times/TimesNow-SemiLight.woff2) format("woff2"),url(https://res.cloudinary.com/ssenseweb/raw/upload/v1493055756/web/fonts/favorit-times/TimesNow-SemiLight.woff) format("woff");
+      }
+
+      html,body {
+        color:#000;
+      }
+
+      .main-wrapper {
+        width:600px;
+      }
+
+      .main-wrapper-inner {
+        padding:20px;
+      }
+
+      .title-image {
+        height:auto;
+        max-width:100%;
+        width:500px;
+      }
+
+      .full-width-image {
+        height:auto;
+        max-width:100%;
+        width:100%;
+      }
+
+      .title {
+        color:#000;
+        font-family:'Favorit SSENSE Inter','JHA Times Now','plain',Times,sans-serif;
+        font-size:32px;
+        font-weight:bold;
+        line-height:36px;
+        max-width:480px;
+        text-align:center;
+      }
+
+      .title.small {
+        font-size:23px;
+        line-height:27px;
+        padding:0 10px;
+      }
+
+      .text {
+        color:#000;
+        font-family:'Favorit SSENSE Inter','JHA Times Now','plain',Times,sans-serif;
+        font-size:12px;
+        line-height:16px;
+        margin:0 auto;
+        max-width:500px;
+        text-align:center;
+      }
+
+      .text p {
+        color:#000;
+        font-family:'Favorit SSENSE Inter','JHA Times Now','plain',Times,sans-serif;
+        font-size:12px;
+        line-height:16px;
+        margin:0 20px;
+      }
+
+      .text-narrow {
+        margin:0 auto;
+        max-width:360px;
+        text-align:center;
+      }
+
+      .text-narrow p {
+        margin:0 auto;
+        max-width:360px;
+        text-align:center;
+      }
+
+      .cta {
+        color:#000;
+        font-family:'Favorit SSENSE Inter','JHA Times Now','plain',Times,sans-serif;
+        font-size:20px;
+        line-height:24px;
+        text-align:center;
+      }
+
+      .cta p {
+        color:#000;
+        font-family:'Favorit SSENSE Inter','JHA Times Now','plain',Times,sans-serif;
+        font-size:20px;
+        line-height:24px;
+        text-align:center;
+      }
+
+      .cta a {
+        text-decoration:none !important;
+        border-bottom:1px solid #000;
+      }
+
+      .text-black {
+        color:#000;
+      }
+
+      .text-white {
+        color:#fff;
+      }
+
+      .text-white p {
+        color:#fff;
+      }
+
+      .text-white a {
+        color:#fff;
+        text-decoration:underline;
+      }
+
+      .show-on-desktop {
+        height:auto;
+        max-height:none;
+        overflow:visible;
+      }
+
+      .show-on-mobile {
+        height:0;
+        max-height:0;
+        overflow:hidden;
+      }
+
+      a {
+        color:#000;
+        text-decoration:none;
+      }
+
+      img {
+        vertical-align:top;
+      }
+
+      .header {
+        font-family:'Favorit SSENSE Inter','JHA Times Now','plain',Times,sans-serif;
+        font-size:12px;
+        font-weight:bold;
+        line-height:20px;
+      }
+
+      .header-menu-line {
+        float:left;
+        margin-bottom:7px;
+      }
+
+      .header-menu-item {
+        padding:0 10px;
+      }
+
+      .footer {
+        font-family:'Favorit SSENSE Inter','JHA Times Now','plain',Times,sans-serif;
+        font-size:12px;
+        font-weight:bold;
+        line-height:16px;
+      }
+
+      .footer-menu-item {
+        padding:0 10px;
+      }
+
+      .footer-text {
+        text-align:center;
+      }
+
+      .footer-text p {
+        color:#808080;
+        font-family:'Favorit SSENSE Inter','JHA Times Now','plain',Times,sans-serif;
+        font-size:9px;
+        line-height:13px;
+        margin-bottom:13px;
+      }
+
+      .footer-text a {
+        color:#808080;
+      }
+
+      .call-to-action {
+        border:4px solid #000;
+        width:580px;
+      }
+
+      .call-to-action-inner {
+        padding:60px;
+      }
+
+      .theme-pick-label {
+        font-family:'Favorit SSENSE Inter','JHA Times Now','plain',Times,sans-serif;
+        font-size:9px;
+        font-weight:bold;
+        line-height:12px;
+      }
+
+      .theme-pick-link {
+        color:#808080;
+      }
+
+      @media only screen and (min-width: 820px) {
+        .main-wrapper {
+          width:800px !important;
+        }
+
+        .editorial-items-container {
+          width:780px !important;
+        }
+
+        .editorial-column {
+          display:block !important;
+          width:780px !important;
+        }
+
+        .editorial-inner-column {
+          width:380px !important;
+          margin-bottom:26px;
+        }
+      }
+
+      @media only screen and (max-width: 640px) {
+        .main-wrapper {
+          width:100% !important;
+        }
+
+        .main-wrapper-inner {
+          padding:10px !important;
+          width:100% !important;
+        }
+
+        .title {
+          font-size:20px !important;
+          line-height:24px !important;
+          max-width:300px !important;
+        }
+
+        .title.small {
+          font-size:18px !important;
+          line-height:22px !important;
+        }
+
+        .text {
+          max-width:300px !important;
+        }
+
+        .cta {
+          font-size:16px;
+        }
+
+        .title-image {
+          height:auto !important;
+          width:300px !important;
+        }
+
+        .full-width-image {
+          height:auto !important;
+          width:300px !important;
+        }
+
+        .tr-show-on-desktop {
+          display:none !important;
+        }
+
+        .tr-show-on-mobile {
+          display:table-row !important;
+        }
+
+        .show-on-desktop {
+          height:0 !important;
+          max-height:0 !important;
+          overflow:hidden !important;
+        }
+
+        .show-on-mobile {
+          height:auto !important;
+          max-height:none !important;
+          overflow:visible !important;
+        }
+
+        .header {
+          font-size:11px !important;
+        }
+
+        .header-menu-line {
+          float:none !important;
+        }
+
+        .header-menu-item {
+          padding:0 2px !important;
+        }
+
+        .footer {
+          font-size:11px !important;
+        }
+
+        .footer-menu-item {
+          padding:0 2px !important;
+        }
+
+        .call-to-action {
+          width:100% !important;
+        }
+
+        .call-to-action-inner {
+          padding:40px;
+        }
+
+        .full-looks-column {
+          display:block !important;
+          width:280px !important;
+        }
+
+        .full-looks-spacer {
+          display:block !important;
+          height:40px !important;
+        }
+
+        .theme-pick-items-container {
+          width:280px !important;
+        }
+
+        .theme-pick-column {
+          display:block !important;
+          width:280px !important;
+        }
+
+        .theme-pick-spacer {
+          display:none !important;
+        }
+
+        .editorial-items-container {
+          width:280px !important;
+        }
+
+        .editorial-column {
+          display:block !important;
+          width:280px !important;
+        }
+
+        .editorial-inner-column {
+          display:block !important;
+          width:280px !important;
+          margin-bottom:26px;
+        }
+
+        .editorial-inner-spacer {
+          display:none !important;
+        }
+      }
+    </style>
+  </head>
+  <body style="width: 100%;margin: 0;padding: 0;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;color: #000;">
+    <span style="color:#ffffff; font-size:1px;">
+      <p style="margin: 0;padding: 0;font-size: 0;line-height: 0;">Keep up with the latest in fashion and culture with exclusive interviews, profiles, trend reports, and more.</p> </span>
+      <table cellpadding="0" cellspacing="0" border="0" style="margin: 0;padding: 0;width: 100%;line-height: 100% !important;border-collapse: collapse;mso-table-lspace: 0;mso-table-rspace: 0;">
+        <tr>
+          <td valign="top" style="border-collapse: collapse;">
+            <table cellpadding="0" cellspacing="0" border="0" align="center" style="border-collapse: collapse;mso-table-lspace: 0;mso-table-rspace: 0;">
+              <tr>
+                <td valign="top" style="border-collapse: collapse;">
+                  <table class="main-wrapper" cellpadding="0" cellspacing="0" border="0" align="center" style="border-collapse: collapse;mso-table-lspace: 0;mso-table-rspace: 0;width: 600px;">
+                    <tr>
+                      <td class="main-wrapper-inner" align="center" valign="top" style="font-family: 'Favorit SSENSE Inter', 'JHA Times Now', plainmedium, Times, sans-serif;vertical-align: top;border-collapse: collapse;padding: 20px;">
+                        <table class="header" cellpadding="0" cellspacing="0" border="0" width="100%" style="border-collapse: collapse;mso-table-lspace: 0;mso-table-rspace: 0;font-family: 'Favorit SSENSE Inter','JHA Times Now','plain',Times,sans-serif;font-size: 12px;font-weight: bold;line-height: 20px;">
+                          <tr>
+                            <td align="center" style="border-collapse: collapse;"> <span class="header-menu-item" style="padding: 0 10px;"><a href="https://ssense.us3.list-manage.com/track/click?u=558184dc763e79910b586fc2b&id=93e321f415&e=d4f289dae0" target="_blank" style="color: #000;text-decoration: none;">Sale</a></span><span class="header-menu-item" style="padding: 0 10px;"><a href="https://ssense.us3.list-manage.com/track/click?u=558184dc763e79910b586fc2b&id=4829e0a17b&e=d4f289dae0" target="_blank" style="color: #000;text-decoration: none;">New Arrivals</a></span> <span class="header-menu-item" style="padding: 0 10px;"><a href="https://ssense.us3.list-manage.com/track/click?u=558184dc763e79910b586fc2b&id=1bb478b685&e=d4f289dae0" target="_blank" style="color: #000;text-decoration: none;">Shopping Bag</a></span> <span class="header-menu-item" style="padding: 0 10px;"><a href="https://ssense.us3.list-manage.com/track/click?u=558184dc763e79910b586fc2b&id=d6053a5687&e=d4f289dae0" target="_blank" style="color: #000;text-decoration: none;">Wishlist</a></span>
+                            <div class="div-hide-on-mobile"></div> <span class="header-menu-item" style="padding: 0 10px;"><a href="https://ssense.us3.list-manage.com/track/click?u=558184dc763e79910b586fc2b&id=32e395f9cd&e=d4f289dae0" target="_blank" style="color: #000;text-decoration: none;">Clothing</a></span> <span class="header-menu-item" style="padding: 0 10px;"><a href="https://ssense.us3.list-manage.com/track/click?u=558184dc763e79910b586fc2b&id=58145d44ed&e=d4f289dae0" target="_blank" style="color: #000;text-decoration: none;">Shoes</a></span> <span class="header-menu-item" style="padding: 0 10px;"><a href="https://ssense.us3.list-manage.com/track/click?u=558184dc763e79910b586fc2b&id=c892768969&e=d4f289dae0" target="_blank" style="color: #000;text-decoration: none;">Bags</a></span> <span class="header-menu-item" style="padding: 0 10px;"><a href="https://ssense.us3.list-manage.com/track/click?u=558184dc763e79910b586fc2b&id=03e5fc5732&e=d4f289dae0" target="_blank" style="color: #000;text-decoration: none;">Accessories</a></span> <span class="header-menu-item" style="padding: 0 10px;"><a href="https://ssense.us3.list-manage.com/track/click?u=558184dc763e79910b586fc2b&id=910e11e7e5&e=d4f289dae0" target="_blank" style="color: #000;text-decoration: none;">Everything Else</a></span>
+                            <div class="div-hide-on-mobile"></div>
+
+                          </td>
+                        </tr>
+                        <tr>
+                          <td height="37" style="border-collapse: collapse;"></td>
+                        </tr>
+                        <tr>
+                          <td align="center" style="border-collapse: collapse;"> <a href="https://ssense.us3.list-manage.com/track/click?u=558184dc763e79910b586fc2b&id=cea642b7e6&e=d4f289dae0" target="_blank" style="color: #000;text-decoration: none;"> <img src="http://res.cloudinary.com/ssenseweb/image/upload/v1506003185/SSENSE_-reg_logo_sm_aozdff.jpg" width="105" alt="SSENSE_-reg_logo_sm_aozdff.jpg" style="vertical-align: top;"></a>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td height="60" style="border-collapse: collapse;"></td>
+                      </tr>
+                    </table>
+                    <table class="section instagram" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;mso-table-lspace: 0;mso-table-rspace: 0;">
+                      <tr>
+                        <td align="center" style="border-collapse: collapse;">
+                                                          <a href="https://ssense.us3.list-manage.com/track/click?u=558184dc763e79910b586fc2b&id=a64d09d318&e=d4f289dae0" target="_blank" style="color: #000;text-decoration: none;">
+                                                            <img src="http://img.ssensemedia.com/image/upload/v1621287294/NL_SALE-50-UNI-EN-1520x133_kn41r6.gif" class="full-width-image" alt="" title="Sale: Up to 50% Off" style="vertical-align: top;height: auto;max-width: 100%;width: 100%;"></a>
+                                                          </td>
+                        </tr>
+                        <tr>
+                          <td height="32" style="border-collapse: collapse;">
+                                                            </td>
+                          </tr>
+                        </table>
+                        <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;mso-table-lspace: 0;mso-table-rspace: 0;">
+                          <tr>
+                            <td height="0" style="border-collapse: collapse;">
+                            </td>
+                          </tr>
+                        </table>
+                        <table class="section instagram" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;mso-table-lspace: 0;mso-table-rspace: 0;">
+                          <tr>
+                            <td align="center" style="border-collapse: collapse;"> <a href="https://ssense.us3.list-manage.com/track/click?u=558184dc763e79910b586fc2b&id=ea50697057&e=d4f289dae0" target="_blank" style="color: #000;text-decoration: none;"> <img src="http://img.ssensemedia.com/image/upload/v1568061129/SSENSE-Editorial_ah5etf.png" class="title-image" alt="" title="SSENSE-Editorial" style="vertical-align: top;height: auto;max-width: 100%;width: 500px;"></a>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td height="26" style="border-collapse: collapse;"></td>
+                        </tr>
+                        <tr>
+                          <td align="center" style="border-collapse: collapse;"> <a href="https://ssense.us3.list-manage.com/track/click?u=558184dc763e79910b586fc2b&id=ea50697057&e=d4f289dae0" target="_blank" style="color: #000;text-decoration: none;"> <img src="http://img.ssensemedia.com/image/upload/v1606412154/FW20_NL_Header_Welcome_Hilness_W_1520x590_dvpfqg.jpg" class="full-width-image" alt="SSENSE Editorial" title="SSENSE Editorial" style="vertical-align: top;height: auto;max-width: 100%;width: 100%;"></a>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td height="29" style="border-collapse: collapse;"></td>
+                      </tr>
+                      <tr>
+                        <td align="center" style="border-collapse: collapse;">
+                          <div class="text" style="color: #000;font-family: 'Favorit SSENSE Inter','JHA Times Now','plain',Times,sans-serif;font-size: 12px;line-height: 16px;margin: 0 auto;max-width: 500px;text-align: center;">
+                            <p style="margin: 0 20px;padding: 0;font-size: 12px;line-height: 16px;color: #000;font-family: 'Favorit SSENSE Inter','JHA Times Now','plain',Times,sans-serif;"><span>The SSENSE editorial platform exists at the nexus of fashion and culture, spanning the realms of art, design, music, literature, and more. Keep up with the latest and browse the archive to discover exclusive interviews with recording artists, actors, and authors, seasonal trend reports, and profiles of the industry’s leading creatives.</span>
+                          </p>
+                        </div>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td height="50" style="border-collapse: collapse;"></td>
+                    </tr>
+                  </table>
+                  <table class="section new-arrivals" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;mso-table-lspace: 0;mso-table-rspace: 0;">
+                    <tr>
+                      <td align="center" style="border-collapse: collapse;"> <a href="https://ssense.us3.list-manage.com/track/click?u=558184dc763e79910b586fc2b&id=ea50697057&e=d4f289dae0" target="_blank" style="color: #000;text-decoration: none;">				<img src="http://img.ssensemedia.com/image/upload/v1567797409/EXPLORE_qrosog.png" class="title-image" alt="EXPLORE" title="EXPLORE" style="vertical-align: top;height: auto;max-width: 100%;width: 500px;"></a>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="center" style="border-collapse: collapse;">
+                      <div class="text" style="color: #000;font-family: 'Favorit SSENSE Inter','JHA Times Now','plain',Times,sans-serif;font-size: 12px;line-height: 16px;margin: 0 auto;max-width: 500px;text-align: center;"></div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="center" style="border-collapse: collapse;"></td>
+                  </tr>
+                  <tr>
+                    <td align="center" style="border-collapse: collapse;">
+                      <table cellpadding="0" cellspacing="0" border="0" width="100%" style="border-collapse: collapse;mso-table-lspace: 0;mso-table-rspace: 0;">
+                        <tr>
+                          <td align="center" style="border-collapse: collapse;">
+                            <div class="title" style="color: #000;font-family: 'Favorit SSENSE Inter','JHA Times Now','plain',Times,sans-serif;font-size: 32px;font-weight: bold;line-height: 36px;max-width: 480px;text-align: center;"> <a href="https://ssense.us3.list-manage.com/track/click?u=558184dc763e79910b586fc2b&id=ea50697057&e=d4f289dae0" target="_blank" style="color: #000;text-decoration: none;"></a>
+                            </div>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td height="32" align="center" style="border-collapse: collapse;"></td>
+                        </tr>
+                      </table>
+                      <table class="theme-pick-items-container" border="0" cellpadding="0" cellspacing="0" width="580" style="border-collapse: collapse;mso-table-lspace: 0;mso-table-rspace: 0;">
+                        <tr>
+                          <td class="theme-pick-column" valign="top" width="280" style="border-collapse: collapse;">
+                            <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;mso-table-lspace: 0;mso-table-rspace: 0;">
+                              <tr>
+                                <td valign="top" style="border-collapse: collapse;">
+                                  <table border="0" cellpadding="0" cellspacing="0" width="130" style="border-collapse: collapse;mso-table-lspace: 0;mso-table-rspace: 0;">
+                                    <tr>
+                                      <td valign="top" style="border-collapse: collapse;"> <a href="https://ssense.us3.list-manage.com/track/click?u=558184dc763e79910b586fc2b&id=8ca3978a50&e=d4f289dae0" target="_blank" class="theme-pick-link" style="color: #808080;text-decoration: none;"> <img src="http://img.ssensemedia.com/image/upload/g_south,w_260,h_300,c_lpad/v1566497422/Culture_aboida.jpg" class="full-width-image" alt="Culture" title="Culture" style="vertical-align: top;height: auto;max-width: 100%;width: 100%;"></a>
+                                    </td>
+                                  </tr>
+                                  <tr>
+                                    <td height="12" style="border-collapse: collapse;"></td>
+                                  </tr>
+                                  <tr>
+                                    <td class="theme-pick-label" align="center" valign="top" style="border-collapse: collapse;font-family: 'Favorit SSENSE Inter','JHA Times Now','plain',Times,sans-serif;font-size: 9px;font-weight: bold;line-height: 12px;"></td>
+                                  </tr>
+                                  <tr>
+                                    <td height="12" style="border-collapse: collapse;"></td>
+                                  </tr>
+                                </table>
+                              </td>
+                              <td width="20" style="border-collapse: collapse;"></td>
+                              <td valign="top" style="border-collapse: collapse;">
+                                <table border="0" cellpadding="0" cellspacing="0" width="130" style="border-collapse: collapse;mso-table-lspace: 0;mso-table-rspace: 0;">
+                                  <tr>
+                                    <td valign="top" style="border-collapse: collapse;"> <a href="https://ssense.us3.list-manage.com/track/click?u=558184dc763e79910b586fc2b&id=e6079536e5&e=d4f289dae0" target="_blank" class="theme-pick-link" style="color: #808080;text-decoration: none;"> <img src="http://img.ssensemedia.com/image/upload/g_south,w_260,h_300,c_lpad/v1566497423/Fashion_qozvgc.jpg" class="full-width-image" alt="Fashion" title="Fashion" style="vertical-align: top;height: auto;max-width: 100%;width: 100%;"></a>
+                                  </td>
+                                </tr>
+                                <tr>
+                                  <td height="12" style="border-collapse: collapse;"></td>
+                                </tr>
+                                <tr>
+                                  <td class="theme-pick-label" align="center" valign="middle" style="border-collapse: collapse;font-family: 'Favorit SSENSE Inter','JHA Times Now','plain',Times,sans-serif;font-size: 9px;font-weight: bold;line-height: 12px;"></td>
+                                </tr>
+                                <tr>
+                                  <td height="12" style="border-collapse: collapse;"></td>
+                                </tr>
+                              </table>
+                            </td>
+                          </tr>
+                        </table>
+                      </td>
+                      <td class="theme-pick-spacer" width="20" style="border-collapse: collapse;"></td>
+                      <td class="theme-pick-column" valign="top" width="280" style="border-collapse: collapse;">
+                        <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;mso-table-lspace: 0;mso-table-rspace: 0;">
+                          <tr>
+                            <td valign="top" style="border-collapse: collapse;">
+                              <table border="0" cellpadding="0" cellspacing="0" width="130" style="border-collapse: collapse;mso-table-lspace: 0;mso-table-rspace: 0;">
+                                <tr>
+                                  <td valign="top" style="border-collapse: collapse;"> <a href="https://ssense.us3.list-manage.com/track/click?u=558184dc763e79910b586fc2b&id=06a43d169c&e=d4f289dae0" target="_blank" class="theme-pick-link" style="color: #808080;text-decoration: none;"> <img src="http://img.ssensemedia.com/image/upload/g_south,w_260,h_300,c_lpad/v1566497422/Market_gxefxi.jpg" class="full-width-image" alt="Market" title="Market" style="vertical-align: top;height: auto;max-width: 100%;width: 100%;"></a>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td height="12" style="border-collapse: collapse;"></td>
+                              </tr>
+                              <tr>
+                                <td class="theme-pick-label" align="center" valign="top" style="border-collapse: collapse;font-family: 'Favorit SSENSE Inter','JHA Times Now','plain',Times,sans-serif;font-size: 9px;font-weight: bold;line-height: 12px;"></td>
+                              </tr>
+                              <tr>
+                                <td height="12" style="border-collapse: collapse;"></td>
+                              </tr>
+                            </table>
+                          </td>
+                          <td width="20" style="border-collapse: collapse;"></td>
+                          <td valign="top" style="border-collapse: collapse;">
+                            <table border="0" cellpadding="0" cellspacing="0" width="130" style="border-collapse: collapse;mso-table-lspace: 0;mso-table-rspace: 0;">
+                              <tr>
+                                <td valign="top" style="border-collapse: collapse;"> <a href="https://ssense.us3.list-manage.com/track/click?u=558184dc763e79910b586fc2b&id=1442b7883a&e=d4f289dae0" target="_blank" class="theme-pick-link" style="color: #808080;text-decoration: none;"> <img src="http://img.ssensemedia.com/image/upload/g_south,w_260,h_300,c_lpad/v1566497423/Music_rro5dr.jpg" class="full-width-image" alt="Music" title="Music" style="vertical-align: top;height: auto;max-width: 100%;width: 100%;"></a>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td height="12" style="border-collapse: collapse;"></td>
+                            </tr>
+                            <tr>
+                              <td class="theme-pick-label" align="center" valign="top" style="border-collapse: collapse;font-family: 'Favorit SSENSE Inter','JHA Times Now','plain',Times,sans-serif;font-size: 9px;font-weight: bold;line-height: 12px;"></td>
+                            </tr>
+                            <tr>
+                              <td height="12" style="border-collapse: collapse;"></td>
+                            </tr>
+                          </table>
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+              </table>
+              <table cellpadding="0" cellspacing="0" border="0" width="100%" style="border-collapse: collapse;mso-table-lspace: 0;mso-table-rspace: 0;">
+                <tr>
+                  <td height="20" style="border-collapse: collapse;"></td>
+                </tr>
+                <tr>
+                  <td align="center" style="border-collapse: collapse;">
+                    <div class="cta" style="color: #000;font-family: 'Favorit SSENSE Inter','JHA Times Now','plain',Times,sans-serif;font-size: 20px;line-height: 24px;text-align: center;"> <a href="https://ssense.us3.list-manage.com/track/click?u=558184dc763e79910b586fc2b&id=ea50697057&e=d4f289dae0" target="_blank" style="color: #000;text-decoration: none !important;border-bottom: 1px solid #000;">Browse The Latest Editorials</a>
+                  </div>
+                </td>
+              </tr>
+            </table>
+            <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;mso-table-lspace: 0;mso-table-rspace: 0;">
+              <tr>
+                <td height="80" style="border-collapse: collapse;"></td>
+              </tr>
+            </table>
+            <table id="content-item-2" class="section full-looks" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;mso-table-lspace: 0;mso-table-rspace: 0;">
+              <tr>
+                <td align="center" style="border-collapse: collapse;"> <img src="http://img.ssensemedia.com/image/upload/v1567780213/EDITORIAL-HIGHLIGHTS_n7scbe.png" class="title-image" alt="EDITORIAL HIGHLIGHTS" title="EDITORIAL HIGHLIGHTS" style="vertical-align: top;height: auto;max-width: 100%;width: 500px;">
+                </td>
+              </tr>
+              <tr>
+                <td height="50" style="border-collapse: collapse;"></td>
+              </tr>
+              <tr>
+                <td align="center" style="border-collapse: collapse;">
+                  <table cellpadding="0" cellspacing="0" border="0" style="border-collapse: collapse;mso-table-lspace: 0;mso-table-rspace: 0;">
+                    <tr>
+                      <td class="full-looks-column" align="center" valign="top" style="border-collapse: collapse;">
+                        <table cellpadding="0" cellspacing="0" border="0" style="border-collapse: collapse;mso-table-lspace: 0;mso-table-rspace: 0;">
+                          <tr>
+                            <td style="border-collapse: collapse;"> <a href="https://ssense.us3.list-manage.com/track/click?u=558184dc763e79910b586fc2b&id=1e5fe26913&e=d4f289dae0" target="_blank" style="color: #000;text-decoration: none;"> <img src="http://img.ssensemedia.com/image/upload/v1606412164/NL_WelcomeEdito_PETRA_W_ZH_740x800_mi2xgd.jpg" class="full-width-image" alt="I’m Sorry" title="I’m Sorry" style="vertical-align: top;height: auto;max-width: 100%;width: 100%;"></a>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td height="15" style="border-collapse: collapse;"></td>
+                        </tr>
+                        <tr>
+                          <td style="border-collapse: collapse;">
+                            <div class="text text-narrow" style="color: #000;font-family: 'Favorit SSENSE Inter','JHA Times Now','plain',Times,sans-serif;font-size: 12px;line-height: 16px;margin: 0 auto;max-width: 360px;text-align: center;">
+                              <p style="margin: 0 auto;padding: 0;font-size: 12px;line-height: 16px;color: #000;font-family: 'Favorit SSENSE Inter','JHA Times Now','plain',Times,sans-serif;max-width: 360px;text-align: center;"><span>Introducing I’m Sorry by Petra Collins, the photographer’s first clothing collaboration.</span>
+                            </p>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td height="32" style="border-collapse: collapse;"></td>
+                      </tr>
+                      <tr>
+                        <td class="cta" style="border-collapse: collapse;color: #000;font-family: 'Favorit SSENSE Inter','JHA Times Now','plain',Times,sans-serif;font-size: 20px;line-height: 24px;text-align: center;"> <a href="https://ssense.us3.list-manage.com/track/click?u=558184dc763e79910b586fc2b&id=1e5fe26913&e=d4f289dae0" target="_blank" style="color: #000;text-decoration: none !important;border-bottom: 1px solid #000;">Read the Editorial</a>
+                      </td>
+                    </tr>
+                    <tr class="tr-show-on-mobile">
+                      <td height="32" style="border-collapse: collapse;"></td>
+                    </tr>
+                  </table>
+                </td>
+                <td class="full-looks-spacer" width="20" style="border-collapse: collapse;"></td>
+                <td class="full-looks-column" align="center" valign="top" style="border-collapse: collapse;">
+                  <table cellpadding="0" cellspacing="0" border="0" style="border-collapse: collapse;mso-table-lspace: 0;mso-table-rspace: 0;">
+                    <tr>
+                      <td style="border-collapse: collapse;"> <a href="https://ssense.us3.list-manage.com/track/click?u=558184dc763e79910b586fc2b&id=d365befd15&e=d4f289dae0" target="_blank" style="color: #000;text-decoration: none;"> <img src="http://img.ssensemedia.com/image/upload/v1606412168/NL_WelcomeEdito_DianaGrodon_W_EN_740x800_vcbz59.jpg" class="full-width-image" alt="Diana Gordon’s World of Interiors" title="Diana Gordon’s World of Interiors" style="vertical-align: top;height: auto;max-width: 100%;width: 100%;"></a>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td height="15" style="border-collapse: collapse;"></td>
+                  </tr>
+                  <tr>
+                    <td style="border-collapse: collapse;">
+                      <div class="text text-narrow" style="color: #000;font-family: 'Favorit SSENSE Inter','JHA Times Now','plain',Times,sans-serif;font-size: 12px;line-height: 16px;margin: 0 auto;max-width: 360px;text-align: center;">
+                        <p style="margin: 0 auto;padding: 0;font-size: 12px;line-height: 16px;color: #000;font-family: 'Favorit SSENSE Inter','JHA Times Now','plain',Times,sans-serif;max-width: 360px;text-align: center;"><span>A distanced photoshoot by Mat + Kat featuring musician, Diana Gordon. </span>
+                      </p>
+                    </div>
+                  </td>
+                </tr>
+                <tr>
+                  <td height="32" style="border-collapse: collapse;"></td>
+                </tr>
+                <tr>
+                  <td class="cta" style="border-collapse: collapse;color: #000;font-family: 'Favorit SSENSE Inter','JHA Times Now','plain',Times,sans-serif;font-size: 20px;line-height: 24px;text-align: center;"> <a href="https://ssense.us3.list-manage.com/track/click?u=558184dc763e79910b586fc2b&id=d365befd15&e=d4f289dae0" target="_blank" style="color: #000;text-decoration: none !important;border-bottom: 1px solid #000;">Read the Editorial</a>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;mso-table-lspace: 0;mso-table-rspace: 0;">
+  <tr>
+    <td height="50" style="border-collapse: collapse;"></td>
+  </tr>
+</table>
+<table class="section new-arrivals" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;mso-table-lspace: 0;mso-table-rspace: 0;">
+  <tr>
+    <td align="center" style="border-collapse: collapse;"> <img src="http://res.cloudinary.com/ssenseweb/image/upload/v1507317975/Join-Us_oodhsn.png" class="title-image" alt="Join Us" title="Join Us" style="vertical-align: top;height: auto;max-width: 100%;width: 500px;">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="border-collapse: collapse;">
+      <div class="text" style="color: #000;font-family: 'Favorit SSENSE Inter','JHA Times Now','plain',Times,sans-serif;font-size: 12px;line-height: 16px;margin: 0 auto;max-width: 500px;text-align: center;"></div>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="border-collapse: collapse;"></td>
+  </tr>
+  <tr>
+    <td align="center" style="border-collapse: collapse;">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%" style="border-collapse: collapse;mso-table-lspace: 0;mso-table-rspace: 0;">
+        <tr>
+          <td align="center" style="border-collapse: collapse;">
+            <div class="title" style="color: #000;font-family: 'Favorit SSENSE Inter','JHA Times Now','plain',Times,sans-serif;font-size: 32px;font-weight: bold;line-height: 36px;max-width: 480px;text-align: center;"> <a href="https://ssense.us3.list-manage.com/track/click?u=558184dc763e79910b586fc2b&id=b84887f680&e=d4f289dae0" target="_blank" style="color: #000;text-decoration: none;"></a>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td height="32" align="center" style="border-collapse: collapse;"></td>
+        </tr>
+      </table>
+      <table class="theme-pick-items-container" border="0" cellpadding="0" cellspacing="0" width="580" style="border-collapse: collapse;mso-table-lspace: 0;mso-table-rspace: 0;">
+        <tr>
+          <td class="theme-pick-column" valign="top" width="280" style="border-collapse: collapse;">
+            <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;mso-table-lspace: 0;mso-table-rspace: 0;">
+              <tr>
+                <td valign="top" style="border-collapse: collapse;">
+                  <table border="0" cellpadding="0" cellspacing="0" width="130" style="border-collapse: collapse;mso-table-lspace: 0;mso-table-rspace: 0;">
+                    <tr>
+                      <td valign="top" style="border-collapse: collapse;"> <a href="https://ssense.us3.list-manage.com/track/click?u=558184dc763e79910b586fc2b&id=345170d1c6&e=d4f289dae0" target="_blank" class="theme-pick-link" style="color: #808080;text-decoration: none;"> <img src="http://img.ssensemedia.com/image/upload/v1553616031/instagram_jlyg4n.jpg" class="full-width-image" alt="Instagram" title="Instagram" style="vertical-align: top;height: auto;max-width: 100%;width: 100%;"></a>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td height="12" style="border-collapse: collapse;"></td>
+                  </tr>
+                  <tr>
+                    <td class="theme-pick-label" align="center" valign="top" style="border-collapse: collapse;font-family: 'Favorit SSENSE Inter','JHA Times Now','plain',Times,sans-serif;font-size: 9px;font-weight: bold;line-height: 12px;"></td>
+                  </tr>
+                  <tr>
+                    <td height="12" style="border-collapse: collapse;"></td>
+                  </tr>
+                </table>
+              </td>
+              <td width="20" style="border-collapse: collapse;"></td>
+              <td valign="top" style="border-collapse: collapse;">
+                <table border="0" cellpadding="0" cellspacing="0" width="130" style="border-collapse: collapse;mso-table-lspace: 0;mso-table-rspace: 0;">
+                  <tr>
+                    <td valign="top" style="border-collapse: collapse;"> <a href="https://ssense.us3.list-manage.com/track/click?u=558184dc763e79910b586fc2b&id=16f93274ad&e=d4f289dae0" target="_blank" class="theme-pick-link" style="color: #808080;text-decoration: none;"> <img src="http://img.ssensemedia.com/image/upload/v1553616031/facebook_ifzqoh.jpg" class="full-width-image" alt="Facebook" title="Facebook" style="vertical-align: top;height: auto;max-width: 100%;width: 100%;"></a>
+                  </td>
+                </tr>
+                <tr>
+                  <td height="12" style="border-collapse: collapse;"></td>
+                </tr>
+                <tr>
+                  <td class="theme-pick-label" align="center" valign="middle" style="border-collapse: collapse;font-family: 'Favorit SSENSE Inter','JHA Times Now','plain',Times,sans-serif;font-size: 9px;font-weight: bold;line-height: 12px;"></td>
+                </tr>
+                <tr>
+                  <td height="12" style="border-collapse: collapse;"></td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td class="theme-pick-spacer" width="20" style="border-collapse: collapse;"></td>
+      <td class="theme-pick-column" valign="top" width="280" style="border-collapse: collapse;">
+        <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;mso-table-lspace: 0;mso-table-rspace: 0;">
+          <tr>
+            <td valign="top" style="border-collapse: collapse;">
+              <table border="0" cellpadding="0" cellspacing="0" width="130" style="border-collapse: collapse;mso-table-lspace: 0;mso-table-rspace: 0;">
+                <tr>
+                  <td valign="top" style="border-collapse: collapse;"> <a href="https://ssense.us3.list-manage.com/track/click?u=558184dc763e79910b586fc2b&id=e2c6aea99f&e=d4f289dae0" class="theme-pick-link" style="color: #808080;text-decoration: none;"> <img src="http://img.ssensemedia.com/image/upload/v1553616030/twitter_vkuukt.jpg" class="full-width-image" alt="Twitter" title="Twitter" style="vertical-align: top;height: auto;max-width: 100%;width: 100%;"></a>
+                </td>
+              </tr>
+              <tr>
+                <td height="12" style="border-collapse: collapse;"></td>
+              </tr>
+              <tr>
+                <td class="theme-pick-label" align="center" valign="top" style="border-collapse: collapse;font-family: 'Favorit SSENSE Inter','JHA Times Now','plain',Times,sans-serif;font-size: 9px;font-weight: bold;line-height: 12px;"></td>
+              </tr>
+              <tr>
+                <td height="12" style="border-collapse: collapse;"></td>
+              </tr>
+            </table>
+          </td>
+          <td width="20" style="border-collapse: collapse;"></td>
+          <td valign="top" style="border-collapse: collapse;">
+            <table border="0" cellpadding="0" cellspacing="0" width="130" style="border-collapse: collapse;mso-table-lspace: 0;mso-table-rspace: 0;">
+              <tr>
+                <td valign="top" style="border-collapse: collapse;"> <a href="https://ssense.us3.list-manage.com/track/click?u=558184dc763e79910b586fc2b&id=b7d222a9ca&e=d4f289dae0" target="_blank" class="theme-pick-link" style="color: #808080;text-decoration: none;"> <img src="http://img.ssensemedia.com/image/upload/v1553616032/youtube_hkcvn6.jpg" class="full-width-image" alt="Youtube" title="Youtube" style="vertical-align: top;height: auto;max-width: 100%;width: 100%;"></a>
+              </td>
+            </tr>
+            <tr>
+              <td height="12" style="border-collapse: collapse;"></td>
+            </tr>
+            <tr>
+              <td class="theme-pick-label" align="center" valign="top" style="border-collapse: collapse;font-family: 'Favorit SSENSE Inter','JHA Times Now','plain',Times,sans-serif;font-size: 9px;font-weight: bold;line-height: 12px;"></td>
+            </tr>
+            <tr>
+              <td height="12" style="border-collapse: collapse;"></td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+  </td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;mso-table-lspace: 0;mso-table-rspace: 0;">
+<tr>
+  <td height="80" style="border-collapse: collapse;"></td>
+</tr>
+</table>
+<table class="footer" cellpadding="0" cellspacing="0" border="0" style="border-collapse: collapse;mso-table-lspace: 0;mso-table-rspace: 0;font-family: 'Favorit SSENSE Inter','JHA Times Now','plain',Times,sans-serif;font-size: 12px;font-weight: bold;line-height: 16px;">
+<tr>
+  <td align="center" style="border-collapse: collapse;"> <span class="footer-menu-item" style="padding: 0 10px;"><a href="?utm_source=ssense&utm_medium=email&utm_campaign=welcome&utm_term=welcome_women" target="_blank" style="color: #000;text-decoration: none;"></a></span> <span class="footer-menu-item" style="padding: 0 10px;"><a href="https://ssense.us3.list-manage.com/track/click?u=558184dc763e79910b586fc2b&id=34a9373d5f&e=d4f289dae0" target="_blank" style="color: #000;text-decoration: none;">Customer Care</a></span> <span class="footer-menu-item" style="padding: 0 10px;"><a href="https://ssense.us3.list-manage.com/track/click?u=558184dc763e79910b586fc2b&id=531e747f16&e=d4f289dae0" target="_blank" style="color: #000;text-decoration: none;">Update Preferences</a></span> <span class="footer-menu-item" style="padding: 0 10px;"><a href="https://ssense.us3.list-manage.com/track/click?u=558184dc763e79910b586fc2b&id=9db8258017&e=d4f289dae0" target="_blank" style="color: #000;text-decoration: none;">SSENSE MONTRÉAL</a></span>
+</td>
+</tr>
+<tr>
+<td height="20" style="border-collapse: collapse;"></td>
+</tr>
+<tr>
+<td align="center" style="border-collapse: collapse;"> <a href="https://ssense.us3.list-manage.com/track/click?u=558184dc763e79910b586fc2b&id=da8c410ec6&e=d4f289dae0" style="color: #000;text-decoration: none;"><img src="http://res.cloudinary.com/ssenseweb/image/upload/v1453312655/social-facebook_ylobc8.png" height="16" width="30" alt="social-facebook_ylobc8.png" style="vertical-align: top;"></a> <a href="https://ssense.us3.list-manage.com/track/click?u=558184dc763e79910b586fc2b&id=9dd86000a0&e=d4f289dae0" style="color: #000;text-decoration: none;"><img src="http://res.cloudinary.com/ssenseweb/image/upload/v1453312656/social-twitter_jjktb1.png" height="16" width="30" alt="social-twitter_jjktb1.png" style="vertical-align: top;"></a> <a href="https://ssense.us3.list-manage.com/track/click?u=558184dc763e79910b586fc2b&id=4c2d011995&e=d4f289dae0" style="color: #000;text-decoration: none;"><img src="http://res.cloudinary.com/ssenseweb/image/upload/v1453312654/social-instagram_yyysgz.png" height="16" width="30" alt="social-instagram_yyysgz.png" style="vertical-align: top;"></a> <a href="https://ssense.us3.list-manage.com/track/click?u=558184dc763e79910b586fc2b&id=674fad9be2&e=d4f289dae0" style="color: #000;text-decoration: none;"><img src="http://res.cloudinary.com/ssenseweb/image/upload/v1453312656/social-youtube_efwela.png" height="16" width="30" alt="social-youtube_efwela.png" style="vertical-align: top;"></a>
+</td>
+</tr>
+<tr>
+<td height="20" style="border-collapse: collapse;"></td>
+</tr>
+<tr>
+<td style="border-collapse: collapse;">
+<div class="footer-text" style="text-align: center;">
+  <p style="margin: 0;padding: 0;font-size: 9px;line-height: 13px;color: #808080;font-family: 'Favorit SSENSE Inter','JHA Times Now','plain',Times,sans-serif;margin-bottom: 13px;">Copyright © 2020 <a href="https://ssense.us3.list-manage.com/track/click?u=558184dc763e79910b586fc2b&id=bae387e05b&e=d4f289dae0" target="_blank" style="color: #808080;text-decoration: none;">ssense.com</a>. All rights reserved.<br><a href="https://ssense.us3.list-manage.com/track/click?u=558184dc763e79910b586fc2b&id=bed6bb0be1&e=d4f289dae0" target="_blank" style="color: #808080;text-decoration: none;">Terms and Conditions</a>
+  <br><a href="https://ssense.us3.list-manage.com/track/click?u=558184dc763e79910b586fc2b&id=311d9bf0c7&e=d4f289dae0" target="_blank" style="color: #808080;text-decoration: none;">Privacy Policy</a>
+</p>
+<p style="margin: 0;padding: 0;font-size: 9px;line-height: 13px;color: #808080;font-family: 'Favorit SSENSE Inter','JHA Times Now','plain',Times,sans-serif;margin-bottom: 13px;">Please add <span style="text-decoration: underline;"><a href="mailto:newsletters@ssense.com" style="color: #808080;text-decoration: none;">newsletters@ssense.com</a></span> to your address book to ensure our newsletters reach your inbox.<br> If you no longer wish to receive email updates, please <span style="text-decoration: underline;"><a href="https://ssense.us3.list-manage.com/unsubscribe?u=558184dc763e79910b586fc2b&id=a007f66ac3&e=d4f289dae0&c=59efc1156d" target="_blank" style="color: #808080;text-decoration: none;">unsubscribe</a></span>.<br>SSENSE
+333 Chabanel W, #900
+Montreal, QC H2N 2E7
+Canada</p>
+</div>
+</td>
+</tr>
+<tr>
+<td height="37" style="border-collapse: collapse;"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<div style="display:none;white-space:nowrap;font-family:Courier, monospace;line-height:0;color:#ffffff;"> - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<img src="https://ssense.us3.list-manage.com/track/open.php?u=558184dc763e79910b586fc2b&id=59efc1156d&e=d4f289dae0" height="1" width="1"></body>
+</html>

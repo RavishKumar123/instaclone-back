@@ -1,0 +1,1083 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="x-apple-disable-message-reformatting" />
+<title></title>
+<style type="text/css" data-premailer="ignore">
+/* Gmail Font Increase Fix */
+/* //////////////////////////////////// */
+.gmailfix {
+display: none;
+display: none !important;
+}
+/* Responsive Media Queries */
+/* //////////////////////////////////// */
+@media only screen and (max-width:600px) {
+img {
+max-width: 100% !important;
+max-height: auto !important;
+}
+.container,
+.container--outline {
+border: none !important;
+}
+.header__logo img {
+width: 200px !important;
+height: 38px !important;
+}
+.section-header__text {
+font-size: 16px !important;
+letter-spacing: 2px !important;
+}
+.col {
+padding-bottom: 15px !important;
+}
+.col .content-image {
+margin-bottom: 5px !important;
+}
+.content-block {
+margin-bottom: 40px !important;
+}
+.icon--plus img {
+width: 23px !important;
+height: auto !important;
+}
+.button__default {
+margin-bottom: 30px !important;
+}
+.button__default.button__image-margin {
+margin-bottom: 25px !important;
+}
+.hero__image-container {
+margin-bottom: 30px !important;
+}
+.description__text   {
+font-size: 16px !important;
+line-height: 27px !important;
+margin: 0 25px 20px !important;
+}
+.description__container .description__text {
+margin-bottom: 0 !important;
+}
+.header__nav {
+margin-bottom: 30px !important;
+}
+.default-header__image img {
+margin-bottom: 10px !important;
+}
+.email-footer {
+padding: 20px 14px 20px 14px !important;
+}
+.footer__logo img {
+width: 105px !important;
+}
+.social-header {
+padding: 25px 0 15px !important;
+font-size: 10px !important;
+}
+.social-icons .social-facebook img {
+width: 13px !important;
+}
+.social-icons .social-instagram img {
+width: 24px !important;
+}
+.social-icons .social-twitter img {
+width: 30px !important;
+}
+.social-icons .social-pinterest img {
+width: 19px !important;
+}
+.social-icons .social-youtube img {
+width: 32px !important;
+}
+.social-icons a {
+margin: 0 15px !important;
+}
+.maker__divider {
+width: 80.2px !important;
+height: 11.3px !important;
+}
+/* Keep if using partner header */
+/* //////////////////////////////////// */
+.header__partner-logo img {
+max-width: 100% !important;
+height: auto !important;
+}
+/* Keep if using dark hero */
+/* //////////////////////////////////// */
+.hero--dark .hero__content {
+margin-left: 27px !important;
+margin-right: 27px !important;
+}
+.hero--dark .hero__headline h1 {
+font-size: 27px !important;
+}
+.hero--dark .hero__description p {
+font-size: 16px !important;
+letter-spacing: 0.8px !important;
+}
+/* Keep if using letter layout hero */
+/* //////////////////////////////////// */
+.hero__content--letter {
+margin: 27px 27px 0 27px !important;
+}
+/* Keep if using 2017 holiday styles */
+/* //////////////////////////////////// */
+.header__logo--holiday img {
+width: 191px !important;
+height: 24px !important;
+}
+.hero__headline--holiday h1 a {
+font-size: 27px !important;
+line-height: 1.3 !important;
+letter-spacing: 0.4px !important;
+}
+.hero__ornament-top {
+width: 184px !important;
+height: 31px !important;
+}
+.hero__ornament-bottom {
+margin-top: 10px !important;
+}
+.hero__content--holiday .hero__description p {
+font-size: 16px !important;
+line-height: 1.5 !important;
+letter-spacing: 0.8px !important;
+}
+.hero__content--holiday-image .hero__description p {
+font-size: 13px !important;
+line-height: 1.46 !important;
+letter-spacing: 1.8px !important;
+}
+.section-header--holiday {
+margin-bottom: 10px !important;
+}
+.section-header__image--holiday img {
+width: 100px !important;
+height: 48px !important;
+}
+.col--holiday.col--two-side .content-title {
+padding-left: 27px !important;
+padding-right: 27px !important;
+font-size: 12px !important;
+line-height: 1.67 !important;
+letter-spacing: 1.6px !important;
+}
+.col__ornament {
+width: 39px !important;
+height: 8px !important;
+}
+.column-container {
+margin-bottom: 40px !important;
+}
+.hero__number a {
+line-height: 30px !important;
+}
+/* Keep if using two column layouts */
+/* //////////////////////////////////// */
+.col--two .content-image,
+.col--two .content-title,
+.col--two .content-description {
+margin-right: 7px !important;
+}
+.col--two.col--last .content-image,
+.col--two.col--last .content-title,
+.col--two.col--last .content-description {
+margin-right: 0 !important;
+margin-left: 7px !important;
+}
+.col--two-plus-icon img {
+padding-bottom: 15px !important;
+}
+.col--two-side-alt {
+padding-bottom: 0 !important;
+}
+.col--two-product-container tr {
+display: block !important;
+}
+.col--two-product-container .col--two {
+width: 100% !important;
+display: block !important;
+}
+.col--two-product .content-image {
+margin-right: 0 !important;
+}
+.col--two-product img {
+width: 100% !important;
+}
+.col--two-product-description {
+margin-left: 15px !important;
+margin-top: 7px !important;
+}
+.col--two-product-description a {
+font-size: 15px !important;
+}
+.content-description a {
+line-height: 1.4 !important;
+}
+/* Keep if using four column layouts */
+/* //////////////////////////////////// */
+.col--four {
+width: 50% !important;
+padding-bottom: 0 !important;
+margin-bottom: 15px !important;
+}
+.col__space--four {
+display: none !important;
+}
+.col--four .content-image,
+.col--four .content-title,
+.col--four .content-description {
+margin-right: 7px !important;
+}
+.col--four.col--last .content-image,
+.col--four.col--last .content-title,
+.col--four.col--last .content-description {
+margin-right: 0 !important;
+margin-left: 7px !important;
+}
+.col--four-side {
+width: 100% !important;
+padding-bottom: 0 !important;
+margin-bottom: 15px !important;
+}
+.col__inner--four-side,
+.col--last .col__inner--four-side {
+padding: 0 !important;
+}
+.col--four-side .content-image {
+margin-right: 7px !important;
+}
+.col--four-side .content-title,
+.col--four-side .content-description {
+margin: 0 7px !important;
+}
+/* Keep if using recipe block */
+/* //////////////////////////////////// */
+.recipe__block .default-header__text {
+max-width: 344px !important;
+display: block !important;
+margin: 0 auto !important;
+}
+.recipe__block .content-title {
+padding: 0 18px !important;
+font-size: 15px !important;
+}
+.recipe__block .content-link a {
+font-size: 12px !important;
+}
+.recipe__block .content-image {
+margin-bottom: 0 !important;
+}
+.recipe__block .col__ornament {
+width: 52.2px !important;
+height: 11.2px !important;
+}
+/* Keep if using quote block */
+/* //////////////////////////////////// */
+.quote {
+padding: 27px 35px !important;
+}
+.quote__marks {
+padding-bottom: 12px !important;
+}
+.quote__marks--bottom {
+padding: 12px 0 0 0 !important;
+}
+.quote__marks img {
+width: 18px !important;
+height: 13px !important;
+}
+.quote__text {
+font-size: 16px !important;
+line-height: 27px !important;
+}
+.quote__source {
+font-size: 13px !important;
+letter-spacing: 2.4px !important;
+line-height: 16px !important;
+padding-top: 17px !important;
+}
+.quote__source-title {
+font-size: 13px !important;
+line-height: 15px !important;
+}
+.quote__hotline-header {
+font-size: 13px !important;
+letter-spacing: 2.4px !important;
+padding-bottom: 20px !important;
+}
+.quote__block {
+width: auto !important;
+margin: 0 16px !important;
+}
+.quote__single {
+width: auto !important;
+}
+.quote__single,
+.quote__bio {
+margin: 0 16px 40px 16px !important;
+}
+.quote__single .quote,
+.quote__hotline {
+padding: 25px 30px !important;
+}
+.quote__hotline-link {
+font-size: 13px !important;
+}
+.quote__bio-container {
+display: block !important;
+width: 100% !important;
+margin-bottom: 15px !important;
+padding: 0 !important;
+}
+.quote__bio {
+width: auto !important;
+}
+.quote__text-side {
+display: block !important;
+border-left: none !important;
+width: 100% !important;
+padding: 0 !important;
+text-align: center !important;
+}
+.quote__attribution {
+padding: 25px 30px !important;
+}
+.quote__button-margin {
+margin-bottom: 25px !important;
+}
+/* Keep if Using Headlines */
+/* //////////////////////////////////// */
+.headline__large {
+font-size: 32px !important;
+line-height: 41px !important;
+margin: 0px 16px 10px 16px !important;
+}
+.headline__large-margin {
+margin-bottom: 30px !important;
+}
+.headline__medium {
+font-size: 26px !important;
+line-height: 32px !important;
+margin: 0px 16px 10px 16px!important;
+}
+.article__header-margin {
+margin-bottom: 17px !important;
+}
+.subtext__medium {
+width: 330px !important;
+font-size: 14px !important;
+line-height: 20px !important;
+letter-spacing: 2.2px !important;
+margin-bottom: 10px !important;
+}
+.subtext__medium-margin {
+margin-bottom: 20px !important;
+}
+.subtext__small {
+max-width: 315px;
+font-size: 11.5px !important;
+}
+.footer__banner img {
+width: 92% !important;
+}
+.headline__medium-margin {
+margin-bottom: 17px !important;
+}
+/* Kepp if Using Product Two Column */
+/* //////////////////////////////////// */
+.product-header__text {
+font-size: 11.5px !important;
+letter-spacing: 1.8px !important;
+display: block !important;
+margin: 0 auto !important;
+max-width: 315px !important;
+}
+.product-header__subtext {
+padding-top: 9px !important;
+}
+.product-header__subtext {
+max-width: 344px !important;
+display: block;
+margin: 0 auto;
+}
+.default-header {
+margin-bottom: 17px !important;
+}
+.col--two-product-container {
+margin: 0 16px !important;
+}
+.col--two-product {
+margin-bottom: 10px;
+}
+.col--two .col--two-product .content-image {
+margin-left: 0 !important;
+}
+.col--last .hero__number {
+padding-left: 0 !important;
+}
+/* Three Columns */
+/* //////////////////////////////////// */
+.col--three {
+min-width: 109px !important;
+}
+.col__space--three {
+width: 8px !important;
+min-width: 8px !important;
+}
+.col--two-header .col {
+padding-bottom: 30px !important;
+}
+.col--three-header .col {
+padding-bottom: 0 !important;
+}
+.supporting__article {
+margin-bottom: 0px !important;
+}
+.supporting__article .button__default {
+margin-bottom: 25px !important;
+}
+.supporting__article .full-image {
+margin: 0 16px !important;
+}
+.supporting__article .description__text {
+font-size: 15px !important;
+line-height: 22px !important;
+}
+/* Letter */
+/* //////////////////////////////////// */
+.letter__padding td {
+padding: 0 30px !important;
+}
+.letter__container h1 {
+font-size: 32px !important;
+line-height: 41px !important;
+}
+.letter__container p {
+font-size: 16px !important;
+line-height: 27px !important;
+}
+.letter__container {
+margin-bottom: 0px !important;
+}
+/* Article Two Column*/
+/* //////////////////////////////////// */
+.article__two-column {
+margin: 0 14px 40px 14px !important;
+}
+.article__two-column .col {
+padding-bottom: 20px !important;
+}
+.leaderboard-ad {
+max-width: 343px !important;
+}
+/* Roundup */
+/* //////////////////////////////////// */
+.roundup .button__default {
+margin-bottom: 0 !important;
+}
+.roundup .hero__link {
+margin-bottom: 0 !important;
+}
+.roundup .hero__headline h1 {
+font-size: 20px !important;
+line-height: 1.35 !important;
+letter-spacing: 0.8px !important;
+margin-bottom: 0 !important;
+}
+.roundup .hero__number a {
+font-size: 32px !important;
+line-height: 1.5 !important;
+}
+.roundup-divider {
+max-width: 300px !important;
+border-bottom-width: 40px !important;
+}
+/* Collection */
+/* //////////////////////////////////// */
+.collection__backboard {
+width: auto !important;
+max-height: 327px !important;
+}
+.collection__backboard table {
+min-width: 24px !important;
+}
+.collection-image img {
+width: 327px !important;
+}
+.collection__text {
+font-size: 18px !important;
+line-height: 25px !important;
+padding: 20px 24px 20px 60px !important;
+}
+.collection__left {
+padding: 20px 60px 20px 24px !important;
+}
+.collection__subtext {
+padding-top: 10px !important;
+}
+/* Three Article */
+/* //////////////////////////////////// */
+.article__three-spacer {
+margin: 0 16px !important;
+}
+.article__three .content-description a {
+font-size: 15px !important;
+line-height:  1.4 !important;
+}
+.article__three .content-image {
+padding: 0 !important;
+}
+.article__three .col--two-side {
+padding-bottom: 10px !important;
+}
+/* Secondary Products */
+/* //////////////////////////////////// */
+.secondary__products.column-container {
+padding: 25px 16px !important;
+}
+.secondary__products .column-header {
+padding-bottom: 17px !important;
+}
+.secondary__products .content-image {
+margin-bottom: 10px !important;
+margin-right: 0 !important;
+}
+.secondary__products .content-description a {
+font-size: 15px !important;
+margin-right: 0 !important;
+}
+.secondary__products .col--two-header .col {
+padding-bottom: 20px !important;
+}
+.secondary__products .content-description a {
+line-height: 1.4 !important;
+}
+.secondary__products .col--two .content-image {
+margin-right: 4.5px !important;
+}
+.secondary__products .col--two .content-description a {
+margin-right: 4.5px !important;
+}
+.secondary__products .col--two.col--last .content-image,
+.secondary__products .col--two.col--last .content-description {
+margin-left: 3.5px !important;
+margin-right: 0 !important;
+}
+.article__three-block {
+margin-bottom: 30px !important;
+}
+.secondary__products.secondary__products-one .button__default {
+margin-bottom: 0 !important;
+}
+.secondary__products.secondary__products-one .col--two .content-image {
+margin-right: 0 !important;
+}
+.secondary__products.secondary__products-one .col--two {
+padding-bottom: 0 !important;
+}
+/* Genius Footer Banner Styles */
+/* ///////////////////////////////////// */
+.genius__footer {
+margin: 0 16px 40px 16px !important;
+}
+.genius__footer-header {
+margin-top: 22px !important;
+}
+.genius__footer-dek {
+font-size: 16px !important;
+padding: 10px 26px 22px 26px !important;
+}
+.section-divider {
+margin: 0 auto 20px auto !important;
+}
+.default-header__image .divider__margin {
+margin-bottom: 13px !important;
+}
+.subtext__small-container {
+max-width: 315px !important;
+margin: 0 auto 11px auto !important;
+}
+.article__two-column .content-description a {
+font-size: 15px !important;
+}
+.article__three-block .content-description {
+padding-right: 15px !important;
+}
+.roundup__headline {
+max-width: 300px !important;
+}
+/* Sponsor 2x Email */
+/* ////////////////// */
+.sponsor__link {
+padding: 15px 0 0 !important;
+}
+.sponsor__link a {
+font-size: 13px !important;
+}
+/* Nav w/ Banner */
+/* ////////////////// */
+.nav__banner a {
+font-size: 12px !important;
+letter-spacing: 2.8px !important;
+padding: 13px 0 12px 0 !important;
+}
+/* 2018 Holiday Icons */
+.roundup__holiday img {
+margin-bottom: 35px !important;
+width: 55.8px !important;
+}
+.holiday-header__image img {
+width: 73.3px !important;
+}
+.holiday-headline__image img {
+width: 38px !important;
+}
+.recipe-col__ornament {
+width: 37px !important;
+}
+.single-recipe {
+font-size: 14px !important;
+}
+/* Five Two Header */
+.column-container .five-two-header {
+padding-bottom: 15px !important;
+}
+.five-two-header img {
+width: 120px !important;
+height: 33 !important;
+}
+}
+</style>
+</head>
+<body style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; background: #ffffff; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; margin: 0; padding: 0 !important; width: 100% !important; max-width: 600px;  min-width: 100% !important;" bgcolor="#ffffff"><style type="text/css">
+body {
+width: 100% !important; min-width: 100% !important; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; margin: 0 !important; padding: 0 !important; background-color: #ffffff; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 14px;
+}
+img {
+outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; max-width: 100%; height: auto !important;
+}
+</style>
+<center>
+<!--[if (gte mso 9)|(IE)]>
+<table width="600" align="center">
+<tr>
+<td width="600">
+<![endif]-->
+<table class="container " align="center" width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff" style="border-collapse: collapse; border: 1px solid #eaeaea; margin: 0 auto; max-width: 600px; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%">
+<tr>
+<td style="border-collapse: collapse; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding: 0">
+<!-- ********************************* -->
+<!-- Pre-Header -->
+<div class="header__pre header__breadcumb " style="color: #b4b4b4; font-size: 11px; letter-spacing: 0.9px; margin-top: 2px; text-align: center" align="center">
+<a href="https://l.food52.com/view/60b14c9ea8ae852e4473009360ba27553985a25553ad6357/86763e09" style="color: #fff; text-decoration: none">Five Two miracle workers we made with our community.</a>
+</div>
+<!-- /Pre-Header -->
+<!-- Header -->
+<div class="email-header" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; margin: 15px 0 18px; text-align: center" align="center">
+<a href="https://l.food52.com/click/60ba27553985a25553ad6357/aHR0cDovL2Zvb2Q1Mi5jb20vP3V0bV90ZXJtPQ/60b14c9ea8ae852e44730093B23d2fdaf" title="Food52" target="_blank" style="color: #666; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; text-decoration: none">
+<img src="https://media.sailthru.com/3sg/1k3/1/m/5c476744a10d3.png" alt="Food52" width="102" height="21" style="-ms-interpolation-mode: bicubic; border: none; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; height: auto !important; max-width: 100%; outline: none; text-decoration: none" />
+</a>
+</div>
+<!-- /Header -->
+<!-- Navigation -->
+<table class="header__nav" cellpadding="0" cellspacing="0" border="0" style="background: #f7f7f7; border-collapse: collapse; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; margin-bottom: 35px; mso-table-lspace: 0pt; mso-table-rspace: 0pt; text-align: center; width: 100%" bgcolor="#f7f7f7">
+<tr>
+<td width="100" style="border-collapse: collapse; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding: 0; text-align: center" align="center">
+<a href="https://l.food52.com/click/60ba27553985a25553ad6357/aHR0cDovL2Zvb2Q1Mi5jb20vc2hvcD91dG1fdGVybT0/60b14c9ea8ae852e44730093B1180f0d3" style="color: #57696d; display: block; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; letter-spacing: 1px; line-height: 15px; text-decoration: none; text-transform: uppercase">Shop</a>
+</td>
+<td width="100" style="border-collapse: collapse; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding: 0; text-align: center" align="center">
+<a href="https://l.food52.com/click/60ba27553985a25553ad6357/aHR0cDovL2Zvb2Q1Mi5jb20vcmVjaXBlcz91dG1fdGVybT0/60b14c9ea8ae852e44730093B29b9d604" class="header__nav-middle" style="border-left-color: #d8d8d8; border-left-style: solid; border-left-width: 1px; border-right-color: #d8d8d8; border-right-style: solid; border-right-width: 1px; color: #57696d; display: block; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; letter-spacing: 1px; line-height: 15px; margin: 10px 0; padding: 0 10px; text-decoration: none; text-transform: uppercase">Recipes</a>
+</td>
+<td width="100" style="border-collapse: collapse; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding: 0; text-align: center" align="center">
+<a href="https://l.food52.com/click/60ba27553985a25553ad6357/aHR0cDovL2Zvb2Q1Mi5jb20vYmxvZz91dG1fdGVybT0/60b14c9ea8ae852e44730093B255d7e35" style="color: #57696d; display: block; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; letter-spacing: 1px; line-height: 15px; text-decoration: none; text-transform: uppercase">Articles</a>
+</td>
+</tr>
+</table>
+<!-- / Navigation -->
+<!-- Headline Text Block -->
+<table align="center" class="headline__text" style="border-collapse: collapse; color: #555555; font-family: Georgia, Arial, sans-serif; font-size: 38px; line-height: 47px; mso-table-lspace: 0pt; mso-table-rspace: 0pt; text-align: center; width: 100%">
+<tr>
+<td style="border-collapse: collapse; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding: 0">
+<div class="headline__large " style="font-family: Georgia, Arial, sans-serif; margin: 0px 45px 18px">
+Let's Bounce 
+</div>
+</td>
+</tr>
+</table>
+<!-- /Headline Text Block -->
+<!-- Divider -->
+<table class="divider-default" width="100%" cellpadding="0" cellspacing="0" border="0" align="center" style="border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; text-align: center; width: 100%">
+<tr>
+<td class="default-header__image" style="border-collapse: collapse; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding: 0">
+<div>
+<img src="https://media.sailthru.com/3sg/1k2/3/6/5a9ee76707451.png" border="0" width="60" class="" height="auto" alt="" style="-ms-interpolation-mode: bicubic; border: none; height: auto !important; margin-bottom: 12px; max-width: 100%; outline: none; text-decoration: none" />
+</div>
+</td>
+</tr>
+</table>
+<!-- /Divider -->
+<!-- Button -->
+<table align="center" class="button__default button__image-padding" style="border-collapse: collapse; margin-bottom: 35px; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%">
+<tr>
+<td style="border-collapse: collapse; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding: 0">
+<center>
+<div>
+<!--[if mso]>
+<v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://food52.com/shop/products/6037" style="height:40px;v-text-anchor:middle;width:160  px;" arcsize="5%" stroke="f" fillcolor="#ab967d">
+<w:anchorlock/>
+<center>
+<![endif]-->
+<a href="https://l.food52.com/click/60ba27553985a25553ad6357/aHR0cHM6Ly9mb29kNTIuY29tL3Nob3AvcHJvZHVjdHMvNjAzNz91dG1fdGVybT0/60b14c9ea8ae852e44730093B8baecbb9" style="-webkit-text-size-adjust: none; background: #ab967d; color: #FFF; display: inline-block; font-family: Helvetica Neue; font-size: 14px; letter-spacing: 1.6px; line-height: 40px; padding: 2px 35px; text-align: center; text-decoration: none; text-transform: uppercase">
+Shop Now
+</a>
+<!--[if mso]>
+</center>
+</v:roundrect>
+<![endif]--></div>
+</center>
+</td>
+</tr>
+</table>
+<!-- /Button -->
+<!-- Hero Image -->
+<table width="100%" class="content-block hero__image-container" cellpadding="0" cellspacing="0" border="0" style="border-collapse: collapse; color: #666; line-height: 1.5; margin: 0 0 35px; mso-table-lspace: 0pt; mso-table-rspace: 0pt; text-align: center; width: 100%">
+<tr>
+<td bgcolor="#ffffff" style="border-collapse: collapse; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding: 0">
+<div class="hero" style="color: #666; display: inline-block; margin: 0; text-align: center; width: 100%" align="center">
+<div class="hero__image">
+<a href="https://l.food52.com/click/60ba27553985a25553ad6357/aHR0cHM6Ly9mb29kNTIuY29tL3Nob3AvcHJvZHVjdHMvNjAzNz91dG1fdGVybT0/60b14c9ea8ae852e44730093C8baecbb9" style="color: #666; display: block; text-decoration: none"><img alt="Five Two Wool Dryer Balls" width="600" src="https://media.sailthru.com/3sg/1k4/2/3/5e386b86c080c.jpg" style="-ms-interpolation-mode: bicubic; border: none; height: auto !important; max-width: 100%; outline: none; text-decoration: none" /></a>
+</div>
+</div>
+</td>
+</tr>
+</table>
+<!-- /Hero Image -->
+<!-- Description Text Block -->
+<table align="center" class="description" style="border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%">
+<tr>
+<td style="border-collapse: collapse; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding: 0">
+<div class="description__text " style="color: #555555; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 18px; font-weight: 300; letter-spacing: 0.8px; line-height: 30px; margin: 0 35px 25px; text-align: center" align="center">
+Our community can't get enough of our Five Two dryer balls: They fluff towels, soften sheets, and de-wrinkle. Best of all? They cut down on drying time (a lot) and pesky static, too.
+</div>
+</td>
+</tr>
+</table>
+<!-- /Description Text Block -->
+<!-- Button -->
+<table align="center" class="button__default " style="border-collapse: collapse; margin-bottom: 45px; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%">
+<tr>
+<td style="border-collapse: collapse; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding: 0">
+<center>
+<div>
+<!--[if mso]>
+<v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://food52.com/shop/products/6037" style="height:40px;v-text-anchor:middle;width:160  px;" arcsize="5%" stroke="f" fillcolor="#ab967d">
+<w:anchorlock/>
+<center>
+<![endif]-->
+<a href="https://l.food52.com/click/60ba27553985a25553ad6357/aHR0cHM6Ly9mb29kNTIuY29tL3Nob3AvcHJvZHVjdHMvNjAzNz91dG1fdGVybT0/60b14c9ea8ae852e44730093D8baecbb9" style="-webkit-text-size-adjust: none; background: #ab967d; color: #FFF; display: inline-block; font-family: Helvetica Neue; font-size: 14px; letter-spacing: 1.6px; line-height: 40px; padding: 2px 35px; text-align: center; text-decoration: none; text-transform: uppercase">
+Shop Now
+</a>
+<!--[if mso]>
+</center>
+</v:roundrect>
+<![endif]--></div>
+</center>
+</td>
+</tr>
+</table>
+<!-- /Button -->
+<!-- Quote w/ Attribution-->
+<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#f7f7f7" class="content-block" style="border-collapse: collapse; color: #666; line-height: 1.5; margin: 0 0 45px; mso-table-lspace: 0pt; mso-table-rspace: 0pt; text-align: center; width: 100%">
+<tr>
+<td style="border-collapse: collapse; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding: 0">
+<div class="quote quote__attribution" style="color: #555555; padding: 30px">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%">
+<tr>
+<td class="quote__marks" align="center" style="border-collapse: collapse; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding: 0 0 16px">
+<img src="https://media.sailthru.com/3sg/1k2/3/6/5a9ee7d6b9ca2.png" border="0" width="32" height="23" align="center" alt="" style="-ms-interpolation-mode: bicubic; height: auto !important; max-width: 100%; outline: none; text-decoration: none; width: 32px" />
+</td>
+</tr>
+<tr>
+<td class="quote__text" align="center" style="border-collapse: collapse; color: #555555; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 24px; font-style: italic; font-weight: 300; letter-spacing: 0.8px; line-height: 37px; padding: 0">
+I have been trying to go green and sustainable with everyday products and these dryer balls really work! They give me peace of mind knowing that I am doing my part for Mother Earth. 
+</td>
+</tr>
+<tr>
+<td class="quote__marks quote__marks--bottom" align="center" style="border-collapse: collapse; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding: 16px 0 0">
+<img src="https://media.sailthru.com/3sg/1k2/3/6/5a9ee7c191036.png" border="0" width="32" height="23" alt="" style="-ms-interpolation-mode: bicubic; height: auto !important; max-width: 100%; outline: none; text-decoration: none; width: 32px" />
+</td>
+</tr>
+<tr>
+<td class="quote__source" align="center" style="border-collapse: collapse; font-family: Georgia, Arial, sans-serif; font-size: 17px; font-weight: 600; letter-spacing: 3px; line-height: 21px; padding: 30px 0 2px; text-transform: uppercase">
+JE H. 
+</td>
+</tr>
+<tr>
+<td class="quote__source-title" align="center" style="border-collapse: collapse; font-family: Georgia, Arial, sans-serif; font-size: 16px; font-style: italic; letter-spacing: 1px; line-height: 20px; padding: 0">A community member who knows every little bit counts.</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+</table>
+<!-- /Quote w/ Attribution-->
+<!-- Secondary Product - 1  -->
+<div class="column-container secondary__products secondary__products-one" style="background: #f7f7f7; margin-bottom: 45px; padding: 30px 30px 0 30px">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%">
+<tr>
+<td class="column-header" align="center" style="border-collapse: collapse; color: #555555; display: block; font-family: Georgia, Arial, sans-serif; font-size: 26px; line-height: 32px; margin: 0 auto; max-width: 465px; padding: 0 0 25px">
+It Takes Two 
+</td>
+</tr>
+</table>
+<table cellpadding="0" cellspacing="0" border="0" width="100%" class="table--max col--two-header" style="border-collapse: collapse; max-width: 600px; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%">
+<tr>
+<td style="border-collapse: collapse; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding: 0">
+<table cellpadding="0" cellspacing="0" border="0" width="100%" style="border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%">
+<tr>
+<td width="100%" valign="top" class="col col--two " style="border-collapse: collapse; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding: 0 0 20px; width: 100%">
+<table cellpadding="0" cellspacing="0" border="0" width="100%" style="border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%">
+<tr>
+<td style="border-collapse: collapse; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding: 0">
+<div class="content-image" style="margin-bottom: 15px; margin-right: 0px">
+<a target="_blank" href="https://l.food52.com/click/60ba27553985a25553ad6357/aHR0cHM6Ly9mb29kNTIuY29tL3Nob3AvcHJvZHVjdHMvNzA2P3V0bV90ZXJtPQ/60b14c9ea8ae852e44730093B81be30b6" style="color: #666; display: block; margin: 0; text-align: center; text-decoration: none"><img width="540" alt="Elevated Laundry Basket" src="https://media.sailthru.com/3sg/1k4/2/k/5e4ec6459cd29.jpg" style="-ms-interpolation-mode: bicubic; border: none; display: block; height: auto !important; max-width: 100%; outline: none; text-decoration: none" /></a>
+</div>
+</td>
+</tr>
+<tr>
+<td style="border-collapse: collapse; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding: 0;">
+<div class="content-description" style="font-size: 14px; font-weight: 300; letter-spacing: 0.7px; line-height: 1.43; margin-bottom: 20px; margin-right: 0; text-align: center" align="center">
+<div style="color: #555; font-size: 18px; letter-spacing: 0.8px; line-height: 27px; text-decoration: none">With a super-tough canvas liner that doubles as a carryall, this roll-anywhere basket has two compartments to keep your brights and whites in their own zones. </div>
+</div>
+<!-- Button -->
+<table align="center" class="button__default button__image-padding" style="border-collapse: collapse; margin-bottom: 15px; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%">
+<tr>
+<td style="border-collapse: collapse; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding: 0">
+<center>
+<div>
+<!--[if mso]>
+<v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://food52.com/shop/products/706" style="height:40px;v-text-anchor:middle;width:160  px;" arcsize="5%" stroke="f" fillcolor="#ab967d">
+<w:anchorlock/>
+<center>
+<![endif]-->
+<a href="https://l.food52.com/click/60ba27553985a25553ad6357/aHR0cHM6Ly9mb29kNTIuY29tL3Nob3AvcHJvZHVjdHMvNzA2P3V0bV90ZXJtPQ/60b14c9ea8ae852e44730093C81be30b6" style="-webkit-text-size-adjust: none; background: #ab967d; color: #FFF; display: inline-block; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; letter-spacing: 1.6px; line-height: 40px; padding: 2px 35px; text-align: center; text-decoration: none; text-transform: uppercase">
+Shop Now
+</a>
+<!--[if mso]>
+</center>
+</v:roundrect>
+<![endif]--></div>
+</center>
+</td>
+</tr>
+</table>
+<!-- /Button -->
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<!-- /Secondary Product - 1  -->
+<!-- Two Column Header-->
+<div class="column-container secondary__products" style="background: #f7f7f7; margin-bottom: 45px; padding: 30px 20px 0">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%">
+<tr>
+<td class="column-header" align="center" style="border-collapse: collapse; color: #555555; display: block; font-family: Georgia, Arial, sans-serif; font-size: 26px; line-height: 32px; margin: 0 auto; max-width: 465px; padding: 0 0 25px">
+Laundry Day Checklist 
+</td>
+</tr>
+</table>
+<table cellpadding="0" cellspacing="0" border="0" width="100%" class="table--max col--two-header" style="border-collapse: collapse; max-width: 600px; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%">
+<tr>
+<td style="border-collapse: collapse; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding: 0">
+<table cellpadding="0" cellspacing="0" border="0" width="100%" style="border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%">
+<tr>
+<td width="50%" valign="top" class="col col--two " style="border-collapse: collapse; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding: 0 0 30px; width: 50%">
+<table cellpadding="0" cellspacing="0" border="0" width="100%" style="border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%">
+<tr>
+<td style="border-collapse: collapse; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding: 0">
+<div class="content-image" style="margin-bottom: 10px; margin-right: 10px">
+<a target="_blank" href="https://l.food52.com/click/60ba27553985a25553ad6357/aHR0cHM6Ly9mb29kNTIuY29tL3Nob3AvcHJvZHVjdHMvNjk5OT91dG1fdGVybT0/60b14c9ea8ae852e44730093B94648f95" style="color: #666; display: block; margin: 0; text-align: center; text-decoration: none"><img width="270" alt="Magnetic Hanger Storage Rack" src="https://media.sailthru.com/3sg/1k4/1/7/5e14ffed23238.jpg" style="-ms-interpolation-mode: bicubic; border: none; display: block; height: auto !important; max-width: 100%; outline: none; text-decoration: none" /></a>
+</div>
+</td>
+</tr>
+<tr>
+<td style="border-collapse: collapse; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding: 0">
+<div class="content-description" style="font-size: 14px; font-weight: 300; letter-spacing: 0.7px; line-height: 1.43; margin-right: 10px; text-align: center" align="center">
+<a target="_blank" href="https://l.food52.com/click/60ba27553985a25553ad6357/aHR0cHM6Ly9mb29kNTIuY29tL3Nob3AvcHJvZHVjdHMvNjk5OT91dG1fdGVybT0/60b14c9ea8ae852e44730093C94648f95" style="color: #555; font-size: 16px; letter-spacing: 0.8px; line-height: 1.5; text-decoration: none">Magnetic Hanger Storage Rack</a>
+</div>
+</td>
+</tr>
+</table>
+</td>
+<td width="50%" valign="top" class="col col--two col--last" style="border-collapse: collapse; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding: 0 0 30px; width: 50%">
+<table cellpadding="0" cellspacing="0" border="0" width="100%" style="border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%">
+<tr>
+<td style="border-collapse: collapse; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding: 0">
+<div class="content-image" style="margin-bottom: 10px; margin-left: 10px; margin-right: 0">
+<a target="_blank" href="https://l.food52.com/click/60ba27553985a25553ad6357/aHR0cHM6Ly9mb29kNTIuY29tL3Nob3AvcHJvZHVjdHMvNjE2Mz91dG1fdGVybT0/60b14c9ea8ae852e44730093Bbcb0fbce" style="color: #666; display: block; margin: 0; text-align: center; text-decoration: none"><img width="270" alt="Modular Snap & Separate Laundry Bags" src="https://media.sailthru.com/3sg/1k3/c/h/5df940aaa4d41.jpg" style="-ms-interpolation-mode: bicubic; border: none; display: block; height: auto !important; max-width: 100%; outline: none; text-decoration: none" /></a>
+</div>
+</td>
+</tr>
+<tr>
+<td style="border-collapse: collapse; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding: 0">
+<div class="content-description" style="font-size: 14px; font-weight: 300; letter-spacing: 0.7px; line-height: 1.43; margin-left: 10px; margin-right: 0; text-align: center" align="center">
+<a target="_blank" href="https://l.food52.com/click/60ba27553985a25553ad6357/aHR0cHM6Ly9mb29kNTIuY29tL3Nob3AvcHJvZHVjdHMvNjE2Mz91dG1fdGVybT0/60b14c9ea8ae852e44730093Cbcb0fbce" style="color: #555; font-size: 16px; letter-spacing: 0.8px; line-height: 1.5; text-decoration: none">Modular Snap & Separate Laundry Bags</a>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" class="col col--two " style="border-collapse: collapse; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding: 0 0 30px; width: 50%">
+<table cellpadding="0" cellspacing="0" border="0" width="100%" style="border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%">
+<tr>
+<td style="border-collapse: collapse; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding: 0">
+<div class="content-image" style="margin-bottom: 10px; margin-right: 10px">
+<a target="_blank" href="https://l.food52.com/click/60ba27553985a25553ad6357/aHR0cHM6Ly9mb29kNTIuY29tL3Nob3AvcHJvZHVjdHMvNDg1Nj91dG1fdGVybT0/60b14c9ea8ae852e44730093B6cc023e9" style="color: #666; display: block; margin: 0; text-align: center; text-decoration: none"><img width="270" alt="Marseille Concentrated Laundry Liquid" src="https://media.sailthru.com/3sg/1k4/1/9/5e17488865d30.jpg" style="-ms-interpolation-mode: bicubic; border: none; display: block; height: auto !important; max-width: 100%; outline: none; text-decoration: none" /></a>
+</div>
+</td>
+</tr>
+<tr>
+<td style="border-collapse: collapse; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding: 0">
+<div class="content-description" style="font-size: 14px; font-weight: 300; letter-spacing: 0.7px; line-height: 1.43; margin-right: 10px; text-align: center" align="center">
+<a target="_blank" href="https://l.food52.com/click/60ba27553985a25553ad6357/aHR0cHM6Ly9mb29kNTIuY29tL3Nob3AvcHJvZHVjdHMvNDg1Nj91dG1fdGVybT0/60b14c9ea8ae852e44730093C6cc023e9" style="color: #555; font-size: 16px; letter-spacing: 0.8px; line-height: 1.5; text-decoration: none">Marseille Concentrated Laundry Liquid</a>
+</div>
+</td>
+</tr>
+</table>
+</td>
+<td width="50%" valign="top" class="col col--two col--last" style="border-collapse: collapse; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding: 0 0 30px; width: 50%">
+<table cellpadding="0" cellspacing="0" border="0" width="100%" style="border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%">
+<tr>
+<td style="border-collapse: collapse; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding: 0">
+<div class="content-image" style="margin-bottom: 10px; margin-left: 10px; margin-right: 0">
+<a target="_blank" href="https://l.food52.com/click/60ba27553985a25553ad6357/aHR0cHM6Ly9mb29kNTIuY29tL3Nob3AvcHJvZHVjdHMvNzAwMD91dG1fdGVybT0/60b14c9ea8ae852e44730093Be66d65b6" style="color: #666; display: block; margin: 0; text-align: center; text-decoration: none"><img width="270" alt="Magnetic Washing Machine Organizing Rack" src="https://media.sailthru.com/3sg/1k4/1/a/5e18b2b932c0c.jpg" style="-ms-interpolation-mode: bicubic; border: none; display: block; height: auto !important; max-width: 100%; outline: none; text-decoration: none" /></a>
+</div>
+</td>
+</tr>
+<tr>
+<td style="border-collapse: collapse; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding: 0">
+<div class="content-description" style="font-size: 14px; font-weight: 300; letter-spacing: 0.7px; line-height: 1.43; margin-left: 10px; margin-right: 0; text-align: center" align="center">
+<a target="_blank" href="https://l.food52.com/click/60ba27553985a25553ad6357/aHR0cHM6Ly9mb29kNTIuY29tL3Nob3AvcHJvZHVjdHMvNzAwMD91dG1fdGVybT0/60b14c9ea8ae852e44730093Ce66d65b6" style="color: #555; font-size: 16px; letter-spacing: 0.8px; line-height: 1.5; text-decoration: none">Magnetic Washing Machine Organizing Rack</a>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<!-- /Two Column Header -->
+<!-- Secondary Product - 1  -->
+<div class="column-container secondary__products secondary__products-one" style="background: #f7f7f7; margin-bottom: 45px; padding: 30px 30px 0 30px">
+<table cellpadding="0" cellspacing="0" border="0" width="100%" class="table--max col--two-header" style="border-collapse: collapse; max-width: 600px; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%">
+<tr>
+<td style="border-collapse: collapse; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding: 0">
+<table cellpadding="0" cellspacing="0" border="0" width="100%" style="border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%">
+<tr>
+<td width="100%" valign="top" class="col col--two " style="border-collapse: collapse; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding: 0 0 20px; width: 100%">
+<table cellpadding="0" cellspacing="0" border="0" width="100%" style="border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%">
+<tr>
+<td style="border-collapse: collapse; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding: 0">
+<div class="content-image" style="margin-bottom: 15px; margin-right: 0px">
+<a target="_blank" href="https://l.food52.com/click/60ba27553985a25553ad6357/aHR0cHM6Ly9mb29kNTIuY29tL3AvZml2ZS10d28_dXRtX3Rlcm09/60b14c9ea8ae852e44730093B3400fc53" style="color: #666; display: block; margin: 0; text-align: center; text-decoration: none"><img width="540" alt="Five Two By Food52" src="https://media.sailthru.com/3sg/1k3/a/o/5db1afa733c81.jpg" style="-ms-interpolation-mode: bicubic; border: none; display: block; height: auto !important; max-width: 100%; outline: none; text-decoration: none" /></a>
+</div>
+</td>
+</tr>
+<tr>
+<td style="border-collapse: collapse; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding: 0;">
+<div class="content-description" style="font-size: 14px; font-weight: 300; letter-spacing: 0.7px; line-height: 1.43; margin-bottom: 20px; margin-right: 0; text-align: center" align="center">
+<a target="_blank" href="https://l.food52.com/click/60ba27553985a25553ad6357/aHR0cHM6Ly9mb29kNTIuY29tL3AvZml2ZS10d28_dXRtX3Rlcm09/60b14c9ea8ae852e44730093C3400fc53" style="color: #555; font-size: 18px; letter-spacing: 0.8px; line-height: 1.5; text-decoration: none">We’re on a mission to reimagine every room in the house and remake everything in it. Let's do it…together.</a>
+</div>
+<!-- Button -->
+<table align="center" class="button__default button__image-padding" style="border-collapse: collapse; margin-bottom: 15px; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%">
+<tr>
+<td style="border-collapse: collapse; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding: 0">
+<center>
+<div>
+<!--[if mso]>
+<v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://food52.com/p/five-two" style="height:40px;v-text-anchor:middle;width:160  px;" arcsize="5%" stroke="f" fillcolor="#ab967d">
+<w:anchorlock/>
+<center>
+<![endif]-->
+<a href="https://l.food52.com/click/60ba27553985a25553ad6357/aHR0cHM6Ly9mb29kNTIuY29tL3AvZml2ZS10d28_dXRtX3Rlcm09/60b14c9ea8ae852e44730093D3400fc53" style="-webkit-text-size-adjust: none; background: #ab967d; color: #FFF; display: inline-block; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; letter-spacing: 1.6px; line-height: 40px; padding: 2px 35px; text-align: center; text-decoration: none; text-transform: uppercase">
+Learn More
+</a>
+<!--[if mso]>
+</center>
+</v:roundrect>
+<![endif]--></div>
+</center>
+</td>
+</tr>
+</table>
+<!-- /Button -->
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<!-- /Secondary Product - 1  -->	  
+<!-- Footer -->
+<div class="email-footer" style="background: #f7f7f7; color: #909090; font-size: 10px; line-height: 15px; padding: 30px 14px; text-align: center" align="center">
+<a href="https://l.food52.com/click/60ba27553985a25553ad6357/aHR0cDovL2Zvb2Q1Mi5jb20vP3V0bV90ZXJtPQ/60b14c9ea8ae852e44730093C23d2fdaf" title="Food52" target="_blank" style="color: #666; text-decoration: none">
+<img src="https://media.sailthru.com/3sg/1k3/1/m/5c47672aca28f.png" alt="Food52" width="100" height="40" style="-ms-interpolation-mode: bicubic; border: none; height: auto !important; max-width: 100%; outline: none; text-decoration: none; width: 120px" />
+</a>
+<div class="social-header" style="color: #57696d; font-size: 12px; letter-spacing: 1.5px; padding: 30px 0 20px; text-transform: uppercase">Follow Us</div>
+<div class="social-icons" style="padding: 0 0 25px">
+<a class="social-facebook" href="https://l.food52.com/click/60ba27553985a25553ad6357/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL2Zvb2Q1Mj91dG1fdGVybT0/60b14c9ea8ae852e44730093Bc9976d34" target="_blank" style="color: #666; margin: 0 20px; text-decoration: none"><img height="30" src="https://media.sailthru.com/3sg/1k2/3/k/5ab13bb651eae.png" alt="Facebook" style="-ms-interpolation-mode: bicubic; border: none; height: auto !important; max-height: 30px; max-width: 100%; outline: none; text-decoration: none; width: auto" /></a>
+<a class="social-instagram" href="https://l.food52.com/click/60ba27553985a25553ad6357/aHR0cDovL2luc3RhZ3JhbS5jb20vZm9vZDUyP3V0bV90ZXJtPQ/60b14c9ea8ae852e44730093B99490181" target="_blank" style="color: #666; margin: 0 20px; text-decoration: none"><img height="30" src="https://media.sailthru.com/3sg/1k2/3/k/5ab13bd001932.png" alt="Instagram" style="-ms-interpolation-mode: bicubic; border: none; height: auto !important; max-height: 30px; max-width: 100%; outline: none; text-decoration: none; width: auto" /></a>
+<a class="social-twitter" href="https://l.food52.com/click/60ba27553985a25553ad6357/aHR0cHM6Ly90d2l0dGVyLmNvbS9mb29kNTI_dXRtX3Rlcm09/60b14c9ea8ae852e44730093Bdd7a31d6" target="_blank" style="color: #666; margin: 0 20px; text-decoration: none"><img height="30" src="https://media.sailthru.com/3sg/1k2/3/k/5ab13bf0b0eb2.png" alt="Twitter" style="-ms-interpolation-mode: bicubic; border: none; height: auto !important; max-height: 30px; max-width: 100%; outline: none; text-decoration: none; width: auto" /></a>
+<a class="social-pinterest" href="https://l.food52.com/click/60ba27553985a25553ad6357/aHR0cDovL3d3dy5waW50ZXJlc3QuY29tL2Zvb2Q1Mj91dG1fdGVybT0/60b14c9ea8ae852e44730093Bcf5a524f" target="_blank" style="color: #666; margin: 0 20px; text-decoration: none"><img height="30" src="https://media.sailthru.com/3sg/1k2/3/k/5ab13be23b447.png" alt="Pinterest" style="-ms-interpolation-mode: bicubic; border: none; height: auto !important; max-height: 30px; max-width: 100%; outline: none; text-decoration: none; width: auto" /></a>
+<a class="social-youtube" href="https://l.food52.com/click/60ba27553985a25553ad6357/aHR0cHM6Ly93d3cueW91dHViZS5jb20vY2hhbm5lbC9VQ2ZGSThqSWp2SUFwVUFDSjNxamF4Mnc_dXRtX3Rlcm09/60b14c9ea8ae852e44730093B559dd2da" target="_blank" style="color: #666; margin: 0 20px; text-decoration: none"><img height="30" src="https://media.sailthru.com/3sg/1k2/4/i/5ad75de37aa1d.png" alt="YouTube" style="-ms-interpolation-mode: bicubic; border: none; height: auto !important; max-height: 30px; max-width: 100%; outline: none; text-decoration: none; width: auto" /></a>
+</div>
+<div class="footer-text">
+<span style="line-height:normal !important;">				  
+<br/>
+<a href="https://l.food52.com/view/60b14c9ea8ae852e4473009360ba27553985a25553ad6357/86763e09" style="color: #909090; text-decoration: underline">View in browser</a> |
+<a href="https://l.food52.com/forward/60b14c9ea8ae852e4473009360ba27553985a25553ad6357/19a4b949" target="_blank" style="color: #909090; text-decoration: underline">Forward this email</a> to a friend.
+<br />
+<a href="https://l.food52.com/oc/60b14c9ea8ae852e4473009360ba27553985a25553ad6357/f273eca3" target="_blank" style="color: #909090; text-decoration: underline">Click here to unsubscribe or manage your preferences.</a>
+<br />
+© June 4, 2021 Food52. All Rights Reserved.
+<br />
+122 West 26th Street, 8th Floor, New York, NY 10001
+</div>
+<a href="https://l.food52.com/click/60ba27553985a25553ad6357/aHR0cDovL3d3dy5mb29kNTIuY29tP3V0bV90ZXJtPQ/60b14c9ea8ae852e44730093B31925cb9"><img src="https://l.food52.com/img/60b14c9ea8ae852e4473009360ba27553985a25553ad6357/10e5631d.gif" alt="" border="0" /></a>
+</div>
+<!-- /Footer -->					  
+<!-- ********************************* -->
+</td>
+</tr>
+</table>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</center>
+<!-- Fix for unwanted font increases in gmail. KEEP THIS / DONT ALTER -->
+<div class="gmailfix" style="font: 15px courier; white-space: nowrap">
+</div>
+</body>
+</html>

@@ -1,0 +1,1331 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-us" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width,
+initial-scale=1.0"/>
+<title>TMZ Newsletter</title>
+
+<style type="text/css">
+@font-face {
+  font-family: 'ProximaNovaExCn_Bold';
+  src:
+url(http://ll-assets.tmz.com/fonts/tmz/proxima-nova-extra-condensed/bold-webfont.woff2)
+format('woff2'),
+ 
+url(http://ll-assets.tmz.com/mobile-web/v1.5.0/theme/fonts/proxima-nova-extra-condensed/bold-webfont.woff)
+format('woff'),
+ 
+url(http://ll-assets.tmz.com/mobile-web/v1.5.0/theme/fonts/proxima-nova-extra-condensed/bold-webfont.ttf)
+format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'ProximaNovaExCn_Black';
+  src:
+url(http://ll-assets.tmz.com/fonts/tmz/proxima-nova-extra-condensed/black-webfont.woff2)
+format('woff2'),
+ 
+url(http://ll-assets.tmz.com/mobile-web/v1.5.0/theme/fonts/proxima-nova-extra-condensed/black-webfont.woff)
+format('woff'),
+ 
+url(http://ll-assets.tmz.com/mobile-web/v1.5.0/theme/fonts/proxima-nova-extra-condensed/black-webfont.ttf)
+format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* Client-specific Styles */
+#outlook a {padding:0;} /* Force Outlook to provide a "view in
+browser" menu link. */
+body{width:100% !important; -webkit-text-size-adjust:100%;
+-ms-text-size-adjust:100%; margin:0; padding:0;}
+/* Prevent Webkit and Windows Mobile platforms from changing default
+font sizes, while not breaking desktop design. */
+.ExternalClass {width:100%;} /* Force Hotmail to display emails at
+full width */
+.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass
+font, .ExternalClass td, .ExternalClass div {line-height: 100%;} /*
+Force Hotmail to display normal line spacing.  */
+#backgroundTable {margin:0; padding:0; width:100% !important;
+line-height: 100% !important;}
+img {outline:none; text-decoration:none;border:none;
+-ms-interpolation-mode: bicubic;}
+a img {border:none;}
+.image_fix {display:block;}
+p {Margin: 0px 0px !important; padding:0px 0px !important;}
+p.MsoNormal {Margin: 0px}
+table td {border-collapse: collapse;}
+table { border-collapse:collapse; mso-table-lspace:0pt;
+mso-table-rspace:0pt; }
+a {color: #000;text-decoration: none;text-decoration:none!important;}
+/*STYLES*/
+table[class=full] { width: 100%; clear: both; border: none; }
+@media all { .colimg2 {width:100%!important;height:auto!important;} }
+
+/*IPHONE STYLES*/
+@media only screen and (max-width: 599px) {
+#backgroundTable{min-width: 0!important;}
+.webfont { font-family: 'ProximaNovaExCn_Black', Impact, Arial,
+Helvetica ,sans-serif!important; line-height:
+1.1!important;font-weight: normal !important; font-size:
+32px!important;}
+.webfont-two { font-family: 'ProximaNovaExCn_Black', Impact, Arial,
+Helvetica ,sans-serif!important; line-height: 1!important;font-weight:
+normal !important;}
+.webfont a { font-weight: normal !important;}
+.webfont.subject { font-size:26px!important; line-height:
+1.2!important;}
+.webfont.heading { font-size: 36px!important; line-height:
+1!important;}
+.webfont.see-more { font-size: 28px!important;}
+.webfont-two.icymi { font-size: 26px!important; padding: 0 30px;}
+a[href^="tel"], a[href^="sms"] {
+text-decoration: none;
+color: #e21d42; /* or whatever your want */
+pointer-events: none;
+cursor: default;
+}
+.mobile_link a[href^="tel"], .mobile_link a[href^="sms"] {
+text-decoration: none;
+color: #e21d42 !important;
+pointer-events: auto;
+cursor: default;
+}
+.hide-mobile {display: none;}
+table[class=devicewidth] {width: 100%!important; 
+text-align:center!important;}
+table[class=devicewidth] td { text-align:center!important;}
+td[class=devicewidthbottom] table { float: none; margin: 0 auto; }
+td[class=devicewidth] {width:
+100%!important;text-align:center!important;}
+img[class=devicewidth] {width:
+100%!important;text-align:center!important;}
+img[class=banner] {width: 100%!important;height:93px!important;}
+table[class=devicewidthinner] {width:
+100%!important;text-align:center!important;}
+table[class=icontext] {width:
+186px!important;text-align:center!important;}
+table[class="emhide"]{display: none!important;}
+img[class="logo"]{width:100%!important;height:70px!important;}
+td.swipe span { font-size: 18px !important; line-height: 1!important;
+border-width: 6px 10px 4px 10px!important;}
+.mobile-spacer { height: 20px!important; }
+.bottom-divider { height: 1px!important; width: 100%; overflow:
+hidden!important; background: #dedede; margin-bottom: 40px;
+margin-top: 20px;}
+.footer-divider { height: 1px!important; width: 100%; overflow:
+hidden!important; background: #333333; margin-bottom: 30px!important;
+margin-top: 30px!important;}
+.bottom-divider-td, .footer-divider-td { height: 1px!important; width:
+100%;}
+.forty-mobile {height: 40px!important;}
+table[class="footertable"] { width: 200px!important;}
+.see-more { font-size: 22px;}
+/*.mobile-gutter { height: 8px !important; }*/
+.gutter { width: 45px !important;}
+.align-center-mobile {text-align: center;}
+.td-partner-mobile {padding: 0 10px;}
+.gutter-partner {width: 41px !important;}
+.partner-stories-padding {padding: 0 20px;}
+
+}
+/*IPAD STYLES*/
+@media only screen and (min-width: 600px) {
+
+#backgroundTable{min-width: 0!important;}
+.webfont { font-family: 'ProximaNovaExCn_Black', Impact, Arial,
+Helvetica ,sans-serif!important; line-height:
+1.1!important;font-weight: normal
+!important;font-size:30px!important;}
+.webfont-two { font-family: 'ProximaNovaExCn_Black', Impact, Arial,
+Helvetica ,sans-serif!important; line-height: 1!important;font-weight:
+normal !important;}
+.webfont a { font-weight: normal !important;}
+.webfont.subject { font-size:24px!important;}
+.webfont.heading { font-size: 34px!important; line-height:
+1!important;}
+a[href^="tel"], a[href^="sms"] {
+text-decoration: none;
+color: #e21d42; /* or whatever your want */
+pointer-events: none;
+cursor: default;
+}
+.mobile_link a[href^="tel"], .mobile_link a[href^="sms"] {
+text-decoration: none;
+color: #e21d42 !important;
+pointer-events: auto;
+cursor: default;
+}
+.hide-desktop {display: none;}
+/*table[class=devicewidth] {width:
+600px!important;text-align:center!important;}
+table[class=devicewidthbottom] {border: 0!important;}
+td[class=devicewidth] {width:
+600px!important;text-align:center!important; vertical-align: top;
+height: auto !important;}
+img[class=devicewidth] {width:
+600px!important;text-align:center!important;}
+img[class=banner] {width: 600px!important;height:147px!important;}*/
+table[class=icontext] {width:
+345px!important;text-align:center!important;}
+img[class="colimg2"] {width:100%!important;height:auto!important;}
+table[class="emhide"]{display: none!important;}
+table[class="footertable"] { width: 360px!important;}
+img[class="logo"]{width:600px!important;height:110px!important;}
+td[class=subject] { font-size: 32px !important; line-height: 38px
+!important;}
+td[class=headline] { font-size: 44px !important; line-height: 48px
+!important;}
+a[class=button] { background: #cf0000; font-family: Impact, Helvetica,
+sans-serif; color: #fff; display: inline-block; width: 440px; height:
+60px; line-height: 60px; margin: 0 auto; font-size: 28px;
+letter-spacing: 1px;}
+.webfont.partner-heading { font-size: 30px!important; line-height:
+1!important; text-transform: uppercase; text-align: center;}
+}
+</style>
+</head>
+<body style="Margin: 0px; padding: 0px;">
+<span class="preheader" style="display: none !important; visibility:
+hidden; opacity: 0; color: transparent; height: 0; width: 0;
+font-size: 0px">Paramedics Called to JoJo Siwa's Pride Party for
+Possible Overdose of Guest</span>
+<table width="100%" bgcolor="#000000" cellpadding="0" cellspacing="0"
+border="0" id="backgroundTable" style="min-width:600px;">
+  <tbody>
+  <tr>
+    <td width="20"></td>
+    <td>
+      <table width="600" cellpadding="0" cellspacing="0" border="0"
+align="center" class="devicewidth">
+        <tbody>
+        
+        
+        
+        <!-- s -->
+        <tr>
+          <td width="100%" height="20"></td>
+        </tr>
+        <!-- /s -->
+        <tr>
+          <td>
+            <table width="174" align="center" border="0"
+cellpadding="0" cellspacing="0" class="devicewidthinner">
+              <tbody>
+              <tr>
+                <td align="center" valign="middle" style="font-family:
+Helvetica, arial, sans-serif; font-size: 13px;color: #ffffff"
+height="71" width="174">
+                  <a href="http://www.tmz.com"><img width="174"
+height="71" border="0"
+src="http://ll-assets.tmz.com/newsletter/tmz_logo.png" alt="TMZ"
+/></a>
+                </td>
+              </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+        <!-- s -->
+        <tr>
+          <td width="100%" height="10"></td>
+        </tr>
+        <!-- /s -->
+        <tr>
+          <td>
+            <table width="560" align="center" border="0"
+cellpadding="0" cellspacing="0" class="devicewidthinner">
+              <tbody>
+              <tr>
+                <td align="center" valign="middle" style="font-family:
+Impact, arial, sans-serif; font-size: 22px;color: #ffffff;
+line-height: 27px; letter-spacing: 1px;" class="webfont-two
+icymi">Here and Now on TMZ!</td>
+              </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+        <!-- s -->
+        <tr>
+          <td width="100%" height="10"></td>
+        </tr>
+        <!-- /s -->
+        <tr>
+          <td>
+            <table width="220" align="center" border="0"
+cellpadding="0" cellspacing="0" class="devicewidthinner">
+              <tbody>
+              <tr>
+                <td align="center" valign="middle" style="font-family:
+Helvetica, arial, sans-serif; font-size: 16px;color:
+#666666;">06/03/21 12:00 PM PST</td>
+              </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+        <!-- s -->
+        <tr>
+          <td width="100%" height="20"></td>
+        </tr>
+        <!-- /s -->
+        </tbody>
+      </table>
+    </td>
+    <td width="20"></td>
+  </tr>
+  </tbody>
+</table>
+
+<!-- 2-columns -->
+<table width="600" align="center" class="devicewidth"
+bgcolor="#ffffff" cellpadding="0" cellspacing="0" border="0">
+<tbody>
+<tr>
+<td>
+
+<table cellpadding="0" cellspacing="0" border="0" align="center"
+class="devicewidth" width="600">
+  <tbody>
+  <tr>
+    <td width="20" class="gutter"></td>
+    <td width="560" class="middle">
+      
+      <table width="560" align="left" border="0" cellpadding="0"
+cellspacing="0" class="devicewidth">
+        <tbody>
+        <!-- s -->
+        <tr>
+          <td width="100%" height="20" class="mobile-gutter"></td>
+        </tr>
+        <!-- /s -->
+        <!-- text content table -->
+        <tr>
+          <td>
+            <table width="560" align="center" border="0"
+cellpadding="0" cellspacing="0" class="devicewidthinner">
+              <tbody>
+              <tr>
+                <td align="center" class="devicewidth">
+                  <a
+href="https://www.tmz.com/2021/06/03/cops-paramedics-called-to-jojo-siwa-pride-party-alleged-lsd-overdose/?adid=tmz_eme_3846_2021-06-03_s1">
+                    <img
+src="https://imagez.tmz.com/image/a8/o/2021/06/03/a88b7265bf194edd841d8f1dcf2545ea_sm.jpg"
+width="560" alt="" border="0" style="display:block;outline:none;
+text-decoration:none;" class="colimg2"/>
+                  </a>
+                </td>
+              </tr>
+              <!-- s -->
+              <tr>
+                <td width="100%" height="10"></td>
+              </tr>
+              <!-- /s -->
+              </tbody>
+            </table>
+            <table width="440" align="center" border="0"
+cellpadding="0" cellspacing="0" class="devicewidthinner">
+              <tbody>
+              
+              <tr>
+                <td style="font-family: Impact, arial,
+sans-serif;font-weight:bold; color: #000000;
+text-align:center;font-size: 23px; text-transform: uppercase;
+line-height: 28px;letter-spacing:1px;" class="swipe webfont-two">
+                  <a
+href="https://www.tmz.com/2021/06/03/cops-paramedics-called-to-jojo-siwa-pride-party-alleged-lsd-overdose/?adid=tmz_eme_3846_2021-06-03_s1">
+                    <span style="background: #cf0000; display:
+inline-block; border-color: #cf0000; border-style: solid;
+border-width: 8px 12px 5px 12px; color: #ffffff">Exclusive</span>
+                  </a>
+                </td>
+              </tr>
+              <!-- s -->
+              <tr>
+                <td width="100%" height="15"></td>
+              </tr>
+              <!-- /s -->
+              
+              <tr>
+                <td class="subject webfont-two" style="font-family:
+Impact, arial, sans-serif;font-weight:bold; color: #000000;
+text-align:center;font-size: 32px; text-transform: uppercase;
+line-height: 38px;">
+                  <a
+href="https://www.tmz.com/2021/06/03/cops-paramedics-called-to-jojo-siwa-pride-party-alleged-lsd-overdose/?adid=tmz_eme_3846_2021-06-03_s1"
+style="color: #000000; text-decoration: none;">JoJo Siwa</a>
+                </td>
+              </tr>
+              <tr>
+                <td class="headline webfont-two" style="font-family:
+Impact, arial, sans-serif; font-size: 44px; font-weight:bold; color:
+#000000; text-align:center;line-height: 48px;">
+                  <a
+href="https://www.tmz.com/2021/06/03/cops-paramedics-called-to-jojo-siwa-pride-party-alleged-lsd-overdose/?adid=tmz_eme_3846_2021-06-03_s1"
+style="color: #000000; text-decoration: none;">Paramedics Called to
+Pride Party for Possible OD of Guest</a>
+                </td>
+              </tr>
+              <!-- s -->
+              <tr>
+                <td width="100%" height="10"></td>
+              </tr>
+              <!-- /s -->
+              <tr>
+                <td style="font-family: Helvetica, arial, sans-serif;
+font-size: 16px; color: #666666; text-align:center;line-height:
+19px;">
+                  <a
+href="https://www.tmz.com/2021/06/03/cops-paramedics-called-to-jojo-siwa-pride-party-alleged-lsd-overdose/?adid=tmz_eme_3846_2021-06-03_s1"
+style="color: #000; text-decoration: none;">JoJo Siwa's extravagantly
+fun Pride Party took a dark turn when cops were called for a possible
+overdose.</a>
+                </td>
+              </tr>
+              <!-- s -->
+              <tr>
+                <td width="100%" height="20"></td>
+              </tr>
+              <!-- /s -->
+              <tr>
+                <td style="text-align: center;">
+                  <a
+href="https://www.tmz.com/2021/06/03/cops-paramedics-called-to-jojo-siwa-pride-party-alleged-lsd-overdose/?adid=tmz_eme_3846_2021-06-03_s1"><img
+src="http://ll-assets.tmz.com/newsletter/read-more.png" alt="Read
+More"/></a>
+                </td>
+              </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+        <!-- /text content table -->
+        </tbody>
+      </table>
+      
+    </td>
+    <td width="20" class="gutter"></td>
+  </tr>
+  </tbody>
+</table>
+
+<table cellpadding="0" cellspacing="0" border="0" align="center"
+class="devicewidth" style="border-bottom: 4px solid #dedede;"
+width="600">
+  <tbody>
+  <tr>
+    <td>
+      <table bgcolor="#ffffff" cellpadding="0" cellspacing="0"
+border="0" align="center" class="devicewidth" width="600">
+        <tbody>
+        <!-- s -->
+        <tr>
+          <td width="100%" height="30" colspan="3"></td>
+        </tr>
+        <!-- /s -->
+        <tr>
+          <td width="20" class="gutter"></td>
+          <td width="560">
+            
+            
+            
+
+            
+            <table align="center" border="0" cellpadding="0"
+width="560" cellspacing="0" class="devicewidth">
+              <tbody>
+              <!-- s -->
+              <tr>
+                <td width="100%" height="10"
+class="hide-desktop"></td>
+              </tr>
+              <!-- s -->
+              <!-- text content table -->
+              <tr>
+                <td>
+                  <table align="left" width="200" border="0"
+cellpadding="0" cellspacing="0" class="devicewidth">
+                    <tbody>
+                    <!-- image -->
+                    <tr>
+                      <td align="center" class="devicewidth">
+                        <a
+href="https://www.tmz.com/2021/06/03/tekashi-6ix9ine-baby-mama-sara-molina-new-body-plastic-surgery-brazilian-butt-lift/?adid=tmz_eme_3846_2021-06-03_s2">
+                          <img
+src="https://imagez.tmz.com/image/a7/o/2021/06/02/a70a692802384388bbf7976488b4f254_sm.jpg"
+alt="" border="0" style="display:block; outline:none;
+text-decoration:none;" class="colimg2" width="200"/>
+                        </a>
+                      </td>
+                    </tr>
+                    <!-- s -->
+                    <tr>
+                      <td width="100%" height="10"
+class="hide-desktop"></td>
+                    </tr>
+                    <!-- /s -->
+                    </tbody>
+                  </table>
+                  <table align="right" width="330" border="0"
+cellpadding="0" cellspacing="0" class="devicewidth">
+                    <tbody>
+                    <!-- subject -->
+                    <tr>
+                      <td style="font-family: Impact, Arial,
+sans-serif; font-size: 22px; font-weight:bold; color: #000000;
+text-align:left; line-height: 28px; text-transform: uppercase;"
+class="webfont subject">
+                        <a
+href="https://www.tmz.com/2021/06/03/tekashi-6ix9ine-baby-mama-sara-molina-new-body-plastic-surgery-brazilian-butt-lift/?adid=tmz_eme_3846_2021-06-03_s2"
+style="text-decoration: none; color: #000000;">
+                          Sara Molina
+                        </a>
+                      </td>
+                    </tr>
+                    <!-- /subject -->
+                    <!-- title -->
+                    <tr>
+                      <td style="font-family: Impact, arial,
+sans-serif; font-size: 28px; font-weight:bold; color: #000000;
+text-align:left;line-height: 36px;" class="webfont">
+                        <a
+href="https://www.tmz.com/2021/06/03/tekashi-6ix9ine-baby-mama-sara-molina-new-body-plastic-surgery-brazilian-butt-lift/?adid=tmz_eme_3846_2021-06-03_s2"
+style="text-decoration: none; color: #000000;">
+                          Tekashi 6ix9ine's Baby Mama Shows Off New
+Body Following Surgery Scare
+                        </a>
+                      </td>
+                    </tr>
+                    <!-- /title -->
+                    </tbody>
+                  </table>
+                </td>
+              </tr>
+              <!-- /text content table -->
+              <!-- s -->
+              <tr>
+                <td width="100%" height="20"
+class="forty-mobile"></td>
+              </tr>
+              <!-- /s -->
+              </tbody>
+            </table>
+
+            
+            
+
+            
+            <table align="center" border="0" cellpadding="0"
+width="560" cellspacing="0" class="devicewidth">
+              <tbody>
+              <!-- s -->
+              <tr>
+                <td width="100%" height="10"
+class="hide-desktop"></td>
+              </tr>
+              <!-- s -->
+              <!-- text content table -->
+              <tr>
+                <td>
+                  <table align="left" width="200" border="0"
+cellpadding="0" cellspacing="0" class="devicewidth">
+                    <tbody>
+                    <!-- image -->
+                    <tr>
+                      <td align="center" class="devicewidth">
+                        <a
+href="https://www.tmz.com/2021/06/03/rapper-lil-loaded-death-attempted-suicide-call-police-report-upset-breakup-ex-girlfriend/?adid=tmz_eme_3846_2021-06-03_s3">
+                          <img
+src="https://imagez.tmz.com/image/29/o/2021/06/02/2911728e43b74734af5b63f574e6c298_sm.jpg"
+alt="" border="0" style="display:block; outline:none;
+text-decoration:none;" class="colimg2" width="200"/>
+                        </a>
+                      </td>
+                    </tr>
+                    <!-- s -->
+                    <tr>
+                      <td width="100%" height="10"
+class="hide-desktop"></td>
+                    </tr>
+                    <!-- /s -->
+                    </tbody>
+                  </table>
+                  <table align="right" width="330" border="0"
+cellpadding="0" cellspacing="0" class="devicewidth">
+                    <tbody>
+                    <!-- subject -->
+                    <tr>
+                      <td style="font-family: Impact, Arial,
+sans-serif; font-size: 22px; font-weight:bold; color: #000000;
+text-align:left; line-height: 28px; text-transform: uppercase;"
+class="webfont subject">
+                        <a
+href="https://www.tmz.com/2021/06/03/rapper-lil-loaded-death-attempted-suicide-call-police-report-upset-breakup-ex-girlfriend/?adid=tmz_eme_3846_2021-06-03_s3"
+style="text-decoration: none; color: #000000;">
+                          Lil Loaded
+                        </a>
+                      </td>
+                    </tr>
+                    <!-- /subject -->
+                    <!-- title -->
+                    <tr>
+                      <td style="font-family: Impact, arial,
+sans-serif; font-size: 28px; font-weight:bold; color: #000000;
+text-align:left;line-height: 36px;" class="webfont">
+                        <a
+href="https://www.tmz.com/2021/06/03/rapper-lil-loaded-death-attempted-suicide-call-police-report-upset-breakup-ex-girlfriend/?adid=tmz_eme_3846_2021-06-03_s3"
+style="text-decoration: none; color: #000000;">
+                          Possibly Upset Over A Breakup, Cops
+Responded to Suicide Call
+                        </a>
+                      </td>
+                    </tr>
+                    <!-- /title -->
+                    </tbody>
+                  </table>
+                </td>
+              </tr>
+              <!-- /text content table -->
+              <!-- s -->
+              <tr>
+                <td width="100%" height="20"
+class="forty-mobile"></td>
+              </tr>
+              <!-- /s -->
+              </tbody>
+            </table>
+
+            
+            
+
+            
+            <table align="center" border="0" cellpadding="0"
+width="560" cellspacing="0" class="devicewidth">
+              <tbody>
+              <!-- s -->
+              <tr>
+                <td width="100%" height="10"
+class="hide-desktop"></td>
+              </tr>
+              <!-- s -->
+              <!-- text content table -->
+              <tr>
+                <td>
+                  <table align="left" width="200" border="0"
+cellpadding="0" cellspacing="0" class="devicewidth">
+                    <tbody>
+                    <!-- image -->
+                    <tr>
+                      <td align="center" class="devicewidth">
+                        <a
+href="https://www.tmz.com/2021/06/03/vanessa-bryant-nike-mambacita-shoes-kobe/?adid=tmz_eme_3846_2021-06-03_s4">
+                          <img
+src="https://imagez.tmz.com/image/d0/o/2021/06/03/d0a5d0d3fa604353b6adeeb1d1a78aaf_sm.jpg"
+alt="" border="0" style="display:block; outline:none;
+text-decoration:none;" class="colimg2" width="200"/>
+                        </a>
+                      </td>
+                    </tr>
+                    <!-- s -->
+                    <tr>
+                      <td width="100%" height="10"
+class="hide-desktop"></td>
+                    </tr>
+                    <!-- /s -->
+                    </tbody>
+                  </table>
+                  <table align="right" width="330" border="0"
+cellpadding="0" cellspacing="0" class="devicewidth">
+                    <tbody>
+                    <!-- subject -->
+                    <tr>
+                      <td style="font-family: Impact, Arial,
+sans-serif; font-size: 22px; font-weight:bold; color: #000000;
+text-align:left; line-height: 28px; text-transform: uppercase;"
+class="webfont subject">
+                        <a
+href="https://www.tmz.com/2021/06/03/vanessa-bryant-nike-mambacita-shoes-kobe/?adid=tmz_eme_3846_2021-06-03_s4"
+style="text-decoration: none; color: #000000;">
+                          Vanessa Bryant
+                        </a>
+                      </td>
+                    </tr>
+                    <!-- /subject -->
+                    <!-- title -->
+                    <tr>
+                      <td style="font-family: Impact, arial,
+sans-serif; font-size: 28px; font-weight:bold; color: #000000;
+text-align:left;line-height: 36px;" class="webfont">
+                        <a
+href="https://www.tmz.com/2021/06/03/vanessa-bryant-nike-mambacita-shoes-kobe/?adid=tmz_eme_3846_2021-06-03_s4"
+style="text-decoration: none; color: #000000;">
+                          Outraged Over Apparent 'Mamabacita' Shoe
+Leak, 'Not Approved To Be Made'
+                        </a>
+                      </td>
+                    </tr>
+                    <!-- /title -->
+                    </tbody>
+                  </table>
+                </td>
+              </tr>
+              <!-- /text content table -->
+              <!-- s -->
+              <tr>
+                <td width="100%" height="20"
+class="forty-mobile"></td>
+              </tr>
+              <!-- /s -->
+              </tbody>
+            </table>
+
+            
+            
+            
+            
+            <table align="center" border="0" cellpadding="0"
+width="560" cellspacing="0" class="devicewidth">
+              <tbody>
+              <!-- s -->
+              <tr>
+                <td width="100%" height="10" colspan="3"
+class="hide-desktop"></td>
+              </tr>
+              <!-- /s -->
+              <tr>
+                <td width="100%" height="3" colspan="3"
+bgcolor="#053060"
+style="mso-line-height-rule:exactly;line-height:3px;font-size:3px;"></td>
+              </tr>
+              <!-- text content table -->
+              <tr>
+                <td width="0" bgcolor="#053060" style="font-size: 0;
+line-height: 0; padding-left: 3px;"></td>
+                <td>
+                  <table align="left" width="197" border="0"
+cellpadding="0" cellspacing="0" class="devicewidth">
+                    <tbody>
+                    <tr>
+                      <td align="center" class="devicewidth">
+                        <a
+href="https://www.tmz.com/2021/06/03/store-wedding-photos-one-place-samsaidyes-tmz-deal/?adid=tmz_eme_3846_2021-06-03_stack">
+                          <img
+src="https://imagez.tmz.com/image/6b/o/2021/06/01/6b12886382da4b719d479385c7c7bb63_sm.jpg"
+alt="" border="0" style="display:block; outline:none;
+text-decoration:none;" class="colimg2" width="197"/>
+                        </a>
+                      </td>
+                    </tr>
+                    </tbody>
+                  </table>
+                  <table align="right" width="327" border="0"
+cellpadding="0" cellspacing="0" class="devicewidth">
+                    <tbody>
+                    <!-- s -->
+                    <tr>
+                      
+                      <td width="100%" height="4" class="hide-mobile"
+style="mso-line-height-rule:exactly;line-height:4px;"></td>
+                      
+                    </tr>
+                    <tr>
+                      <td width="100%" height="15"></td>
+                    </tr>
+                    <!-- /s -->
+                    <!-- title -->
+                    <tr>
+                      <td style="font-family: Impact, arial,
+sans-serif; font-size: 27px; font-weight:bold; color: #000000;
+text-align:left; line-height: 34px;" class="webfont
+td-partner-mobile">
+                        <a
+href="https://www.tmz.com/2021/06/03/store-wedding-photos-one-place-samsaidyes-tmz-deal/?adid=tmz_eme_3846_2021-06-03_stack"
+style="text-decoration: none; color: #000000;">
+                          <span style="font-size: 24px;
+text-transform: uppercase;" class="webfont subject">Store All Your
+Wedding Photos In One Place</span><br/>
+                          Never Forget The Memories
+                        </a>
+                      </td>
+                    </tr>
+                    <!-- /title -->
+                    <!-- s -->
+                    <tr>
+                      <td width="100%"
+style="mso-line-height-rule:exactly;line-height:2px;"></td>
+                    </tr>
+                    <!-- /s -->
+                    <!-- subject -->
+                    <tr>
+                      <td style="font-family: Arial, sans-serif;
+font-size: 12px; font-weight: normal; color: #9b9b9b; line-height:
+14px; text-transform: uppercase;">
+                        <a
+href="https://www.tmz.com/2021/06/03/store-wedding-photos-one-place-samsaidyes-tmz-deal/?adid=tmz_eme_3846_2021-06-03_stack"
+style="text-decoration: none; color: #9b9b9b; width: 100%; display:
+block;" class="align-center-mobile">
+                          <img src="" alt="" border="0"
+style="display:inline-block; outline:none; text-decoration:none;"
+width="170" />
+                        </a>
+                      </td>
+                    </tr>
+                    <!-- /subject -->
+                    <!-- s -->
+                    <tr>
+                      <td width="100%" height="20"
+class="hide-desktop"></td>
+                    </tr>
+                    <!-- /s -->
+                    </tbody>
+                  </table>
+                </td>
+                <td width="0" bgcolor="#053060" style="font-size: 0;
+line-height: 0; padding-left: 3px;"></td>
+              </tr>
+              <tr>
+                <td width="100%" height="3" colspan="3"
+bgcolor="#053060"
+style="mso-line-height-rule:exactly;line-height:3px;font-size:3px;"></td>
+              </tr>
+              <!-- /text content table -->
+              <!-- s -->
+              <tr>
+                <td width="100%" height="20" colspan="3"
+class="forty-mobile"></td>
+              </tr>
+              <!-- s -->
+              </tbody>
+            </table>
+            
+            
+            
+
+            
+            <table align="center" border="0" cellpadding="0"
+width="560" cellspacing="0" class="devicewidth">
+              <tbody>
+              <!-- s -->
+              <tr>
+                <td width="100%" height="10"
+class="hide-desktop"></td>
+              </tr>
+              <!-- s -->
+              <!-- text content table -->
+              <tr>
+                <td>
+                  <table align="left" width="200" border="0"
+cellpadding="0" cellspacing="0" class="devicewidth">
+                    <tbody>
+                    <!-- image -->
+                    <tr>
+                      <td align="center" class="devicewidth">
+                        <a
+href="https://www.tmz.com/2021/06/03/bride-india-dies-heart-attack-wedding-groom-marries-sister/?adid=tmz_eme_3846_2021-06-03_s5">
+                          <img
+src="https://imagez.tmz.com/image/b9/o/2021/06/03/b933c7feaf594405af55e5652fe2a24c_sm.jpg"
+alt="" border="0" style="display:block; outline:none;
+text-decoration:none;" class="colimg2" width="200"/>
+                        </a>
+                      </td>
+                    </tr>
+                    <!-- s -->
+                    <tr>
+                      <td width="100%" height="10"
+class="hide-desktop"></td>
+                    </tr>
+                    <!-- /s -->
+                    </tbody>
+                  </table>
+                  <table align="right" width="330" border="0"
+cellpadding="0" cellspacing="0" class="devicewidth">
+                    <tbody>
+                    <!-- subject -->
+                    <tr>
+                      <td style="font-family: Impact, Arial,
+sans-serif; font-size: 22px; font-weight:bold; color: #000000;
+text-align:left; line-height: 28px; text-transform: uppercase;"
+class="webfont subject">
+                        <a
+href="https://www.tmz.com/2021/06/03/bride-india-dies-heart-attack-wedding-groom-marries-sister/?adid=tmz_eme_3846_2021-06-03_s5"
+style="text-decoration: none; color: #000000;">
+                          India
+                        </a>
+                      </td>
+                    </tr>
+                    <!-- /subject -->
+                    <!-- title -->
+                    <tr>
+                      <td style="font-family: Impact, arial,
+sans-serif; font-size: 28px; font-weight:bold; color: #000000;
+text-align:left;line-height: 36px;" class="webfont">
+                        <a
+href="https://www.tmz.com/2021/06/03/bride-india-dies-heart-attack-wedding-groom-marries-sister/?adid=tmz_eme_3846_2021-06-03_s5"
+style="text-decoration: none; color: #000000;">
+                          Bride Dies At Wedding, Groom Marries Her
+Sister Instead
+                        </a>
+                      </td>
+                    </tr>
+                    <!-- /title -->
+                    </tbody>
+                  </table>
+                </td>
+              </tr>
+              <!-- /text content table -->
+              <!-- s -->
+              <tr>
+                <td width="100%" height="20"
+class="forty-mobile"></td>
+              </tr>
+              <!-- /s -->
+              </tbody>
+            </table>
+
+            
+            
+
+            
+            <table align="center" border="0" cellpadding="0"
+width="560" cellspacing="0" class="devicewidth">
+              <tbody>
+              <!-- s -->
+              <tr>
+                <td width="100%" height="10"
+class="hide-desktop"></td>
+              </tr>
+              <!-- s -->
+              <!-- text content table -->
+              <tr>
+                <td>
+                  <table align="left" width="200" border="0"
+cellpadding="0" cellspacing="0" class="devicewidth">
+                    <tbody>
+                    <!-- image -->
+                    <tr>
+                      <td align="center" class="devicewidth">
+                        <a
+href="https://www.tmz.com/2021/06/03/famed-lawyer-f-lee-bailey-dead-at-87/?adid=tmz_eme_3846_2021-06-03_s6">
+                          <img
+src="https://imagez.tmz.com/image/3c/o/2021/06/03/3c9c03d3a0ee459ea0ea58e09959457b_sm.jpg"
+alt="" border="0" style="display:block; outline:none;
+text-decoration:none;" class="colimg2" width="200"/>
+                        </a>
+                      </td>
+                    </tr>
+                    <!-- s -->
+                    <tr>
+                      <td width="100%" height="10"
+class="hide-desktop"></td>
+                    </tr>
+                    <!-- /s -->
+                    </tbody>
+                  </table>
+                  <table align="right" width="330" border="0"
+cellpadding="0" cellspacing="0" class="devicewidth">
+                    <tbody>
+                    <!-- subject -->
+                    <tr>
+                      <td style="font-family: Impact, Arial,
+sans-serif; font-size: 22px; font-weight:bold; color: #000000;
+text-align:left; line-height: 28px; text-transform: uppercase;"
+class="webfont subject">
+                        <a
+href="https://www.tmz.com/2021/06/03/famed-lawyer-f-lee-bailey-dead-at-87/?adid=tmz_eme_3846_2021-06-03_s6"
+style="text-decoration: none; color: #000000;">
+                          F. Lee Bailey
+                        </a>
+                      </td>
+                    </tr>
+                    <!-- /subject -->
+                    <!-- title -->
+                    <tr>
+                      <td style="font-family: Impact, arial,
+sans-serif; font-size: 28px; font-weight:bold; color: #000000;
+text-align:left;line-height: 36px;" class="webfont">
+                        <a
+href="https://www.tmz.com/2021/06/03/famed-lawyer-f-lee-bailey-dead-at-87/?adid=tmz_eme_3846_2021-06-03_s6"
+style="text-decoration: none; color: #000000;">
+                          Famed Lawyer Dead at 87
+                        </a>
+                      </td>
+                    </tr>
+                    <!-- /title -->
+                    </tbody>
+                  </table>
+                </td>
+              </tr>
+              <!-- /text content table -->
+              <!-- s -->
+              <tr>
+                <td width="100%" height="20"
+class="forty-mobile"></td>
+              </tr>
+              <!-- /s -->
+              </tbody>
+            </table>
+
+            
+            
+
+            
+          </td>
+          <td width="20" class="gutter"></td>
+        </tr>
+        </tbody>
+      </table>
+    </td>
+  </tr>
+  </tbody>
+</table>
+
+<table width="600" cellpadding="0" cellspacing="0" border="0"
+align="center" class="devicewidth">
+  <tbody>
+  <tr>
+    <td width="20" class="gutter"></td>
+    <td width="560">
+      <table width="560" class="devicewidthinner" align="center">
+        <tbody>
+        <!-- s -->
+        <tr>
+          <td width="100%" height="40"></td>
+        </tr>
+        <!-- /s -->
+        <tr>
+          <td width="560" align="center" class="devicewidthinner">
+            
+            <table width="255" bgcolor="#ffffff" class="devicewidth"
+cellpadding="0" cellspacing="0" border="0" align="left" valign="top"
+style="text-align: center; vertical-align: top;">
+              <tbody>
+              <tr>
+                <td style="font-family: Impact, Helvetica, Arial,
+sans-serif; color: #000000;font-size: 32px; line-height:38px;
+font-weight: bold;" class="webfont heading">GALLERY <br/> OF THE
+DAY</td>
+              </tr>
+              <!-- s -->
+              <tr>
+                <td width="100%" height="20"></td>
+              </tr>
+              <!-- /s -->
+              <tr>
+                <td width="255" align="center" class="devicewidth">
+                  <a
+href="https://www.tmz.com/photos/2016/05/06/memba-them-celebrity-photos-part-12/?adid=tmz_eme_3846_2021-06-03_pod">
+                    <img
+src="https://imagez.tmz.com/image/2d/16by9/2021/06/02/2d3383baf503460c9f8a2de5d05ffbe4_sm.jpg?r=1622757096089"
+alt="" border="0" width="255" style="display:block; outline:none;
+text-decoration:none;" class="colimg2"/>
+                  </a>
+                </td>
+              </tr>
+              <!-- s -->
+              <tr>
+                <td width="100%" height="20"></td>
+              </tr>
+              <!-- /s -->
+              <tr>
+                <td style="font-family: Impact, Helvetica, Arial,
+sans-serif; color: #000000;font-size: 22px; line-height:28px;
+text-transform: uppercase; font-weight: bold;" class="webfont
+subject">
+                  <a
+href="https://www.tmz.com/photos/2016/05/06/memba-them-celebrity-photos-part-12/"
+style="text-decoration: none; color: #000000; font-weight:
+bold;">'Memba Her?</a>
+                </td>
+              </tr>
+              <tr>
+                <td style="font-family: Impact, Helvetica, Arial,
+sans-serif; color: #000000;font-size: 32px; line-height:38px;
+text-transform: uppercase; font-weight: bold;" class="webfont">
+                  <a
+href="https://www.tmz.com/photos/2016/05/06/memba-them-celebrity-photos-part-12/?adid=tmz_eme_3846_2021-06-03_pod"
+style="text-decoration: none; color: #000000; font-weight: bold;">See
+What Zenon Kar from 'Zenon: Girl of the 21st Century' Looks Like
+Now!</a>
+                </td>
+              </tr>
+              <!-- s -->
+              <tr>
+                <td width="100%" height="20"></td>
+              </tr>
+              <!-- /s -->
+              </tbody>
+            </table>
+            
+            <table width="43" align="left" border="0" cellpadding="0"
+cellspacing="0" class="bottom-divider" valign="top">
+              <tbody>
+              <tr>
+                <td width="21"></td>
+                <td width="1" height="235" bgcolor="#dedede"
+class="bottom-divider-td"></td>
+                <td width="21"></td>
+              </tr>
+              </tbody>
+            </table>
+            
+            <table width="255" align="left" border="0" cellpadding="0"
+cellspacing="0" class="devicewidth" valign="top" style="text-align:
+center; vertical-align: top;">
+              <tbody>
+              <tr>
+                <td style="font-family: Impact, Helvetica, Arial,
+sans-serif; color: #000000;font-size: 32px; line-height:38px;
+font-weight: bold; vertical-align: top;" class="webfont heading">VIDEO
+<br/> OF THE DAY
+                </td>
+              </tr>
+              <!-- s -->
+              <tr>
+                <td width="100%" height="20"></td>
+              </tr>
+              <!-- /s -->
+              <tr>
+                <td width="255" align="center" class="devicewidth">
+                  <a
+href="https://www.tmz.com/videos/2021-06-02-060221-tyron-woodley-1132772/?adid=tmz_eme_3846_2021-06-03_vod">
+                    <img
+src="https://imagez.tmz.com/image/cc/o/2021/06/02/ccb48a2dfb154637b8e8ed61656ad81f.jpg"
+alt="" border="0" width="255" style="display:block; outline:none;
+text-decoration:none;" class="colimg2"/>
+                  </a>
+                </td>
+              </tr>
+              <!-- s -->
+              <tr>
+                <td width="100%" height="20"></td>
+              </tr>
+              <!-- /s -->
+              <tr>
+                <td style="font-family: Impact, Helvetica, Arial,
+sans-serif; color: #000000;font-size: 22px; line-height:28px;
+text-transform: uppercase; font-weight: bold;" class="webfont
+subject">
+                  <a
+href="https://www.tmz.com/videos/2021-06-02-060221-tyron-woodley-1132772/"
+style="text-decoration: none; color: #000000; font-weight:
+bold;">Tyrone Woodley</a>
+                </td>
+              </tr>
+              <tr>
+                <td style="font-family: Impact, Helvetica, Arial,
+sans-serif; color: #000000;font-size: 32px; line-height:38px;
+text-transform: uppercase; font-weight: bold;" class="webfont">
+                  <a
+href="https://www.tmz.com/videos/2021-06-02-060221-tyron-woodley-1132772/?adid=tmz_eme_3846_2021-06-03_vod"
+style="text-decoration: none; color: #000000; font-weight: bold;">Says
+Smashing Kake Paul Will Be 1st Win in Serious Boxing Career</a>
+                </td>
+              </tr>
+              <!-- s -->
+              <tr>
+                <td width="100%" height="40"></td>
+              </tr>
+              <!-- /s -->
+              </tbody>
+            </table>
+            
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table align="center" width="440" class="devicewidth">
+              <tbody>
+              <tr>
+                <td style="font-family: Impact, Helvetica, sans-serif;
+color: #ffffff; text-align: center; font-size: 28px; font-weight:
+bold; padding: 15px 10px;" bgcolor="#cf0000">
+                  <a
+href="http://www.tmz.com/?adid=tmz_eme_3846_2021-06-03"
+class="see-more webfont" style="color: #ffffff; display: block;
+line-height: 30px!important; text-decoration: none; ">SEE MORE
+CELEBRITY NEWS</a>
+                </td>
+              </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+        <!-- s -->
+        <tr>
+          <td width="100%" height="40"></td>
+        </tr>
+        <!-- /s -->
+        </tbody>
+      </table>
+    </td>
+    <td width="20" class="gutter"></td>
+  </tr>
+  </tbody>
+</table>
+
+
+
+
+
+</td>
+</tr>
+</tbody>
+</table>
+<!-- /2-columns -->
+
+<table width="100%" bgcolor="#000000" cellpadding="0" cellspacing="0"
+border="0" align="center">
+  <tbody>
+  <tr>
+    <td>
+      <table class="devicewidthinner" width="600" cellpadding="0"
+cellspacing="0" border="0" align="center">
+        <tbody>
+        
+        
+        
+        <!-- s -->
+        <tr>
+          <td width="100%" height="40" colspan="3"></td>
+        </tr>
+        <!-- /s -->
+        <tr>
+          <td width="20"></td>
+          <td width="560" class="devicewidthbottom">
+            <table width="255" align="left" border="0" cellpadding="0"
+cellspacing="0" class="devicewidthinnerbottomleft" valign="top">
+              <tbody>
+              <tr>
+                <td style="font-family: Impact, Helvetica, Arial,
+sans-serif; color: #ffffff;font-size: 28px; line-height:34px;
+text-align: center; letter-spacing: 1px;" class="webfont">FOLLOW
+US</td>
+              </tr>
+              <!-- s -->
+              <tr>
+                <td width="100%" height="10"></td>
+              </tr>
+              <!-- /s -->
+              <tr>
+                <td width="100%" style="text-align: center;">
+                  <a href="https://www.facebook.com/TMZ"><img
+src="http://ll-assets.tmz.com/newsletter/facebook.png"
+alt="Facebook"/></a>&nbsp;
+                  <a href="https://www.twitter.com/TMZ"><img
+src="http://ll-assets.tmz.com/newsletter/twitter.png"
+alt="Twitter"/></a>&nbsp;
+                  <a href="https://www.youtube.com/user/TMZ"><img
+src="http://ll-assets.tmz.com/newsletter/youtube.png"
+alt="YouTube"/></a>&nbsp;
+                  <a href="https://www.instagram.com/tmz_tv"><img
+src="http://ll-assets.tmz.com/newsletter/Instagram.png"
+alt="Instagram"/></a>&nbsp;
+                </td>
+              </tr>
+              </tbody>
+            </table>
+            <table width="43" align="left" border="0" cellpadding="0"
+cellspacing="0" class="footer-divider" valign="top">
+              <tbody>
+              <tr>
+                <td width="21"></td>
+                <td width="1" height="84" class="footer-divider-td"
+bgcolor="#333333"></td>
+                <td width="21"></td>
+              </tr>
+              </tbody>
+            </table>
+            <table width="255" align="left" border="0" cellpadding="0"
+cellspacing="0" class="devicewidthinnerbottomright" valign="top">
+              <tbody>
+              <tr>
+                <td style="font-family: Impact, Helvetica, Arial,
+sans-serif; color: #FFFFFF;font-size: 28px; line-height:34px;
+text-align: center; letter-spacing: 1px;" class="webfont">TMZ
+APPS</td>
+              </tr>
+              <!-- s -->
+              <tr>
+                <td width="100%" height="10"></td>
+              </tr>
+              <!-- /s -->
+              <tr>
+                <td width="100%" style="text-align: center;">
+                  <a
+href="https://play.google.com/store/apps/details?id=com.rhythmnewmedia.tmz&hl=en"><img
+src="http://ll-assets.tmz.com/newsletter/google-play.png" alt="Android
+App on Google Play"/></a>&nbsp;
+                  <a
+href="https://itunes.apple.com/us/app/tmz/id299948601?mt=8"><img
+src="http://ll-assets.tmz.com/newsletter/app-store.png" alt="Download
+on the App Store"/></a>
+                </td>
+              </tr>
+              </tbody>
+            </table>
+          </td>
+          <td width="20"></td>
+        </tr>
+        <tr>
+          <td colspan="3">
+            <table width="360" align="center" class="footertable"
+valign="top">
+              <tbody>
+              <!-- s -->
+              <tr>
+                <td width="100%" height="40"></td>
+              </tr>
+              <!-- /s -->
+              <tr>
+                <td style="color: #666666; font-family: Helvetica,
+Arial, sans-serif; font-size: 12px; line-height: 16px; text-align:
+center;">
+                  <a href="http://www.tmz.com" style="color:
+#ffffff;">TMZ.com</a> | 4712 Admiralty Way, Ste 700 Marina del Rey, CA
+90292 2018 EHM PRODUCTIONS, INC. ALL RIGHTS RESERVED. Got A Tip? Call:
+<a href="tel:+18888479869" style="color: #ffffff;">(888) 847-9869</a>
+                </td>
+              </tr>
+              <!-- s -->
+              <tr>
+                <td width="100%" height="30"></td>
+              </tr>
+              <!-- /s -->
+              <tr>
+                <td style="text-align: center;"><a
+href="http://www.tmz.com"><img
+src="http://ll-assets.tmz.com/newsletter/tmz_logo.png" alt="TMZ"
+/></a></td>
+              </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+        <!-- s -->
+        <tr>
+          <td width="100%" height="30" colspan="3"></td>
+        </tr>
+        <!-- /s -->
+        </tbody>
+      </table>
+    </td>
+  </tr>
+  </tbody>
+</table>
+
+
+
+
+<div style="width: 300px; margin: 20px auto; text-align: center;
+padding: 5px; color: #333; background-color: white; font-size:
+12px;">If you would like to unsubscribe <a
+href="http://tracker.nl.telepixtv.com/unsubscribe.php?s=2862655&c=3846&k=94e57fe2cf29ea4c4f9e63a7839434dc&a=tmz">follow
+this link</a></div><img
+src="http://tracker.nl.telepixtv.com/open.php?s=2862655&c=3846&k=94e57fe2cf29ea4c4f9e63a7839434dc&a=tmz"
+width="1" height="1" border="0" /></body></html>
+
+

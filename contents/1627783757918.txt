@@ -1,0 +1,1407 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=no;">
+<meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=EDGE">
+<link href="https://fonts.googleapis.com/css?family=Merriweather%7CWork+Sans%7COswald&amp;display=swap" rel="stylesheet">
+<title>Forbes Newsletters</title>
+<style type="text/css">
+
+	/* Some resets and issue fixes */
+	#outlook a { padding:0; color:#ab243a; }
+	body{ width:100% !important; -webkit-text; size-adjust:100%; -ms-text-size-adjust:100%; margin:0; padding:0; }     
+	.ReadMsgBody { width: 100%; }
+	.ExternalClass { width:100%;} 
+	.backgroundTable { margin:0 auto; padding:0; width:100%!important;} 
+	table td { border-collapse: collapse;}
+    img { border: none;}
+	.ExternalClass * { line-height: 115%;}           
+	/* End reset */
+	
+	a { color:#ab243a; }
+	span.preheader{
+		display: none;
+		font-size: 1px;
+		visibility: hidden;
+		opacity: 0;
+		color: transparent;
+		height: 0;
+		width: 0;
+	}
+    
+	
+    /* These are our tablet/medium screen media queries */
+	@media screen and (max-width: 770px){
+
+		/* Hide stuff */
+		*[class="hide"] { display:none !important;}                             
+
+		/* Centers content on mobile */
+		*[class="center"] { text-align:center !important; width:100% !important; height:auto !important;}            
+
+		/* 100percent width section with 20px padding */
+		*[class="pad100"] { width:100% !important; padding:20px;} 
+
+		/* 100percent width section with 20px padding left right */
+		*[class="padleftright100"] { width:100% !important; padding:0 20px 0 20px;} 
+
+		/* 100percent width section with 20px padding top bottom */
+		*[class="padtopbottom100"] { width:100% !important; padding:20px 0px 20px 0px;} 
+		
+		/* 100percent width section with 20px padding top bottom */
+		*[class="hr"] { width:300px !important;} 
+		
+		/* This sets elements to 100% width and fixes the height issues too, a god send */
+		*[class="p5"] { width:5% !important; height:auto !important;} 
+		
+		*[class="p7"] { width:7% !important; height:auto !important;} 
+		
+		*[class="p10"] { width:10% !important; height:auto !important;} 
+		
+		*[class="p20"] { width:20% !important; height:auto !important;} 
+		
+		*[class="p30"] { width:30% !important; height:auto !important;} 
+		
+		*[class="p40"] { width:40% !important; height:auto !important;}
+		
+		*[class="p50"] { width:50% !important; height:auto !important;} 
+		
+		*[class="p60"] { width:60% !important; height:auto !important;}
+		
+		*[class="p70"] { width:70% !important; height:auto !important;}
+		
+		*[class="p80"] { width:80% !important; height:auto !important;}
+		
+		*[class="p90"] { width:90% !important; height:auto !important;}
+		
+		*[class="p100"] { width:100% !important; height:auto !important;}
+		
+		
+		
+		
+		*[class="p15"] { width:15% !important; height:auto !important;} 
+		
+		*[class="p25"] { width:25% !important; height:auto !important;} 
+		
+		*[class="p35"] { width:35% !important; height:auto !important;} 
+		
+		*[class="p45"] { width:45% !important; height:auto !important;}
+		
+		*[class="p55"] { width:55% !important; height:auto !important;} 
+		
+		*[class="p65"] { width:65% !important; height:auto !important;}
+		
+		*[class="p75"] { width:75% !important; height:auto !important;}
+		
+		*[class="p85"] { width:85% !important; height:auto !important;}
+		
+		*[class="p87"] { width:87% !important; height:auto !important;}
+		
+		*[class="p93"] { width:93% !important; height:auto !important;}
+		
+		*[class="p95"] { width:95% !important; height:auto !important;}
+		
+		*[class="alignleft"] { text-align: left !important;}
+		*[class="aligncenter"] { text-align: center !important;}
+		
+		*[class="button100"] { width:100% !important;}
+		*[class="button90"] { width: 90% !important;}
+		
+		*[class="button70"] { width:70px !important;}
+		*[class="button50"] { width:50px !important;}
+
+	}
+
+		</style>
+</head>
+<!--For Template-level variables--><!--End Template-level variables--><body>
+<div style="color:transparent;visibility:hidden;opacity:0;font-size:0px;border:0;max-height:1px;width:1px;margin:0px;padding:0px;border-width:0px!important;display:none!important;line-height:0px!important;"><img border="0" width="1" height="1" src="http://trcksp.cordial.io/q/en_if3ZzHPrAiA3LjtFAfw~~/AAAAAQA~/RgRinJapPVcHY29yZGlhbEIKYLmpEbpgDKsbZVIXdG9ieXNtaXRoODg2OEBnbWFpbC5jb21YBAAAAYw~"/></div>
+
+<div>
+<!-- ```````````````````````|  Preheader |`````````````````````````````````````-->
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="margin: 0; padding: 0; background: #e2e2e2;" bgcolor="#e2e2e2" width="100%"><tr>
+<td align="center" valign="top">
+         <table width="800" bgcolor="#ffffff" border="0" cellspacing="0" cellpadding="0" class="p100" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;"><tr>
+<td align="center" valign="top">
+                  <div>
+                     <table width="600" border="0" cellspacing="0" cellpadding="0" class="p80" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;"><tr>
+<td valign="top">
+                              <table border="0" cellspacing="0" cellpadding="0" width="600" class="p100" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;"><tr>
+<td align="center">
+                                       <table border="0" align="left" cellpadding="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;border: 0px;">
+<tr>
+<td style="height:15px" height="15">
+                                              
+                                            </td>
+                                          </tr>
+<tr>
+<td align="left" style="color: #343434; font-size: 14px;font-family:Arial, sans-serif;">
+                                                <p style="font-family:Arial, sans-serif;color:#000; font-size:14px"><strong>Plus:</strong> <a data-crdl-plugin="link" href="https://e.email.forbes.com/c2/869:60b7a7552dd8a629cc57cd08:ot:60b52a58fe2c195e910e0eef:1/2ae46193?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE2MjI4MDY5NTMsImNkIjoiLmVtYWlsLmZvcmJlcy5jb20iLCJjZSI6ODY0MDAsInRrIjoiZm9yYmVzLWxpdmUiLCJtdGxJRCI6IjYwYmEwZTBlMmRkOGE2NWQ3NjNjZjhkNSIsImxpbmtVcmwiOiJodHRwczpcL1wvd3d3LmZvcmJlcy5jb21cL2F0aGxldGVzXC8_dXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPWRhaWx5ZG96ZW4mY2RsY2lkPTYwYjUyYTU4ZmUyYzE5NWU5MTBlMGVlZiJ9&jwtS=_6GzunRKlGgOLkPOct2IDXYbgqByhOHZW-NACVnadWA"><span>Highest-Paid Athletes 2021: The Top 50 Sports Stars Combined To Make Nearly $2.8 Billion In A Year Of Records</span></a></p>
+                                             </td>
+                                          </tr>
+<tr>
+<td style="height:10px" height="10">
+                                              
+                                            </td>
+                                          </tr>
+</table>
+</td>
+                                 </tr></table>
+</td>
+                        </tr></table>
+</div>
+               </td>
+            </tr></table>
+</td>
+   </tr></table>
+<!-- ````````````````````````````````````````````|  End |`````````````````````````````````````````-->
+</div>
+<div>
+<!-- ```````````````````````````````````````|  Logo |`````````````````````````````````````````-->
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="margin: 0; padding: 0; background: #e2e2e2; border-collapse: collapse;" bgcolor="#e2e2e2" width="100%"><tr>
+<td align="center" valign="top">
+         <table width="800" bgcolor="#ffffff" border="0" cellspacing="0" cellpadding="0" class="p100" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;"><tr>
+<td align="center" valign="top">
+                  <div>
+                     <table width="600" border="0" cellspacing="0" cellpadding="0" class="p80" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;"><tr>
+<td style="height:25px;" height="25"></td>
+                                          </tr></table>
+</div>
+               </td>
+            </tr></table>
+</td>
+   </tr></table>
+<table align="center" width="100%" border="0" cellpadding="0" cellspacing="0" style="margin: 0; padding: 0; background: #e2e2e2;" bgcolor="#e2e2e2"><tr>
+<td align="center" valign="top">
+         <table width="800" border="0" cellspacing="0" cellpadding="0" class="p100" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;background: #333333;border-bottom: 3px solid #ab243a;" bgcolor="#333333"><tr>
+<td align="center" valign="top" style="background-position: top center;background-size: cover;width: 800px;">
+                 <a data-crdl-variant="" style="display: block; border-style: none !important; border: 0 !important;" href="https://e.email.forbes.com/c2/869:60b7a7552dd8a629cc57cd08:ot:60b52a58fe2c195e910e0eef:1/d6fdb637?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE2MjI4MDY5NTMsImNkIjoiLmVtYWlsLmZvcmJlcy5jb20iLCJjZSI6ODY0MDAsInRrIjoiZm9yYmVzLWxpdmUiLCJtdGxJRCI6IjYwYmEwZTBlMmRkOGE2NWQ3NjNjZjhkNiIsImxpbmtVcmwiOiJodHRwczpcL1wvd3d3LmZvcmJlcy5jb21cLz91dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249ZGFpbHlkb3plbiZjZGxjaWQ9NjBiNTJhNThmZTJjMTk1ZTkxMGUwZWVmIn0&jwtS=qT1x34q5cM1_6ngdWu9VOjtCFAvGV1mWHHGFMiOnjjk">
+                                                      <img src="https://images.cordial.com/869/1500x404/DailyDozenWhite.png" alt="Forbes" border="0" style="display:block; padding:0;margin:0" align="middle" width="350" text-align="center"></a>
+               </td>
+            </tr></table>
+</td>
+   </tr></table>
+<!-- `````````````````````````````````````````|  Title |`````````````````````````````````````--><table align="center" border="0" cellpadding="0" cellspacing="0" style="margin: 0; padding: 0; background: #e2e2e2; border-collapse: collapse;" bgcolor="#e2e2e2" width="100%"><tr>
+<td align="center" valign="top">
+         <table width="800" bgcolor="#ffffff" border="0" cellspacing="0" cellpadding="0" class="p100" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;"><tr>
+<td align="center" valign="top">
+                  <div>
+                     <table width="600" border="0" cellspacing="0" cellpadding="0" class="p80" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;"><tr>
+<td style="height:25px;" height="25"></td>
+                                          </tr></table>
+</div>
+               </td>
+            </tr></table>
+</td>
+   </tr></table>
+<!-- `````````````````````````|  End |`````````````````````````````````````````-->
+</div>
+<div>
+<!-- `````````````````````````Rich Text```````````````````````````````````````-->
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="margin: 0; padding: 0; background: #e2e2e2; border-collapse: collapse;" bgcolor="#e2e2e2" width="100%"><tr>
+<td align="center" valign="top">
+         <table width="800" bgcolor="#ffffff" border="0" cellspacing="0" cellpadding="0" class="p100" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;">
+<tr>
+<td align="center" valign="top">
+                  <div>
+                     <table width="600" border="0" cellspacing="0" cellpadding="0" class="p80" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;"><tr>
+<td valign="top">
+                              <table border="0" cellspacing="0" cellpadding="0" width="600" class="p100" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;"><tr>
+<td align="center">
+                                       <table border="0" align="left" cellpadding="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;border: 0px;"><tr>
+<td align="left" style="color: #333333; font-size: 15px;line-height: 23px;font-family:Georgia, serif;">
+                                                <p style="font-family:Georgia, serif;color: #333333; font-size: 15px;line-height: 23px;"><span>Good morning.<br><br>A branch of the Sackler family is pushing back on claims Purdue Pharma fuelled the opioid epidemic and </span><a data-crdl-plugin="link" href="https://e.email.forbes.com/c2/869:60b7a7552dd8a629cc57cd08:ot:60b52a58fe2c195e910e0eef:1/21ddcb0b?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE2MjI4MDY5NTMsImNkIjoiLmVtYWlsLmZvcmJlcy5jb20iLCJjZSI6ODY0MDAsInRrIjoiZm9yYmVzLWxpdmUiLCJtdGxJRCI6IjYwYmEwZTBlMmRkOGE2NWQ3NjNjZjhkNyIsImxpbmtVcmwiOiJodHRwczpcL1wvd3d3LmZvcmJlcy5jb21cL3NpdGVzXC9kYXZpZGRhd2tpbnNcLzIwMjFcLzA2XC8wM1wvc2Fja2xlci1mYW1pbHktbWVtYmVycy1jb21lLW91dC1maWdodGluZy13aXRoLW5ldy13ZWJzaXRlXC8_c2g9NzAwNTQyZWIxMTJlJnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1kYWlseWRvemVuJmNkbGNpZD02MGI1MmE1OGZlMmMxOTVlOTEwZTBlZWYifQ&jwtS=_tZNBMWjdmXktAO4qCFBCCKDO2UzTwHmjH6ku9_19Pw"><span>wants you to be the ultimate judge.</span></a><span> We’re also reporting on how Twitter’s subscription service plays into the </span><a data-crdl-plugin="link" href="https://e.email.forbes.com/c2/869:60b7a7552dd8a629cc57cd08:ot:60b52a58fe2c195e910e0eef:1/e35bc354?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE2MjI4MDY5NTMsImNkIjoiLmVtYWlsLmZvcmJlcy5jb20iLCJjZSI6ODY0MDAsInRrIjoiZm9yYmVzLWxpdmUiLCJtdGxJRCI6IjYwYmEwZTBlMmRkOGE2NWQ3NjNjZjhkOCIsImxpbmtVcmwiOiJodHRwczpcL1wvd3d3LmZvcmJlcy5jb21cL3NpdGVzXC9hYnJhbWJyb3duXC8yMDIxXC8wNlwvMDNcL3R3aXR0ZXJzLWdyYW5kLXBsYW4taXMtYmVnaW5uaW5nLXRvLXRha2Utc2hhcGVcLz9zaD01MWI3MTkwODYwMGImdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPWRhaWx5ZG96ZW4mY2RsY2lkPTYwYjUyYTU4ZmUyYzE5NWU5MTBlMGVlZiJ9&jwtS=Awync_Gj5DZt1TYpLJD8aWT6e7vh3G4IsSNrfbgzOJU"><span>social network’s grand plan</span></a><span> and why employers should not fear </span><a data-crdl-plugin="link" href="http://e.email.forbes.com/c2/869:60b7a7552dd8a629cc57cd08:ot:60b52a58fe2c195e910e0eef:1/9d27abef?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE2MjI4MDY5NTMsImNkIjoiLmVtYWlsLmZvcmJlcy5jb20iLCJjZSI6ODY0MDAsInRrIjoiZm9yYmVzLWxpdmUiLCJtdGxJRCI6IjYwYmEwZTBlMmRkOGE2NWQ3NjNjZjhkOSIsImxpbmtVcmwiOiJodHRwOlwvXC93d3cuZm9yYmVzLmNvbVwvc2l0ZXNcL2NocmlzdGlhbmtyZXpuYXJcLzIwMjFcLzA2XC8wM1wvZW1wbG95ZXJzLWRvbnQtZmVhci10aGUtZ3JlYXQtcmVzaWduYXRpb24taXRzLWFscmVhZHktaGVyZVwvP3V0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1kYWlseWRvemVuJmNkbGNpZD02MGI1MmE1OGZlMmMxOTVlOTEwZTBlZWYifQ&jwtS=-VxH9RxVtfdoxs0Zaq7pKQdHa5no92BxUiCngzPVFsY"><span>the “great resignation,”</span></a><span> but act on it, as it’s already here. Finally, we’re unveiling the 2021 </span><a data-crdl-plugin="link" href="https://e.email.forbes.com/c2/869:60b7a7552dd8a629cc57cd08:ot:60b52a58fe2c195e910e0eef:1/2ae46193?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE2MjI4MDY5NTMsImNkIjoiLmVtYWlsLmZvcmJlcy5jb20iLCJjZSI6ODY0MDAsInRrIjoiZm9yYmVzLWxpdmUiLCJtdGxJRCI6IjYwYmEwZTBlMmRkOGE2NWQ3NjNjZjhkNSIsImxpbmtVcmwiOiJodHRwczpcL1wvd3d3LmZvcmJlcy5jb21cL2F0aGxldGVzXC8_dXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPWRhaWx5ZG96ZW4mY2RsY2lkPTYwYjUyYTU4ZmUyYzE5NWU5MTBlMGVlZiJ9&jwtS=_6GzunRKlGgOLkPOct2IDXYbgqByhOHZW-NACVnadWA"><span>highest-paid athletes list</span></a><span>—can you guess who </span><a data-crdl-plugin="link" href="https://e.email.forbes.com/c2/869:60b7a7552dd8a629cc57cd08:ot:60b52a58fe2c195e910e0eef:1/f6e0c289?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE2MjI4MDY5NTMsImNkIjoiLmVtYWlsLmZvcmJlcy5jb20iLCJjZSI6ODY0MDAsInRrIjoiZm9yYmVzLWxpdmUiLCJtdGxJRCI6IjYwYmEwZTBlMmRkOGE2NWQ3NjNjZjhkYSIsImxpbmtVcmwiOiJodHRwczpcL1wvd3d3LmZvcmJlcy5jb21cL3NpdGVzXC9kYXZpZGRhd2tpbnNcLzIwMjFcLzA2XC8wNFwvdWZjLXN0YXItY29ub3ItbWNncmVnb3ItcmVhY3RzLXRvLWJlY29taW5nLXRoZS13b3JsZHMtdG9wLXBhaWQtYXRobGV0ZS1pbS1hLWRpc3J1cHRlclwvP3NoPTMzNGVmNzczNjdkZiZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249ZGFpbHlkb3plbiZjZGxjaWQ9NjBiNTJhNThmZTJjMTk1ZTkxMGUwZWVmIn0&jwtS=f9CQ18HyJv_4ejWxbaglqKu1f5R_TRi7kG7nkTw-SFE"><span>took the top spot?</span></a></p>
+                                             </td>
+                                          </tr></table>
+</td>
+                                 </tr></table>
+</td>
+                        </tr></table>
+</div>
+               </td>
+            </tr>
+<tr>
+<td style="height:5px;"></td>
+            </tr>
+</table>
+</td>
+   </tr></table>
+<!-- ```````````````````````````````````|  End Rich Text |````````````````````````````````-->
+</div>
+<div><table align="center" border="0" cellpadding="0" cellspacing="0" style="margin: 0; padding: 0; background: #e2e2e2;" bgcolor="#e2e2e2" width="100%"><tr>
+<td align="center" valign="top">
+         <table width="800" bgcolor="#ffffff" border="0" cellspacing="0" cellpadding="0" class="p100" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;"><tr>
+<td align="center" valign="top">
+                  <div>
+                     <table width="600" border="0" cellspacing="0" cellpadding="0" class="p80" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;">
+<tr><td valign="top">
+                              <table border="0" cellspacing="0" cellpadding="0" width="600" class="p100" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;">
+<!--CURATOR--><tr>
+<td align="left" style="color:#FFFFFF; font-size:24px;">
+                                      <table border="0" align="left" width="600" class="p90" cellpadding="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;border: 0px;">
+<!-- |||||| Button |||||| --><tr>
+<td align="left" width="70">
+                                            <!--   AUTHOR PHOTO 1 -->
+                                            <a data-crdl-variant="" style="display: block; border-style: none !important; border: 0 !important;" href="https://e.email.forbes.com/c2/869:60b7a7552dd8a629cc57cd08:ot:60b52a58fe2c195e910e0eef:1/2718a8d1?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE2MjI4MDY5NTMsImNkIjoiLmVtYWlsLmZvcmJlcy5jb20iLCJjZSI6ODY0MDAsInRrIjoiZm9yYmVzLWxpdmUiLCJtdGxJRCI6IjYwYmEwZTBlMmRkOGE2NWQ3NjNjZjhkYiIsImxpbmtVcmwiOiJodHRwczpcL1wvd3d3LmZvcmJlcy5jb21cL3NpdGVzXC9zb2ZpYWxvdHRvcGVyc2lvP3V0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1kYWlseWRvemVuJmNkbGNpZD02MGI1MmE1OGZlMmMxOTVlOTEwZTBlZWYifQ&jwtS=phMK0cvDXQr1BtdMHn57vaR1BGkgi9MGLcm-ECDyFAs">
+                                            <img src="https://images.cordial.com/869/300x300/sofia-lotto-persio.png" border="0" width="60" class="p100" align="left" style="display: block;" alt="Sofia Lotto Persio"></a>
+                                          </td>
+                                          <td width="25">
+                                          </td>
+                                          <td align="left" style="font-size: 15px; color: #333333;line-height:10px;">
+                                            <p style="font-family:Georgia, serif;line-height:10px;"><a data-crdl-variant="" style="text-decoration:none; line-height:5px; color:#333333" target="_blank" href="https://e.email.forbes.com/c2/869:60b7a7552dd8a629cc57cd08:ot:60b52a58fe2c195e910e0eef:1/2718a8d1?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE2MjI4MDY5NTMsImNkIjoiLmVtYWlsLmZvcmJlcy5jb20iLCJjZSI6ODY0MDAsInRrIjoiZm9yYmVzLWxpdmUiLCJtdGxJRCI6IjYwYmEwZTBlMmRkOGE2NWQ3NjNjZjhkYiIsImxpbmtVcmwiOiJodHRwczpcL1wvd3d3LmZvcmJlcy5jb21cL3NpdGVzXC9zb2ZpYWxvdHRvcGVyc2lvP3V0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1kYWlseWRvemVuJmNkbGNpZD02MGI1MmE1OGZlMmMxOTVlOTEwZTBlZWYifQ&jwtS=phMK0cvDXQr1BtdMHn57vaR1BGkgi9MGLcm-ECDyFAs"><strong>Sofia Lotto Persio</strong></a></p>
+                                            <p style="font-family:arial, sans-serif; color:grey;line-height:16px;">Curator-In-Chief | <a data-crdl-variant="" href="https://e.email.forbes.com/c2/869:60b7a7552dd8a629cc57cd08:ot:60b52a58fe2c195e910e0eef:1/fdecd906?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE2MjI4MDY5NTMsImNkIjoiLmVtYWlsLmZvcmJlcy5jb20iLCJjZSI6ODY0MDAsInRrIjoiZm9yYmVzLWxpdmUiLCJtdGxJRCI6IjYwYmEwZTBlMmRkOGE2NWQ3NjNjZjhkYyIsImxpbmtVcmwiOiJodHRwczpcL1wvdHdpdHRlci5jb21cL3NvZmlhZWxsZXBpP3V0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1kYWlseWRvemVuJmNkbGNpZD02MGI1MmE1OGZlMmMxOTVlOTEwZTBlZWYifQ&jwtS=lD0buWpUSHj9-dG110O6bmzeK_RGH8TZ3Kthp5alZKI">Twitter</a></p>
+                                          </td>
+                                         
+                                          
+                                        </tr>
+<!-- |||||| End AUTHOR |||||| -->
+</table>
+</td>
+                                  </tr>
+<td style="height:15px;" height="15"></td>
+                                          </table>
+</td></tr>
+<!--END -->
+</table>
+</div>
+</td>
+                        </tr></table>
+</td>
+            </tr></table></div>
+  
+  
+
+
+<div>
+<!-- `````````````````````````````````````````|  Title |`````````````````````````````````````-->
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="margin: 0; padding: 0; background: #e2e2e2; border-collapse: collapse;" bgcolor="#e2e2e2" width="100%"><tr>
+<td align="center" valign="top">
+         <table width="800" bgcolor="#ffffff" border="0" cellspacing="0" cellpadding="0" class="p100" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;" align="center"><tr>
+<td align="center" valign="top">
+                  <div>
+                     <table width="600" border="0" cellspacing="0" cellpadding="0" class="p80" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;" align="center"><tr>
+<td valign="top">
+                              <table border="0" cellspacing="0" cellpadding="0" width="600" class="p100" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;" align="center"><tr>
+<td align="center">
+                                       <table border="0" align="center" cellpadding="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+<tr>
+<td style="height:10px" height="10"></td>
+                                          </tr>
+<tr>
+<td align="center" style="color: #333333; font-size: 16px;text-align:center;">
+                                                <p style="font-family: Arial, Helvetica, sans-serif;font-size:16;text-align:center;"><strong>In The News Today</strong></p>
+                                                
+                                             </td>
+                                          </tr>
+</table>
+</td>
+                                 </tr></table>
+</td>
+                        </tr></table>
+</div>
+               </td>
+            </tr></table>
+</td>
+   </tr></table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="margin: 0; padding: 0; background: #e2e2e2; border-collapse: collapse;" bgcolor="#e2e2e2" width="100%"><tr>
+<td align="center" valign="top">
+         <table width="800" bgcolor="#ffffff" border="0" cellspacing="0" cellpadding="0" class="p100" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;" align="center"><tr>
+<td align="center" valign="top">
+                  <div>
+                     <table width="600" border="0" cellspacing="0" cellpadding="0" class="p80" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;" align="center">
+<tr>
+<td valign="top" align="center">
+                              <table border="0" cellspacing="0" cellpadding="0" width="600" class="p100" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;" align="center"><tr>
+<td align="center">
+                                       <table border="0" align="center" cellpadding="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;border: 0px; border-bottom: 1px #333333 solid;text-align:center;"><tr>
+<td style="height:10px; width:50px;text-align:center" width="50" align="center"></td>
+                                          </tr></table>
+</td>
+                                 </tr></table>
+</td>
+                        </tr>
+<tr>
+<td style="height:10px" height="10"></td>
+                                          </tr>
+</table>
+</div>
+               </td>
+            </tr></table>
+</td>
+   </tr></table>
+<!-- ````````````````````````````````````````````|  End |`````````````````````````````````````````-->
+</div>
+<div>
+<!-- `````````````````````````Rich Text```````````````````````````````````````-->
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="margin: 0; padding: 0; background: #e2e2e2; border-collapse: collapse;" bgcolor="#e2e2e2" width="100%"><tr>
+<td align="center" valign="top">
+         <table width="800" bgcolor="#ffffff" border="0" cellspacing="0" cellpadding="0" class="p100" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;">
+<tr>
+<td align="center" valign="top">
+                  <div>
+                     <table width="600" border="0" cellspacing="0" cellpadding="0" class="p80" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;"><tr>
+<td valign="top">
+                              <table border="0" cellspacing="0" cellpadding="0" width="600" class="p100" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;"><tr>
+<td align="center">
+                                       <table border="0" align="left" cellpadding="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;border: 0px;"><tr>
+<td style=";color:#FFFFFF; font-weight:bold;width:35px; vertical-align: middle;" align="center"><img src="https://images.cordial.com/869/341x304/checkbox-grey.png" width="25"></td>
+                                            <td style="width:15px"></td>
+                                             <td align="left" style="color: #333333; font-size: 15px;line-height: 23px;font-family:Georgia, serif;">
+                                                <p style="font-family:Georgia, serif;color: #333333; font-size: 15px;line-height: 23px;"><strong data-crdl-plugin="bold"><span>Dr. Anthony Fauci </span></strong><span>has called on the Chinese government to release </span><a data-crdl-plugin="link" href="https://e.email.forbes.com/c2/869:60b7a7552dd8a629cc57cd08:ot:60b52a58fe2c195e910e0eef:1/ad0eb1f4?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE2MjI4MDY5NTMsImNkIjoiLmVtYWlsLmZvcmJlcy5jb20iLCJjZSI6ODY0MDAsInRrIjoiZm9yYmVzLWxpdmUiLCJtdGxJRCI6IjYwYmEwZTBlMmRkOGE2NWQ3NjNjZjhkZCIsImxpbmtVcmwiOiJodHRwczpcL1wvd3d3LmZvcmJlcy5jb21cL3NpdGVzXC9zaWxhZGl0eWFyYXlcLzIwMjFcLzA2XC8wNFwvZmF1Y2ktYXNrcy1iZWlqaW5nLXRvLXJlbGVhc2UtbWVkaWNhbC1yZWNvcmRzLW9mLXd1aGFuLWxhYi13b3JrZXJzLXdoby1mZWxsLXNpY2staW4tMjAxOVwvP3NoPTQ0MzA1ZjQ3Mzc3MyZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249ZGFpbHlkb3plbiZjZGxjaWQ9NjBiNTJhNThmZTJjMTk1ZTkxMGUwZWVmIn0&jwtS=LtsZgXVRHndfUF6rUthBIZc8NhVuvSnf80duqU1toQY"><span>medical records of nine people,</span></a><span> including three researchers who worked at the Wuhan Institute of Virology and fell ill weeks before the first reported case of Covid-19.</span></p>
+                                             </td>
+                                          </tr></table>
+</td>
+                                 </tr></table>
+</td>
+                        </tr></table>
+</div>
+               </td>
+            </tr>
+<tr>
+<td style="height:5px;" bgcolor="#FFFFFF"></td>
+            </tr>
+</table>
+</td>
+   </tr></table>
+<!-- ```````````````````````````````````|  End Rich Text |````````````````````````````````-->
+</div>
+<div>
+<!-- `````````````````````````Rich Text```````````````````````````````````````-->
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="margin: 0; padding: 0; background: #e2e2e2; border-collapse: collapse;" bgcolor="#e2e2e2" width="100%"><tr>
+<td align="center" valign="top">
+         <table width="800" bgcolor="#ffffff" border="0" cellspacing="0" cellpadding="0" class="p100" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;">
+<tr>
+<td align="center" valign="top">
+                  <div>
+                     <table width="600" border="0" cellspacing="0" cellpadding="0" class="p80" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;"><tr>
+<td valign="top">
+                              <table border="0" cellspacing="0" cellpadding="0" width="600" class="p100" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;"><tr>
+<td align="center">
+                                       <table border="0" align="left" cellpadding="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;border: 0px;"><tr>
+<td style=";color:#FFFFFF; font-weight:bold;width:35px; vertical-align: middle;" align="center"><img src="https://images.cordial.com/869/341x304/checkbox-grey.png" width="25"></td>
+                                            <td style="width:15px"></td>
+                                             <td align="left" style="color: #333333; font-size: 15px;line-height: 23px;font-family:Georgia, serif;">
+                                                <p style="font-family:Georgia, serif;color: #333333; font-size: 15px;line-height: 23px;"><strong data-crdl-plugin="bold"><span>Facebook</span></strong><span> is facing antitrust investigations in the European Union and the U.K. over its </span><a data-crdl-plugin="link" href="https://e.email.forbes.com/c2/869:60b7a7552dd8a629cc57cd08:ot:60b52a58fe2c195e910e0eef:1/5dd65316?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE2MjI4MDY5NTMsImNkIjoiLmVtYWlsLmZvcmJlcy5jb20iLCJjZSI6ODY0MDAsInRrIjoiZm9yYmVzLWxpdmUiLCJtdGxJRCI6IjYwYmEwZTBlMmRkOGE2NWQ3NjNjZjhkZSIsImxpbmtVcmwiOiJodHRwczpcL1wvd3d3LmZvcmJlcy5jb21cL3NpdGVzXC9zaWxhZGl0eWFyYXlcLzIwMjFcLzA2XC8wNFwvZXUtYW5kLXVrLXJlZ3VsYXRvcnMtb3Blbi1hbnRpdHJ1c3QtcHJvYmUtaW50by1mYWNlYm9va3MtaGFuZGxpbmctb2YtYWR2ZXJ0aXNpbmctZGF0YVwvP3NoPTc4N2UyOGZlNTQwYSZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249ZGFpbHlkb3plbiZjZGxjaWQ9NjBiNTJhNThmZTJjMTk1ZTkxMGUwZWVmIn0&jwtS=P6TvNfXBIuVK6krWz7DHq5JJsDChEncN-Hf3pMQWZWE"><span>handling of advertising data.</span></a></p>
+                                             </td>
+                                          </tr></table>
+</td>
+                                 </tr></table>
+</td>
+                        </tr></table>
+</div>
+               </td>
+            </tr>
+<tr>
+<td style="height:5px;" bgcolor="#FFFFFF"></td>
+            </tr>
+</table>
+</td>
+   </tr></table>
+<!-- ```````````````````````````````````|  End Rich Text |````````````````````````````````-->
+</div>
+<div>
+<!-- `````````````````````````````````````````|  Title |`````````````````````````````````````-->
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="margin: 0; padding: 0; background: #e2e2e2; border-collapse: collapse;" bgcolor="#e2e2e2" width="100%"><tr>
+<td align="center" valign="top">
+         <table width="800" bgcolor="#ffffff" border="0" cellspacing="0" cellpadding="0" class="p100" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;" align="center"><tr>
+<td align="center" valign="top">
+                  <div>
+                     <table width="600" border="0" cellspacing="0" cellpadding="0" class="p80" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;" align="center"><tr>
+<td valign="top">
+                              <table border="0" cellspacing="0" cellpadding="0" width="600" class="p100" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;" align="center"><tr>
+<td align="center">
+                                       <table border="0" align="center" cellpadding="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+<tr>
+<td style="height:10px" height="10"></td>
+                                          </tr>
+<tr>
+<td align="center" style="color: #333333; font-size: 16px;text-align:center;">
+                                                <p style="font-family: Arial, Helvetica, sans-serif;font-size:16;text-align:center;"><strong>Top Take-Aways</strong></p>
+                                                
+                                             </td>
+                                          </tr>
+</table>
+</td>
+                                 </tr></table>
+</td>
+                        </tr></table>
+</div>
+               </td>
+            </tr></table>
+</td>
+   </tr></table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="margin: 0; padding: 0; background: #e2e2e2; border-collapse: collapse;" bgcolor="#e2e2e2" width="100%"><tr>
+<td align="center" valign="top">
+         <table width="800" bgcolor="#ffffff" border="0" cellspacing="0" cellpadding="0" class="p100" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;" align="center"><tr>
+<td align="center" valign="top">
+                  <div>
+                     <table width="600" border="0" cellspacing="0" cellpadding="0" class="p80" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;" align="center">
+<tr>
+<td valign="top" align="center">
+                              <table border="0" cellspacing="0" cellpadding="0" width="600" class="p100" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;" align="center"><tr>
+<td align="center">
+                                       <table border="0" align="center" cellpadding="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;border: 0px; border-bottom: 1px #333333 solid;text-align:center;"><tr>
+<td style="height:10px; width:50px;text-align:center" width="50" align="center"></td>
+                                          </tr></table>
+</td>
+                                 </tr></table>
+</td>
+                        </tr>
+<tr>
+<td style="height:10px" height="10"></td>
+                                          </tr>
+</table>
+</div>
+               </td>
+            </tr></table>
+</td>
+   </tr></table>
+<!-- ````````````````````````````````````````````|  End |`````````````````````````````````````````-->
+</div>
+<div>
+<!-- `````````````````````````Rich Text```````````````````````````````````````-->
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="margin: 0; padding: 0; background: #e2e2e2; border-collapse: collapse;" bgcolor="#e2e2e2" width="100%"><tr>
+<td align="center" valign="top">
+         <table width="800" bgcolor="#ffffff" border="0" cellspacing="0" cellpadding="0" class="p100" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;">
+<tr>
+<td align="center" valign="top">
+                  <div>
+                     <table width="600" border="0" cellspacing="0" cellpadding="0" class="p80" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;"><tr>
+<td valign="top">
+                              <table border="0" cellspacing="0" cellpadding="0" width="600" class="p100" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;"><tr>
+<td align="center">
+                                       <table border="0" align="left" cellpadding="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;border: 0px;"><tr>
+<td align="left" style="color: #333333; font-size: 15px;line-height: 23px;font-family:Georgia, serif;">
+                                                <p style="font-family:Georgia, serif;color: #333333; font-size: 15px;line-height: 23px;"><span>Scions of one of the Sackler brothers whose </span><strong data-crdl-plugin="bold"><span>families own Purdue Pharma </span></strong><span>are fighting back against claims its drug Oxycontin fueled the opioid crisis with </span><a data-crdl-plugin="link" href="http://e.email.forbes.com/c2/869:60b7a7552dd8a629cc57cd08:ot:60b52a58fe2c195e910e0eef:1/0a3dce04?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE2MjI4MDY5NTMsImNkIjoiLmVtYWlsLmZvcmJlcy5jb20iLCJjZSI6ODY0MDAsInRrIjoiZm9yYmVzLWxpdmUiLCJtdGxJRCI6IjYwYmEwZTBlMmRkOGE2NWQ3NjNjZjhkZiIsImxpbmtVcmwiOiJodHRwOlwvXC93d3cuZm9yYmVzLmNvbVwvc2l0ZXNcL2RhdmlkZGF3a2luc1wvMjAyMVwvMDZcLzAzXC9zYWNrbGVyLWZhbWlseS1tZW1iZXJzLWNvbWUtb3V0LWZpZ2h0aW5nLXdpdGgtbmV3LXdlYnNpdGVcLz91dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249ZGFpbHlkb3plbiZjZGxjaWQ9NjBiNTJhNThmZTJjMTk1ZTkxMGUwZWVmIn0&jwtS=CKfUKVEC-Oay4Y38Nj_1rxa32QD9Qkt7tXw24Igyh_c"><span>a website called “judgeforyourselves.info”</span></a><span> ahead of a key vote by the company's creditors on a bankruptcy proposal.</span></p>
+<p></p>
+<p><a data-crdl-plugin="link" href="http://e.email.forbes.com/c2/869:60b7a7552dd8a629cc57cd08:ot:60b52a58fe2c195e910e0eef:1/2bf6d1e9?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE2MjI4MDY5NTMsImNkIjoiLmVtYWlsLmZvcmJlcy5jb20iLCJjZSI6ODY0MDAsInRrIjoiZm9yYmVzLWxpdmUiLCJtdGxJRCI6IjYwYmEwZTBlMmRkOGE2NWQ3NjNjZjhlMCIsImxpbmtVcmwiOiJodHRwOlwvXC93d3cuZm9yYmVzLmNvbVwvc2l0ZXNcL2FudG9pbmVnYXJhXC8yMDIxXC8wNlwvMDNcL2JpbGxpb25haXJlLWJpbGwtYWNrbWFuLWluLXRhbGtzLXRvLXRha2UtdW5pdmVyc2FsLW11c2ljLXB1YmxpYy1hdC00MC1iaWxsaW9uLXBsdXMtdmFsdWF0aW9uXC8_dXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPWRhaWx5ZG96ZW4mY2RsY2lkPTYwYjUyYTU4ZmUyYzE5NWU5MTBlMGVlZiJ9&jwtS=MCdyrumjRHr9bW488t9SjeAXTHljVRFswaRAUf40ePQ"><span><br>Universal Music is in talks to go public</span></a><span> via billionaire investor </span><strong data-crdl-plugin="bold"><span>Bill Ackman’s special purpose acquisition company, </span></strong><span>Pershing Square Tontine Holdings, in a deal that—if going ahead—would value the record label at over $40 billion.<br><br>Google cofounders </span><strong data-crdl-plugin="bold"><span>Larry Page and Sergey Brin</span></strong><span> have begun to </span><a data-crdl-plugin="link" href="https://e.email.forbes.com/c2/869:60b7a7552dd8a629cc57cd08:ot:60b52a58fe2c195e910e0eef:1/c6cf2f86?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE2MjI4MDY5NTMsImNkIjoiLmVtYWlsLmZvcmJlcy5jb20iLCJjZSI6ODY0MDAsInRrIjoiZm9yYmVzLWxpdmUiLCJtdGxJRCI6IjYwYmEwZTBlMmRkOGE2NWQ3NjNjZjhlMSIsImxpbmtVcmwiOiJodHRwczpcL1wvd3d3LmZvcmJlcy5jb21cL3NpdGVzXC9rZW5yaWNrY2FpXC8yMDIxXC8wNlwvMDRcL2xhcnJ5LXBhZ2Utc2VyZ2V5LWJyaW4tc2VsbGluZy1nb29nbGUtYWxwaGFiZXQtc2hhcmVzLWFmdGVyLXllYXJzLW5vLXNhbGVzXC8_c2g9NThjZGU3OGI3MTEyJnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1kYWlseWRvemVuJmNkbGNpZD02MGI1MmE1OGZlMmMxOTVlOTEwZTBlZWYifQ&jwtS=bQfiadaey4JjZ4egvs-ab6V1SCIf0ol4ODFQmVIrh-8"><span>offload their Alphabet shares </span></a><span>for the first time in about four years—a period during which the stock price, and their net worths, more than doubled.<br><br>Coupa has joined the cloud companies’ trend to</span><strong data-crdl-plugin="bold"><span> launch their own venture capital arm</span></strong><span>. The spend management software company, recently trading at a market cap of $17 billion, is </span><a data-crdl-plugin="link" href="http://e.email.forbes.com/c2/869:60b7a7552dd8a629cc57cd08:ot:60b52a58fe2c195e910e0eef:1/e8d9bdb9?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE2MjI4MDY5NTMsImNkIjoiLmVtYWlsLmZvcmJlcy5jb20iLCJjZSI6ODY0MDAsInRrIjoiZm9yYmVzLWxpdmUiLCJtdGxJRCI6IjYwYmEwZTBlMmRkOGE2NWQ3NjNjZjhlMiIsImxpbmtVcmwiOiJodHRwOlwvXC93d3cuZm9yYmVzLmNvbVwvc2l0ZXNcL2FsZXhrb25yYWRcLzIwMjFcLzA2XC8wM1wvY291cGEtdmVudHVyZXMtNTAtbWlsbGlvbi1mdW5kLWpvaW5zLWNvcnBvcmF0ZS12Yy10cmVuZFwvP3V0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1kYWlseWRvemVuJmNkbGNpZD02MGI1MmE1OGZlMmMxOTVlOTEwZTBlZWYifQ&jwtS=YtFYVMt7mNnF6Sj124Xx2VUFtrd2o3aznLJrXCgP8B8"><span>debuting as a $50 million fund</span></a><span>, with two investments already made.</span><strong data-crdl-plugin="bold"><span><br><br>Micro VCs seem to be everywhere.</span></strong><span> But the data suggest a different story: there aren’t more of them—they’re just amplified, using specialized approaches and savvier Internet distribution </span><a data-crdl-plugin="link" href="https://e.email.forbes.com/c2/869:60b7a7552dd8a629cc57cd08:ot:60b52a58fe2c195e910e0eef:1/c46152cb?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE2MjI4MDY5NTMsImNkIjoiLmVtYWlsLmZvcmJlcy5jb20iLCJjZSI6ODY0MDAsInRrIjoiZm9yYmVzLWxpdmUiLCJtdGxJRCI6IjYwYmEwZTBlMmRkOGE2NWQ3NjNjZjhlMyIsImxpbmtVcmwiOiJodHRwczpcL1wvd3d3LmZvcmJlcy5jb21cL3NpdGVzXC9yZWJlY2Nhc3prdXRha1wvMjAyMVwvMDZcLzAzXC9ob3ctdmVudHVyZS1jYXBpdGFscy1uZXctY3JvcC1vZi1taWNyby1mdW5kcy1wdW5jaC1hYm92ZS10aGVpci13ZWlnaHRcLz9zaD03NTdlOGFmMDY4NjUmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPWRhaWx5ZG96ZW4mY2RsY2lkPTYwYjUyYTU4ZmUyYzE5NWU5MTBlMGVlZiJ9&jwtS=kXjTR6N2dT1EqOWyMIyxuGiXnJ7_4MY95YiivYsZikI"><span>to punch above their weight</span></a><span>.<br><br>Twitter users have been demanding an edit button for years. Now have up to 30 seconds to </span><strong data-crdl-plugin="bold"><span>“undo” a tweet</span></strong><span>, if they register to the social media’s new paid subscription service—the initial building block in a </span><a data-crdl-plugin="link" href="https://e.email.forbes.com/c2/869:60b7a7552dd8a629cc57cd08:ot:60b52a58fe2c195e910e0eef:1/e35bc354?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE2MjI4MDY5NTMsImNkIjoiLmVtYWlsLmZvcmJlcy5jb20iLCJjZSI6ODY0MDAsInRrIjoiZm9yYmVzLWxpdmUiLCJtdGxJRCI6IjYwYmEwZTBlMmRkOGE2NWQ3NjNjZjhkOCIsImxpbmtVcmwiOiJodHRwczpcL1wvd3d3LmZvcmJlcy5jb21cL3NpdGVzXC9hYnJhbWJyb3duXC8yMDIxXC8wNlwvMDNcL3R3aXR0ZXJzLWdyYW5kLXBsYW4taXMtYmVnaW5uaW5nLXRvLXRha2Utc2hhcGVcLz9zaD01MWI3MTkwODYwMGImdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPWRhaWx5ZG96ZW4mY2RsY2lkPTYwYjUyYTU4ZmUyYzE5NWU5MTBlMGVlZiJ9&jwtS=Awync_Gj5DZt1TYpLJD8aWT6e7vh3G4IsSNrfbgzOJU"><span>much grander plan for the company.<br><br></span></a><span>While the U.S. lost 8.5 million jobs from February 2020 to February 2021, </span><strong data-crdl-plugin="bold"><span>the labor market is hot. </span></strong><span>Employers worrying about how they’ll retain talent in a few months are already behind—</span><a data-crdl-plugin="link" href="http://e.email.forbes.com/c2/869:60b7a7552dd8a629cc57cd08:ot:60b52a58fe2c195e910e0eef:1/9d27abef?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE2MjI4MDY5NTMsImNkIjoiLmVtYWlsLmZvcmJlcy5jb20iLCJjZSI6ODY0MDAsInRrIjoiZm9yYmVzLWxpdmUiLCJtdGxJRCI6IjYwYmEwZTBlMmRkOGE2NWQ3NjNjZjhkOSIsImxpbmtVcmwiOiJodHRwOlwvXC93d3cuZm9yYmVzLmNvbVwvc2l0ZXNcL2NocmlzdGlhbmtyZXpuYXJcLzIwMjFcLzA2XC8wM1wvZW1wbG95ZXJzLWRvbnQtZmVhci10aGUtZ3JlYXQtcmVzaWduYXRpb24taXRzLWFscmVhZHktaGVyZVwvP3V0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1kYWlseWRvemVuJmNkbGNpZD02MGI1MmE1OGZlMmMxOTVlOTEwZTBlZWYifQ&jwtS=-VxH9RxVtfdoxs0Zaq7pKQdHa5no92BxUiCngzPVFsY"><span>they need to have it figured out now</span></a><span>. </span></p>
+                                             </td>
+                                          </tr></table>
+</td>
+                                 </tr></table>
+</td>
+                        </tr></table>
+</div>
+               </td>
+            </tr>
+<tr>
+<td style="height:5px;"></td>
+            </tr>
+</table>
+</td>
+   </tr></table>
+<!-- ```````````````````````````````````|  End Rich Text |````````````````````````````````-->
+</div>
+<div>
+<!-- `````````````````````````````````````````|  Title |`````````````````````````````````````-->
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="margin: 0; padding: 0; background: #e2e2e2; border-collapse: collapse;" bgcolor="#e2e2e2" width="100%"><tr>
+<td align="center" valign="top">
+         <table width="800" bgcolor="#ffffff" border="0" cellspacing="0" cellpadding="0" class="p100" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;" align="center"><tr>
+<td align="center" valign="top">
+                  <div>
+                     <table width="600" border="0" cellspacing="0" cellpadding="0" class="p80" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;" align="center"><tr>
+<td valign="top">
+                              <table border="0" cellspacing="0" cellpadding="0" width="600" class="p100" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;" align="center"><tr>
+<td align="center">
+                                       <table border="0" align="center" cellpadding="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+<tr>
+<td style="height:10px" height="10"></td>
+                                          </tr>
+<tr>
+<td align="center" style="color: #333333; font-size: 16px;text-align:center;">
+                                                <p style="font-family: Arial, Helvetica, sans-serif;font-size:16;text-align:center;"><strong>Today's Must Read</strong></p>
+                                                
+                                             </td>
+                                          </tr>
+</table>
+</td>
+                                 </tr></table>
+</td>
+                        </tr></table>
+</div>
+               </td>
+            </tr></table>
+</td>
+   </tr></table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="margin: 0; padding: 0; background: #e2e2e2; border-collapse: collapse;" bgcolor="#e2e2e2" width="100%"><tr>
+<td align="center" valign="top">
+         <table width="800" bgcolor="#ffffff" border="0" cellspacing="0" cellpadding="0" class="p100" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;" align="center"><tr>
+<td align="center" valign="top">
+                  <div>
+                     <table width="600" border="0" cellspacing="0" cellpadding="0" class="p80" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;" align="center">
+<tr>
+<td valign="top" align="center">
+                              <table border="0" cellspacing="0" cellpadding="0" width="600" class="p100" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;" align="center"><tr>
+<td align="center">
+                                       <table border="0" align="center" cellpadding="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;border: 0px; border-bottom: 1px #333333 solid;text-align:center;"><tr>
+<td style="height:10px; width:50px;text-align:center" width="50" align="center"></td>
+                                          </tr></table>
+</td>
+                                 </tr></table>
+</td>
+                        </tr>
+<tr>
+<td style="height:10px" height="10"></td>
+                                          </tr>
+</table>
+</div>
+               </td>
+            </tr></table>
+</td>
+   </tr></table>
+<!-- ````````````````````````````````````````````|  End |`````````````````````````````````````````-->
+</div>
+<div>
+<!-- `````````````````````````````````````````|  Sub Feature  |````````````````````````````````````-->
+<!-- `````````````````````````````````````````````````````````````````````````````````````````````-->
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="margin: 0; padding: 0;background: #e2e2e2; border-collapse: collapse" bgcolor="#cecece" width="100%"><tr>
+<td align="center" valign="top">	
+         <table align="center" width="800" border="0" cellspacing="0" cellpadding="0" class="p100" bgcolor="#ffffff" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;"><tr>
+<td align="center" valign="top">
+                  <table border="0" cellpadding="0" cellspacing="0" class="p100" width="600" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;"><tr>
+<td align="left" valign="top">
+                           <!--[if gte mso 9]>
+                           <table align="left" border="0" cellpadding="0" cellspacing="0" width="600">
+                              <tr>
+                                 <td align="left" valign="top" width="280" class="p100">
+                                    <![endif]-->
+                                    <table align="left" border="0" cellpadding="0" cellspacing="0" width="280" class="p100" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;"><tr>
+<td valign="top" align="center">
+                                             <table align="center" border="0" cellspacing="0" cellpadding="0" class="p90" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;"><tr>
+<td valign="top" align="center">
+                                                      <table border="0" cellspacing="0" cellpadding="0" class="p100" align="center" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;">
+<tr>
+<td height="25" style="font-size: 10px; line-height: 25px;"> </td>
+                                                         </tr>
+<!-- |||||| Image 1 from 2 column section 5 |||||| --><tr>
+<td align="center" alt="Highest Paid Athletes 2021: The Top 50 Sports Stars Combined To Make Nearly $2.8 Billion In A Year Of Records">
+                                                               <!--   Link to page after click linkhere# -->
+															   
+                                                               <a data-crdl-variant="" style="display: block; border-style: none !important; border: 0 !important;" href="https://e.email.forbes.com/c2/869:60b7a7552dd8a629cc57cd08:ot:60b52a58fe2c195e910e0eef:1/ee0696ed?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE2MjI4MDY5NTMsImNkIjoiLmVtYWlsLmZvcmJlcy5jb20iLCJjZSI6ODY0MDAsInRrIjoiZm9yYmVzLWxpdmUiLCJtdGxJRCI6IjYwYmEwZTBlMmRkOGE2NWQ3NjNjZjhlNCIsImxpbmtVcmwiOiJodHRwczpcL1wvd3d3LmZvcmJlcy5jb21cL2F0aGxldGVzXC8_dXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPWRhaWx5ZG96ZW4mY2RsY2lkPTYwYjUyYTU4ZmUyYzE5NWU5MTBlMGVlZiJ9&jwtS=wJHz2eYOziF43J8uIkJNEE8LffVrd_YwrovtqEC3jKM">
+                                                                  <!--   Image link here -->
+                                                                  <img src="https://images.forbes.com/highest-paid-athletes/hpa-2021-header.jpg" border="0" width="280" class="p100" style="display: block;" alt="Highest Paid Athletes 2021: The Top 50 Sports Stars Combined To Make Nearly $2.8 Billion In A Year Of Records"></a>
+                                                            </td>
+                                                         </tr>
+<tr>
+<td height="10" class="hide" style="font-size: 10px; line-height: 15px;"> </td>
+                                                         </tr>
+<!-- |||||| End image 1 from 2 column section 5 |||||| -->
+</table>
+</td>
+                                                </tr></table>
+</td>
+                                       </tr></table>
+<!--[if gte mso 9]>
+                                 </td>
+                                 <td align="left" valign="top" width="30">
+                                    <![endif]--><table align="left" border="0" cellpadding="0" cellspacing="0" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;"><tr>
+<td valign="top" align="center">
+                                             <table border="0" cellspacing="0" cellpadding="0" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;"><tr>
+<td valign="top" align="center">
+                                                      <table border="0" cellspacing="0" cellpadding="0" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;"><tr>
+<td height="2" width="40" style="font-size: 2px; line-height: 2px; width: 40px;"> </td>
+                                                         </tr></table>
+</td>
+                                                </tr></table>
+</td>
+                                       </tr></table>
+<!--[if gte mso 9]>
+                                 </td>
+                                 <td align="left" valign="top" width="284" class="p100">
+                                    <![endif]--><table align="left" border="0" cellpadding="0" cellspacing="0" width="280" class="p100" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;"><tr>
+<td valign="top" align="center">
+                                             <table border="0" align="center" cellspacing="0" cellpadding="0" class="p90" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;"><tr>
+<td valign="top" align="center">
+                                                      <table border="0" cellspacing="0" cellpadding="0" class="p100" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;">
+<tr>
+<td height="15" style="font-size: 10px; line-height: 25px;"> </td>
+                                                         </tr>
+<tr>
+<td align="left" height="30" style="color: #000; font-family:Georgia, serif; font-size: 18px;">
+                                                               <!-- ||||||  Text 1 in 2 column section 5 |||||| -->
+																<strong><a data-crdl-variant="" target="_blank" style="text-decoration:none; color:#000" href="https://e.email.forbes.com/c2/869:60b7a7552dd8a629cc57cd08:ot:60b52a58fe2c195e910e0eef:1/ee0696ed?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE2MjI4MDY5NTMsImNkIjoiLmVtYWlsLmZvcmJlcy5jb20iLCJjZSI6ODY0MDAsInRrIjoiZm9yYmVzLWxpdmUiLCJtdGxJRCI6IjYwYmEwZTBlMmRkOGE2NWQ3NjNjZjhlNCIsImxpbmtVcmwiOiJodHRwczpcL1wvd3d3LmZvcmJlcy5jb21cL2F0aGxldGVzXC8_dXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPWRhaWx5ZG96ZW4mY2RsY2lkPTYwYjUyYTU4ZmUyYzE5NWU5MTBlMGVlZiJ9&jwtS=wJHz2eYOziF43J8uIkJNEE8LffVrd_YwrovtqEC3jKM">Highest Paid Athletes 2021: The Top 50 Sports Stars Combined To Make Nearly $2.8 Billion In A Year Of Records</a></strong>
+                                                            </td>
+                                                         </tr>
+<tr>
+<td height="25" style="font-size: 14px; line-height: 20px;"><p style="font-family:Georgia, serif;"><span>Even as the pandemic canceled hundreds of sporting events and left pro leagues scrambling, the </span><a data-crdl-plugin="link" href="https://e.email.forbes.com/c2/869:60b7a7552dd8a629cc57cd08:ot:60b52a58fe2c195e910e0eef:1/2ae46193?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE2MjI4MDY5NTMsImNkIjoiLmVtYWlsLmZvcmJlcy5jb20iLCJjZSI6ODY0MDAsInRrIjoiZm9yYmVzLWxpdmUiLCJtdGxJRCI6IjYwYmEwZTBlMmRkOGE2NWQ3NjNjZjhkNSIsImxpbmtVcmwiOiJodHRwczpcL1wvd3d3LmZvcmJlcy5jb21cL2F0aGxldGVzXC8_dXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPWRhaWx5ZG96ZW4mY2RsY2lkPTYwYjUyYTU4ZmUyYzE5NWU5MTBlMGVlZiJ9&jwtS=_6GzunRKlGgOLkPOct2IDXYbgqByhOHZW-NACVnadWA"><span>world’s 50 highest-paid</span></a><span> athletes turned in </span><a data-crdl-plugin="link" href="http://e.email.forbes.com/c2/869:60b7a7552dd8a629cc57cd08:ot:60b52a58fe2c195e910e0eef:1/aa587c72?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE2MjI4MDY5NTMsImNkIjoiLmVtYWlsLmZvcmJlcy5jb20iLCJjZSI6ODY0MDAsInRrIjoiZm9yYmVzLWxpdmUiLCJtdGxJRCI6IjYwYmEwZTBlMmRkOGE2NWQ3NjNjZjhlNSIsImxpbmtVcmwiOiJodHRwOlwvXC93d3cuZm9yYmVzLmNvbVwvc2l0ZXNcL2JyZXR0a25pZ2h0XC8yMDIxXC8wNlwvMDRcL2hpZ2hlc3QtcGFpZC1hdGhsZXRlcy0yMDIxLWFsbC10aW1lLWhpZ2hzLWZvci1uZmwtbmJhLWFuZC1zb2NjZXItcGxheWVycy1hbmQtbW9yZS1udW1iZXJzLXRvLWtub3dcLz91dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249ZGFpbHlkb3plbiZjZGxjaWQ9NjBiNTJhNThmZTJjMTk1ZTkxMGUwZWVmIn0&jwtS=oZ7LYZhbfDFMLZClvGabwhcvvQ-TkJwoBNhgIfftEpg"><span>a record-setting year</span></a><span>. Curious about how the ranking is put together: here’s all you need to know </span><a data-crdl-plugin="link" href="https://e.email.forbes.com/c2/869:60b7a7552dd8a629cc57cd08:ot:60b52a58fe2c195e910e0eef:1/d23a9f64?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE2MjI4MDY5NTMsImNkIjoiLmVtYWlsLmZvcmJlcy5jb20iLCJjZSI6ODY0MDAsInRrIjoiZm9yYmVzLWxpdmUiLCJtdGxJRCI6IjYwYmEwZTBlMmRkOGE2NWQ3NjNjZjhlNiIsImxpbmtVcmwiOiJodHRwczpcL1wvd3d3LmZvcmJlcy5jb21cL3NpdGVzXC9icmV0dGtuaWdodFwvMjAyMVwvMDZcLzA0XC90aGUtbWV0aG9kb2xvZ3ktYmVoaW5kLXRoZS0yMDIxLWxpc3Qtb2YtdGhlLXdvcmxkcy1oaWdoZXN0LXBhaWQtYXRobGV0ZXNcLz9zaD02OTJhZmZjMjEwMGImdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPWRhaWx5ZG96ZW4mY2RsY2lkPTYwYjUyYTU4ZmUyYzE5NWU5MTBlMGVlZiJ9&jwtS=oGo5_FzSBe3XkJw12hJxlekfw35bC_C_ZmnX-7OkZ4o"><span>about the methodology. </span></a><span>And make sure to check out this interview with </span><a data-crdl-plugin="link" href="https://e.email.forbes.com/c2/869:60b7a7552dd8a629cc57cd08:ot:60b52a58fe2c195e910e0eef:1/f6e0c289?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE2MjI4MDY5NTMsImNkIjoiLmVtYWlsLmZvcmJlcy5jb20iLCJjZSI6ODY0MDAsInRrIjoiZm9yYmVzLWxpdmUiLCJtdGxJRCI6IjYwYmEwZTBlMmRkOGE2NWQ3NjNjZjhkYSIsImxpbmtVcmwiOiJodHRwczpcL1wvd3d3LmZvcmJlcy5jb21cL3NpdGVzXC9kYXZpZGRhd2tpbnNcLzIwMjFcLzA2XC8wNFwvdWZjLXN0YXItY29ub3ItbWNncmVnb3ItcmVhY3RzLXRvLWJlY29taW5nLXRoZS13b3JsZHMtdG9wLXBhaWQtYXRobGV0ZS1pbS1hLWRpc3J1cHRlclwvP3NoPTMzNGVmNzczNjdkZiZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249ZGFpbHlkb3plbiZjZGxjaWQ9NjBiNTJhNThmZTJjMTk1ZTkxMGUwZWVmIn0&jwtS=f9CQ18HyJv_4ejWxbaglqKu1f5R_TRi7kG7nkTw-SFE"><span>the athlete who scored the top spot this year.</span></a></p></td>
+                                                         </tr>
+<!-- |||||| Button |||||| --><tr>
+<td style="height:15px"></td>
+                                                                  </tr>
+<tr>
+<td align="left" height="23">
+
+                                                               
+                                                             <table border="0" cellspacing="0" cellpadding="0"><tr>
+<td align="center" bgcolor="#ad2137">
+<a data-crdl-variant="" target="_blank" style="font-size: 14px; font-family: Arial, Helvetica, sans-serif; color: #ffffff; text-decoration: none; padding: 12px 18px; border: 1px solid #ad2137; display: inline-block;" href="https://e.email.forbes.com/c2/869:60b7a7552dd8a629cc57cd08:ot:60b52a58fe2c195e910e0eef:1/07d3cbd3?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE2MjI4MDY5NTMsImNkIjoiLmVtYWlsLmZvcmJlcy5jb20iLCJjZSI6ODY0MDAsInRrIjoiZm9yYmVzLWxpdmUiLCJtdGxJRCI6IjYwYmEwZTBlMmRkOGE2NWQ3NjNjZjhlNyIsImxpbmtVcmwiOiJodHRwczpcL1wvd3d3LmZvcmJlcy5jb21cL2F0aGxldGVzXC8_dXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPWRhaWx5ZG96ZW4mY2RsY2lkPTYwYjUyYTU4ZmUyYzE5NWU5MTBlMGVlZiJ9&jwtS=CGJnLdDnMjuAfQE3B_v66ynO6IILBGqE34u0NXmuCA4">See The Full Ranking →</a>
+		</td>
+	</tr></table>
+</td>
+                                                         </tr>
+<!-- |||||| End button |||||| --><tr>
+<td height="50" style="font-size: 10px; line-height: 50px;"> </td>
+                                                         </tr>
+</table>
+</td>
+                                                </tr></table>
+</td>
+                                       </tr></table>
+<!--[if gte mso 9]>
+                                 </td>
+                              </tr>
+                           </table>
+                           <![endif]-->
+</td>
+                     </tr></table>
+</td>
+            </tr></table>
+</td>
+   </tr></table>
+<!-- ````````````````````````````````````````````|  End |`````````````````````````````````````````-->
+</div>
+<div>
+<!-- `````````````````````````````````````````|  Title |`````````````````````````````````````-->
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="margin: 0; padding: 0; background: #e2e2e2; border-collapse: collapse;" bgcolor="#e2e2e2" width="100%"><tr>
+<td align="center" valign="top">
+         <table width="800" bgcolor="#ffffff" border="0" cellspacing="0" cellpadding="0" class="p100" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;" align="center"><tr>
+<td align="center" valign="top">
+                  <div>
+                     <table width="600" border="0" cellspacing="0" cellpadding="0" class="p80" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;" align="center"><tr>
+<td valign="top">
+                              <table border="0" cellspacing="0" cellpadding="0" width="600" class="p100" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;" align="center"><tr>
+<td align="center">
+                                       <table border="0" align="center" cellpadding="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+<tr>
+<td style="height:10px" height="10"></td>
+                                          </tr>
+<tr>
+<td align="center" style="color: #333333; font-size: 16px;text-align:center;">
+                                                <p style="font-family: Arial, Helvetica, sans-serif;font-size:16;text-align:center;"><strong>In Case You Missed It</strong></p>
+                                                
+                                             </td>
+                                          </tr>
+</table>
+</td>
+                                 </tr></table>
+</td>
+                        </tr></table>
+</div>
+               </td>
+            </tr></table>
+</td>
+   </tr></table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="margin: 0; padding: 0; background: #e2e2e2; border-collapse: collapse;" bgcolor="#e2e2e2" width="100%"><tr>
+<td align="center" valign="top">
+         <table width="800" bgcolor="#ffffff" border="0" cellspacing="0" cellpadding="0" class="p100" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;" align="center"><tr>
+<td align="center" valign="top">
+                  <div>
+                     <table width="600" border="0" cellspacing="0" cellpadding="0" class="p80" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;" align="center">
+<tr>
+<td valign="top" align="center">
+                              <table border="0" cellspacing="0" cellpadding="0" width="600" class="p100" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;" align="center"><tr>
+<td align="center">
+                                       <table border="0" align="center" cellpadding="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;border: 0px; border-bottom: 1px #333333 solid;text-align:center;"><tr>
+<td style="height:10px; width:50px;text-align:center" width="50" align="center"></td>
+                                          </tr></table>
+</td>
+                                 </tr></table>
+</td>
+                        </tr>
+<tr>
+<td style="height:10px" height="10"></td>
+                                          </tr>
+</table>
+</div>
+               </td>
+            </tr></table>
+</td>
+   </tr></table>
+<!-- ````````````````````````````````````````````|  End |`````````````````````````````````````````-->
+</div>
+<div>
+<!-- `````````````````````````Rich Text```````````````````````````````````````-->
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="margin: 0; padding: 0; background: #e2e2e2; border-collapse: collapse;" bgcolor="#e2e2e2" width="100%"><tr>
+<td align="center" valign="top">
+         <table width="800" bgcolor="#ffffff" border="0" cellspacing="0" cellpadding="0" class="p100" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;">
+<tr>
+<td align="center" valign="top">
+                  <div>
+                     <table width="600" border="0" cellspacing="0" cellpadding="0" class="p80" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;"><tr>
+<td valign="top">
+                              <table border="0" cellspacing="0" cellpadding="0" width="600" class="p100" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;"><tr>
+<td align="center">
+                                       <table border="0" align="left" cellpadding="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;border: 0px;"><tr>
+<td align="left" style="color: #333333; font-size: 15px;line-height: 23px;font-family:Georgia, serif;">
+                                                <p style="font-family:Georgia, serif;color: #333333; font-size: 15px;line-height: 23px;"><span>South Korea’s 50 richest people have seen </span><a data-crdl-plugin="link" href="https://e.email.forbes.com/c2/869:60b7a7552dd8a629cc57cd08:ot:60b52a58fe2c195e910e0eef:1/73425b65?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE2MjI4MDY5NTMsImNkIjoiLmVtYWlsLmZvcmJlcy5jb20iLCJjZSI6ODY0MDAsInRrIjoiZm9yYmVzLWxpdmUiLCJtdGxJRCI6IjYwYmEwZTBlMmRkOGE2NWQ3NjNjZjhlOCIsImxpbmtVcmwiOiJodHRwczpcL1wvd3d3LmZvcmJlcy5jb21cL3NpdGVzXC9ncmFjZWNodW5nXC8yMDIxXC8wNlwvMDFcL2tvcmVhcy01MC1yaWNoZXN0LTIwMjEtYS1yZWNvcmQtNDYtYmlsbGlvbmFpcmVzLW1ha2UtdGhlLWxpc3RcLz9zaD03YjczOGYwNTIxN2ImdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPWRhaWx5ZG96ZW4mY2RsY2lkPTYwYjUyYTU4ZmUyYzE5NWU5MTBlMGVlZiJ9&jwtS=vDP8uWyL_j8sRsNRB3FCWy6F9Zpet5pkBnsz2RU1mG4"><span>their fortunes rise in the past year.</span></a><span> But for the first time since Forbes started compiling the ranking in 2005, the richest person in a country known for its business family dynasties is a </span><a data-crdl-plugin="link" href="https://e.email.forbes.com/c2/869:60b7a7552dd8a629cc57cd08:ot:60b52a58fe2c195e910e0eef:1/7519918f?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE2MjI4MDY5NTMsImNkIjoiLmVtYWlsLmZvcmJlcy5jb20iLCJjZSI6ODY0MDAsInRrIjoiZm9yYmVzLWxpdmUiLCJtdGxJRCI6IjYwYmEwZTBlMmRkOGE2NWQ3NjNjZjhlOSIsImxpbmtVcmwiOiJodHRwczpcL1wvd3d3LmZvcmJlcy5jb21cL3NpdGVzXC9qb2hua2FuZ1wvMjAyMVwvMDZcLzAxXC9rb3JlYXMtbmV3LW5vLTEtY2VsbHRyaW9uLWNvZm91bmRlci1iZWNvbWVzLWZpcnN0LXNlbGYtbWFkZS1iaWxsaW9uYWlyZS10by1jbGFpbS10b3Atc3BvdFwvP3NoPTVmNTNiNDE4MzhmNCZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249ZGFpbHlkb3plbiZjZGxjaWQ9NjBiNTJhNThmZTJjMTk1ZTkxMGUwZWVmIn0&jwtS=Wn0ol4MH18FW2wffUzAenxeY27cl3FtxB8tfc0otlbM"><span>self-made billionaire.</span></a></p>
+                                             </td>
+                                          </tr></table>
+</td>
+                                 </tr></table>
+</td>
+                        </tr></table>
+</div>
+               </td>
+            </tr>
+<tr>
+<td style="height:5px;"></td>
+            </tr>
+</table>
+</td>
+   </tr></table>
+<!-- ```````````````````````````````````|  End Rich Text |````````````````````````````````-->
+</div>
+<div>
+<!-- `````````````````````````````````````````|  Title |`````````````````````````````````````-->
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="margin: 0; padding: 0; background: #e2e2e2; border-collapse: collapse;" bgcolor="#e2e2e2" width="100%"><tr>
+<td align="center" valign="top">
+         <table width="800" bgcolor="#ffffff" border="0" cellspacing="0" cellpadding="0" class="p100" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;" align="center"><tr>
+<td align="center" valign="top">
+                  <div>
+                     <table width="600" border="0" cellspacing="0" cellpadding="0" class="p80" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;" align="center"><tr>
+<td valign="top">
+                              <table border="0" cellspacing="0" cellpadding="0" width="600" class="p100" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;" align="center"><tr>
+<td align="center">
+                                       <table border="0" align="center" cellpadding="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+<tr>
+<td style="height:10px" height="10"></td>
+                                          </tr>
+<tr>
+<td align="center" style="color: #333333; font-size: 16px;text-align:center;">
+                                                <p style="font-family: Arial, Helvetica, sans-serif;font-size:16;text-align:center;"><strong>Tips You Can Trust</strong></p>
+                                                
+                                             </td>
+                                          </tr>
+</table>
+</td>
+                                 </tr></table>
+</td>
+                        </tr></table>
+</div>
+               </td>
+            </tr></table>
+</td>
+   </tr></table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="margin: 0; padding: 0; background: #e2e2e2; border-collapse: collapse;" bgcolor="#e2e2e2" width="100%"><tr>
+<td align="center" valign="top">
+         <table width="800" bgcolor="#ffffff" border="0" cellspacing="0" cellpadding="0" class="p100" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;" align="center"><tr>
+<td align="center" valign="top">
+                  <div>
+                     <table width="600" border="0" cellspacing="0" cellpadding="0" class="p80" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;" align="center">
+<tr>
+<td valign="top" align="center">
+                              <table border="0" cellspacing="0" cellpadding="0" width="600" class="p100" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;" align="center"><tr>
+<td align="center">
+                                       <table border="0" align="center" cellpadding="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;border: 0px; border-bottom: 1px #333333 solid;text-align:center;"><tr>
+<td style="height:10px; width:50px;text-align:center" width="50" align="center"></td>
+                                          </tr></table>
+</td>
+                                 </tr></table>
+</td>
+                        </tr>
+<tr>
+<td style="height:10px" height="10"></td>
+                                          </tr>
+</table>
+</div>
+               </td>
+            </tr></table>
+</td>
+   </tr></table>
+<!-- ````````````````````````````````````````````|  End |`````````````````````````````````````````-->
+</div>
+<div>
+<!-- `````````````````````````Rich Text```````````````````````````````````````-->
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="margin: 0; padding: 0; background: #e2e2e2; border-collapse: collapse;" bgcolor="#e2e2e2" width="100%"><tr>
+<td align="center" valign="top">
+         <table width="800" bgcolor="#ffffff" border="0" cellspacing="0" cellpadding="0" class="p100" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;">
+<tr>
+<td align="center" valign="top">
+                  <div>
+                     <table width="600" border="0" cellspacing="0" cellpadding="0" class="p80" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;"><tr>
+<td valign="top">
+                              <table border="0" cellspacing="0" cellpadding="0" width="600" class="p100" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;"><tr>
+<td align="center">
+                                       <table border="0" align="left" cellpadding="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;border: 0px;"><tr>
+<td style=";color:#FFFFFF; font-weight:bold;width:35px; vertical-align: middle;" align="center"><img src="https://images.cordial.com/869/341x304/checkbox-grey.png" width="25"></td>
+                                            <td style="width:15px"></td>
+                                             <td align="left" style="color: #333333; font-size: 15px;line-height: 23px;font-family:Georgia, serif;">
+                                                <p style="font-family:Georgia, serif;color: #333333; font-size: 15px;line-height: 23px;"><a data-crdl-plugin="link" href="https://e.email.forbes.com/c2/869:60b7a7552dd8a629cc57cd08:ot:60b52a58fe2c195e910e0eef:1/5c06a144?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE2MjI4MDY5NTMsImNkIjoiLmVtYWlsLmZvcmJlcy5jb20iLCJjZSI6ODY0MDAsInRrIjoiZm9yYmVzLWxpdmUiLCJtdGxJRCI6IjYwYmEwZTBlMmRkOGE2NWQ3NjNjZjhlYSIsImxpbmtVcmwiOiJodHRwczpcL1wvd3d3LmZvcmJlcy5jb21cL3NpdGVzXC9yb2JlcnRiZXJnZXJcLzIwMjFcLzA1XC8zMFwvMjQtc3RhdGVzLXRvLWVuZC0zMDAtZW5oYW5jZWQtdW5lbXBsb3ltZW50LWJlbmVmaXRzLWVhcmx5XC8_c2g9NTBjNjBiMmI1MDQyJnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1kYWlseWRvemVuJmNkbGNpZD02MGI1MmE1OGZlMmMxOTVlOTEwZTBlZWYifQ&jwtS=GuXARfNkRaeRp3lR-hAYh8kiR5cr3VgHT89D5DpMtLs">24 States To End $300 Enhanced Unemployment Benefits Early</a></p>
+                                             </td>
+                                          </tr></table>
+</td>
+                                 </tr></table>
+</td>
+                        </tr></table>
+</div>
+               </td>
+            </tr>
+<tr>
+<td style="height:5px;" bgcolor="#FFFFFF"></td>
+            </tr>
+</table>
+</td>
+   </tr></table>
+<!-- ```````````````````````````````````|  End Rich Text |````````````````````````````````-->
+</div>
+<div>
+<!-- `````````````````````````Rich Text```````````````````````````````````````-->
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="margin: 0; padding: 0; background: #e2e2e2; border-collapse: collapse;" bgcolor="#e2e2e2" width="100%"><tr>
+<td align="center" valign="top">
+         <table width="800" bgcolor="#ffffff" border="0" cellspacing="0" cellpadding="0" class="p100" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;">
+<tr>
+<td align="center" valign="top">
+                  <div>
+                     <table width="600" border="0" cellspacing="0" cellpadding="0" class="p80" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;"><tr>
+<td valign="top">
+                              <table border="0" cellspacing="0" cellpadding="0" width="600" class="p100" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;"><tr>
+<td align="center">
+                                       <table border="0" align="left" cellpadding="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;border: 0px;"><tr>
+<td style=";color:#FFFFFF; font-weight:bold;width:35px; vertical-align: middle;" align="center"><img src="https://images.cordial.com/869/341x304/checkbox-grey.png" width="25"></td>
+                                            <td style="width:15px"></td>
+                                             <td align="left" style="color: #333333; font-size: 15px;line-height: 23px;font-family:Georgia, serif;">
+                                                <p style="font-family:Georgia, serif;color: #333333; font-size: 15px;line-height: 23px;"><a data-crdl-plugin="link" href="https://e.email.forbes.com/c2/869:60b7a7552dd8a629cc57cd08:ot:60b52a58fe2c195e910e0eef:1/370350eb?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE2MjI4MDY5NTMsImNkIjoiLmVtYWlsLmZvcmJlcy5jb20iLCJjZSI6ODY0MDAsInRrIjoiZm9yYmVzLWxpdmUiLCJtdGxJRCI6IjYwYmEwZTBlMmRkOGE2NWQ3NjNjZjhlYiIsImxpbmtVcmwiOiJodHRwczpcL1wvd3d3LmZvcmJlcy5jb21cL3NpdGVzXC9lbGVuYWJvdGVsbGFcLzIwMjFcLzA1XC8zMVwvZml2ZS1jb21wbGV0ZWx5LXVuc2VsZmlzaC1yZWFzb25zLXRvLWFzay1mb3ItbW9yZS1tb25leS1hdC13b3JrXC8_c2g9NDZhNjRlNWUxM2Y5JnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1kYWlseWRvemVuJmNkbGNpZD02MGI1MmE1OGZlMmMxOTVlOTEwZTBlZWYifQ&jwtS=B_-OqKo8GB813_Y7pN6NzijfWqHw_ed-5u1iMgKptsI">Five Completely Unselfish Reasons To Ask For More Money At Work</a></p>
+                                             </td>
+                                          </tr></table>
+</td>
+                                 </tr></table>
+</td>
+                        </tr></table>
+</div>
+               </td>
+            </tr>
+<tr>
+<td style="height:5px;" bgcolor="#FFFFFF"></td>
+            </tr>
+</table>
+</td>
+   </tr></table>
+<!-- ```````````````````````````````````|  End Rich Text |````````````````````````````````-->
+</div>
+<div>
+<!-- `````````````````````````````````````````|  Title |`````````````````````````````````````-->
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="margin: 0; padding: 0; background: #e2e2e2; border-collapse: collapse;" bgcolor="#e2e2e2" width="100%"><tr>
+<td align="center" valign="top">
+         <table width="800" bgcolor="#ffffff" border="0" cellspacing="0" cellpadding="0" class="p100" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;" align="center"><tr>
+<td align="center" valign="top">
+                  <div>
+                     <table width="600" border="0" cellspacing="0" cellpadding="0" class="p80" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;" align="center"><tr>
+<td valign="top">
+                              <table border="0" cellspacing="0" cellpadding="0" width="600" class="p100" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;" align="center"><tr>
+<td align="center">
+                                       <table border="0" align="center" cellpadding="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+<tr>
+<td style="height:10px" height="10"></td>
+                                          </tr>
+<tr>
+<td align="center" style="color: #333333; font-size: 16px;text-align:center;">
+                                                <p style="font-family: Arial, Helvetica, sans-serif;font-size:16;text-align:center;"><strong>Across Forbes</strong></p>
+                                                
+                                             </td>
+                                          </tr>
+</table>
+</td>
+                                 </tr></table>
+</td>
+                        </tr></table>
+</div>
+               </td>
+            </tr></table>
+</td>
+   </tr></table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="margin: 0; padding: 0; background: #e2e2e2; border-collapse: collapse;" bgcolor="#e2e2e2" width="100%"><tr>
+<td align="center" valign="top">
+         <table width="800" bgcolor="#ffffff" border="0" cellspacing="0" cellpadding="0" class="p100" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;" align="center"><tr>
+<td align="center" valign="top">
+                  <div>
+                     <table width="600" border="0" cellspacing="0" cellpadding="0" class="p80" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;" align="center">
+<tr>
+<td valign="top" align="center">
+                              <table border="0" cellspacing="0" cellpadding="0" width="600" class="p100" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;" align="center"><tr>
+<td align="center">
+                                       <table border="0" align="center" cellpadding="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;border: 0px; border-bottom: 1px #333333 solid;text-align:center;"><tr>
+<td style="height:10px; width:50px;text-align:center" width="50" align="center"></td>
+                                          </tr></table>
+</td>
+                                 </tr></table>
+</td>
+                        </tr>
+<tr>
+<td style="height:10px" height="10"></td>
+                                          </tr>
+</table>
+</div>
+               </td>
+            </tr></table>
+</td>
+   </tr></table>
+<!-- ````````````````````````````````````````````|  End |`````````````````````````````````````````-->
+</div>
+<div>
+<!-- `````````````````````````````````````````|  Sub Feature  |````````````````````````````````````-->
+<!-- `````````````````````````````````````````````````````````````````````````````````````````````-->
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="margin: 0; padding: 0;background: #e2e2e2; border-collapse: collapse" bgcolor="#cecece" width="100%"><tr>
+<td align="center" valign="top">	
+         <table align="center" width="800" border="0" cellspacing="0" cellpadding="0" class="p100" bgcolor="#ffffff" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;"><tr><td align="center" valign="top">
+                  <table border="0" cellpadding="0" cellspacing="0" class="p100" width="600" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;">
+<tr>
+<td height="25" style="height:25px"></td>
+                                                         </tr>
+<td align="left" valign="top">
+                           <!--[if gte mso 9]>
+                           <table align="left" border="0" cellpadding="0" cellspacing="0" width="600">
+                              <tr>
+                                 <td align="left" valign="top" width="280" class="p100">
+                                    <![endif]-->
+                                    <table align="left" border="0" cellpadding="0" cellspacing="0" width="280" class="p100" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;"><tr>
+<td valign="top" align="center">
+                                             <table align="center" border="0" cellspacing="0" cellpadding="0" class="p90" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;"><tr>
+<td valign="top" align="center">
+                                                      <table border="0" cellspacing="0" cellpadding="0" class="p100" align="center" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;">
+<tr>
+<td height="25" style="font-size: 10px; line-height: 25px;"> </td>
+                                                         </tr>
+<!-- |||||| Image 1 from 2 column section 5 |||||| --><tr>
+<td align="center" alt="The Forbes 50 Over 50 Share Their Best Advice For Supercharging Your Career After 50">
+                                                               <!--   Link to page after click linkhere# -->
+															   
+                                                               <a data-crdl-variant="" style="display: block; border-style: none !important; border: 0 !important;" href="https://e.email.forbes.com/c2/869:60b7a7552dd8a629cc57cd08:ot:60b52a58fe2c195e910e0eef:1/d88c4e9b?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE2MjI4MDY5NTMsImNkIjoiLmVtYWlsLmZvcmJlcy5jb20iLCJjZSI6ODY0MDAsInRrIjoiZm9yYmVzLWxpdmUiLCJtdGxJRCI6IjYwYmEwZTBlMmRkOGE2NWQ3NjNjZjhlYyIsImxpbmtVcmwiOiJodHRwczpcL1wvd3d3LmZvcmJlcy5jb21cL3NpdGVzXC9lbGFuYWdyb3NzXC8yMDIxXC8wNlwvMDJcL3RoZS1mb3JiZXMtNTAtb3Zlci01MC1zaGFyZS10aGVpci1iZXN0LWFkdmljZS1mb3Itc3VwZXJjaGFyZ2luZy15b3VyLWNhcmVlci1hZnRlci01MFwvP3NoPTM2MWI2MTgxNDFhMyZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249ZGFpbHlkb3plbiZjZGxjaWQ9NjBiNTJhNThmZTJjMTk1ZTkxMGUwZWVmIn0&jwtS=QpoeiJSuiWXUQU8HlECLmhiRlrR1IsxQsz3DtPfhkGU">
+                                                                  <!--   Image link here -->
+                                                                  <img src="https://thumbor.forbes.com/thumbor/1080x1080/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60b6fe893e45dd9d2f4c9aea%2F0x0.gif%3Ffit%3Dscale" border="0" width="280" class="p100" style="display: block;" alt="The Forbes 50 Over 50 Share Their Best Advice For Supercharging Your Career After 50"></a>
+                                                            </td>
+                                                         </tr>
+<tr>
+<td height="10" style> </td>
+                                                         </tr>
+<!-- |||||| End image 1 from 2 column section 5 |||||| -->
+</table>
+</td>
+                                                </tr></table>
+</td>
+                                       </tr></table>
+<!--[if gte mso 9]>
+                                 </td>
+                                 <td align="left" valign="top" width="30">
+                                    <![endif]--><table align="left" border="0" cellpadding="0" cellspacing="0" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;"><tr>
+<td valign="top" align="center">
+                                             <table border="0" cellspacing="0" cellpadding="0" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;"><tr>
+<td valign="top" align="center">
+                                                      <table border="0" cellspacing="0" cellpadding="0" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;"><tr>
+<td height="2" width="40" style="font-size: 2px; line-height: 2px; width: 40px;"> </td>
+                                                         </tr></table>
+</td>
+                                                </tr></table>
+</td>
+                                       </tr></table>
+<!--[if gte mso 9]>
+                                 </td>
+                                 <td align="left" valign="top" width="284" class="p100">
+                                    <![endif]--><table align="left" border="0" cellpadding="0" cellspacing="0" width="280" class="p100" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;"><tr>
+<td valign="top" align="center">
+                                             <table border="0" align="center" cellspacing="0" cellpadding="0" class="p90" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;"><tr>
+<td valign="top" align="center">
+                                                      <table border="0" cellspacing="0" cellpadding="0" class="p100" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;">
+<tr>
+<td height="15" style="font-size: 10px; line-height: 15px;"> </td>
+                                                         </tr>
+<tr>
+<td style="font-size: 10px;font-family: Arial, Helvetica, sans-serif;"><p style="font-family: Arial, Helvetica, sans-serif;"><a data-crdl-variant="" target="_blank" style="text-decoration:none; color:#333333;font-family:arial, sans-serif;" href="https://e.email.forbes.com/c2/869:60b7a7552dd8a629cc57cd08:ot:60b52a58fe2c195e910e0eef:1/fc68345c?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE2MjI4MDY5NTMsImNkIjoiLmVtYWlsLmZvcmJlcy5jb20iLCJjZSI6ODY0MDAsInRrIjoiZm9yYmVzLWxpdmUiLCJtdGxJRCI6IjYwYmEwZTBlMmRkOGE2NWQ3NjNjZjhlZCIsImxpbmtVcmwiOiJodHRwczpcL1wvd3d3LmZvcmJlcy5jb21cLzUwb3ZlcjUwXC8_dXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPWRhaWx5ZG96ZW4mY2RsY2lkPTYwYjUyYTU4ZmUyYzE5NWU5MTBlMGVlZiJ9&jwtS=n_K-ZKzr6pT03v2kLzNsjxbN22iX9tPpLpdm934aizM">50 Over 50</a></p></td>
+                                                         </tr>
+<tr>
+<td align="left" style="color: #333333; font-family:Georgia, serif;font-size: 18px;">
+                                                               <!-- ||||||  Text 1 in 2 column section 5 |||||| -->
+																<multiline><a data-crdl-variant="" target="_blank" style="text-decoration:none; color:#333333;font-family:Georgia, serif;" href="https://e.email.forbes.com/c2/869:60b7a7552dd8a629cc57cd08:ot:60b52a58fe2c195e910e0eef:1/d88c4e9b?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE2MjI4MDY5NTMsImNkIjoiLmVtYWlsLmZvcmJlcy5jb20iLCJjZSI6ODY0MDAsInRrIjoiZm9yYmVzLWxpdmUiLCJtdGxJRCI6IjYwYmEwZTBlMmRkOGE2NWQ3NjNjZjhlYyIsImxpbmtVcmwiOiJodHRwczpcL1wvd3d3LmZvcmJlcy5jb21cL3NpdGVzXC9lbGFuYWdyb3NzXC8yMDIxXC8wNlwvMDJcL3RoZS1mb3JiZXMtNTAtb3Zlci01MC1zaGFyZS10aGVpci1iZXN0LWFkdmljZS1mb3Itc3VwZXJjaGFyZ2luZy15b3VyLWNhcmVlci1hZnRlci01MFwvP3NoPTM2MWI2MTgxNDFhMyZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249ZGFpbHlkb3plbiZjZGxjaWQ9NjBiNTJhNThmZTJjMTk1ZTkxMGUwZWVmIn0&jwtS=QpoeiJSuiWXUQU8HlECLmhiRlrR1IsxQsz3DtPfhkGU"><strong>The Forbes 50 Over 50 Share Their Best Advice For Supercharging Your Career After 50</strong></a></multiline>
+</td>
+                                                         </tr>
+<tr>
+<td style="font-size: 14px; line-height: 20px;"><p style="font-family:Georgia, serif;color:#333333">We spoke to five of the women on this year’s list to find out their number one piece of advice for other women who hope to start a business or catapult their careers after 50.</p></td>
+                                                         </tr>
+<!-- |||||| Button |||||| --><tr>
+<td style="height:15px"></td>
+                                                                  </tr>
+<tr>
+<td align="left" height="23">
+
+                                                               
+                                                             <table border="0" cellspacing="0" cellpadding="0"><tr>
+<td align="center" style="font-family: Arial, Helvetica, sans-serif;" bgcolor="#ab243a">
+<a data-crdl-variant="" target="_blank" style="font-size: 14px; font-family: Arial, Helvetica, sans-serif; color: #ffffff; text-decoration: none; padding: 12px 18px; display: inline-block;" href="https://e.email.forbes.com/c2/869:60b7a7552dd8a629cc57cd08:ot:60b52a58fe2c195e910e0eef:1/d88c4e9b?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE2MjI4MDY5NTMsImNkIjoiLmVtYWlsLmZvcmJlcy5jb20iLCJjZSI6ODY0MDAsInRrIjoiZm9yYmVzLWxpdmUiLCJtdGxJRCI6IjYwYmEwZTBlMmRkOGE2NWQ3NjNjZjhlYyIsImxpbmtVcmwiOiJodHRwczpcL1wvd3d3LmZvcmJlcy5jb21cL3NpdGVzXC9lbGFuYWdyb3NzXC8yMDIxXC8wNlwvMDJcL3RoZS1mb3JiZXMtNTAtb3Zlci01MC1zaGFyZS10aGVpci1iZXN0LWFkdmljZS1mb3Itc3VwZXJjaGFyZ2luZy15b3VyLWNhcmVlci1hZnRlci01MFwvP3NoPTM2MWI2MTgxNDFhMyZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249ZGFpbHlkb3plbiZjZGxjaWQ9NjBiNTJhNThmZTJjMTk1ZTkxMGUwZWVmIn0&jwtS=QpoeiJSuiWXUQU8HlECLmhiRlrR1IsxQsz3DtPfhkGU">Read More →</a>
+		</td>
+	</tr></table>
+</td>
+                                                         </tr>
+<!-- |||||| End button |||||| --><tr>
+<td height="35" style="height:35px;"></td>
+                                                         </tr>
+</table>
+</td>
+                                                </tr></table>
+</td>
+                                       </tr></table>
+<!--[if gte mso 9]>
+                                 </td>
+                              </tr>
+                           </table>
+                           <![endif]-->
+</td>
+                     </table>
+</td></tr></table>
+</td>
+            </tr></table>
+<!-- ````````````````````````````````````````````|  End |`````````````````````````````````````````-->
+</div>
+<div>
+<!-- `````````````````````````````````````````|  Title |`````````````````````````````````````-->
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="margin: 0; padding: 0; background: #e2e2e2; border-collapse: collapse;" bgcolor="#e2e2e2" width="100%"><tr>
+<td align="center" valign="top">
+         <table width="800" bgcolor="#ffffff" border="0" cellspacing="0" cellpadding="0" class="p100" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;"><tr>
+<td align="center" valign="top">
+                  <div>
+                     <table width="600" border="0" cellspacing="0" cellpadding="0" class="p80" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;"><tr>
+<td valign="top">
+                              <table border="0" cellspacing="0" cellpadding="0" width="600" class="p100" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;"><tr>
+<td align="center">
+                                       <table border="0" align="left" cellpadding="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;border: 0px;" width="600"><tr>
+<td style="height:10px;border-bottom: 1px #e2e2e2 solid; width:100%" width="100%"></td>
+                                          </tr></table>
+</td>
+                                 </tr></table>
+</td>
+                        </tr></table>
+</div>
+               </td>
+            </tr></table>
+</td>
+   </tr></table>
+<!-- ````````````````````````````````````````````|  End |`````````````````````````````````````````-->
+</div>
+<div>
+<!--Else, not in US show nothing-->
+
+
+
+</div>
+<div>
+<!--Else, not in UK show nothing-->
+
+
+
+</div>
+<div>
+<!-- `````````````````````````````````````````|  Sub Feature  |````````````````````````````````````-->
+<!-- `````````````````````````````````````````````````````````````````````````````````````````````-->
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="margin: 0; padding: 0;background: #e2e2e2;  border-collapse: collapse" bgcolor="#cecece" width="100%"><tr>
+<td align="center" valign="top">	
+         <table align="center" width="800" border="0" cellspacing="0" cellpadding="0" class="p100" bgcolor="#ffffff" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;"><tr>
+<td align="center" valign="top">
+                  <table border="0" cellpadding="0" cellspacing="0" class="p100" width="600" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;"><tr>
+<td align="left" valign="top">
+                           <!--[if gte mso 9]>
+                           <table align="left" border="0" cellpadding="0" cellspacing="0" width="600">
+                              <tr>
+                                 <td align="left" valign="top" width="280" class="p100">
+                                    <![endif]-->
+                                    <table align="left" border="0" cellpadding="0" cellspacing="0" width="280" class="p100" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;"><tr>
+<td valign="top" align="center">
+                                             <table align="center" border="0" cellspacing="0" cellpadding="0" class="p90" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;"><tr>
+<td valign="top" align="center">
+                                                      <table border="0" cellspacing="0" cellpadding="0" class="p100" align="center" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;">
+<tr>
+<td height="25" style="font-size: 10px; height: 25px;"> </td>
+                                                         </tr>
+<!-- |||||| Image 1 from 2 column section 5 |||||| --><tr>
+<td align="center" alt="What Is Black Wall Street?">
+                                                               <!--   Link to page after click linkhere# -->
+															   
+                                                               <a data-crdl-variant="" style="display: block; border-style: none !important; border: 0 !important;" href="https://e.email.forbes.com/c2/869:60b7a7552dd8a629cc57cd08:ot:60b52a58fe2c195e910e0eef:1/05ba61ae?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE2MjI4MDY5NTMsImNkIjoiLmVtYWlsLmZvcmJlcy5jb20iLCJjZSI6ODY0MDAsInRrIjoiZm9yYmVzLWxpdmUiLCJtdGxJRCI6IjYwYmEwZTBlMmRkOGE2NWQ3NjNjZjhmMiIsImxpbmtVcmwiOiJodHRwczpcL1wvd3d3LnlvdXR1YmUuY29tXC93YXRjaD92PTVWckdBQnBQYTB3JnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1kYWlseWRvemVuJmNkbGNpZD02MGI1MmE1OGZlMmMxOTVlOTEwZTBlZWYifQ&jwtS=1OFCVwGD-naG_gGHdWCVWIj1dzNLJgQbe-l7bxtNIIU">
+                                                                  <!--   Image link here -->
+                                                                  <img src="https://img.youtube.com/vi/5VrGABpPa0w/maxresdefault.jpg" border="0" width="280" class="p100" style="display: block;" alt="What Is Black Wall Street?"></a>
+                                                            </td>
+                                                         </tr>
+<tr>
+<td height="50" class="hide" style="font-size: 10px; height:50px"> </td>
+                                                         </tr>
+<!-- |||||| End image 1 from 2 column section 5 |||||| -->
+</table>
+</td>
+                                                </tr></table>
+</td>
+                                       </tr></table>
+<!--[if gte mso 9]>
+                                 </td>
+                                 <td align="left" valign="top" width="30">
+                                    <![endif]--><table align="left" border="0" cellpadding="0" cellspacing="0" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;"><tr>
+<td valign="top" align="center">
+                                             <table border="0" cellspacing="0" cellpadding="0" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;"><tr>
+<td valign="top" align="center">
+                                                      <table border="0" cellspacing="0" cellpadding="0" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;"><tr>
+<td height="2" width="40" style="font-size: 2px; line-height: 2px; width: 40px;"> </td>
+                                                         </tr></table>
+</td>
+                                                </tr></table>
+</td>
+                                       </tr></table>
+<!--[if gte mso 9]>
+                                 </td>
+                                 <td align="left" valign="top" width="284" class="p100">
+                                    <![endif]--><table align="left" border="0" cellpadding="0" cellspacing="0" width="280" class="p100" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;"><tr>
+<td valign="top" align="center">
+                                             <table border="0" align="center" cellspacing="0" cellpadding="0" class="p90" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;"><tr>
+<td valign="top" align="center">
+                                                      <table border="0" cellspacing="0" cellpadding="0" class="p100" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;">
+<tr>
+<td height="15" style="font-size: 10px; line-height: 25px;"> </td>
+                                                         </tr>
+<tr>
+<td style="font-size: 10px;font-family: Arial, Helvetica, sans-serif;"><p style="font-family: Arial, Helvetica, sans-serif;">For(bes) The Culture</p></td>
+                                                         </tr>
+<tr>
+<td align="left" style="color: #333333; font-family:Georgia, serif;font-size: 18px;">
+                                                               <!-- ||||||  Text 1 in 2 column section 5 |||||| -->
+																<multiline><a data-crdl-variant="" target="_blank" style="text-decoration:none; color:#000;font-family:Georgia, serif;" href="https://e.email.forbes.com/c2/869:60b7a7552dd8a629cc57cd08:ot:60b52a58fe2c195e910e0eef:1/05ba61ae?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE2MjI4MDY5NTMsImNkIjoiLmVtYWlsLmZvcmJlcy5jb20iLCJjZSI6ODY0MDAsInRrIjoiZm9yYmVzLWxpdmUiLCJtdGxJRCI6IjYwYmEwZTBlMmRkOGE2NWQ3NjNjZjhmMiIsImxpbmtVcmwiOiJodHRwczpcL1wvd3d3LnlvdXR1YmUuY29tXC93YXRjaD92PTVWckdBQnBQYTB3JnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1kYWlseWRvemVuJmNkbGNpZD02MGI1MmE1OGZlMmMxOTVlOTEwZTBlZWYifQ&jwtS=1OFCVwGD-naG_gGHdWCVWIj1dzNLJgQbe-l7bxtNIIU"><strong>What Is Black Wall Street?</strong></a></multiline>
+</td>
+                                                         </tr>
+<tr>
+<td height="5px" style="height:5px;"> </td>
+                                                         </tr>
+<tr>
+<td style="font-size: 14px;font-family:Georgia, serif;line-height:20px"><p style="font-family:Georgia, serif;"><span>100 years later, we explore the businesses destroyed during the Tulsa race riot and how, inspired by the original Black Wall Street, new leaders are stepping up to define its present-day significance.</span></p></td>
+                                                         </tr>
+<!-- |||||| Button |||||| --><tr>
+<td style="height:15px"></td>
+                                                                  </tr>
+<tr>
+<td align="left" height="23">
+                                                              <table width="100%" border="0" cellspacing="0" cellpadding="0"><tr>
+<td>
+                                                                    <table border="0" cellspacing="0" cellpadding="0"><tr>
+<td align="center" bgcolor="#AB243A">
+                                                                        <a data-crdl-variant="" target="_blank" href="https://e.email.forbes.com/c2/869:60b7a7552dd8a629cc57cd08:ot:60b52a58fe2c195e910e0eef:1/ccfe2a9d?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE2MjI4MDY5NTMsImNkIjoiLmVtYWlsLmZvcmJlcy5jb20iLCJjZSI6ODY0MDAsInRrIjoiZm9yYmVzLWxpdmUiLCJtdGxJRCI6IjYwYmEwZTBlMmRkOGE2NWQ3NjNjZjhmMyIsImxpbmtVcmwiOiJodHRwczpcL1wvd3d3LnlvdXR1YmUuY29tXC93YXRjaD92PTVWckdBQnBQYTB3JnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1kYWlseWRvemVuJmNkbGNpZD02MGI1MmE1OGZlMmMxOTVlOTEwZTBlZWYifQ&jwtS=ItSiWbZKptWrKLnOW84-zP8qSXPxw0evZeN154Os-98"><img src="https://images.cordial.com/869/100x100/play-icon.png" style="width:20px;padding-left:10px;padding-top:5px" width="20"></a>
+                                                                        </td>
+                                                                        <td align="center" style="font-family: Arial, Helvetica, sans-serif;" bgcolor="#AB243A"><a data-crdl-variant="" target="_blank" style="font-size: 14px; font-family: Arial, Helvetica, sans-serif; color: #ffffff; text-decoration: none; text-decoration: none;padding: 12px 18px; display: inline-block;" href="https://e.email.forbes.com/c2/869:60b7a7552dd8a629cc57cd08:ot:60b52a58fe2c195e910e0eef:1/05ba61ae?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE2MjI4MDY5NTMsImNkIjoiLmVtYWlsLmZvcmJlcy5jb20iLCJjZSI6ODY0MDAsInRrIjoiZm9yYmVzLWxpdmUiLCJtdGxJRCI6IjYwYmEwZTBlMmRkOGE2NWQ3NjNjZjhmMiIsImxpbmtVcmwiOiJodHRwczpcL1wvd3d3LnlvdXR1YmUuY29tXC93YXRjaD92PTVWckdBQnBQYTB3JnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1kYWlseWRvemVuJmNkbGNpZD02MGI1MmE1OGZlMmMxOTVlOTEwZTBlZWYifQ&jwtS=1OFCVwGD-naG_gGHdWCVWIj1dzNLJgQbe-l7bxtNIIU">Watch</a></td>
+                                                                      </tr></table>
+</td>
+                                                                </tr></table>
+</td>
+                                                         </tr>
+<!-- |||||| End button |||||| --><tr>
+<td height="50" style="font-size: 10px; line-height: 50px;"> </td>
+                                                         </tr>
+</table>
+</td>
+                                                </tr></table>
+</td>
+                                       </tr></table>
+<!--[if gte mso 9]>
+                                 </td>
+                              </tr>
+                           </table>
+                           <![endif]-->
+</td>
+                     </tr></table>
+</td>
+            </tr></table>
+</td>
+   </tr></table>
+<!-- ````````````````````````````````````````````|  End |`````````````````````````````````````````-->
+</div>
+<div>
+<!-- `````````````````````````````````````````|  Title |`````````````````````````````````````-->
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="margin: 0; padding: 0; background: #e2e2e2; border-collapse: collapse;" bgcolor="#e2e2e2" width="100%"><tr>
+<td align="center" valign="top">
+         <table width="800" bgcolor="#ffffff" border="0" cellspacing="0" cellpadding="0" class="p100" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;"><tr>
+<td align="center" valign="top">
+                  <div>
+                     <table width="600" border="0" cellspacing="0" cellpadding="0" class="p80" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;"><tr>
+<td valign="top">
+                              <table border="0" cellspacing="0" cellpadding="0" width="600" class="p100" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;"><tr>
+<td align="center">
+                                       <table border="0" align="left" cellpadding="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;border: 0px;" width="600"><tr>
+<td style="height:10px;border-bottom: 1px #e2e2e2 solid; width:100%" width="100%"></td>
+                                          </tr></table>
+</td>
+                                 </tr></table>
+</td>
+                        </tr></table>
+</div>
+               </td>
+            </tr></table>
+</td>
+   </tr></table>
+<!-- ````````````````````````````````````````````|  End |`````````````````````````````````````````-->
+</div>
+<div>
+<!-- `````````````````````````````````````````````````````````````````````````````````````````````-->
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="margin: 0; padding: 0; background: #e2e2e2;" bgcolor="#e2e2e2" width="100%"><tr>
+<td align="center" valign="top">
+         <table width="800" bgcolor="#ffffff" border="0" cellspacing="0" cellpadding="0" class="p100" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;" align="center"><tr>
+<td align="center" valign="top">
+                  <div>
+                     <table width="600" border="0" cellspacing="0" cellpadding="0" class="p80" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;" align="center"><tr>
+<td valign="top">
+                              <table border="0" cellspacing="0" cellpadding="0" width="600" class="p100" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;" align="center">
+<tr style="height:35" height="35">
+<td style="height:35px" height="35"></td>
+                                 </tr>
+<tr>
+<td align="center">
+										<table align="center" border="0" cellpadding="0" cellspacing="0" class="p100" width="600" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;"><tr>
+<td valign="top" align="center">
+												 <table border="0" cellspacing="0" cellpadding="0" class="p100" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;" align="center"><tr>
+<td valign="top" align="center">
+														  <table border="0" cellspacing="0" cellpadding="0" class="p90" align="center" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;">
+<!-- |||||| Button |||||| --><tr>
+<td align="center" style="height:23" height="23">
+																   
+																   <div>
+                                                                  
+                           <table border="0" cellspacing="0" cellpadding="0" align="center"><tr>
+<td align="center" style="font-family: Arial, Helvetica, sans-serif;text-align:center;" bgcolor="#AB243A">
+                              <a data-crdl-variant="" target="_blank" style="font-size: 14px; font-family: Arial, Helvetica, sans-serif; color: #ffffff; text-decoration: none;  padding: 12px 18px; border: 1px solid #AB243A; display: inline-block;" href="https://e.email.forbes.com/c2/869:60b7a7552dd8a629cc57cd08:ot:60b52a58fe2c195e910e0eef:1/7f0f0e69?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE2MjI4MDY5NTMsImNkIjoiLmVtYWlsLmZvcmJlcy5jb20iLCJjZSI6ODY0MDAsInRrIjoiZm9yYmVzLWxpdmUiLCJtdGxJRCI6IjYwYmEwZTBlMmRkOGE2NWQ3NjNjZjhmNCIsImxpbmtVcmwiOiJodHRwczpcL1wvYWNjb3VudC5mb3JiZXMuY29tXC9wcm9maWxlP3V0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1kYWlseWRvemVuJmNkbGNpZD02MGI1MmE1OGZlMmMxOTVlOTEwZTBlZWYifQ&jwtS=WxzUnqsefZBwms9c-7XnNMsZLmNZmJcbESTDWzN23xE">See All Forbes Newsletters →</a>
+                              		</td>
+                            	</tr></table>
+</div>
+																   
+																</td>
+															 </tr>
+<!-- |||||| End button |||||| -->
+</table>
+</td>
+													</tr></table>
+</td>
+										   </tr></table>
+</td>
+                                 </tr>
+<tr>
+<td style="height:20" height="20px"></td>
+                                 </tr>
+</table>
+</td>
+                        </tr></table>
+</div>
+               </td>
+            </tr></table>
+</td>
+   </tr></table>
+<!--END MORE-->
+</div>
+<div>
+<!-- `````````````````````````````````````````````````````````````````````````````````````````````-->
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="margin: 0; padding: 0; background: #e2e2e2;" bgcolor="#e2e2e2" width="100%"><tr>
+<td align="center" valign="top">
+         <table width="800" bgcolor="#ffffff" border="0" cellspacing="0" cellpadding="0" class="p100" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;"><tr>
+<td align="center" valign="top">
+                  <div>
+                     <table width="600" border="0" cellspacing="0" cellpadding="0" class="p80" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;"><tr>
+<td valign="top">
+                              <table border="0" cellspacing="0" cellpadding="0" width="600" class="p100" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;">
+<tr class="hide">
+<td style="height:20px"> </td>
+                                 </tr>
+<tr>
+<td height="20"></td>
+                                 </tr>
+</table>
+</td>
+                        </tr></table>
+</div>
+               </td>
+            </tr></table>
+</td>
+   </tr></table>
+<!--END MORE--><!-- `````````````````````````````````````````|  Footer  |`````````````````````````````````````--><table align="center" border="0" cellpadding="0" cellspacing="0" style="margin: 0; padding: 0; background: #e2e2e2;" bgcolor="#e2e2e2" width="100%"><tr>
+<td align="center" valign="top">
+         <table width="800" bgcolor="#e6e6e6" border="0" cellspacing="0" cellpadding="0" class="p100" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;"><tr>
+<td align="center" valign="top">
+                  <div>
+                     <table width="600" border="0" cellspacing="0" cellpadding="0" class="p100" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;"><tr>
+<td valign="top">
+                              <table border="0" align="center" cellspacing="0" cellpadding="0" width="600" class="p80" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;">
+<tr>
+<td valign="top">
+                                       <table border="0" cellspacing="0" cellpadding="0" width="600" class="p100" style="mso-table-rspace: 0pt; mso-table-lspace: 0pt; border-collapse: collapse;">
+<tr>
+<td height="50"></td>
+                                          </tr>
+<tr>
+<td align="center">
+                                                <table border="0" align="center" cellpadding="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;border: 0px;">
+<tr>
+<td align="center" style="color: #ffffff; font-size: 20px;">
+                                                        <a data-crdl-variant="" style="display: block; border-style: none !important; border: 0 !important;" href="http://e.email.forbes.com/c2/869:60b7a7552dd8a629cc57cd08:ot:60b52a58fe2c195e910e0eef:1/c2cd6fec?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE2MjI4MDY5NTMsImNkIjoiLmVtYWlsLmZvcmJlcy5jb20iLCJjZSI6ODY0MDAsInRrIjoiZm9yYmVzLWxpdmUiLCJtdGxJRCI6IjYwYmEwZTBlMmRkOGE2NWQ3NjNjZjhmNSIsImxpbmtVcmwiOiJodHRwOlwvXC93d3cuZm9yYmVzLmNvbVwvP3V0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1kYWlseS1kb3plbiZjZGxjaWQ9NjBiNTJhNThmZTJjMTk1ZTkxMGUwZWVmJnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1kYWlseWRvemVuJmNkbGNpZD02MGI1MmE1OGZlMmMxOTVlOTEwZTBlZWYifQ&jwtS=Nv2PxbRsXK33dj-XYbJ7PsTeG-xm5rbd_NrKeC0wIFk">
+                                                      <img src="https://images.cordial.com/869/140x36/forbes-logo-black.png" alt="Forbes" border="0" style="display:block" width="150"></a>
+													  
+                                                      </td>
+                                                   </tr>
+<tr><td align="center" style="color: #333333; font-size: 20px;font-family: Arial, Helvetica, sans-serif;">	
+													  <br><!--https://d.email.forbes.com/optout/index.php?mcID=869:60b7a7552dd8a629cc57cd08:ot:60b52a58fe2c195e910e0eef:1--><p style="text-align: center; color: #333333; font-family: Arial, Helvetica, sans-serif; font-size: 14px;line-height: 21px;">You’ve received this email because you’ve opted in to receive Forbes newsletters. </p>
+<p style="text-align: center; color: #333333; font-family: Arial, Helvetica, sans-serif; font-size: 14px;line-height: 21px;">
+<a data-crdl-variant="" style="color:#333333" href="http://e.email.forbes.com/c2/869:60b7a7552dd8a629cc57cd08:ot:60b52a58fe2c195e910e0eef:1/f23a1aa8?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE2MjI4MDY5NTMsImNkIjoiLmVtYWlsLmZvcmJlcy5jb20iLCJjZSI6ODY0MDAsInRrIjoiZm9yYmVzLWxpdmUiLCJtdGxJRCI6IjYwYmEwZTBlMmRkOGE2NWQ3NjNjZjhmNiIsImxpbmtVcmwiOiJodHRwOlwvXC9hY2NvdW50LmZvcmJlcy5jb21cL3Vuc3Vic2NyaWJlLWNvbmZpcm1hdGlvbj9uZXdzbGV0dGVyPURhaWx5RG96ZW4mdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPWRhaWx5ZG96ZW4mY2RsY2lkPTYwYjUyYTU4ZmUyYzE5NWU5MTBlMGVlZiJ9&jwtS=a-gjAXVsxnZBQWaQpPAll_nObP6v8643wadTPrjWcpc">Unsubscribe</a> from Daily Dozen.</p>
+<p style="text-align: center; color: #333333; font-family: Arial, Helvetica, sans-serif; font-size: 14px;line-height: 21px;"><a data-crdl-variant="" style="color: #333333;" target="_blank" href="https://e.email.forbes.com/c2/869:60b7a7552dd8a629cc57cd08:ot:60b52a58fe2c195e910e0eef:1/fb2d4444?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE2MjI4MDY5NTMsImNkIjoiLmVtYWlsLmZvcmJlcy5jb20iLCJjZSI6ODY0MDAsInRrIjoiZm9yYmVzLWxpdmUiLCJtdGxJRCI6IjYwYmEwZTBlMmRkOGE2NWQ3NjNjZjhmNyIsImxpbmtVcmwiOiJodHRwczpcL1wvYWNjb3VudC5mb3JiZXMuY29tXC9wcm9maWxlP3V0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1kYWlseWRvemVuJmNkbGNpZD02MGI1MmE1OGZlMmMxOTVlOTEwZTBlZWYifQ&jwtS=UJJdCJe_vhpxjg22nwKHZR0MD-L6c_gyRT3Ur8QVXzY">Manage Email Preferences</a> | <a data-crdl-variant="" style="color: #333333;" href="http://e.email.forbes.com/c2/869:60b7a7552dd8a629cc57cd08:ot:60b52a58fe2c195e910e0eef:1/8506802b?jwtH=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9&jwtP=eyJpYXQiOjE2MjI4MDY5NTMsImNkIjoiLmVtYWlsLmZvcmJlcy5jb20iLCJjZSI6ODY0MDAsInRrIjoiZm9yYmVzLWxpdmUiLCJtdGxJRCI6IjYwYmEwZTBlMmRkOGE2NWQ3NjNjZjhmOCIsImxpbmtVcmwiOiJodHRwOlwvXC93d3cuZm9yYmVzLmNvbVwvZmRjXC9wcml2YWN5Lmh0bWw_dXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPWRhaWx5ZG96ZW4mY2RsY2lkPTYwYjUyYTU4ZmUyYzE5NWU5MTBlMGVlZiJ9&jwtS=sxElMMCixg4GMJnb0tTvAcXGCeNB5SITVmmjwAIVT4Q">Privacy</a></p>
+<p style="text-align: center; color: #333333; font-family: 'Helvetica', Arial, sans-serif; font-size: 14px;line-height: 10px;">Forbes Media 499 Washington Blvd.</p>
+<p style="text-align: center; color: #333333; font-family: 'Helvetica', Arial, sans-serif; font-size: 14px;line-height: 10px;">Jersey City, NJ 07130</p>
+
+</td></tr>
+</table>
+</td>
+                                          </tr>
+<tr>
+<td height="30"></td>
+                                          </tr>
+</table>
+</td>
+                                 </tr>
+<tr>
+<td height="30"></td>
+                                 </tr>
+<tr>
+<td>
+                                     <!--LiveIntent SafeRTB-->
+                                     <table cellpadding="0" cellspacing="0" border="0" width="40" height="6"><tbody><tr>
+<td><img src="http://li.forbes.com/imp?s=125813100&amp;li=&amp;m=&amp;p=" width="2" height="6" border="0"></td>
+<td><img src="http://li.forbes.com/imp?s=125813101&amp;li=&amp;m=&amp;p=" width="2" height="6" border="0"></td>
+<td><img src="http://li.forbes.com/imp?s=125813102&amp;li=&amp;m=&amp;p=" width="2" height="6" border="0"></td>
+<td><img src="http://li.forbes.com/imp?s=125813103&amp;li=&amp;m=&amp;p=" width="2" height="6" border="0"></td>
+<td><img src="http://li.forbes.com/imp?s=125813104&amp;li=&amp;m=&amp;p=" width="2" height="6" border="0"></td>
+<td><img src="http://li.forbes.com/imp?s=125813105&amp;li=&amp;m=&amp;p=" width="2" height="6" border="0"></td>
+<td><img src="http://li.forbes.com/imp?s=125813106&amp;li=&amp;m=&amp;p=" width="2" height="6" border="0"></td>
+<td><img src="http://li.forbes.com/imp?s=125813107&amp;li=&amp;m=&amp;p=" width="2" height="6" border="0"></td>
+<td><img src="http://li.forbes.com/imp?s=125813108&amp;li=&amp;m=&amp;p=" width="2" height="6" border="0"></td>
+<td><img src="http://li.forbes.com/imp?s=125813109&amp;li=&amp;m=&amp;p=" width="2" height="6" border="0"></td>
+<td><img src="http://li.forbes.com/imp?s=125813110&amp;li=&amp;m=&amp;p=" width="2" height="6" border="0"></td>
+<td><img src="http://li.forbes.com/imp?s=125813111&amp;li=&amp;m=&amp;p=" width="2" height="6" border="0"></td>
+<td><img src="http://li.forbes.com/imp?s=125813112&amp;li=&amp;m=&amp;p=" width="2" height="6" border="0"></td>
+<td><img src="http://li.forbes.com/imp?s=125813113&amp;li=&amp;m=&amp;p=" width="2" height="6" border="0"></td>
+<td><img src="http://li.forbes.com/imp?s=125813114&amp;li=&amp;m=&amp;p=" width="2" height="6" border="0"></td>
+<td><img src="http://li.forbes.com/imp?s=125813115&amp;li=&amp;m=&amp;p=" width="2" height="6" border="0"></td>
+<td><img src="http://li.forbes.com/imp?s=125813116&amp;li=&amp;m=&amp;p=" width="2" height="6" border="0"></td>
+<td><img src="http://li.forbes.com/imp?s=125813117&amp;li=&amp;m=&amp;p=" width="2" height="6" border="0"></td>
+<td><img src="http://li.forbes.com/imp?s=125813118&amp;li=&amp;m=&amp;p=" width="2" height="6" border="0"></td>
+<td><img src="http://li.forbes.com/imp?s=125813119&amp;li=&amp;m=&amp;p=" width="2" height="6" border="0"></td>
+</tr></tbody></table>
+</td>
+                                 </tr>
+</table>
+</td>
+                        </tr></table>
+</div>
+               </td>
+            </tr></table>
+</td>
+   </tr></table>
+<!-- ````````````````````````````````````````````|  End |`````````````````````````````````````````-->
+</div>
+<img src="https://e.email.forbes.com/o/p/869:60b7a7552dd8a629cc57cd08:ot:60b52a58fe2c195e910e0eef:1/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2MjI4MDY5NTN9.P5b5hWPoRvWMaCmMRK1vqKBCVW1ejW5YPnXZvHcGMAE" height=1 width=1 />
+<img border="0" width="1" height="1" alt="" src="http://trcksp.cordial.io/q/lFNcgwlnkLRaXi6Klw8WYw~~/AAAAAQA~/RgRinJapPlcHY29yZGlhbEIKYLmpEbpgDKsbZVIXdG9ieXNtaXRoODg2OEBnbWFpbC5jb21YBAAAAYw~">
+</body>
+</html>
+

@@ -1,0 +1,355 @@
+<html><body><!-- Everything above this line is "new" to the template. We'll have to experiment a bit to see if it causes troubles. -->
+<!-- preview text -->
+<div style="display:none;font-size:1px;color:#ffffff;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;">
+  Lisa Kashinsky's must-read rundown of what's up on Beacon Hill and beyond.
+</div>
+<table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#ffffff" style="padding:5px 0 15px 0;margin:0;text-align:center" role="presentation"> 
+ <tbody> 
+  <tr> 
+   <td>
+    <!-- Note: This is left blank to aid in centering across email clients --></td> 
+   <td align="center" width="540"> 
+    <table width="100%" border="0" cellpadding="0" cellspacing="0" style="max-width:540px" role="presentation"> 
+     <tbody> 
+      <!-- top date and utility link --> 
+      <tr> 
+       <td align="center"> 
+        <table width="100%" border="0" cellpadding="0" cellspacing="0" style="padding-bottom:15px;" role="presentation"> 
+         <tbody> 
+          <tr> 
+           <td width="50%" style="text-align:left;font-size:11px;font-family:Helvetica,sans-serif;color:#B1B4BD;margin:0;">Jun 04, 2021</td> 
+           <td width="50%" style="text-align:right;font-size:11px;font-family:Helvetica,sans-serif;color:#B1B4BD;margin:0;"><a href="https://go.politicoemail.com/?qs=55926f57d09dbbf23326c7226a0270703a0b1a4c24111322539a87d407f8647bd31cee233009a594a80eb150997181f48148dd1a3fedafac" target="_blank" style="color:#007BC7;text-decoration:none;">View in browser</a></td> 
+          </tr> 
+         </tbody> 
+        </table> </td>
+      </tr> 
+      <!-- divider line --> 
+      <tr> 
+       <td height="20" style="height:20px; font-size:0; border-top:1px solid #E5E7EB;">&nbsp;</td>
+      </tr> 
+      <!-- logo and byline --> 
+      <tr> 
+       <td align="center" style="text-align:center;padding:0 20px 15px 20px;margin:0"> <img src="https://static.politico.com/76/66/cd56c62949fcacd1205981fa42d5/politico-ma-playbook.jpg" title="Massachusetts Playbook logo" alt="Massachusetts Playbook logo" border="0" width="500" style="width:100%;max-width:500px;" /> </td>
+      </tr>
+      <tr> 
+       <td align="center" style="padding:0 20px 10px 20px;"> <p style="text-align:center;font-family:Helvetica,sans-serif;font-size:11px;letter-spacing:2px;color:#B1B4BD;text-transform:uppercase;margin:0;"> By <a href="mailto:lkashinsky@politico.com" target="_blank" style="color:#000000;text-decoration:none;font-weight:bold;">Lisa Kashinsky</a> </p> </td>
+      </tr> 
+      <!-- sponsor logo --> 
+      <!-- body --> 
+      <tr> 
+       <td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;"><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">SCOTT BROWN’S NEW(ISH) GIG &mdash; </strong>Scott Brown’s held a lot of titles over his 61 years &mdash; selectman, state legislator, “<a href="https://go.politicoemail.com/?qs=55926f57d09dbbf21054aa44da9917fed006705bd4c26516e129b3e33495c665eadb6ab857c2a2e735e0def385d1b900e8e2f56e79d0f9f8" target="_blank"><u>America’s Sexiest Man</u></a>,” senator, ambassador, law school dean. Now add rock ‘n roll front man to the list.</p><p style="margin-top:0;margin-bottom:24px;line-height:24px;">
+<strong style="font-family:Helvetica,sans-serif;font-weight:bold;">After the former ambassador’s rock ‘n roll diplomacy</strong> struck a chord in New Zealand, Brown wants to keep the good times rolling stateside with <u><a href="https://go.politicoemail.com/?qs=55926f57d09dbbf27a292eee4f9fbf7a2413a8fde76227b2e454ce58183123b650e7c332dbe3ddc44425839f29052de5617351428c63f307" target="_blank">Scott Brown and the Diplomats</a></u> &mdash; an offshoot of his band from down under that last played in front of 15,000 people.</p><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">“Rock ‘n roll diplomacy was exceedingly successful in New Zealand,”
+</strong> said Brown, who threw genre-themed Independence Day bashes at his ambassador’s residence and saw Kiwi, Indonesian and Filipino pols rock out.</p><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">You probably know the story by now:</strong> Brown meets Cheap Trick lead guitarist Rick Nielsen while working on music pirating issues in the Senate. Brown loses his Senate seat and starts noodling on the guitar. Brown <a href="https://go.politicoemail.com/?qs=55926f57d09dbbf253cf49ee89db9a6cc935e92fb07a5da9bca20194f6ecef2b2d0dd096d5be115f5830566e475615438fceda9c48be53ee" target="_blank"><u>jams on stage with Cheap Trick</u></a>, his daughter Ayla, Warrant, and so forth, living the rock-star dream.</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">When Brown</strong> <strong style="font-family:Helvetica,sans-serif;font-weight:bold;">went abroad</strong> he filled his New Zealand residence<strong style="font-family:Helvetica,sans-serif;font-weight:bold;"> </strong>with albums and guitars and even a <a href="https://go.politicoemail.com/?qs=55926f57d09dbbf2e09301ad961f071133a20959bcb95e901c08aec127b1d77d2e5439d71ff9df4fb349c972ccb9f2faf477c53c408223ae" target="_blank"><u>KISS drum kit</u></a> loaned to him by Eric Singer himself &mdash; playing into his belief that music is one of the few things that “everyone can talk about respectfully.”</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">“It’s a great neutralizer. </strong>It makes people feel at ease,”<strong style="font-family:Helvetica,sans-serif;font-weight:bold;"> </strong>Brown told me. Throw in politics, “and it gets a little nutty.”</p><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">Brown isn’t looking to leave his day job </strong>as dean of New England Law Boston. Politics <a href="https://go.politicoemail.com/?qs=55926f57d09dbbf247243a4e87ff8528ed59480f6494b28d23ee1faa45db5ea6ad26d8253d708dc411281756bc3041ab47d6a94ddd367169" target="_blank"><u>“kind of disgusts”</u>
+</a> him now. But the former senator will be back in the spotlight on June 28, when his band plays a gig at the Hampton Beach Sea Shell Stage before heading to Massachusetts.</p><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">GOOD MORNING, MASSACHUSETTS</strong>. The state hit a major milestone in the fight against Covid-19 on Thursday. For the first time since Gov. Charlie Baker rolled out weekly color-coded Covid risk maps last August, there were zero cities or towns in the highest-risk red zone. The Baker administration also announced the dates the 
+<a href="https://go.politicoemail.com/?qs=55926f57d09dbbf2e5a673f28150b8853610cd7966572c2177a5b655ea0a8daae36a2d7073a2ae6a8e2270de1c0e2767fa99b3513d20d9b0" target="_blank"><u>state’s seven mass vaccination sites will close</u></a>. Gillette Stadium, the first to open, will be the first to shut down on June 14. The last, at the former Circuit City in Dartmouth, will close on July 13.</p><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><i>Have a tip, story, suggestion, birthday, anniversary, new job, or any other nugget for the Playbook? Get in touch: lkashinsky@politico.com.</i></p><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">TODAY &mdash; Sen. Edward Markey </strong>and
+<strong style="font-family:Helvetica,sans-serif;font-weight:bold;"> Rep. Bill Keating </strong>host<strong style="font-family:Helvetica,sans-serif;font-weight:bold;"> Commerce Secretary Gina Raimondo </strong>for a tour of the Woods Hole Oceanographic Institute at 10:30 a.m. and NOAA’s Northeast Fisheries Science Center at 11:30 a.m.<strong style="font-family:Helvetica,sans-serif;font-weight:bold;"> Rep. Ayanna Pressley </strong>visits the Dimock Center to discuss proposed substance use treatment and programming at noon.<strong style="font-family:Helvetica,sans-serif;font-weight:bold;"> Rep Jim McGovern 
+</strong>visits downtown Amherst to discuss pandemic recovery at 10 a.m. and Turners Falls Canal District at 1 p.m.<strong style="font-family:Helvetica,sans-serif;font-weight:bold;"> State Rep. Liz Miranda </strong>delivers the commencement address at her alma mater, Wellesley College, at 10:30 a.m. <strong style="font-family:Helvetica,sans-serif;font-weight:bold;">State Sen. Eric Lesser </strong>hosts <strong style="font-family:Helvetica,sans-serif;font-weight:bold;">Sasha Issenberg, </strong>journalist and author of “The Engagement: America’s Quarter-Century Struggle Over Same-Sex Marriage” for his weekly Lunchtime Livestream at noon.</p></td> 
+      </tr> 
+      <tr> 
+      </tr>
+      <tr> 
+       <td height="10" style="height:10px; font-size:0; border-top:1px solid #E5E7EB;">&nbsp;</td>
+      </tr>
+      <tr> 
+       <td style="padding:20px 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;background-color:#FFFFFF;"> <p style="margin-top:0;margin-bottom:20px;line-height:24px;margin-bottom:20px;color:#000000;"> <strong style="font-family:Helvetica,sans-serif;font-weight:bold;">SUBSCRIBE TO WEST WING PLAYBOOK: </strong>Add West Wing Playbook to keep up with the power players, latest policy developments and intriguing whispers percolating inside the West Wing and across the highest levels of the Cabinet. For buzzy nuggets and details you won't find anywhere else, 
+<a href="https://go.politicoemail.com/?qs=55926f57d09dbbf262fcaf9fc2a5514db2dd5b969a161c782dc7810059ef2899c16bab182adee964e21919f1341b5f2c070242cdc516012f" target="_blank" style="text-decoration:underline;color:#007BC7;">subscribe today</a>. </p> </td>
+      </tr>
+      <tr> 
+       <td height="10" style="height:10px; font-size:0; border-bottom:1px solid #E5E7EB;">&nbsp;</td>
+      </tr>
+      <tr> 
+       <td height="15" style="height:15px; font-size:0;">&nbsp;</td>
+      </tr>  
+      <tr> 
+       <td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;"></td> 
+      </tr> 
+      <tr> 
+       <td style="padding-bottom:10px; min-width:100%; width:100%;"> 
+        <table width="100%" cellpadding="0" cellspacing="0" border="0" role="presentation" style="background-color:#121522; min-width:100%;"> 
+         <tbody> 
+          <tr> 
+           <td width="32" valign="middle" style="vertical-align:top;font-size:0;text-align:right;padding-top:10px;"><img src="https://s3.amazonaws.com/origin-static.politico.com/hosted/icon-red-circle%402x.png" title="" alt="" width="12" style="max-width:12px;margin-top:1px;" /></td> 
+           <td style="text-align:left;font-family:Helvetica,sans-serif;font-size:12px;color:#FFFFFF;text-transform:uppercase;font-weight:bold;letter-spacing:2px;padding-top:10px;padding-bottom:10px;padding-left:10px;margin:0;" valign="middle">THE LATEST NUMBERS</td> 
+          </tr> 
+         </tbody> 
+        </table></td> 
+      </tr> 
+      <tr> 
+       <td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;"><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">– “Massachusetts no longer has any towns at high risk for COVID-19 spread: See how we got here,” by <a href="https://go.politicoemail.com/?qs=55926f57d09dbbf2582a6b60e30606896aa5abdbbc103edc6cf4b19fb0420b002a6524f8339117db618c59cad4ecde5fcb1641387ad5b3db" target="_blank">Peter Bailey-Wells and Amanda Kaufman, Boston Globe</a>.</strong></p><p style="margin-top:0;margin-bottom:24px;line-height:24px;">
+<strong style="font-family:Helvetica,sans-serif;font-weight:bold;">– “Massachusetts reports zero high-risk ‘red zone’ communities, more than 3.7 million people fully vaccinated,” by Rick Sobey and Erin Tiernan, Boston Herald:</strong> “Zero Massachusetts communities are now at high risk for coronavirus as COVID-19 cases plummet during the vaccine rollout. More than 3.7 million people in the Bay State are now fully vaccinated, <a href="https://go.politicoemail.com/?qs=55926f57d09dbbf275904b487f242fae5743cee5e09ac8614bea46f8c739ee66daea7ea8165d1f836a6dcb856324c361dad4ee9317885cdb" target="_blank"><u>state officials also reported on Thursday</u></a>.”</p><p style="margin-top:0;margin-bottom:24px;line-height:24px;">
+<strong style="font-family:Helvetica,sans-serif;font-weight:bold;">– “New COVID cases among Massachusetts school staffers drops to low of 13 as student cases decrease to 117,” by Melissa Hanson, MassLive.com: </strong>“A new low of 13 Massachusetts school staff members have tested positive for COVID-19 from May 27 to June 2, along with 117 students, state education officials said Thursday. This marks the third consecutive week that <a href="https://go.politicoemail.com/?qs=55926f57d09dbbf29df52f93dbadef8e22f2a4b3c7a1f11a404fa270529958e0d8c999355e238e6de422a4bbecdd4427fea7f85b7ecc0b1f" target="_blank"><u>infections among staff members have reached a new low.</u></a>”</p></td> 
+      </tr> 
+      <tr> 
+       <td style="padding-bottom:10px; min-width:100%; width:100%;"> 
+        <table width="100%" cellpadding="0" cellspacing="0" border="0" role="presentation" style="background-color:#121522; min-width:100%;"> 
+         <tbody> 
+          <tr> 
+           <td width="32" valign="middle" style="vertical-align:top;font-size:0;text-align:right;padding-top:10px;"><img src="https://s3.amazonaws.com/origin-static.politico.com/hosted/icon-red-circle%402x.png" title="" alt="" width="12" style="max-width:12px;margin-top:1px;" /></td> 
+           <td style="text-align:left;font-family:Helvetica,sans-serif;font-size:12px;color:#FFFFFF;text-transform:uppercase;font-weight:bold;letter-spacing:2px;padding-top:10px;padding-bottom:10px;padding-left:10px;margin:0;" valign="middle">DATELINE BEACON HILL</td> 
+          </tr> 
+         </tbody> 
+        </table></td> 
+      </tr> 
+      <tr> 
+       <td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;"><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">– “Hinds buys house outside his Senate district, but vows to maintain Pittsfield residency,” by Danny Jin, Berkshire Eagle: </strong>“State Sen. Adam Hinds and his wife have bought a home outside the district Hinds has represented since 2017, although Hinds said Thursday that the couple and their newborn child will continue to spend most of their time in Pittsfield. <a href="https://go.politicoemail.com/?qs=55926f57d09dbbf292abd5cc9f820b6c1a5293db6c4f6ca4f3ea390f9a784be89742105151cd53b46a1094b9580736bf7c8fd9b3586a9207" target="_blank">
+<u>The couple purchased a $690,000 property at 762 North East St. in Amherst...&quot;</u></a></p><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">– “‘Millionaires tax’ proposal poised for 2022 ballot as Mass. lawmakers plan key vote next week,” by Matt Stout, Boston Globe: 
+</strong>“After years of wrangling and setbacks, Massachusetts voters appear poised to finally get the chance to decide whether the state’s highest-earners should pay more in taxes. The Massachusetts Legislature next week will take the final procedural step to put that question on the 2022 ballot, kicking off what could be a long, expensive fight <a href="https://go.politicoemail.com/?qs=55926f57d09dbbf2bd4682c5a231fb67e9d820e76b6b3bd545ed24a2831b8167570631467b9153b6b5e5bbda98246a0a283a37340ea361c2" target="_blank"><u>over the wisdom of raising taxes on wealthy residents.</u></a>”</p><p style="margin-top:0;margin-bottom:24px;line-height:24px;">
+<strong style="font-family:Helvetica,sans-serif;font-weight:bold;">– “‘If this incentive ends, I will have to move’: Film industry workers speak out against proposed changes to tax credit,” by Arianna MacNeill, Boston.com: </strong>“The state Senate wants to change the film tax credit, but those who work in the industry say that altering some of its provisions would destroy local jobs, <a href="https://go.politicoemail.com/?qs=55926f57d09dbbf2310ef99b038de3df563b8ace8805a449eaa1aaad6e43e3e71f607635995752309ea4b5c12d6ee86ed1c5d6627ae8db12" target="_blank"><u>and force them to pack up and move</u></a>.”</p><p style="margin-top:0;margin-bottom:24px;line-height:24px;">
+<strong style="font-family:Helvetica,sans-serif;font-weight:bold;">– “Business poll finds broad support for state’s expedited reopening and for tax relief from federal pandemic funds,” by Marie Szaniszlo, Boston Herald: </strong>“A new statewide poll of Massachusetts business owners found broad support for tax relief from federal coronavirus pandemic funds and for Gov. Charlie Baker’s decision to reopen the state <a href="https://go.politicoemail.com/?qs=55926f57d09dbbf2b4aab6220b00a799276d6b3197668d55e5b1161c608c29bafa70867ac9fa6c7ba67b675818a7837f84f897d6d112ca03" target="_blank"><u>earlier than originally planned.</u></a>”</p></td> 
+      </tr> 
+      <tr> 
+       <td style="padding-bottom:10px; min-width:100%; width:100%;"> 
+        <table width="100%" cellpadding="0" cellspacing="0" border="0" role="presentation" style="background-color:#121522; min-width:100%;"> 
+         <tbody> 
+          <tr> 
+           <td width="32" valign="middle" style="vertical-align:top;font-size:0;text-align:right;padding-top:10px;"><img src="https://s3.amazonaws.com/origin-static.politico.com/hosted/icon-red-circle%402x.png" title="" alt="" width="12" style="max-width:12px;margin-top:1px;" /></td> 
+           <td style="text-align:left;font-family:Helvetica,sans-serif;font-size:12px;color:#FFFFFF;text-transform:uppercase;font-weight:bold;letter-spacing:2px;padding-top:10px;padding-bottom:10px;padding-left:10px;margin:0;" valign="middle">FROM THE HUB</td> 
+          </tr> 
+         </tbody> 
+        </table></td> 
+      </tr> 
+      <tr> 
+       <td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;"><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">–</strong> <strong style="font-family:Helvetica,sans-serif;font-weight:bold;">“A little more than 2 months on the job, is the honeymoon over for Kim Janey?” by Meghan E. Irons, Boston Globe:
+</strong> “At the start of the year, Kim Janey was just one of 13 city councilors, responding to constituent complaints on matters both mundane and monumental. Today, she’s acting mayor and taking heat from all sides. A mere 73 days into the role, she’s under fire for how she’s handled leadership of the Police Department, about her plans for a troubled stretch of the city, and from residents who say they’ve lost a close connection with her <a href="https://go.politicoemail.com/?qs=55926f57d09dbbf23c07fa2ce426874ae9aaf8b741cbb3ec7c2386dee01f8a0b83d94131a49be3237076ded016dbb04f9abec4aab221309a" target="_blank"><u>since she took up residence in the corner office.</u></a>”</p><p style="margin-top:0;margin-bottom:24px;line-height:24px;">
+<strong style="font-family:Helvetica,sans-serif;font-weight:bold;">– “Many more Boston city workers leaving than coming aboard in 2021,” by Sean Philip Cotter, Boston Herald: </strong>“City of Boston employees have been heading for the door in droves this year, with nearly three times as many people leaving the city payroll as joining it amid the change in mayors. Data provided to the Herald by the city shows 331 people have departed in 2021, <a href="https://go.politicoemail.com/?qs=55926f57d09dbbf241e059a6140029be18330d3d1e83528a4740cf6e2a5804a79ba1437447cc8a3685eae6d22a06382a0a8a05768f909461" target="_blank"><u>compared with 122 people hired.</u></a>”</p><p style="margin-top:0;margin-bottom:24px;line-height:24px;">
+<strong style="font-family:Helvetica,sans-serif;font-weight:bold;">– “White's Attorney Seeks Internal Affairs Files On Ex-Wife,” by WBUR: </strong>“As Dennis White awaits word from Acting Mayor Kim Janey as to whether he will be formally fired from his short-lived role as the city's top cop, his lawyers are <a href="https://go.politicoemail.com/?qs=55926f57d09dbbf28da43e7c80350e54489119511620061f35be3923bf4ca53785c3f9c5173664e9f54a63ca9293173d5cc9abccbf6508ce" target="_blank"><u>demanding new information about White's estranged ex-wife, Sybil Mason.</u></a>”</p><p style="margin-top:0;margin-bottom:24px;line-height:24px;">
+<strong style="font-family:Helvetica,sans-serif;font-weight:bold;">– “ACLU calls on Janey to withdraw police surveillance order,” by Morgan C. Mullings, Bay State Banner: </strong>“The city of Boston has filed a request for proposals to expand video surveillance use for police departments in nine area cities, on behalf of a nine-city regional security coalition. While facial recognition was recently limited in the state’s police reform bill, this extension would allow law enforcement in Boston, Chelsea, Revere, Somerville, Winthrop, Everett, Cambridge, Quincy and Brookline to have access <a href="https://go.politicoemail.com/?qs=55926f57d09dbbf25ab7ec5c6e9c7329562345e80cec787b6f55a0d8adae3c9c66b867866495a19f27eb289950c450bdc87d09d5ef55413f" target="_blank">
+<u>to the same software and video footage.</u></a>”</p><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">– “Massive project would dramatically change the streets around Fenway Park,” by Tim Logan, Boston Globe: 
+</strong>“Long a game day and nightlife destination, the ancient blocks around Fenway Park could in a few years be filled with weekday office workers, under plans filed with the city Thursday. ... It envisions eight buildings in four spots along Jersey Street, Brookline Avenue, Van Ness Street, and behind the park’s left field ‘Green Monster; on Landsdowne Street. They would be filled with nearly 1.7 million square feet of office space, about 216 residential units, <a href="https://go.politicoemail.com/?qs=55926f57d09dbbf2befdf541b19a8487c3c0329bea11655a9fe48feff4bd2885379d7e6995d1443ec3cfc166c78a444310007ba14ca68ecd" target="_blank"><u>as well as restaurants and stores on refurbished streets.</u></a>”</p><p style="margin-top:0;margin-bottom:24px;line-height:24px;">
+<strong style="font-family:Helvetica,sans-serif;font-weight:bold;">– “As seas rise, Boston Harbor islands listed among country’s most endangered historic sites,” by Brian MacQuarrie, Boston Globe: </strong>“Battered by rising seas and scarred by erosion, the Boston Harbor islands have been named one of the country’s 11 most endangered historic sites by the National Trust for Historic Preservation, a stark warning about the <a href="https://go.politicoemail.com/?qs=55926f57d09dbbf29ac31a6a66a37f8c4a5b2513dae8450cad1cbfd3d5d0b4ec9afa2f8ee123561d8ec2f459733aa2847937633beac4c40a" target="_blank"><u>threat that climate change poses to important landmarks from the past.</u></a>”</p></td> 
+      </tr> 
+      <tr> 
+       <td style="padding-bottom:10px; min-width:100%; width:100%;"> 
+        <table width="100%" cellpadding="0" cellspacing="0" border="0" role="presentation" style="background-color:#121522; min-width:100%;"> 
+         <tbody> 
+          <tr> 
+           <td width="32" valign="middle" style="vertical-align:top;font-size:0;text-align:right;padding-top:10px;"><img src="https://s3.amazonaws.com/origin-static.politico.com/hosted/icon-red-circle%402x.png" title="" alt="" width="12" style="max-width:12px;margin-top:1px;" /></td> 
+           <td style="text-align:left;font-family:Helvetica,sans-serif;font-size:12px;color:#FFFFFF;text-transform:uppercase;font-weight:bold;letter-spacing:2px;padding-top:10px;padding-bottom:10px;padding-left:10px;margin:0;" valign="middle">THE RACE FOR CITY HALL</td> 
+          </tr> 
+         </tbody> 
+        </table></td> 
+      </tr> 
+      <tr> 
+       <td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;"><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">– &quot;Annissa Essaibi-George seeks more funding for Boston Police, social workers to combat gun violence,&quot; by Sean Philip Cotter, Boston Herald:</strong> &quot;Mayoral candidate Annissa Essaibi-George is calling for beefing up the police department and social services alike as part of her <a href="https://go.politicoemail.com/?qs=55926f57d09dbbf23998d56194ce91069a58b45a1bef3c81b0bc2220fe23a76b28d2408dee74c7bc61cf4ac3e56936a836bee0c460c29db0" target="_blank">plans to combat gun violence in Boston.</a>&quot;</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">– &quot;Boston's Historic Race For Mayor Matters To The Entire Region. Why Aren't More People Paying Attention?&quot; by Anthony Brooks, WBUR:</strong> &quot;As the city of Boston faces a historic race for mayor, there's evidence that lots of people aren't paying attention &mdash; <a href="https://go.politicoemail.com/?qs=55926f57d09dbbf28a8bb644508007fafb35adf521ff7c051da5755536a25b7d2c0f84f277e0a171e296a5cfa5574c56e1ea64ee98513c4e" target="_blank">or just don't care.</a>&quot;</p><p style="margin-top:0;margin-bottom:24px;line-height:24px;">
+<strong style="font-family:Helvetica,sans-serif;font-weight:bold;">– “What The Mayoral Candidates Have To Say About Housing In Boston</strong>,” <strong style="font-family:Helvetica,sans-serif;font-weight:bold;">by Sim&oacute;n Rios, WBUR: </strong>“A recent poll sponsored by WBUR found that housing was second only to the pandemic as a priority for Boston voters &mdash; and the poll found 76% support some form of rent control. Boston already has an array of programs to help people buy homes and pay rent. And most of the candidates want to expand those efforts. <a href="https://go.politicoemail.com/?qs=55926f57d09dbbf213c652b5017f3f6c548197ebe2a23191abd8718bd4c3d2aee53d7ffc67821f88a6817bdcaa593eca721319107167bff8" target="_blank">
+<u>But most say they want to step up the level of urgency applied to housing policy.</u></a>”</p><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">– FIRST IN PLAYBOOK: </strong>“Mary Tamer, a West Roxbury Democrat, former Boston School Committee member, and past president of the League of Women Voters of Boston has earned the first labor endorsement in the District 6 Boston City Council race with the support of Boston Fire Fighters Local 718,” from the Tamer campaign.</p></td> 
+      </tr> 
+      <tr> 
+       <td style="padding-bottom:10px; min-width:100%; width:100%;"> 
+        <table width="100%" cellpadding="0" cellspacing="0" border="0" role="presentation" style="background-color:#121522; min-width:100%;"> 
+         <tbody> 
+          <tr> 
+           <td width="32" valign="middle" style="vertical-align:top;font-size:0;text-align:right;padding-top:10px;"><img src="https://s3.amazonaws.com/origin-static.politico.com/hosted/icon-red-circle%402x.png" title="" alt="" width="12" style="max-width:12px;margin-top:1px;" /></td> 
+           <td style="text-align:left;font-family:Helvetica,sans-serif;font-size:12px;color:#FFFFFF;text-transform:uppercase;font-weight:bold;letter-spacing:2px;padding-top:10px;padding-bottom:10px;padding-left:10px;margin:0;" valign="middle">PLANES, TRAINS AND AUTOMOBILES</td> 
+          </tr> 
+         </tbody> 
+        </table></td> 
+      </tr> 
+      <tr> 
+       <td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;"><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">– “Some of Congress’s most influential lawmakers are backing a proposal to build high-speed rail between Boston and NYC,” by Christopher Gavin, Boston.com: 
+</strong>“Two dozen lawmakers from throughout New England and New York have hopped on board a bold proposal aiming to build a regional rail network served by a high-speed rail line between Boston and New York City that would shuttle passengers between the two cities in as quickly as 100 minutes. … In all, the entire House delegations from Massachusetts and Rhode Island, have lent their support, <a href="https://go.politicoemail.com/?qs=55926f57d09dbbf2115122dbc99b97ba6b3fc7b3a9c16bd1f43ee963ea51fb87bcf15914a09ebad905ca1a21f7289414070ba3aa64346ff9" target="_blank"><u>along with lawmakers throughout the Northeast.</u></a>”</p><p style="margin-top:0;margin-bottom:24px;line-height:24px;">
+<strong style="font-family:Helvetica,sans-serif;font-weight:bold;">– &quot;On Allston project, tone changes but challenges remain,&quot; by Bruce Mohl, CommonWealth Magazine: </strong>&quot;State transportation officials sounded a more optimistic tone Thursday night about reaching a consensus on a design for the Allston I-90 interchange project, but they continued to insist on options that made reaching an agreement difficult. ... state Highway Commissioner Jonathan Gulliver indicated the agency is now focused on working with the advocates to <a href="https://go.politicoemail.com/?qs=55926f57d09dbbf2c9036c9431213551b36900b3a12bce43268ef6840eb8320eb7c2c70792e29072d58d0e9eca91cb9a6a4962170c2c5a8f" target="_blank">make the all-at-grade option work.</a>&quot;</p></td> 
+      </tr> 
+      <tr> 
+       <td style="padding-bottom:10px; min-width:100%; width:100%;"> 
+        <table width="100%" cellpadding="0" cellspacing="0" border="0" role="presentation" style="background-color:#121522; min-width:100%;"> 
+         <tbody> 
+          <tr> 
+           <td width="32" valign="middle" style="vertical-align:top;font-size:0;text-align:right;padding-top:10px;"><img src="https://s3.amazonaws.com/origin-static.politico.com/hosted/icon-red-circle%402x.png" title="" alt="" width="12" style="max-width:12px;margin-top:1px;" /></td> 
+           <td style="text-align:left;font-family:Helvetica,sans-serif;font-size:12px;color:#FFFFFF;text-transform:uppercase;font-weight:bold;letter-spacing:2px;padding-top:10px;padding-bottom:10px;padding-left:10px;margin:0;" valign="middle">THE PRESSLEY PARTY</td> 
+          </tr> 
+         </tbody> 
+        </table></td> 
+      </tr> 
+      <tr> 
+       <td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;"><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">– “Ayanna Pressley calls for fast dispersal of COVID-19 funds to Randolph, other hard-hit communities,” by Joe Difazio, Patriot Ledger: </strong>“Amid a tug-of-war over federal COVID-19 funds between Gov. Charlie Baker and the Legislature, U.S. Rep. Ayanna Pressley on Thursday called for $100 million dedicated to four hard-hit communities, including Randolph,<a href="https://go.politicoemail.com/?qs=55926f57d09dbbf27989657ca6fe452e884aa7b4fbb8ae2465ab38c69230d0db14ff4e99ca79efeea4fdee67b8e592e0f05df0fab0113622" target="_blank">
+<u> to be given out quickly</u></a>.”</p></td> 
+      </tr> 
+      <tr> 
+       <td style="padding-bottom:10px; min-width:100%; width:100%;"> 
+        <table width="100%" cellpadding="0" cellspacing="0" border="0" role="presentation" style="background-color:#121522; min-width:100%;"> 
+         <tbody> 
+          <tr> 
+           <td width="32" valign="middle" style="vertical-align:top;font-size:0;text-align:right;padding-top:10px;"><img src="https://s3.amazonaws.com/origin-static.politico.com/hosted/icon-red-circle%402x.png" title="" alt="" width="12" style="max-width:12px;margin-top:1px;" /></td> 
+           <td style="text-align:left;font-family:Helvetica,sans-serif;font-size:12px;color:#FFFFFF;text-transform:uppercase;font-weight:bold;letter-spacing:2px;padding-top:10px;padding-bottom:10px;padding-left:10px;margin:0;" valign="middle">MARIJUANA IN MASSACHUSETTS</td> 
+          </tr> 
+         </tbody> 
+        </table></td> 
+      </tr> 
+      <tr> 
+       <td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;"><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">– “Home delivery of marijuana starting next week,” by Shira Schoenberg, CommonWealth Magazine: </strong>“Next week, Freshly Baked Company in Taunton will make history when it begins delivering marijuana-infused gummies to any adult purchaser near Taunton. It will be the first time members of the public in Massachusetts can, under state law, legally buy marijuana for recreational use and 
+<a href="https://go.politicoemail.com/?qs=55926f57d09dbbf2ceb07f04d2dc855cabe8f848460f23d6526e74a80e043291bd45be13b7cf89b4a7237050e29b04934384aacb88cfa0ba" target="_blank"><u>have it delivered to their house.</u></a>”</p></td> 
+      </tr> 
+      <tr> 
+       <td style="padding-bottom:10px; min-width:100%; width:100%;"> 
+        <table width="100%" cellpadding="0" cellspacing="0" border="0" role="presentation" style="background-color:#121522; min-width:100%;"> 
+         <tbody> 
+          <tr> 
+           <td width="32" valign="middle" style="vertical-align:top;font-size:0;text-align:right;padding-top:10px;"><img src="https://s3.amazonaws.com/origin-static.politico.com/hosted/icon-red-circle%402x.png" title="" alt="" width="12" style="max-width:12px;margin-top:1px;" /></td> 
+           <td style="text-align:left;font-family:Helvetica,sans-serif;font-size:12px;color:#FFFFFF;text-transform:uppercase;font-weight:bold;letter-spacing:2px;padding-top:10px;padding-bottom:10px;padding-left:10px;margin:0;" valign="middle">FROM THE 413</td> 
+          </tr> 
+         </tbody> 
+        </table></td> 
+      </tr> 
+      <tr> 
+       <td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;"><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">– “Seniors group seeks ouster of Springfield Police Commissioner Cheryl Clapprood over ‘dismissive’ remarks on race,” by Peter Goonan, MassLive.com: 
+</strong>“A senior citizen organization has called for the ouster of Police Commissioner Cheryl C. Clapprood, saying she was 'dismissive' regarding their concerns on police racism and reform. The Massachusetts Senior Action Council of Greater Springfield said its board voted to call for Clapprood’s resignation or replacement after comments the commissioner made during a virtual meeting on April 29 with council members. <a href="https://go.politicoemail.com/?qs=55926f57d09dbbf294b652a926dc8d3e8c9828966b809c449e4670cdb32c9e6972c2128cd5791ff3c130abb987c74f20e944e7ce1c2ee2d7" target="_blank"><u>The comments followed seniors sharing negative experiences with city police.</u></a>”</p><p style="margin-top:0;margin-bottom:24px;line-height:24px;">
+<strong style="font-family:Helvetica,sans-serif;font-weight:bold;">– “Latest inspections of Holyoke Soldiers' Home show quality of care issues remain,” by Kathy Curran, WCVB: “</strong>There are still concerns about the quality of care being provided to veterans at the Holyoke Soldiers' Home, even in the wake of 77 deaths from COVID-19 there during the pandemic, <a href="https://go.politicoemail.com/?qs=55926f57d09dbbf203e95c37312fa199754d70e7c57c999a0b00b4068a8ac255cc41e50e77418c3eca6011f982008d584785ac503cd512b0" target="_blank"><u>according to the latest federal and state inspections.</u></a>”</p></td> 
+      </tr> 
+      <tr> 
+       <td style="padding-bottom:10px; min-width:100%; width:100%;"> 
+        <table width="100%" cellpadding="0" cellspacing="0" border="0" role="presentation" style="background-color:#121522; min-width:100%;"> 
+         <tbody> 
+          <tr> 
+           <td width="32" valign="middle" style="vertical-align:top;font-size:0;text-align:right;padding-top:10px;"><img src="https://s3.amazonaws.com/origin-static.politico.com/hosted/icon-red-circle%402x.png" title="" alt="" width="12" style="max-width:12px;margin-top:1px;" /></td> 
+           <td style="text-align:left;font-family:Helvetica,sans-serif;font-size:12px;color:#FFFFFF;text-transform:uppercase;font-weight:bold;letter-spacing:2px;padding-top:10px;padding-bottom:10px;padding-left:10px;margin:0;" valign="middle">THE LOCAL ANGLE</td> 
+          </tr> 
+         </tbody> 
+        </table></td> 
+      </tr> 
+      <tr> 
+       <td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;"><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">– “21 years after Molly Bish's slaying, deceased sex offender from Spencer ID'd as suspect,” by Kim Ring, Worcester Telegram &amp; Gazette: </strong>“A registered sex offender from Spencer who died in 2016 has been named a person of interest in the abduction and <a href="https://go.politicoemail.com/?qs=55926f57d09dbbf2fca542dacb076e5bcadc2a69731abd33d3321e733500d612a2dd76384149fb37469b932709acecde41343cba09a56a6f" target="_blank"><u>slaying of Warren lifeguard Molly Anne Bish in 2000.</u></a>”</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">– “Healey Says Sackler Family Trying To ‘Hijack And Abuse Bankruptcy Process’ To Shield Themselves,” by Craig LeMoult, GBH News: “</strong>A federal judge's ruling this week could shield the Sackler family from Massachusetts' lawsuit over the family's role in the opioid epidemic, <a href="https://go.politicoemail.com/?qs=55926f57d09dbbf27294a6a041caecc7698d8c2d6c49e3acdc170649467299b8edfddb33a04ef5b894f82ed790d3fb487951fcf1f4115ced" target="_blank"><u>and Attorney General Maura Healey is not happy about it.</u></a>”</p><p style="margin-top:0;margin-bottom:24px;line-height:24px;">
+<strong style="font-family:Helvetica,sans-serif;font-weight:bold;">– “Bristol County Sheriff Thomas Hodgson calls cancellation of ICE contract a ‘politically motivated attack’,” by Jackson Cote, MassLive.com: </strong>“In a strongly worded letter to the head of the U.S. Department of Homeland Security, a controversial Massachusetts sheriff lambasted the federal official’s move to cancel Immigration and Customs Enforcement’s contract with his office, claiming the decision was a <a href="https://go.politicoemail.com/?qs=55926f57d09dbbf255ea7ffc5315d48d7148726c2a710a57fb558ed85f30d01370569099d37bd74d28403f7ffb248d81a72c44c47d683403" target="_blank"><u>‘politically motivated attack’ and demanding an apology to his staff.</u></a>”</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">– Your new personal trainer: “Mark Wahlberg works out in F45 Medford gym, offers tips to bounce back from pandemic pudge,” by Meghan Ottolini, Boston Herald: </strong>“With gyms open and beach season on the horizon, it’s time to shed quarantine flab. Who better to offer tips on toning up than <a href="https://go.politicoemail.com/?qs=55926f57d09dbbf2ebd6fbef2ebb38fb4604e1ae01fd8ff34d9e44dc423cb3d2a2c477a38c44fecdefab369671fc51ceb7b1a0b000b827ae" target="_blank"><u>movie star and Dorchester native Mark Wahlberg?</u></a>”</p></td> 
+      </tr> 
+      <tr> 
+       <td style="padding-bottom:10px; min-width:100%; width:100%;"> 
+        <table width="100%" cellpadding="0" cellspacing="0" border="0" role="presentation" style="background-color:#121522; min-width:100%;"> 
+         <tbody> 
+          <tr> 
+           <td width="32" valign="middle" style="vertical-align:top;font-size:0;text-align:right;padding-top:10px;"><img src="https://s3.amazonaws.com/origin-static.politico.com/hosted/icon-red-circle%402x.png" title="" alt="" width="12" style="max-width:12px;margin-top:1px;" /></td> 
+           <td style="text-align:left;font-family:Helvetica,sans-serif;font-size:12px;color:#FFFFFF;text-transform:uppercase;font-weight:bold;letter-spacing:2px;padding-top:10px;padding-bottom:10px;padding-left:10px;margin:0;" valign="middle">MEANWHILE IN NEW HAMPSHIRE</td> 
+          </tr> 
+         </tbody> 
+        </table></td> 
+      </tr> 
+      <tr> 
+       <td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;"><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">– “Mike Pence speaks to New Hampshire Republicans, bashes Biden administration and Nancy Pelosi: ‘Enough is enough’,” by Rick Sobey, Boston Herald: </strong>“The former VP also pushed for the Granite State to <a href="https://go.politicoemail.com/?qs=55926f57d09dbbf2706903bebddc6f31c4333714388d5b11a11080f55a1f8c25f537e1148e1faccb3223b24a328e1d563c7889b74b0e4290" target="_blank"><u>keep the nation’s first presidential primary.</u></a>”</p><p style="margin-top:0;margin-bottom:24px;line-height:24px;">
+<strong style="font-family:Helvetica,sans-serif;font-weight:bold;">– More: “Pence says he and Trump may never ‘see eye to eye’ on Jan. 6 insurrection,” by Myah Ward, POLITICO: </strong>“In his second public address since leaving office, former Vice President Mike Pence on Thursday put a little space between himself and his ex-boss, saying he and former President Donald Trump<a href="https://go.politicoemail.com/?qs=55926f57d09dbbf278e83a81a0513067a7b8a24087069eb30559bdd5d42fa9ae9a11a92d9475a9a9c25356138c59c2cdf6e69545e4ec2a4a" target="_blank"><u> might never ‘see eye to eye’ on the Jan. 6 insurrection.</u></a>”</p><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">CHEERS</strong> 
+<strong style="font-family:Helvetica,sans-serif;font-weight:bold;">– </strong>to NBC 10 WJAR veteran <strong style="font-family:Helvetica,sans-serif;font-weight:bold;">Bob &quot;Sparky&quot; Farrell</strong> on his retirement. <strong style="font-family:Helvetica,sans-serif;font-weight:bold;"><i><a href="https://go.politicoemail.com/?qs=55926f57d09dbbf24d4833865e472d87b2dcdf9f628f62b9b5694ca7d8fe5ed9424a392aaa75dcd6e7ad72f1590e27dc432a67acd55ef709" target="_blank">Tweet</a>.</i></strong></p><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">TRANSITIONS – Gintautas Dumcius </strong>is leaving Boston Business Journal to rejoin the Dorchester Reporter as managing editor.
+<strong style="font-family:Helvetica,sans-serif;font-weight:bold;"> <i><a href="https://go.politicoemail.com/?qs=55926f57d09dbbf247f7d07f1f59d5a02f993249e7992c428d198018befe804215b3a1ecc5822304448ffcc268b3f8dc2e9d8b9a0a116fbb" target="_blank">Tweet</a>.</i> </strong>Fortune senior writer<strong style="font-family:Helvetica,sans-serif;font-weight:bold;"> Aaron Pressman </strong>is joining the Boston Globe to cover technology.<strong style="font-family:Helvetica,sans-serif;font-weight:bold;"> <i><a href="https://go.politicoemail.com/?qs=55926f57d09dbbf2a10b544d46936054de7503d5b353f68b50cca16cfd95286be5158455de16345c9606d57af0920df4a3744dc0fe219383" target="_blank">Link.</a></i></strong></p><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">HAPPY BIRTHDAY – </strong>to
+<strong style="font-family:Helvetica,sans-serif;font-weight:bold;"> Lance Lambros.</strong></p><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">HAPPY BIRTHWEEKEND</strong> <strong style="font-family:Helvetica,sans-serif;font-weight:bold;">– </strong>to Saturday birthday-ers <strong style="font-family:Helvetica,sans-serif;font-weight:bold;">state Sen. Diana DiZoglio</strong>, <strong style="font-family:Helvetica,sans-serif;font-weight:bold;">state Rep. Kevin Honan</strong> and <strong style="font-family:Helvetica,sans-serif;font-weight:bold;">Aaron Moser</strong>; and to Sunday birthday-ers 
+<strong style="font-family:Helvetica,sans-serif;font-weight:bold;">Grace Ross, Jen Hemmerdinger, Elvira Mora</strong> and <strong style="font-family:Helvetica,sans-serif;font-weight:bold;">Christopher Rowland</strong>, Washington Post reporter and former Boston Globe Washington bureau chief.</p><p style="margin-top:0;margin-bottom:24px;line-height:24px;">
+<i>Want to make an impact? POLITICO Massachusetts has a variety of solutions available for partners looking to reach and activate the most influential people in the Bay State. Have a petition you want signed? A cause you’re promoting? Seeking to increase brand awareness among this key audience? Share your message with our influential readers to foster engagement and drive action. Contact Jesse Shapiro to find out how: <a href="mailto:jshapiro@politico.com" target="_blank">jshapiro@politico.com</a>.</i></p></td> 
+      </tr> 
+      <tr> 
+      </tr>
+      <tr> 
+       <td height="10" style="height:10px; font-size:0; border-top:1px solid #E5E7EB;">&nbsp;</td>
+      </tr>
+      <tr> 
+       <td style="padding:20px 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;background-color:#FFFFFF;"> <p style="margin-top:0;margin-bottom:20px;line-height:24px;margin-bottom:20px;color:#000000;"> <strong style="font-family:Helvetica,sans-serif;font-weight:bold;">SUBSCRIBE TO &quot;THE RECAST&quot; TODAY:
+</strong> Power is shifting in Washington and in communities across the country. More people are demanding a seat at the table, insisting that politics is personal and not all policy is equitable. The Recast is a twice-weekly newsletter that explores the changing power dynamics in Washington and breaks down how race and identity are recasting politics and policy in America. Get fresh insights, scoops and dispatches on this crucial intersection from across the country and hear critical new voices that challenge business as usual. <a href="https://go.politicoemail.com/?qs=55926f57d09dbbf29c62d222b8978598b93322e14ee601fadcc3cf4aa87ae50af36a6971c507049a544ab5885a92e75d559f74c4e22bd149" target="_blank" style="text-decoration:underline;color:#007BC7;">Don't miss out, SUBSCRIBE
+</a>. Thank you to our sponsor, Intel. </p> </td>
+      </tr>
+      <tr> 
+       <td height="10" style="height:10px; font-size:0; border-bottom:1px solid #E5E7EB;">&nbsp;</td>
+      </tr>
+      <tr> 
+       <td height="15" style="height:15px; font-size:0;">&nbsp;</td>
+      </tr>  
+      <tr> 
+       <td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;"><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><br /></p></td> 
+      </tr> 
+      <!-- End Ad Copy --> 
+      <tr> 
+      </tr> 
+      <!-- Post Body Content --> 
+      <tr> 
+      </tr> 
+      <tr> 
+       <td height="20" style="height:20px; font-size:0; border-top:1px solid #E5E7EB;">&nbsp;</td> 
+      </tr> 
+      <!-- Twitter Handles --> 
+      <tr> 
+       <td style="color:#000000;padding:0px 20px 20px 20px;text-align:left;"> <p style="font-family:Helvetica,sans-serif;font-size:20px;color:#000000;margin-top:0;margin-bottom:15px;"><strong>Follow us on Twitter</strong></p> 
+        <table cellpadding="0" cellspacing="0" border="0" role="presentation"> 
+         <tbody> 
+          <tr> 
+           <td width="52" valign="middle" style="text-align:left;padding-right:10px;"><img src="https://static.politico.com/hosted/icon-twitter-circle-blue%402x.png" title="" alt="" width="50" style="max-width:50px;" /></td> 
+           <td valign="middle" style="text-align:left;font-family:Helvetica,sans-serif;font-size:14px;font-weight:bold;color:#000000;"> <p style="margin-top:0;margin-bottom:5px;line-height:14px;">Lisa Kashinsky <a href="https://go.politicoemail.com/?qs=55926f57d09dbbf2a7fb4303e59ffa7c69e60a5d04486d8bdf45e1bda9ff64ffd74ca6df59a25db79c1dbf0feaacba9fe370a30dfdd8d1d6" style="color:#007BC7;text-decoration:none;font-weight:bold;" target="_blank">@lisakashinsky</a></p> </td> 
+          </tr> 
+         </tbody> 
+        </table> </td>
+      </tr>
+      <tr> 
+       <td height="20" style="height:20px; font-size:0; border-top:1px solid #E5E7EB;">&nbsp;</td>
+      </tr> 
+      <!-- Family of Playbook --> 
+      <tr> 
+       <td style="color:#000000;padding:0px 20px 0px 20px;text-align:left;"> <p style="font-family:Helvetica,sans-serif;font-size:20px;color:#000000;margin-top:0;margin-bottom:15px;"><strong>Subscribe to the POLITICO Playbook family</strong></p> <p style="font-family:Helvetica,sans-serif;font-size:14px;color:#000000;margin-bottom:15px;line-height:24px;"> <a href="https://go.politicoemail.com/?qs=55926f57d09dbbf2487e50ba158ddf8cf42928662c83b1f280bf4a3e17a4b15baef5aec0952e4a848479301cfe58e92e75c84fa12bfedc2a" style="color:#000000;text-decoration:none;font-weight:bold;" target="_blank">Playbook</a> &nbsp;|&nbsp; <a href="https://go.politicoemail.com/?qs=55926f57d09dbbf27bf3638a2f607f53354ee59bf0ddff775d3e2575a9390f87b4796ee24abc454b04b69c9c40197f1fe9daf0d402480f71" style="color:#000000;text-decoration:none;font-weight:bold;" target="_blank">Playbook PM</a> &nbsp;|&nbsp; 
+<a href="https://go.politicoemail.com/?qs=55926f57d09dbbf23a6bdc4d5822ee3404f702ceadf8cd780f97e359e21a5a0ef5fe34ed5c5742e217db704b64aeff70b5b10a6a686c5be2" style="color:#000000;text-decoration:none;font-weight:bold;" target="_blank">California Playbook</a> &nbsp;|&nbsp; <a href="https://go.politicoemail.com/?qs=55926f57d09dbbf2e42c61b2f8239e52440504e971597a9ef4e1b0622c555903dc725a9276c8dedded6ee614524b75d5551aff19b3c307c7" style="color:#000000;text-decoration:none;font-weight:bold;" target="_blank">Florida Playbook</a> &nbsp;|&nbsp; <a href="https://go.politicoemail.com/?qs=55926f57d09dbbf2abe63f1af336e29024bbcfd72ea1c39a0f98410ee3cf2f13b68c3153c65d69a64506f33fdd7f460232d32c820e70850f" style="color:#000000;text-decoration:none;font-weight:bold;" target="_blank">Illinois Playbook</a> &nbsp;|&nbsp; 
+<a href="https://go.politicoemail.com/?qs=55926f57d09dbbf2c415ae9ee8bd81fbd605f19c7830080a25a777bd6b06ef81709fa15d1ef68e3dc6c6a9835e3733f69ac5d1374619a5ce" style="color:#000000;text-decoration:none;font-weight:bold;" target="_blank">Massachusetts Playbook
+</a> &nbsp;|&nbsp; <a href="https://go.politicoemail.com/?qs=55926f57d09dbbf261905bb282aeef8eb4deb5cfc2b3fc237af56e7cb2740b396553367fa472157da4df52622e73051ac197af9c3613d3e3" style="color:#000000;text-decoration:none;font-weight:bold;" target="_blank">New Jersey Playbook</a> &nbsp;|&nbsp; <a href="https://go.politicoemail.com/?qs=55926f57d09dbbf24581b1a9ac242ff04ed84495e9b398e45d724b232ecddf1f472164ad51f620fe480a51c8d32fb14d13d5810466f681d8" style="color:#000000;text-decoration:none;font-weight:bold;" target="_blank">New York Playbook</a> &nbsp;|&nbsp; <a href="https://go.politicoemail.com/?qs=55926f57d09dbbf23bcd0de3aa54c7cfa85962a08d893b618698f005c50b8cc8040e099238da47139b2daf2d25683b8d461d6de8ddfbd891" style="color:#000000;text-decoration:none;font-weight:bold;" target="_blank">Brussels Playbook</a> &nbsp;|&nbsp; 
+<a href="https://go.politicoemail.com/?qs=55926f57d09dbbf23bcd0de3aa54c7cfa85962a08d893b618698f005c50b8cc8040e099238da47139b2daf2d25683b8d461d6de8ddfbd891" style="color:#000000;text-decoration:none;font-weight:bold;" target="_blank">London Playbook</a> </p> <p style="font-family:Helvetica,sans-serif;font-size:14px;color:#000000;margin-bottom:15px;line-height:24px;"><a href="https://go.politicoemail.com/?qs=55926f57d09dbbf20f0e435c205ca776c762082784402886d50f0ea3d274d0c27814a7e3650193852e2614f9dcb0491fc41902a21180a243" style="color:#000000;text-decoration:none;font-weight:bold;" target="_blank">View all our politics and policy newsletters</a></p> </td>
+      </tr> 
+      <!-- Follow us --> 
+      <tr> 
+       <td style="color:#000000;padding:0px 20px 20px 20px;text-align:left;"> <p style="font-family:Helvetica,sans-serif;font-size:12px;color:#000000;margin-bottom:10px;line-height:14px;text-transform:uppercase;font-weight:bold;letter-spacing:2px;">Follow us</p> 
+        <table cellpadding="0" cellspacing="0" border="0" role="presentation"> 
+         <tbody> 
+          <tr> 
+           <td width="40" style="text-align:left;"><a href="https://go.politicoemail.com/?qs=55926f57d09dbbf2e6f1d928fe2ce3db93c75eb1683716b2100d1fe1f0e281615ddd4101da110dce4bc8ac114051cf6f65e503d47a0fcca1" target="_blank"><img src="https://static.politico.com/hosted/icon-follow-facebook-gray%402x.png" title="Follow us on Facebook" alt="Follow us on Facebook" width="24" border="0" style="max-width:24px;" /></a></td> 
+           <td width="40" style="text-align:left;"><a href="https://go.politicoemail.com/?qs=55926f57d09dbbf27d3121ec176ae74153e5378ae401dc9b6eac292edb6ee4f057501acc904c1d63f50669f269c81189cc64bd2f760450f2" target="_blank"><img src="https://static.politico.com/hosted/icon-follow-twitter-gray%402x.png" title="Follow us on Twitter" alt="Follow us on Twitter" width="24" border="0" style="max-width:24px;" /></a></td> 
+           <td width="40" style="text-align:left;"><a href="https://go.politicoemail.com/?qs=55926f57d09dbbf232d47b6d7293e85a2c61a7c754788540fa33d4e832ee3bc5d98ffef719cc5a8f11fa5c852d1d9df1e1409fa54a1735f1" target="_blank"><img src="https://static.politico.com/hosted/icon-follow-instagram-gray%402x.png" title="Follow us on Instagram" alt="Follow us on Instagram" width="24" border="0" style="max-width:24px;" /></a></td> 
+           <td width="40" style="text-align:left;"><a href="https://go.politicoemail.com/?qs=55926f57d09dbbf295714515516dbd622c7d216627f51b5305f5a427b063cd1b3ce4a4ad688948f81bf6f499c28fbb595762f2450e737267" target="_blank"><img src="https://static.politico.com/hosted/icon-follow-applePodcast-gray%402x.png" title="Listen on Apple Podcast" alt="Listen on Apple Podcast" width="24" border="0" style="max-width:24px;" /></a></td> 
+          </tr> 
+         </tbody> 
+        </table> </td>
+      </tr>
+      <tr> 
+       <td height="20" style="height:20px; font-size:0; border-top:1px solid #E5E7EB;">&nbsp;</td>
+      </tr> 
+     </tbody> 
+    </table> </td> 
+   <td>
+    <!-- Note: This is left blank to aid in centering across email clients --></td> 
+  </tr> 
+ </tbody>
+</table>
+<!-- Everything below this line is "new" to the template. We'll have to experiment a bit to see if it causes troubles. --><table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#ffffff"
+       style="padding:5px 0 15px 0;margin:0;text-align:center" role="presentation">
+    <tbody>
+    <tr>
+        <td><!-- Note: This is left blank to aid in centering across email clients --></td>
+        <td align="center" width="540">
+            <table width="100%" border="0" cellpadding="0" cellspacing="0" style="max-width:540px" role="presentation">
+                <tbody>
+                <tr>
+                    <td align="center" style="font-family:Helvetica,sans-serif;font-size:14px;color:#000000;">
+                        <p style="margin-bottom:15px;line-height:24px;">To change your alert settings, please log in at
+                            <a href="https://go.politicoemail.com/?qs=55926f57d09dbbf225131aff7798da50f0c3288099b247fac4c2c132792041b24507efe4b093ee6ab129efae4276f983751d7d48fc04319b" target="_blank" style="color:#007BC7;text-decoration:none;">https://www.politico.com/_login?base=https%3A%2F%2Fwww.politico.com/settings</a>
+                            <!--Commenting out the following line because it causes an undesired line to be displayed on outlook (some versions) and we couldn't find the use case of it-->
+                            <!-- <span style="display:none;"><a href="https://click.politicoemail.com/profile_center.aspx?qs=169328ae544e79cc34c090f972cb49c67f67fbce6267ac2819163b5ad65e0ff4cc1345d5be720d237e2233753470cf9e">https://click.politicoemail.com/profile_center.aspx?qs=169328ae544e79cc34c090f972cb49c67f67fbce6267ac2819163b5ad65e0ff4cc1345d5be720d237e2233753470cf9e</a></span> -->
+                        </p>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center" style="padding-bottom:15px;"><img
+                            src="https://static.politico.com/hosted/icon-politico-logo.png"
+                            class="CToWUd"></td>
+                </tr>
+                <tr>
+                    <td align="center"><p
+                            style="font-family:Helvetica,sans-serif;font-size:14px;color:#000000;margin-bottom:15px;line-height:20px;">
+                        This email was sent to tobysmith8868@gmail.com by: POLITICO, LLC 1000 Wilson Blvd. Arlington, VA, 22209, USA
+                        <p style="font-family:Helvetica,sans-serif;font-size:14px;color:#000000;margin-bottom:15px;line-height:24px;">
+                            
+
+                            Please click <a href="https://go.politicoemail.com/?qs=55926f57d09dbbf21dadfb65316500fd5462006233f2cb479be0caa4c488880138a29a24ff6c91ab3f4f9a1af4460da8d5395ca1b9480fb5" target="_blank" style="color:#007BC7;text-decoration:none;">here</a> and follow the steps to unsubscribe.
+                        </p>
+                    </td>
+                </tr>
+                </tbody>
+            </table>
+        </td>
+        <td><!-- Note: This is left blank to aid in centering across email clients --></td>
+    </tr>
+    </tbody>
+</table>
+<img src="https://click.politicoemail.com/open.aspx?ffcb10-fe8f1d717267077b76-fde3137677630d74711d7476-fe9115737262077c7c-fec7127375670c79-fdff15727765017c7210717d-ffcf14&d=40120&bmt=0" width="1" height="1" alt="">
+</body></html>

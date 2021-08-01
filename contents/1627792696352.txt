@@ -1,0 +1,327 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html style="-webkit-text-size-adjust:none; margin:0; padding:0; opacity:1" xmlns="http://www.w3.org/1999/xhtml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml">
+<head style="-webkit-text-size-adjust:none"> <!--[if gte mso 9]><xml>
+ <o:OfficeDocumentSettings>
+  <o:AllowPNG/>
+  <o:PixelsPerInch>96</o:PixelsPerInch>
+ </o:OfficeDocumentSettings>
+</xml><![endif]-->
+<title style="-webkit-text-size-adjust:none">
+      Pier 1
+    </title>
+<meta content="width=device-width, initial-scale=1" name="viewport" style="-webkit-text-size-adjust:none">
+<meta name="x-apple-disable-message-reformatting" style="-webkit-text-size-adjust:none">
+<meta content="IE=edge" http-equiv="X-UA-Compatible" style="-webkit-text-size-adjust:none">
+<style>@media screen and (max-width: 600px) and (min-width: 480px) {
+    .scale {
+        width: 100% !important;
+        min-width: 1px !important;
+        max-width: 600px !important;
+        height: auto !important;
+        max-height: none !important
+        }
+    .nav-txt {
+        width: 100% !important;
+        min-width: 400px !important
+        }
+    .nav-p {
+        padding: 10px 20px 10px 20px !important
+        }
+    }
+@media (max-width: 480px) {
+    .scale {
+        width: 100% !important;
+        min-width: 1px !important;
+        max-width: 480px !important;
+        height: auto !important;
+        max-height: none !important
+        }
+    .stack, .stack-up, .stack-down {
+        width: 100% !important;
+        max-width: 480px !important;
+        height: auto !important;
+        display: block !important;
+        padding: 0 0 0 0 !important
+        }
+    .stack {
+        float: left !important
+        }
+    .stack-up {
+        display: table-header-group !important
+        }
+    .stack-down {
+        display: table-footer-group !important
+        }
+    .hide {
+        display: none !important;
+        width: 0 !important;
+        height: 0 !important;
+        max-height: 0 !important;
+        padding: 0 0 0 0 !important;
+        overflow: hidden !important;
+        font-size: 0 !important;
+        line-height: 0 !important
+        }
+    .show-img {
+        display: block !important;
+        height: auto !important;
+        max-height: inherit !important;
+        max-width: 480px !important;
+        width: 100% !important;
+        line-height: 100% !important;
+        padding: 0 !important;
+        overflow: visible !important;
+        font-size: 14px !important;
+        mso-hide: none !important
+        }
+    .logo {
+        width: 100% !important;
+        min-width: 1px !important;
+        max-width: 108px !important;
+        height: auto !important;
+        max-height: none !important
+        }
+    .no-p {
+        padding: 0 0 0 0 !important
+        }
+    .no-b {
+        border: none !important
+        }
+    .m-br {
+        display: block !important
+        }
+    .m-scale {
+        width: 100% !important;
+        min-width: 1px !important
+        }
+    .nav-txt {
+        width: 100% !important;
+        min-width: 240px !important;
+        font-size: 16px !important
+        }
+    .nav-p {
+        padding: 34px 10px 10px 10px !important
+        }
+    }
+@media (max-width: 380px) {
+    .nav-txt {
+        font-size: 16px !important;
+        min-width: 180px !important;
+        line-height: 16px !important
+        }
+    .legal-txt {
+        padding: 10px 10px 40px 10px !important
+        }
+    .preference-p {
+        padding: 8px 8px !important
+        }
+    }
+@media (max-width: 310px) {
+    .nav-txt {
+        font-size: 14px !important;
+        line-height: 14px !important
+        }
+    }</style></head>
+<body style="-webkit-text-size-adjust:none; margin-left:auto; margin-right:auto; margin:0 auto; min-width:1px; padding:0; width:100%; background-color:#fff"><img src="http://trk.pier1.com/ss/o/QtWP8RnfFWoZ5mj5C83I7A/3cg/eOc4OF_zTdC3JROneC0y-w/ho.gif" alt="" width="1" height="1" border="0" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"/>
+<div style="-webkit-text-size-adjust:none; display:block; margin:0; padding:0; font-size:1px; color:#fff; line-height:1px; font-family:arial; max-height:0; max-width:0; opacity:0; overflow:hidden; mso-hide:all">
+      Find all the must-haves for easy-breezy poolside gatherings.
+    </div>
+<div style="-webkit-text-size-adjust:none; display:block; margin:0; padding:0; max-height:0; overflow:hidden">
+       ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌  ‌ ‌  ‌ ‌  ‌ ‌  ‌ ‌  ‌ ‌  ‌ ‌  ‌ ‌  ‌ ‌  ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌  ‌ ‌  ‌ ‌  ‌ ‌  ‌ ‌  ‌ ‌  ‌ ‌  ‌ ‌  ‌ ‌  ‌ ‌  ‌
+    </div>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0; background-color:#fff" width="100%">
+<tr style="-webkit-text-size-adjust:none">
+<td align="center" style="-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0; background-color:#fff" valign="top" width="100%"> <!-- logo -->
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="scale" role="presentation" style="-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0; min-width:600px; width:600px; background-color:#002D72" width="600">
+<tr style="-webkit-text-size-adjust:none">
+<td align="center" style="-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0; padding:8px 12px 8px 12px"> <a href="http://trk.pier1.com/ss/c/4YTRgGdauB8hODy0houuS2V0KVMxUfd8n2qW42RVoPejZLqUHS__rB_2u2J2uYMM0YJDRvrL4nZD8PYHjumzL2n2MBgr1G9wUqwFZsz-CTUS6cB5CRWiBXtzsIzXm5rEyaoICjI7QEEoaqEqDf6vXNTR48rkWdB8r0WSIjTl1LbWsdGADFUFp1ffMXJDVF0Z5dmQvPJPm3xkorOmId23zQyNg3mk5F6DrpWm_IXEVBSGLqUhBeU4SRbJ-wZgH708uCnftioQoj-wY_3DitKnmH-tM-6h3MlH70IoY0ifnkY7PoAYdfQtDQll-OObXSmFCdDJYO2LHFV9jVPCG_kfz73ITs9_GiCi75GnhEtafgjE_sSM4APerHmoORHrIEkU/3cg/eOc4OF_zTdC3JROneC0y-w/h0/b27sppndV4E6L_KWquAZCRcl1zAuFCW5E5xuAUeBm64" style="-webkit-text-size-adjust:none; text-decoration:none; color:#002D72" target="_blank"> <img alt="Pier 1" border="0" class="logo" height="34" src="https://d3k81ch9hvuctc.cloudfront.net/company/UHyBth/images/968b46c3-0c16-44b7-b7f9-e4bbfb55c007.png" style="-webkit-text-size-adjust:none; display:block; width:100%; max-width:68px; height:auto; font-family:arial, sans-serif; font-size:16px; color:#002d72" width="68"></a>
+</td>
+</tr>
+</table>
+<!-- hero -->
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="scale" role="presentation" style="-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0; min-width:600px; width:600px; background-color:#fff" width="600">
+<tr style="-webkit-text-size-adjust:none">
+<td align="center" style="-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0" width="100%"> <a href="http://trk.pier1.com/ss/c/4YTRgGdauB8hODy0houuSyXa8Y9I5gs27Yy1nnvYtCEG5JdC0B9W8HY1fm3PIl9HSIsyq_aU0BIAI2J8y6pRQ8IuJkUdf8U262sZg2B6Xgo2GWBfYo8dlPuEuIRIdW0Xblj8Z8rDXM4feRFTCieFbQjOcS7wAQMvBhuDcuzpy7diLaY7aSSuCZC4qwDKj5f4md9JlOaQDjFNLOLi0nQf8_e9Wo_JgasdM8axTgBiVptiqr7vViyuCnX8X6L1TkjEyd-VqOqIiKZJJTLUUWd6VOfcQ6UKqirkvr08MB1GEyfdRLiaFG775i19WLTWdBPV7CKVl2RYmkeMv2Z62HzIk_Xw5pVsibslliQXe-zc18rIu24SBVw1DK7r1AmfTXSHT1EXSj_vNgeSQnJDFynP9w/3cg/eOc4OF_zTdC3JROneC0y-w/h1/yKiim0CkLJHxWWxXtPFqTEQqlLRH5Ydeho987vWWkLs" style="-webkit-text-size-adjust:none; text-decoration:none" target="_blank"> <img alt="Al furniture on sale! Up to 20% off on indoor &amp; 40% on outdoor | SHOP NOW &gt;" border="0" class="scale" src="https://d3k81ch9hvuctc.cloudfront.net/company/UHyBth/images/cb79a481-389a-44a1-975d-a30a07905afc.gif" style="-webkit-text-size-adjust:none; display:block; width:100%; max-width:600px; height:auto; font-family:arial, sans-serif" width="600"></a>
+</td>
+</tr>
+</table>
+<!-- Sunshine Days -->
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="scale" role="presentation" style="-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0; min-width:600px; width:600px; background-color:#fff" width="600">
+<tr style="-webkit-text-size-adjust:none">
+<td align="center" style="-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0" width="100%"> <a href="http://trk.pier1.com/ss/c/4YTRgGdauB8hODy0houuSyXa8Y9I5gs27Yy1nnvYtCGimwvcVWBQKcovCa5vta-8M64Bt2K_e501-snF78m-261QV0_MpLY2tV1sC2R8MQj6T5TZhbMyVLpRslTLs_9LbCCrYE04MphwgPePdkpb1uI-yqH8w0XussbfeR0Rp3lk_ir-v4AuuJTI3CymceS-Xep13Oa0_6b2zDn74U4GQ_4KVXymvoZF6VuQCighoNzi75DcgAVxV5LTiP4wCSIAp297X0nakONsfOfiRyBcZMosvNMFb7-JmIBITFfCgRJ46sY2K7E49CJ0-wq4LZWl_DcQGd7-sqiGGq2oGPBD8Pm9AhvdSUDN2z5AjO6i84GzqiQ9a4hbxDeiGrBwKBCh/3cg/eOc4OF_zTdC3JROneC0y-w/h2/su5EgGk-9L6vKKM6PmX8FnjZMDWN6U3ZyaHKPOLZK7Y" style="-webkit-text-size-adjust:none; text-decoration:none" target="_blank"> <img alt="Gray Mesh Outdoor Chaise Lounge | SHOP OUTDOOR" border="0" class="scale" src="https://d3k81ch9hvuctc.cloudfront.net/company/UHyBth/images/36297a98-7efc-4880-9734-208f934b919a.jpeg" style="-webkit-text-size-adjust:none; display:block; width:100%; max-width:600px; height:auto; font-family:arial, sans-serif" width="600"></a>
+</td>
+</tr>
+</table>
+<!-- Poolside Necessities -->
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="scale" role="presentation" style="-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0; min-width:600px; width:600px; background-color:#fff" width="600">
+<tr style="-webkit-text-size-adjust:none">
+<td align="center" style="-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0" width="100%"> <a href="http://trk.pier1.com/ss/c/4YTRgGdauB8hODy0houuSyXa8Y9I5gs27Yy1nnvYtCEX-G-1JlqIpIw7YQk04IDOwNT5sVH4LaRYZNs4HikqGmKWEXabrMnawwotayL-qGbovN5nYI72MfZTYMlWDI8vdcktliH3PlpMMjlPl74esIGOy1NEpEXWoXIPHAp5NxbB3n7vsqkR2-Ph_AURUgpRcRLwSpf5fbKmXA1mt2o7nnKjadhlWKmlpb7lLZptIft5X5foFsIjK4fRWJnKgnhR6aXhh7q1otrz3aEDI5_cTKQjXF7lrtGORUT_SnSQ1rC0vitBeejMiSps524ll0bJCVWjlU7yHwIV4p28PQDqndze59T25Hj2atK_MvNF4IKudwu4oN-RapTD7xfs3JhwXEY9amjK0w0s4Vxo6dZ2LA/3cg/eOc4OF_zTdC3JROneC0y-w/h3/2IfnTFWCZnwplde-SWiaaKudGwz6VM_V9Bpe4lsxdNQ" style="-webkit-text-size-adjust:none; text-decoration:none" target="_blank"> <img alt="Set up the ultimate poolside space with comfy chaises for lounging all day | SHOP PATIO BAR FURNITURE" border="0" class="scale" src="https://d3k81ch9hvuctc.cloudfront.net/company/UHyBth/images/d3e0cf10-9744-431c-a6c2-f9d780332d3e.jpeg" style="-webkit-text-size-adjust:none; display:block; width:100%; max-width:600px; height:auto; font-family:arial, sans-serif" width="600"></a>
+</td>
+</tr>
+</table>
+<!-- Two columns  -->
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="scale" role="presentation" style="-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0; min-width:600px; width:600px; background-color:#fff" width="600">
+<tr style="-webkit-text-size-adjust:none">
+<td align="center" style="-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0" width="50%"> <a href="http://trk.pier1.com/ss/c/4YTRgGdauB8hODy0houuSyXa8Y9I5gs27Yy1nnvYtCGimwvcVWBQKcovCa5vta-8f5kkOX56uErOl3JWey7FP4Pk60kcAQ9AnsA1eTVjQi-e6VNCrTxl8lkbHTEDOJJk1WM-HPg-WHxONAMqtUD_RjeHdyU9I9MU7TDjb1CZHUHXlZeSrWZ28kj7ZvGkn5cRCAY1ADtcNS9tzEpnF4cssCVhtcEKlBq5cWRjv87_lh1aCFXKh2hucCn63TMUUGKXMUzlhcRHd3zBkXq7VG5m7_hcv9nCT3QbrFlRiLdl6Ox5pHpSMasgo3jiucmmLFoHb5wOeZaX6ZnHlr7ff9uaGWZsMQn7gjnab9EEftUctpIXIBbSR1ZJNSgw6kvljI8P-iCHk0Tvg4_YsOp35myOGFsun3pMJSBB0AH2izf5lc0/3cg/eOc4OF_zTdC3JROneC0y-w/h4/z4ZxbNnca2pPGXz3rti5Z2DEd0q3OOLChtuW0NI75CQ" style="-webkit-text-size-adjust:none; text-decoration:none" target="_blank"> <img alt="Wood Folding Lounger | SHOP NOW" border="0" class="scale" src="https://d3k81ch9hvuctc.cloudfront.net/company/UHyBth/images/0a87920b-a723-4f22-ac3d-dffa177d3d54.jpeg" style="-webkit-text-size-adjust:none; display:block; width:100%; max-width:300px; height:auto; font-family:arial, sans-serif" width="300"></a>
+</td>
+<td align="center" style="-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0" width="50%"> <a href="http://trk.pier1.com/ss/c/4YTRgGdauB8hODy0houuSyXa8Y9I5gs27Yy1nnvYtCEX-G-1JlqIpIw7YQk04IDOMX44fvrNg05BwhIhunDuq_NvYd2e_U5hWdo16gyNyYOIOlWNywE8sVFuSmcvBmI7QTqGMPdGYnHUr_B0RzGdE0aiePmBibwiP_DtPHwSW9Q0u7TvXKwdxfnj4EmQHJYcAY632GzLNTQbzDlz8lfikRIg8hye9YMTYyn0hLzoFJbhUq_6w0VwRyLRcAJp3EB7Cw7sskmIToiQplzpae0LK9O5ESUWj_uu7gJfs6VxNLzwzTKor2CXwdJSVS40BIEPQHI_izJW9IBQSRcTylwIllKx-xCJeilBN9RJBw98vzQBZac6kkdM3GMd7vGsYuKHe_zZA6Uw1zKYsj4BbvNvXJus6Xv7uCpReRtvg6Vp-3k/3cg/eOc4OF_zTdC3JROneC0y-w/h5/6c2CC1-CcCwzZh8ulJ1UzBE9h4EDzQq5jv58z_0H9M0" style="-webkit-text-size-adjust:none; text-decoration:none" target="_blank"> <img alt="Bar cart | SHOP NOW" border="0" class="scale" src="https://d3k81ch9hvuctc.cloudfront.net/company/UHyBth/images/cf64a3e1-bd7d-4087-9f36-0b91b74ef1ba.jpeg" style="-webkit-text-size-adjust:none; display:block; width:100%; max-width:300px; height:auto; font-family:arial, sans-serif" width="300"></a>
+</td>
+</tr>
+</table>
+<!-- Two columns  -->
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="scale" role="presentation" style="-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0; min-width:600px; width:600px; background-color:#fff" width="600">
+<tr style="-webkit-text-size-adjust:none">
+<td align="center" style="-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0" width="50%"> <a href="http://trk.pier1.com/ss/c/4YTRgGdauB8hODy0houuSyXa8Y9I5gs27Yy1nnvYtCEX-G-1JlqIpIw7YQk04IDOMX44fvrNg05BwhIhunDuq1t2vKpgpb8wCXksIrXsm0ofRAnSi6Uo87VjNbnG4K3kCsTKW--tsq-47BO7rdb3zT1HDv1WpT8rdA-2iqw0rZj9R9DEtUXDwEMKliVgTZ8wz1PFoSdOwcTWTNtwtBj1LMuhgXKm2os8UaEy9eaKbcJ2jzriKjX8kpGlt9KPJwIGnaUqZGXllz_1noslkugqonDXFkT3X1LpIxZBREOjAyZMPx6mwiidptVSr7pC_-dTuDVlctsVjnRqWzsbrNOepOenLUNfDh4ol5UdLiNXMCfoC2stL6xMJVJkJ4XoAcBtvPrxVY2NOaJnNUGBzs3xv5j0oQkO4qU_xrVtC_AIn8A/3cg/eOc4OF_zTdC3JROneC0y-w/h6/19qgG__sUvKI5y_Eg8Xx0q_rFrNFJ9LmLkx2mWoBkj0" style="-webkit-text-size-adjust:none; text-decoration:none" target="_blank"> <img alt="Beacon Outdoor Antique Firwood &amp; Iron bar cart | SHOP NOW" border="0" class="scale" src="https://d3k81ch9hvuctc.cloudfront.net/company/UHyBth/images/bfc1a2d8-91ab-4e70-ba46-c324afffb9eb.jpeg" style="-webkit-text-size-adjust:none; display:block; width:100%; max-width:300px; height:auto; font-family:arial, sans-serif" width="300"></a>
+</td>
+<td align="center" style="-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0" width="50%"> <a href="http://trk.pier1.com/ss/c/4YTRgGdauB8hODy0houuSyXa8Y9I5gs27Yy1nnvYtCGimwvcVWBQKcovCa5vta-8f5kkOX56uErOl3JWey7FP_RMPJbcQvvNHzGWhkPctkL8ZimGtUwJ0OtRFBRMkIc1tcuc4NLgT8P1VxxP4UX12TWm8hvW6scZvBvIIXdl0--a96T3oCD0uPM9iaCNJzpxhA92GryX2h2QDI7wSllA7qMym5_OlmeYlY_95Ij0AixntEr30ytM2XOB-bpr9FyHtsVJdppTnKw0oxbsd_9Gv0EbOuM3qU-06mqe4KjR45rxCOt0DKxI9QI7k5sn71pptzoLcFasjZIKU-ahZ9IEhbc2FFYnLEBgnQS7xe_428wwN56G5c7emJmknNaRIf7_V4yVLi3YMmozrpkQMx2pNgCRgTS11lOdApmKiRk5cTo/3cg/eOc4OF_zTdC3JROneC0y-w/h7/rtvL6j4kAnZ9ptGNZgtY3YQlcJqegp3jVus6tfTCc-I" style="-webkit-text-size-adjust:none; text-decoration:none" target="_blank"> <img alt="Wood Chaise Lounge With Cushion | SHOP NOW" border="0" class="scale" src="https://d3k81ch9hvuctc.cloudfront.net/company/UHyBth/images/fff95696-0c39-42e6-b4de-815d8f640fe7.jpeg" style="-webkit-text-size-adjust:none; display:block; width:100%; max-width:300px; height:auto; font-family:arial, sans-serif" width="300"></a>
+</td>
+</tr>
+</table>
+<!-- Cozy catch - ups -->
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="scale" role="presentation" style="-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0; min-width:600px; width:600px; background-color:#fff" width="600">
+<tr style="-webkit-text-size-adjust:none">
+<td align="center" style="-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0" width="100%"> <a href="http://trk.pier1.com/ss/c/4YTRgGdauB8hODy0houuSyXa8Y9I5gs27Yy1nnvYtCGimwvcVWBQKcovCa5vta-8SKwNOJ2hqCuaUgyYN_-TvdEOpMHc06xR96R05sU6JPRa4tIQn_9k8mFrZcgV769FoOtPgcw7qwaAU9FsF0cblXNz3L3-kXEIdbmRlTaoWv5nnYMst-K-VRWHqkKs1HvRx6sLeX8Vs-Rr0LnDanNFuMde4gUQVl79Tgd2tI-Opo1KURpr4xoU47ymyodTiI7o36IEC3HNHH0NJuKrY7PKP2nSz-CCDEvAtezehgy8bDSzwRbAmkEtINfPqumcmIvaxKYW4TYllJH_vVHP5Ch9UyAKOvrjcbqNviDaB1JZTEsDgQrCcrjfy8QnG2A_lfHgcJhV7Qlw5nxsi7B9AD4siw/3cg/eOc4OF_zTdC3JROneC0y-w/h8/F6wMu18J0jbsXu2-vuusBe9Bga6kiQs67mj9f8BccOM" style="-webkit-text-size-adjust:none; text-decoration:none" target="_blank"> <img alt="Cozy catch-ups | SHOP OUTDOOR CHARIS &amp; OTTOMANS" border="0" class="scale" src="https://d3k81ch9hvuctc.cloudfront.net/company/UHyBth/images/c46f09e6-5319-4685-aef6-4a8fcb16fab4.jpeg" style="-webkit-text-size-adjust:none; display:block; width:100%; max-width:600px; height:auto; font-family:arial, sans-serif" width="600"></a>
+</td>
+</tr>
+</table>
+<!-- one column -->
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="scale" role="presentation" style="-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0; min-width:600px; width:600px; background-color:#fff" width="600">
+<tr style="-webkit-text-size-adjust:none">
+<td align="center" style="-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0" width="100%"> <a href="http://trk.pier1.com/ss/c/4YTRgGdauB8hODy0houuSyXa8Y9I5gs27Yy1nnvYtCHDyvSc5tSwStDGAka1gpDpfFMA1mCitEVQNoj7V6LOvZGqykTUdsVS7Nd_qDE8Ue5CizqAsjH_Lmf2A1MUCYGLwq8pOZoW42HrvGLgNI7EuyqHkvokoCMdQuG164UHVHhW7IsBXLgp2JW_FSfAFjwk9oa1yhahF14vQVYcSVI17HGolsy0oAG_-06CV3aQ1yFGeVPVFM_s9QFxYqpOU3I47SU3a1UFNepSWyW2hTVpBvlZimXgj0rWIC_AeuVV_WelTRzGMW456e8_8xI4NbkHGBsy4QIuHPpG6AGUjD4X8dHF8jaw45qvm1qnJYNBKbdKzgN8oYYfScKspJQITZO-zkIq3hjU_PNhH1mxj7cUC9tFjvvau7RjM6EmLDuWoEg/3cg/eOc4OF_zTdC3JROneC0y-w/h9/tt-ac28Nnh-DhMYQUM81bWmkMeY4SP1L8Jbvplux290" style="-webkit-text-size-adjust:none; text-decoration:none" target="_blank"> <img alt="Teak Finish Acacia Rocking Chair | SHOP NOW" border="0" class="scale" src="https://d3k81ch9hvuctc.cloudfront.net/company/UHyBth/images/75ea5a8a-76bb-4696-becc-46c3b42f8966.jpeg" style="-webkit-text-size-adjust:none; display:block; width:100%; max-width:600px; height:auto; font-family:arial, sans-serif" width="600"></a>
+</td>
+</tr>
+</table>
+<!-- Two columns  -->
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="scale" role="presentation" style="-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0; min-width:600px; width:600px; background-color:#fff" width="600">
+<tr style="-webkit-text-size-adjust:none">
+<td align="center" style="-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0" width="50%"> <a href="http://trk.pier1.com/ss/c/4YTRgGdauB8hODy0houuSyXa8Y9I5gs27Yy1nnvYtCGimwvcVWBQKcovCa5vta-86HZAWHNumDoU25sqOGqelnHMhZSfNmY8mX45ur1NnVFfsvHFtzhkObAC8DjI6B_nI2XujgpiWX4PaiZ9vicUT7K2TrY3FpEo76dfjVlGKCs4JfJnDORKTTNgafByPVJ9eS_EAJXqKE3rR4yUzst2mv7Gr3pfHeU0TZjkvNIP_4JBry_DguPWE4kI4tVbzJRGBqHBovGe5GMksmFsoFm4k9SZzzLXZKzvwNkgU4p-_tgpGBKMSeWAAjfmQWJ5O6VB3UlgwpPBbIokYoX8PmMWSW2JrTLO8nhpOk4czfrOVdi-Wb8W7Dq47W3wH9PuawHic17kFc6_KVIMfV7wUgFz_8C0chfNAVMP_LBzaFxoSPk/3cg/eOc4OF_zTdC3JROneC0y-w/h10/SDDLgiqCvYsEVjmx3365cW9pdnJPibcgtPi3IlIcP3c" style="-webkit-text-size-adjust:none; text-decoration:none" target="_blank"> <img alt="Farmhouse Brown Acacia Outdoor Loveseat | SHOP NOW" border="0" class="scale" src="https://d3k81ch9hvuctc.cloudfront.net/company/UHyBth/images/ca6b0a28-16d8-4be4-9c53-1f97794b006f.jpeg" style="-webkit-text-size-adjust:none; display:block; width:100%; max-width:300px; height:auto; font-family:arial, sans-serif" width="300"></a>
+</td>
+<td align="center" style="-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0" width="50%"> <a href="http://trk.pier1.com/ss/c/4YTRgGdauB8hODy0houuSyXa8Y9I5gs27Yy1nnvYtCFEb2dldhInxf1yQurV1nNq5E4onKCbLdacJPeVZZ5k6QXPTu3VeGHEjjJu6NumwIWiBpB29S0qza_7aib2PhkOeKSb9DkcBVbrAubt4hG8SlfkXkmzwniMh4MV5MtYPmnsi_R0Umi5Hy8dOgY_r5UCGFgT-h0suDlHgi_j4BiRjTZOh9q0Xgz9nFBcv5OfHgRIiSLHIXvYCJe9pT8B8c2T5yeIVp3sfBw2fZkp9KLiorPl0R8d2nXYJpwfNJNZvIUpIDYVO87w9dQgBbdrQa-X0AIunVlDp155ir5zawU1Ymwif3ueVz1_PzAqyf6uHc-einn1v4yevbGsllWj69WQJsmghaTfTlz4OOTq1oTpIQ/3cg/eOc4OF_zTdC3JROneC0y-w/h11/qgeUmQK5EBnfqMC77LaEZH1nMEufxeDun9NzrsggaoA" style="-webkit-text-size-adjust:none; text-decoration:none" target="_blank"> <img alt="Tropics Palm Leaves Outdoor area rug | SHOP NOW" border="0" class="scale" src="https://d3k81ch9hvuctc.cloudfront.net/company/UHyBth/images/b7683a31-72f1-42d7-b480-af8f904dfa7a.jpeg" style="-webkit-text-size-adjust:none; display:block; width:100%; max-width:300px; height:auto; font-family:arial, sans-serif" width="300"></a>
+</td>
+</tr>
+</table>
+<!-- one column -->
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="scale" role="presentation" style="-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0; min-width:600px; width:600px; background-color:#fff" width="600">
+<tr style="-webkit-text-size-adjust:none">
+<td align="center" style="-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0" width="100%"> <a href="http://trk.pier1.com/ss/c/4YTRgGdauB8hODy0houuSyXa8Y9I5gs27Yy1nnvYtCFEb2dldhInxf1yQurV1nNqLzzLjIGZ04i6WJf8LhSuHW2mK5ePhkSv3DWR-Cqgrncz7C3M9WaNxxP6Mk4Fq9n1VE1hmqktlC0aGmWFZ3FS7DG7ncIIv59j5Y82X9a3eN5p78Wt-tXaKf5qn2SJlSIbpWGFUc-3NXfzqX3r4GWBnZKUBHRs4MzptkczOvds9PzH_xlvczlyi-swh04oZ4Jb1ODbQ6aE6gWmYxn_UkZLJ4kPiuFCfrSh4R_lB7n2JA0BtZjGHkhkXlOtsO5ppdnpM9v7ozhBEz46UxAL3-pGZSR33VjEjGAQgevdDK5FhSCx2QDGIFFUm1maoqtGklZgV02woOtkTM3Nz4ZMnukSUg/3cg/eOc4OF_zTdC3JROneC0y-w/h12/n1Xt_wyab4c4ZC2Pp1lgskEUL0w8RVnmKrfZYajMZ7k" style="-webkit-text-size-adjust:none; text-decoration:none" target="_blank"> <img alt="Marina Gold and Green Polyester Rug | SHOP NOW" border="0" class="scale" src="https://d3k81ch9hvuctc.cloudfront.net/company/UHyBth/images/05213477-a803-430c-8b70-7e085e54c716.jpeg" style="-webkit-text-size-adjust:none; display:block; width:100%; max-width:600px; height:auto; font-family:arial, sans-serif" width="600"></a>
+</td>
+</tr>
+</table>
+<!-- Charming Accents -->
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="scale" role="presentation" style="-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0; min-width:600px; width:600px; background-color:#fff" width="600">
+<tr style="-webkit-text-size-adjust:none">
+<td align="center" style="-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0" width="100%"> <a href="http://trk.pier1.com/ss/c/4YTRgGdauB8hODy0houuSyXa8Y9I5gs27Yy1nnvYtCGimwvcVWBQKcovCa5vta-80eawOPFD-75J_k0OetYYwd7qeUet0yBzBj0fGKk5kwbKlsFnXlK5PUAFp_rkfVvyG_s-sIC84uIlgo_Yz4xpaKPFWXnLcTRbfdQBjlL6ODBVDzADGpFxMqRCe0xMjEl1devN4dCMgHE9BdA7GaMkwCWh3aHrcsr0Y4WqzQqDPxTTE7EOzxtSHrXTXhSN0yJZf83nbJfraZSkjWErRWsmZS13YsF4-OAz-IqlGAS2PeCusMw8MGkltNl9jf5wnfUxy9AOfP6ENCeudefi3oiBOftZLE5w_x95YLLnWjyCx1W6dCsKH50wIRvSzSupeN9rWKaWJe1cVzTFiNxAB0O_dQ/3cg/eOc4OF_zTdC3JROneC0y-w/h13/ztbrVizSR66BajuQgX1d0AoF-uK5i_4DX0KqD1Df47A" style="-webkit-text-size-adjust:none; text-decoration:none" target="_blank"> <img alt="Charming Accents | SHOP OUTDOOR SCULPTURES &amp; DECOR" border="0" class="scale" src="https://d3k81ch9hvuctc.cloudfront.net/company/UHyBth/images/6cf7783f-5ab2-40dc-a215-2d30c96ee6cf.jpeg" style="-webkit-text-size-adjust:none; display:block; width:100%; max-width:600px; height:auto; font-family:arial, sans-serif" width="600"></a>
+</td>
+</tr>
+</table>
+<!-- Two columns  -->
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="scale" role="presentation" style="-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0; min-width:600px; width:600px; background-color:#fff" width="600">
+<tr style="-webkit-text-size-adjust:none">
+<td align="center" style="-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0" width="50%"> <a href="http://trk.pier1.com/ss/c/4YTRgGdauB8hODy0houuSyXa8Y9I5gs27Yy1nnvYtCG7kc4v3qeks2_GRQnACLzvBFdx-mMoPyQNfUPi-uDYKuQwYSNlIdtY5q3508-4TZBsFdIDaJ0NDqbpNxtxCQgcY5OwfQA3wOn4rs7QWNXgJoLN6zUX5c8K63oX2Th_GtvVG3b3tPGI9RoiwKtzr7tUZyos5SVpDU8WyoJXJ4m4ggD3uqkEfePZP8RevP0TXj3R7zm_19hpgVvrhOKOwA38N4lIvTHX77w-df153KyuASwg7NbisGrVyFhICQ98_wANqJuAJWnYsW_n1LRdg3UBw4txnAxYJuyN-s7lzWLsLNSm5E1PzGVGG98I4gY_fzb0PmkZpoNXDcweKysGfpu7rAGdCgqTt0ifL_JlPziBNAkCugkLEemJgqHgHWB6hoWDThIhKsR7OskL9naqC6T8/3cg/eOc4OF_zTdC3JROneC0y-w/h14/--Smkp47fLQLV8nlWmF86Gu4QfTHuw-NUOK8M-GLH-Q" style="-webkit-text-size-adjust:none; text-decoration:none" target="_blank"> <img alt="Antique Floral Garden Stool | SHOP NOW" border="0" class="scale" src="https://d3k81ch9hvuctc.cloudfront.net/company/UHyBth/images/26519a6f-e55c-4710-a720-64ac8f95edbd.jpeg" style="-webkit-text-size-adjust:none; display:block; width:100%; max-width:300px; height:auto; font-family:arial, sans-serif" width="300"></a>
+</td>
+<td align="center" style="-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0" width="50%"> <a href="http://trk.pier1.com/ss/c/4YTRgGdauB8hODy0houuSyXa8Y9I5gs27Yy1nnvYtCGimwvcVWBQKcovCa5vta-8z2L6Ut93r6SJZRS8rsWIaPuVYx_g1noMFwqD-bPSph-M8wXpkTSiTwfINMAo94qCm_NbFh6ifub8kBdBGuKxAWrgHWYh0HhYPR-fLP3Wvw1fcA3n7IL9F_b6o7v2rFnje77tFU1SshowEdRQOy56mbH_W5Y5rIa_rEMGzk7P5057aN72biuJbRZRDiC-9XSvHvO9ZEvHw666mS38_N6F3UO-tzyrFUP6ehuSDC_uaTV-vj-xIOFWdHeBoO9XdOnK7DEGueeLVBsasm7Evi-FluPWLDyIVRtWIjRypkkRhIDwXb4z3HMEgy779ON7h96CQ9LaSxj-ZE_9doP2rx3_8gRlr3uZoSUf9XtScHy3_ik/3cg/eOc4OF_zTdC3JROneC0y-w/h15/8WnaSDf9LzJyx35IlKNYFoQUR_uv0ZS9xZQEHVeDgIQ" style="-webkit-text-size-adjust:none; text-decoration:none" target="_blank"> <img alt="Literary Cat aluminum garden sculpture | SHOP NOW" border="0" class="scale" src="https://d3k81ch9hvuctc.cloudfront.net/company/UHyBth/images/0592fbda-1ac7-4052-989c-753fb7d60d95.jpeg" style="-webkit-text-size-adjust:none; display:block; width:100%; max-width:300px; height:auto; font-family:arial, sans-serif" width="300"></a>
+</td>
+</tr>
+</table>
+<!-- Two columns  -->
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="scale" role="presentation" style="-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0; min-width:600px; width:600px; background-color:#fff" width="600">
+<tr style="-webkit-text-size-adjust:none">
+<td align="center" style="-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0" width="50%"> <a href="http://trk.pier1.com/ss/c/4YTRgGdauB8hODy0houuSyXa8Y9I5gs27Yy1nnvYtCGimwvcVWBQKcovCa5vta-8z2L6Ut93r6SJZRS8rsWIaDi2svPGRVPho3U53NKE8g7Gb7wVjyU54KT7foN6kfJ5u77HCuANNljSzX03VO7QUBMIi54FW-oPTS-ENJaURc0xhBUn5si-Iglqhd36nxNXaZZZ2MsG9fNSPliZX2tTkiy0xi8NxZ7VCbzPdXLdmNu7fAXPgsjcC41D2u09sgfGuSg5fq6Rx5P2o-HmCq73e5-fSF32S2Qgz3iduDMpduEr98vX7raiwzhmGGSB7uNoTAS6nwaBaSHVKfkki_9wcwHTLB5ZyBjkW6jJ5EMjg1mcB5R4ge6bk39FHlleJQqdpgthfPP_XEotWVWVjQDCvAnnJwJhsiG5C1hG5vDwixI/3cg/eOc4OF_zTdC3JROneC0y-w/h16/lssw5CB0g4v7Ero82UVPz5_hBJI45XXtGm7dQRKTxF8" style="-webkit-text-size-adjust:none; text-decoration:none" target="_blank"> <img alt="Fishing Frog Verdigris Aluminum Garden Sculpture | SHOP NOW" border="0" class="scale" src="https://d3k81ch9hvuctc.cloudfront.net/company/UHyBth/images/9f3a7442-8ed4-4a3e-8323-04bb9470de4e.jpeg" style="-webkit-text-size-adjust:none; display:block; width:100%; max-width:300px; height:auto; font-family:arial, sans-serif" width="300"></a>
+</td>
+<td align="center" style="-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0" width="50%"> <a href="http://trk.pier1.com/ss/c/4YTRgGdauB8hODy0houuSyXa8Y9I5gs27Yy1nnvYtCGimwvcVWBQKcovCa5vta-8z2L6Ut93r6SJZRS8rsWIaESjSaNBa9VCIlm3MxDz5W6aInH4bk3vVxyBV2oGevlFXiC47O-eQviysxb7cOT1ZFYCU7f04gssD8KHfh11ZXeIilxGVlyk9iLn8YNxabDAxgkmZ2oRex3VA9_1u0aywHl0lugx4MXBlqOuQbYQOVYLejkPTnasmV28FKM1ypXKschSoZh-NFG_Wd9vCoWj_zlqdtNzfbTPRHWpyrQe-KyBH23M4rOd_5X89fpUXydFsLBzs-TDdchT8BOB6nxdEJbYWYdP14cK2OwaBYWvWiYauNbK2yXkuqEHoBEXyq2rCSGL8mAYZunXGWgrGdGe5GAZP6AljEopm8_0Jcnur4I/3cg/eOc4OF_zTdC3JROneC0y-w/h17/_Ey3mog2JquOFZNuXSTJvINsJ22bObkJKQPNR1Mozyg" style="-webkit-text-size-adjust:none; text-decoration:none" target="_blank"> <img alt="Flamingo Garden Stake | SHOP NOW" border="0" class="scale" src="https://d3k81ch9hvuctc.cloudfront.net/company/UHyBth/images/61fcf859-8393-40a3-9a1c-2b7201bd1ca3.jpeg" style="-webkit-text-size-adjust:none; display:block; width:100%; max-width:300px; height:auto; font-family:arial, sans-serif" width="300"></a>
+</td>
+</tr>
+</table>
+<!-- Bottom promo -->
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="scale" role="presentation" style="-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0; min-width:600px; width:600px; background-color:#fff" width="600">
+<tr style="-webkit-text-size-adjust:none">
+<td align="center" style="-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0" width="100%"> <a href="http://trk.pier1.com/ss/c/4YTRgGdauB8hODy0houuS0L9yusUjIle2e0ltSg0FbwphHUFwoU56esM94ZT1e9_6JwoWpPU3waOcRMFTXACW0XD0JT3QQ_1bLDWvVvAmh0NMgLIv9MIKU22HPSg7pu5TbTeTNv-tr5h9GW-Mwy1-fBK5hrcbZdaa0llkz-S-4MdRmWDaP8LyP-2HR8lbDA8vxp6YBHCy1uf7SMCjAyeWqgK4FKp7BcEkMURr70xyJB-6IHKpr2ZWYeiSPhreLkulD5AiaxuqohIEutHJmvZhz2s_-jgIQr4LH8UO43IveY62gWIWn_o1NKU_3qOGBrTTj8NORb22WfpXS5WuOuJwotlL0NVrNkPksWpb1g2_LSGb24wYzfgDtqsJknbisBHlzw2ukCyx2N0JPRtEk7JmA/3cg/eOc4OF_zTdC3JROneC0y-w/h18/qs7Cc_EIpMphYv8P_01IzxUmHkGcZcwYpCz1OuhFKRk" style="-webkit-text-size-adjust:none; text-decoration:none" target="_blank"> <img alt="Join the Pier 1 Rewards Program | SIGN UP NOW" border="0" class="scale" src="https://d3k81ch9hvuctc.cloudfront.net/company/UHyBth/images/bed67884-62d7-49b3-bc0e-ce1dff8d314e.png" style="-webkit-text-size-adjust:none; display:block; width:100%; max-width:600px; height:auto; font-family:arial, sans-serif" width="600"></a>
+</td>
+</tr>
+</table>
+<!-- nav -->
+<!-- nav -->
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="scale" style="-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0; min-width:600px; width:600px; background-color:#CED9E5" width="600">
+<tr style="-webkit-text-size-adjust:none">
+<td align="center" class="nav-p" style="-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0; padding:30px 50px 16px 50px" width="100%">
+<table border="0" cellpadding="0" cellspacing="0" style="-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0" width="100%"> <!-- nav item -->
+<tr style="-webkit-text-size-adjust:none">
+<td align="center" class="nav-txt" style='-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0; width:500px; min-width:500px; height:40px; font-family:"Helvetica Neue", Helvetica, Arial, sans-serif; color:#002D72; letter-spacing:1px; mso-padding-alt:12px 0'> <a class="nav-txt" href="http://trk.pier1.com/ss/c/4YTRgGdauB8hODy0houuSyXa8Y9I5gs27Yy1nnvYtCFOf79Y8AiKrc6QTJnY-sMGTvzz9QJ_RXQ93de8OsPNbLa_B451hQWNH2xRmzUm6thzaBZDV9BuUd3V6jrN6ME6Sc8vafWZVCVLjnUXB4og25bfq8alVLTlciUiKl0LykjDE8WExHKYout8_sqw8HVQ3DlZR5LNM4koVtUGlByICwb7WO9nPT3OvI9IaaZT-FavWORQbhLSLCSufiZvY8pNGZcxah5oh3WeQg4SABsXkCvAB8crUf9bmhe_042f_eFZ-gmJxD0AophybSwz0DORUzie2MDfEONwzmClHcWW9xL85gxGGpZkrbGNSgTdVYENYvkU-kwznhGCkx1IkMhzcPrsy4LXE4q87gzezxlDPQ/3cg/eOc4OF_zTdC3JROneC0y-w/h19/9K5ZB4XzetYv7M07aeXsQb0eWMovsjjMxRK4g5gJtSM" style="-webkit-text-size-adjust:none; text-decoration:none; padding:22px 0; min-width:500px; display:block; text-align:center; font-size:15px; color:#002D72; mso-line-height-rule:exactly; line-height:18px; text-transform:uppercase" target="_blank"> <font style="-webkit-text-size-adjust:none; color:#002D72">  Pier 1 Exclusives   </font></a>
+</td>
+</tr>
+<!-- nav item border -->
+<tr style="-webkit-text-size-adjust:none">
+<td align="center" class="nav-txt" style='-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0; width:500px; min-width:500px; height:40px; font-family:"Helvetica Neue", Helvetica, Arial, sans-serif; color:#002D72; border-top:1px solid #a9bad0; letter-spacing:1px; mso-padding-alt:12px 0'> <a class="nav-txt" href="http://trk.pier1.com/ss/c/4YTRgGdauB8hODy0houuSyXa8Y9I5gs27Yy1nnvYtCGimwvcVWBQKcovCa5vta-8M64Bt2K_e501-snF78m-261QV0_MpLY2tV1sC2R8MQj6T5TZhbMyVLpRslTLs_9LbCCrYE04MphwgPePdkpb1uI-yqH8w0XussbfeR0Rp3lk_ir-v4AuuJTI3CymceS-Xep13Oa0_6b2zDn74U4GQ_4KVXymvoZF6VuQCighoNzi75DcgAVxV5LTiP4wCSIAp297X0nakONsfOfiRyBcZMosvNMFb7-JmIBITFfCgRJ46sY2K7E49CJ0-wq4LZWl_DcQGd7-sqiGGq2oGPBD8Pm9AhvdSUDN2z5AjO6i84GzqiQ9a4hbxDeiGrBwKBCh/3cg/eOc4OF_zTdC3JROneC0y-w/h20/l3opP7mUZXWMfaWIr_IhTtpCZcsWzEcUxtLeTkK7cmU" style="-webkit-text-size-adjust:none; text-decoration:none; padding:22px 0; min-width:500px; display:block; text-align:center; font-size:15px; color:#002D72; mso-line-height-rule:exactly; line-height:18px; text-transform:uppercase" target="_blank"> <font style="-webkit-text-size-adjust:none; color:#002D72">  Outdoor  </font></a>
+</td>
+</tr>
+<!-- nav item border -->
+<tr style="-webkit-text-size-adjust:none">
+<td align="center" class="nav-txt" style='-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0; width:500px; min-width:500px; height:40px; font-family:"Helvetica Neue", Helvetica, Arial, sans-serif; color:#002D72; border-top:1px solid #a9bad0; letter-spacing:1px; mso-padding-alt:12px 0'> <a class="nav-txt" href="http://trk.pier1.com/ss/c/4YTRgGdauB8hODy0houuSyXa8Y9I5gs27Yy1nnvYtCEG5JdC0B9W8HY1fm3PIl9HCrooRNtBUybH9cMBztZdUYB-l-5fFyVrRTa9DAygm2neBmGVkngSfXj0LpmkPuR0FGRJ8oKgR-BLPbXBMToB9Fs4dNY1iUVwUYISerscMQYv-cw_SUZ-XOF4tqVkUdLksiuuNA6qzwhm0ptPjFml_PyZ9m6L998NgjN2NS3EE5TloA9wQUFyf0yShVy_XqgrafortOi8U7jbHRdFfDdIUC9MIemoxe4rV8Z2DyZ3UFirNYfAyg-vx5k2vWyRVYpedzrWW357aZ3WpVtIeDDN2lbK8l08wnjm8adeACWvHOat_EJODTyObvKAIjf0NZje/3cg/eOc4OF_zTdC3JROneC0y-w/h21/SxKktzZxfSU2eGR3m190q4zzJP9j_ndLTGubeEDb8b8" style="-webkit-text-size-adjust:none; text-decoration:none; padding:22px 0; min-width:500px; display:block; text-align:center; font-size:15px; color:#002D72; mso-line-height-rule:exactly; line-height:18px; text-transform:uppercase" target="_blank"> <font style="-webkit-text-size-adjust:none; color:#002D72">  Furniture  </font></a>
+</td>
+</tr>
+<!-- nav item border -->
+<tr style="-webkit-text-size-adjust:none">
+<td align="center" class="nav-txt" style='-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0; width:500px; min-width:500px; height:40px; font-family:"Helvetica Neue", Helvetica, Arial, sans-serif; color:#002D72; border-top:1px solid #a9bad0; letter-spacing:1px; mso-padding-alt:12px 0'> <a class="nav-txt" href="http://trk.pier1.com/ss/c/4YTRgGdauB8hODy0houuSyXa8Y9I5gs27Yy1nnvYtCFt_PdrXEB2HBTimsZEtJVNv7GyJz-ucNzz7Qu93V_s8vKWD6lVPVd4LoAMC11exNbkJQaLnGsxHpYf-mU7WS9VXsj6ol5avPJzX3Z-BNXlFFtwvtqpXo8YcK_OkUsZ9eVEtcYZMPbF7C4BxNkptGN2U-cowNNU0XJAs8IqfNXHnFS6uRQ09D4sU6c_0lFvIO2M80O0BfjLpV_9kXr3Nx5ymQ-trydmkRayfRlpXyf0Zq-pQFMLpewcXI51OMoJZe-uv3p2ygrcJMF97yqZhXfGtpUgRg5uJzW8L-ZIILuqacDV5xC8qEHN7gq2NJ5Eh5RwMYir8yKyZhobkaLu-k9Tpu2aTyZK116hnjMyaJQx_w/3cg/eOc4OF_zTdC3JROneC0y-w/h22/H9PvL3MmAC6uGLy1tv76XDZYQMmNuSwd4-_L6-nsfTc" style="-webkit-text-size-adjust:none; text-decoration:none; padding:22px 0; min-width:500px; display:block; text-align:center; font-size:15px; color:#002D72; mso-line-height-rule:exactly; line-height:18px; text-transform:uppercase" target="_blank"> <font style="-webkit-text-size-adjust:none; color:#002D72">  Decor  </font></a>
+</td>
+</tr>
+<!-- nav item border -->
+<tr style="-webkit-text-size-adjust:none">
+<td align="center" class="nav-txt" style='-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0; width:500px; min-width:500px; height:40px; font-family:"Helvetica Neue", Helvetica, Arial, sans-serif; color:#002D72; border-top:1px solid #a9bad0; border-bottom:1px solid #a9bad0; letter-spacing:1px; mso-padding-alt:12px 0'> <a class="nav-txt" href="http://trk.pier1.com/ss/c/4YTRgGdauB8hODy0houuSyXa8Y9I5gs27Yy1nnvYtCH34uvWejPeQUeu9XvzmfsxcBuvW7DvqzjGNP-jvbi8WCRZT8KiSPmhlWgJNHPHwoLL8Gcv-ID_OAlYWeVz0fckuLqGVE1BLu9qu00XF6Lgr6NiqGzKPZLC1ox0phFb6T-48JWuR-FIVEJkgQTOlhwGl9mHHIplCagR190bW5VmyIrGtv3zwIrOJn7-plEx5scNcg6idnn5f_MGgVwfTf46Z1nl7rxtJPg0waioaT7HVdsus0FR_XU1ZJx6tPxlfM5cxHXP8Hl0AESLoao4nFJdJ3SyAc16GcRjKMlC38KqgHT_CaJ6sgc2bmDcw25GMDpZc5La0pEesW5qCVlRtWpXjXrWeqIlCdu6PXHrsMtlLA/3cg/eOc4OF_zTdC3JROneC0y-w/h23/opokukI0L1NCSTW_SPO7dvBKAQgNaFByyxFLeAoJVOg" style="-webkit-text-size-adjust:none; text-decoration:none; padding:22px 0; min-width:500px; display:block; text-align:center; font-size:15px; color:#002D72; mso-line-height-rule:exactly; line-height:18px; text-transform:uppercase" target="_blank"> <font style="-webkit-text-size-adjust:none; color:#002D72">  Rugs &amp; Curtains  </font></a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!-- footer -->
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="scale" role="presentation" style="-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0; min-width:600px; width:600px; background-color:#CED9E5" width="600">
+<tr style="-webkit-text-size-adjust:none">
+<td align="center" style="-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0; padding:20px 12px 20px 12px"> <a href="http://trk.pier1.com/ss/c/4YTRgGdauB8hODy0houuS2V0KVMxUfd8n2qW42RVoPejZLqUHS__rB_2u2J2uYMM0YJDRvrL4nZD8PYHjumzL2n2MBgr1G9wUqwFZsz-CTUS6cB5CRWiBXtzsIzXm5rEyaoICjI7QEEoaqEqDf6vXNTR48rkWdB8r0WSIjTl1LbWsdGADFUFp1ffMXJDVF0Z5dmQvPJPm3xkorOmId23zQyNg3mk5F6DrpWm_IXEVBSGLqUhBeU4SRbJ-wZgH708uCnftioQoj-wY_3DitKnmH-tM-6h3MlH70IoY0ifnkY7PoAYdfQtDQll-OObXSmFCdDJYO2LHFV9jVPCG_kfz73ITs9_GiCi75GnhEtafgjE_sSM4APerHmoORHrIEkU/3cg/eOc4OF_zTdC3JROneC0y-w/h24/cTcbrEOYCwPWDPqCwGWIb5xp1Oh9uWi703PmrHZqaJM" style="-webkit-text-size-adjust:none; text-decoration:none; color:#002D72" target="_blank"> <img alt="Pier 1" border="0" class="logo" height="34" src="https://d3k81ch9hvuctc.cloudfront.net/company/UHyBth/images/7608542e-90db-4e9a-b5db-ce048c6275dd.png" style="-webkit-text-size-adjust:none; display:block; width:100%; max-width:68px; height:auto; font-family:arial, sans-serif; font-size:16px; color:#002d72" width="68"></a>
+</td>
+</tr>
+<tr style="-webkit-text-size-adjust:none">
+<td align="center" style="-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0" width="100%">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0" width="100%">
+<tr style="-webkit-text-size-adjust:none">
+<td align="center" class="legal-txt" style='-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0; padding:0 20px 20px 20px; color:#686868; text-align:center; font-family:"Helvetica Neue", Helvetica, Arial, sans-serif; font-size:11px; line-height:16px' width="100%">
+                      Copyright © 2021 Pier1. All Rights Reserved.
+                    </td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!-- manage preferences bar -->
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="scale" role="presentation" style="-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0; min-width:600px; width:600px; background-color:#002D72" width="600">
+<tr style="-webkit-text-size-adjust:none">
+<td align="center" style="-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0" width="100%">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0" width="100%">
+<tr style="-webkit-text-size-adjust:none">
+<td align="center" class="preference-p" style='-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0; padding:8px 30px 8px 30px; color:#fff; text-align:center; font-family:"Helvetica Neue", Helvetica, Arial, sans-serif; font-size:10px; line-height:17px' width="100%"> <a href="http://trk.pier1.com/ss/c/TSoqeDx7q1F4LMn7Ae56_cSMZait0CjCgUjnmcb4iTN-woo-CM0tXvHtdJllAhhquoFk82xHgUdNYt2RROFrIoo2uwzZKS3ETjV4xOIlZsaA5ocF-HIj97ru182ZeYFM_uVH1ujr2i39e-ae_h7ImHrfnkJ5hfSQ5sz0f5TIUdG3lc-_IbZRIRnGwNrr8b-eDqO7czNum7MeZxkRbbhQ9Q/3cg/eOc4OF_zTdC3JROneC0y-w/h25/2ThW-Zc1-Ua5KAi_0Kbz0Lf8BEl22zDBxlVLBV9iFzQ" style="-webkit-text-size-adjust:none; text-decoration:none; color:#fff" target="_blank">Manage Preferences</a>   |   <a href="http://trk.pier1.com/ss/c/TSoqeDx7q1F4LMn7Ae56_cSMZait0CjCgUjnmcb4iTN-woo-CM0tXvHtdJllAhhqLXAbrTshQToye6tHCoorQ0rOEX4yDGprcPsWLj1ZDG0SKqUESH8Re8YWQe52jnWbGlaqsPGUKOMX3txIZKW114gYuU2-AqpQOhXLuUoWIiJYMv8H6yCCzpcfcqbc3bZMKwQMO38tHEnb4703zu13Iw/3cg/eOc4OF_zTdC3JROneC0y-w/h26/dKrHk8u2Aa8hFaWncUdu96IReowE4tiP0GzYHlmRoWM" style="-webkit-text-size-adjust:none; text-decoration:none; color:#fff" target="_blank">Unsubscribe</a>   |   <a href="http://trk.pier1.com/ss/c/4YTRgGdauB8hODy0houuS0L9yusUjIle2e0ltSg0Fbwx6qhsnQN0mdlJ5FDwUVUl_UabsGMM78r4jsNU0FdV-fzFyvX793ZsfU9tUPvsQgH4ji5suiIbWwJLsanUvXw48O5xdNm4h125EBrkfSTL8LJFgFOehABHEU4DoUCNBVFbXnZnJsbixNjxPJk1jS_n4-faFEja4XYGIFQU5vm1-TDfge5RH--JomTRQMpl90a42asAfEfHvRgACv5hdkBFPtbMEOCMvPFY_E8igTi9vSd-dybWumU_ontFDF77ew7tidKSGImZGqBiCaE11k04nchmdgEaaI4ZF4TO8MwyuN7_HVN2k2c9q3rj4bGSWctfdea1fuOgXiGhTyYscHzP/3cg/eOc4OF_zTdC3JROneC0y-w/h27/M_WX-r_kcWh-JIVgSib5pg1Vy701GWfTUjQlzOGahnw" style="-webkit-text-size-adjust:none; text-decoration:none; color:#fff" target="_blank">Privacy Policy</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!-- legal text -->
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="scale" role="presentation" style="-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0; min-width:600px; width:600px; background-color:#fff" width="600">
+<tr style="-webkit-text-size-adjust:none">
+<td align="center" style="-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0" width="100%">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0" width="100%">
+<tr style="-webkit-text-size-adjust:none">
+<td align="center" class="legal-txt" style='-webkit-text-size-adjust:none; border-collapse:collapse; border-spacing:0; mso-table-lspace:0; mso-table-rspace:0; padding:20px 20px 20px 20px; color:#686868; text-align:center; font-family:"Helvetica Neue", Helvetica, Arial, sans-serif; font-size:11px; line-height:16px' width="100%">
+                      1680 Michigan Ave Suite 700 Miami Beach, FL 33139<br style="-webkit-text-size-adjust:none">
+                      This email was sent by Pier 1 Imports Online, Inc.<br style="-webkit-text-size-adjust:none"><br style="-webkit-text-size-adjust:none">
+                      If you have trouble viewing this email<br style="-webkit-text-size-adjust:none">
+<a href="http://trk.pier1.com/ss/c/TSoqeDx7q1F4LMn7Ae56_cSMZait0CjCgUjnmcb4iTN-woo-CM0tXvHtdJllAhhqZVJ2suVNJn1gBbaOjcvFUjuebYIl0pDMDPnLoEgm5bgf9KORAPG4b2V7QA9AF7F_SfvCbKphEVaiUBMo2tIsPsY-HBBFz6O48yvxftfy3eH2hD2gqtcvMdEYLCwCo_uxoll8uqFH_7YLKRE-12_-mQ/3cg/eOc4OF_zTdC3JROneC0y-w/h28/9aDcxXp-HpPrEUJ1jW-rhmOp7tYR4XDWnwpz_2_JAvI" style="-webkit-text-size-adjust:none; text-decoration:underline; color:#686868">Click here</a> to view in browser
+                    </td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>

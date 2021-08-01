@@ -1,0 +1,352 @@
+<html>
+<head>
+<!--[if mso]>
+     <style type="text/css">
+         body, table, td {font-size: 16px;}
+     </style>
+     <![endif]--><style type="text/css" media="only screen and (max-width: 481px)">
+         @media only screen and (max-width: 481px) {
+             table[class=responsiveTable] {
+                 width: 100% !important;
+                 text-align: center !important;
+             }
+ 
+             table[class=bresponsiveTable] {
+                 width: 90px !important;
+                 text-align: center !important;
+                 margin: 0 auto !important;
+             }
+ 
+             table[class=rresponsiveTable] {
+                 width: 100px !important;
+                 text-align: center !important;
+                 margin: 5px auto !important;
+             }
+ 
+             table[class=responsiveTableColor] {
+                 width: 100% !important;
+                 text-align: center !important;
+                 background-color: #fcddd7 !important;
+                 background-image: url('https://img.teleflora.com/image/upload/v1565124660/bluecore/2019923-bk0-d.jpg') !important;
+             }
+ 
+             td[class=responsiveColumn] {
+                 display: block !important;
+                 width: 100% !important;
+                 height: auto !important;
+                 text-align: center !important;
+                 margin: 0 auto !important;
+             }
+ 
+             img[class=responsiveImage] {
+                 height: auto !important;
+                 max-width: 100% !important;
+                 width: 100% !important;
+             }
+ 
+             td[class=mhide] {
+                 display: none !important;
+             }
+ 
+             td[class=dhide] {
+                 display: inline !important;
+             }
+ 
+             tr[class=table-row] {
+                 border-bottom: solid 1px #FFFFFF !important;
+             }
+ 
+             td[class=dmenu] {
+                 display: none !important;
+                 font-size: 0 !important;
+                 max-height: 0 !important;
+                 mso-hide: all !important;
+                 overflow: hidden !important;
+                 width: 0 !important;
+                 float: left
+             }
+ 
+             td[class=mmenu] {
+                 display: block !important;
+                 font-size: 12px !important;
+                 max-height: inherit !important;
+                 line-height: 1.5 !important;
+                 overflow: visible !important;
+                 padding: 0 !important;
+                 line-height: 1 !important;
+                 width: auto !important;
+                 float: none !important;
+             }
+ 
+             td[class=arrow] {
+                 display: block !important;
+                 font-size: 12px !important;
+                 max-height: inherit !important;
+                 line-height: 1.5 !important;
+                 overflow: visible !important;
+                 padding: 0 !important;
+                 line-height: 1 !important;
+                 width: 8px !important;
+                 float: none !important;
+             }
+ 
+             td[class=tagline] {
+                 display: block !important;
+                 font-size: 12px !important;
+                 max-height: inherit !important;
+                 line-height: 1.5 !important;
+                 overflow: visible !important;
+                 padding: 15px 0 !important;
+                 line-height: 1 !important;
+                 width: auto !important;
+ 
+ 
+                 float: none !important;
+             }
+ 
+             span[class=headline] {
+                 font-size: 23px !important;
+                 text-align: center !important;
+             }
+ 
+             span[class=bheadline] {
+                 font-size: 24px !important;
+             }
+ 
+             span[class=section] {
+                 font-size: 14px !important;
+             }
+ 
+             td[class=headline] {
+                 font-size: 16px !important;
+                 line-height: 1 !important;
+                 /*text-align: center !important;*/
+             }
+ 
+             a[class=maincontent] {
+                 font-size: 14px !important;
+             }
+ 
+             a[class=mainbutton] {
+                 font-size: 14px !important;
+             }
+ 
+             a[class=bannercontent] {
+                 font-size: 12px !important;
+             }
+ 
+             a[class=offer1] {
+                 font-size: 14px !important;
+             }
+ 
+             span[class=header1] {
+                 font-size: 12px !important;
+                 letter-spacing: 0.4em !important;
+             }
+ 
+             td[class=fnav] {
+                 display: block !important;
+                 width: 100% !important;
+                 text-align: center !important;
+             }
+ 
+             table[class=button] {
+                 float: none !important;
+             }
+ 
+             th[class=fnav] {
+                 display: block !important;
+                 width: 100% !important;
+                 text-align: center !important;
+             }
+ 
+             th[class=responsiveColumn2] {
+                 display: block !important;
+                 width: 100% !important;
+                 height: auto !important;
+                 text-align: center !important;
+                 margin: 0 auto !important;
+                 background: url('https://img.teleflora.com/image/upload/v1565124660/bluecore/bk-20191106-mobile.jpg') !important;
+                 font-weight: normal !important;
+             }
+ 
+             th[class=responsiveColumn] {
+                 display: block !important;
+                 width: 100% !important;
+                 height: auto !important;
+                 text-align: center !important;
+                 margin: 0 auto !important;
+             }
+         }
+     </style>
+</head>
+<body>
+<div style="display:none"><img src="http://trk.b.teleflora.com/ss/o/_mYW0rLXNIEZokzNGvbwGQ/3ch/9we1Ce49RjWm5IFpQt1W5g/ho.gif" alt="" width="1" height="1" border="0" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"/></div>
+<!-- HEADER START --><table width="700" border="0" align="center" cellpadding="0" cellspacing="0" class="responsiveTable">
+<th style="font-weight:normal;" align="left" valign="top" class="responsiveColumn"><a target="_blank" href="http://trk.b.teleflora.com/ss/c/9-aU3oKh6sTLpF8D2ydKaWB1iD-lbNm7E_qazMFo5SbcNQWfeJd7SRw6QMIr-EE2UZ2RooLjIXS4ve56Ytu--rnJ1hwP-ytZ1-25yyAJ4sNGn2ITUIHFpNglXeeVC6RZWneSV5i6GqcRNchkTU3pN96IpdGvFupbpg_JlhuAY15fjLtmfOWC1CUPrpl1OeLRk62QnWVLpvyso3ifWdsNMUytn0tQJyyw0MvWw4GVbA1eB2phU7Pp6xbDzN322O2RGGcXiPrAEqhPYpC7d_M6tcStS8Tj8UwOnfvB-z0Tc4o/3ch/9we1Ce49RjWm5IFpQt1W5g/h0/f2EoD_82f-Buz1mEGcsgWLt1d4HIA44niZ24NNENAoY" name="Preheader" style="color:#666666; font-family:Arial, sans-serif; font-size:14px; text-decoration:none"><b>Send them a little sunshine!</b></a></th>
+<th style="font-weight:normal;" align="right" valign="top" class="responsiveColumn"><a target="_blank" name="ViewWithImages" href="http://trk.b.teleflora.com/ss/c/9-aU3oKh6sTLpF8D2ydKaY1mHchfb_vR4C63jZXwjwDxZj36OI8DIJueufU4Q2q2fuXSqdHcOY0Ov_M3ZXP8k2tT6-KFKQ6GoXqUVYEBiHpxfd9vIEAVpKXem2v52p-lOQIZrT9jBLsZOgMiNOaGQDwLEyZTX68ZwCvhImbJ4C_wDgzyUJYxxBT443bvnGIHBilnNoAdUKqOYNK8KzhEMqb7NkcCAqcZ6N8ll0GNN-ctTiW5BxmmzXoi1p-gFxaDTpUn6J0HxrqXzOeUATSthcntwYSugZ0bfII2Vq3TIhXrcKORnZXfR9I4PcnsV6jLnW0NEerHIZO73gohVDb0YQ/3ch/9we1Ce49RjWm5IFpQt1W5g/h1/FRO5kex-0K5gIaohx2pL5e-YFUPGPM8AJcWKY__BlkQ" style="font-size:14px; font-family:Arial, sans-serif; text-align:right; color:#666666; text-decoration:none" align="right">View&#160;in&#160;browser</a></th>
+</table>
+<!-- HEADER END --><!-- CONTENT START --><table border="0" cellpadding="0" cellspacing="0" align="center" bgcolor="#ffffff" width="700" style="border:1px solid #cccccc;" class="responsiveTable">
+<tr><td height="15" style="font-size:15px; line-height:15px;background-color:#FFFFFF;" class="mhide">&#160;</td></tr>
+<!-- SHOP NOW SECTION --><tr style="background-color:#FFFFFF"> <td align="center"><table bgcolor="#ffffff" border="0" cellspacing="0" cellpadding="0" align="center"> <tr>
+<!--<td align="left" class="mhide"><a href="http://trk.b.teleflora.com/ss/c/9-aU3oKh6sTLpF8D2ydKaWB1iD-lbNm7E_qazMFo5SbcNQWfeJd7SRw6QMIr-EE23mjv0iAMADPcHXcGPGHWlJnTVcms6Te0oY0Oc-60aOGJAxtWLc7DJ8Hi-Tc3M8cXzbve25KuD1GFbxKihf1VKq1d6kWq_Pa9JAjEEtJSaAsYL90NyTBa0apmSctR13i-GmtTtpfs-SG0X1LzhbJo1d_cBqRvaUm5nd731idWbclDQT0lwezdI2hCHsMBezyZ3hnl4SrRv83KGiPtD3rY_A/3ch/9we1Ce49RjWm5IFpQt1W5g/h2/v96wITFTmtq_CxkMos-uYcoLMWQW8-6qwSgiAZpdY8k" name="BNAV1" style="font-size:12px; line-height:19px; font-family: 'Century Gothic', CenturyGothic, Geneva, AppleGothic, Arial, Helvetica, 'Franklin Gothic Medium', sans-serif; color:#000000; text-decoration:none; text-align:center;"><b>next day and same day<br/> delivery available</b></a></td><td class="mhide" width="30"></td>--> <td align="center"><a href="http://trk.b.teleflora.com/ss/c/9-aU3oKh6sTLpF8D2ydKaWB1iD-lbNm7E_qazMFo5SbcNQWfeJd7SRw6QMIr-EE2UZ2RooLjIXS4ve56Ytu--rnJ1hwP-ytZ1-25yyAJ4sNGn2ITUIHFpNglXeeVC6RZWneSV5i6GqcRNchkTU3pN96IpdGvFupbpg_JlhuAY15fjLtmfOWC1CUPrpl1OeLRk62QnWVLpvyso3ifWdsNMUytn0tQJyyw0MvWw4GVbA1eB2phU7Pp6xbDzN322O2RGGcXiPrAEqhPYpC7d_M6tcStS8Tj8UwOnfvB-z0Tc4o/3ch/9we1Ce49RjWm5IFpQt1W5g/h3/6MrnHHQnc_edSSix44bF1OMNvMGZguuTRIBNZiFrih0" name="TelefloraLogo" style="color:#666666"> <img class="responsiveImage" name="TelefloraLogo" src="https://img.teleflora.com/image/upload/q_auto,f_auto/bluecore/efbb4b-logo" width="244" alt="teleflora" border="0" style="display:block; margin:0 auto; overflow:hidden; max-width:250px !important;"> </a></td>
+<!--<td class="mhide" width="30"></td><td align="right" class="mhide"><a href="http://trk.b.teleflora.com/ss/c/9-aU3oKh6sTLpF8D2ydKaWB1iD-lbNm7E_qazMFo5SbcNQWfeJd7SRw6QMIr-EE23mjv0iAMADPcHXcGPGHWlJnTVcms6Te0oY0Oc-60aOGJAxtWLc7DJ8Hi-Tc3M8cXzbve25KuD1GFbxKihf1VKq1d6kWq_Pa9JAjEEtJSaAsYL90NyTBa0apmSctR13i-GmtTtpfs-SG0X1LzhbJo1d_cBqRvaUm5nd731idWbclDQT0lwezdI2hCHsMBezyZ3hnl4SrRv83KGiPtD3rY_A/3ch/9we1Ce49RjWm5IFpQt1W5g/h4/k3gsvmufUJrcZxUeg-v86AEwys4i7GYckRsAvAFNDdE" name="BNAV1" style="font-size:12px; line-height:19px; font-family: 'Century Gothic', CenturyGothic, Geneva, AppleGothic, Arial, Helvetica, 'Franklin Gothic Medium', sans-serif; color:#000000; text-decoration:none; text-align:center;"><b>arranged&nbsp;&nbsp;delivered <br/> by expert local florists</b></a></td>--> </tr>
+</table></td>
+</tr>
+<!-- LOGO END --><!-- SHOP NOW SECTION ENDS --><tr><td height="15" style="font-size:15px; line-height:15px;background-color:#FFFFFF;">&#160;</td></tr>
+<tr><td style="line-height:1;" class="dmenu" align="center"><table border="0" cellspacing="0" cellpadding="0" align="center" style="background-color:#FFFFFF; padding:0;" class="responsiveTable"><tr class="table-row">
+<td align="center" valign="middle" class="fnav" style="padding: 10px; border-bottom: solid 1px #FFFFFF;"><a target="_blank" href="http://trk.b.teleflora.com/ss/c/9-aU3oKh6sTLpF8D2ydKaWB1iD-lbNm7E_qazMFo5SZdvz33wDnt47vvj-HrgCSQo4W6q9GhR-nO_JyFjt-jIjpaIcXlxs9EL1KQvZ5t4APo87HC_8_B1Z-_X0eo5C7yrR1dZT-jfxTcCgijpxDkSGdbqpmYbUs8tIjm3-WtgpU4Rt7b5wKuymiqmOn_2cno_MnodunWvy6etEqitVoJ-UjzLWojFli6OCNJis5uR7ENMoZKPw6QXwu5JAX9_ypXGzoul_GC8jzs0gOovYuPOMBKNtWtLLoFnYtl7E_jI0hIPxzsTzqk9JDCZ6pOniy2I9kmuqQosVu9PI_32cVNwxBLI4epF5DoXTCRFh1HvCY/3ch/9we1Ce49RjWm5IFpQt1W5g/h5/rHY2RGinTwwAQcSWgtUhVEIxP-qXwAZzkN3K-Bho6Yw" name="BNAV1" style="font-size:13px; line-height:19px; font-family:Helvetica, Arial, sans-serif; color:#000000; text-decoration:none; text-align:center; font-weight:bold" align="center">BIRTHDAY</a></td>
+<td class="mhide" align="center" valign="middle" style="font-size:13px; line-height:19px; font-family: Helvetica, Arial, sans-serif; color:#787975; text-decoration:none; text-align:center; padding: 10px 0; border-bottom: solid 1px #FFFFFF;  font-weight:bold;"> | </td>
+<td align="center" valign="middle" class="fnav" style="padding: 10px; border-bottom: solid 1px #FFFFFF;"><a target="_blank" href="http://trk.b.teleflora.com/ss/c/9-aU3oKh6sTLpF8D2ydKaWB1iD-lbNm7E_qazMFo5SZqt6sg4kY_ldXlWCY79ln4HdRJSJCDQxOofWaMjuuJdrD2fv_w-q5u5w_8y1w-kGU7I2PkGk5TZo6YeVMucp2nVMCi04i76rIYCtH4LpQd7bkiE3uyb-Q4XUdxDuVX9D1A72kW5f0bYR32C7WlMHhuC0U67CCypYDKcLExLHEgQ3GPcw1OgfiLeZvFZqunCDn5ENjQtUIyDsiy3ToXeG8ahR9s3uIPrNUX4oqBE22ps2tUUQYZStF5gN7dusqyrmwqt0cpA7NxNgawEjFbPaAsQR31BDGi1sUhe3ta3mCNLFHOYTYnMNmAuFeGtHzNVbM/3ch/9we1Ce49RjWm5IFpQt1W5g/h6/cXy_MopJPjGBTiYxGxxk0IebZlN-iKwc8dDZcbDoumA" name="BNAV2" style="font-size:13px; line-height:19px; font-family:Helvetica, Arial, sans-serif; color:#000000; text-decoration:none; text-align:center; font-weight:bold" align="center">GET WELL</a></td>
+<td class="mhide" align="center" valign="middle" style="font-size:13px; line-height:19px; font-family: Helvetica, Arial, sans-serif; color:#787975; text-decoration:none; text-align:center; padding: 10px 0; border-bottom: solid 1px #FFFFFF; font-weight:bold;"> | </td>
+<td align="center" valign="middle" class="fnav" style="padding: 10px; border-bottom: solid 1px #FFFFFF;"><a target="_blank" href="http://trk.b.teleflora.com/ss/c/9-aU3oKh6sTLpF8D2ydKaWB1iD-lbNm7E_qazMFo5SatDX_pWJ81OHhM4xglL7P_Rh-6TMwU_G8-F648b4GE4rdRgu064Dn3FUKxZLP779JGOG4iQduNl2t20gmifZPz5y8EGwbB2u3mDN7ajE3QjuOWWqJGyQcWXdBSLCXwNemBQdnFHgcaCKoYM0HntX3PhgrguImmqhngIDB83LXX22bpxk9hVgoCzcGgH8E-Pfyifftma1l9yfjaVM7_92MOJHXEObetc0tyCP5oX4RVfC5UAju4-FrXrKc7wxvuWS3iG3M1ra7W57KuqRMGNxiBtS4Wqwi4_S78eVX3kXIGmDXeouiSvkNiCc_oURZJMus/3ch/9we1Ce49RjWm5IFpQt1W5g/h7/HsQ32vrd9S9sKOtCJw0eJtQ-WCn7BNeUGfVqbQB_JAk" name="BNAV3" style="font-size:13px; line-height:19px; font-family:Helvetica, Arial, sans-serif; color:#000000; text-decoration:none; text-align:center; font-weight:bold" align="center">SAME DAY</a></td>
+<td class="mhide" align="center" valign="middle" style="font-size:13px; line-height:19px; font-family: Helvetica, Arial, sans-serif; color:#787975; text-decoration:none; text-align:center; padding: 10px 0; border-bottom: solid 1px #FFFFFF; font-weight:bold;"> | </td>
+<td align="center" valign="middle" class="fnav" style="padding: 10px; border-bottom: solid 1px #FFFFFF;"><a target="_blank" href="http://trk.b.teleflora.com/ss/c/9-aU3oKh6sTLpF8D2ydKaWB1iD-lbNm7E_qazMFo5SYyKVH1J_CMdY_HYo7Y2fKQtbPHw6WQ6KmWNt2tA_YCXfHM6OrHbBAgYfIYgV5eU8Y8lJmZtuj6-8ehqPDjrngpsH38DfSo6U5Y3fUwTEiSAj-vihJ4MtIiT0qZLfvWW_a2W8E7zougnrDWVW2S49dr2E5GN0GTuU5NUaRRwC_4z6BBuUTkLLiC5fS9UeWphJ3f_9XqDRkDzH-UXXAMUOQrMtqEmXye4PAFeijfIcoPyEC8X4_f0qP62alNxuLFj9rty4ns5QVVYn5sp4i7b5smY2tVxEVx8uhzdmdh_V1waw/3ch/9we1Ce49RjWm5IFpQt1W5g/h8/IMAE-bY1hzb5IKJ6ZOuxMwlf5TpCmmWpfHsnFXcL9dQ" name="BNAV4" style="font-size:13px; line-height:19px; font-family:Helvetica, Arial, sans-serif; color:#000000; text-decoration:none; text-align:center; font-weight:bold" align="center">BEST SELLERS</a></td>
+<td class="mhide" align="center" valign="middle" style="font-size:13px; line-height:19px; font-family: Helvetica, Arial, sans-serif; color:#787975; text-decoration:none; text-align:center; padding: 10px 0; border-bottom: solid 1px #FFFFFF; font-weight:bold;"> | </td>
+<td align="center" valign="middle" class="fnav" style="padding: 10px; border-bottom: solid 1px #FFFFFF;"><a target="_blank" href="http://trk.b.teleflora.com/ss/c/9-aU3oKh6sTLpF8D2ydKaWB1iD-lbNm7E_qazMFo5SaUdMC5Zlb5cxpnVbmR6UbGMQFMRRnCzMVrAUehFdVTUBa0JQtWbWkSo03TBAiDRm3tQEnzzx52pXtdlN8jBii2CYsUYoFQRWKdRJQK1PSLkwHRcakZdrcc9tH2S7oipB4BMBI8BT3yqY4O1ojd6Sv5cpkho2qvEXMaLZrgIj-iUoTim7zfcJ5qDARyO82DxbSMrkAAk_Oop-Q_jaf9rDDEZTM596cIVRqlgXevk5TyQL5qhX9ATLW1-GMZjOeEEVxfZ9oYxAj9reh8mCPjNBLc8SgjVsH_PSSucWMT2eraow9YmRLjIM_hlocYOjYF7_U/3ch/9we1Ce49RjWm5IFpQt1W5g/h9/CjF1eY-Anycst6Ba8wfuqPSDTNI0d7IdrNVG-feI3XU" name="BNAV5" style="font-size:13px; line-height:19px; font-family:Helvetica, Arial, sans-serif; color:#000000; text-decoration:none; text-align:center; font-weight:bold" align="center">DEAL OF THE DAY</a></td>
+</tr></table></td></tr>
+<!-- MENU BUTTONS START --><!--[if !mso]><!-- --><tr style=" mso-hide:all;"><td style="display:none; font-size:0; max-height:0; mso-hide:all; overflow:hidden; float:left; width:0;" class="mmenu" bgcolor="#efbb4b" align="center"><a target="_blank" href="http://trk.b.teleflora.com/ss/c/9-aU3oKh6sTLpF8D2ydKaWB1iD-lbNm7E_qazMFo5SbcNQWfeJd7SRw6QMIr-EE2UZ2RooLjIXS4ve56Ytu--rnJ1hwP-ytZ1-25yyAJ4sNGn2ITUIHFpNglXeeVC6RZWneSV5i6GqcRNchkTU3pN96IpdGvFupbpg_JlhuAY15fjLtmfOWC1CUPrpl1OeLRk62QnWVLpvyso3ifWdsNMUytn0tQJyyw0MvWw4GVbA1eB2phU7Pp6xbDzN322O2RGGcXiPrAEqhPYpC7d_M6tcStS8Tj8UwOnfvB-z0Tc4o/3ch/9we1Ce49RjWm5IFpQt1W5g/h10/GIkV_8HP5Hn67yP7fB2REY6cVC7BWUMY4lQd3uXjc0A" name="m-TopBanner" style="color:#666666"> <img src="https://img.teleflora.com/image/upload/q_auto,f_auto/bluecore/ffffff-CovidMessaging_MobileUpdate" border="0" alt="Delivered to your loved ones doorstep." style="display:block; border:none; margin: auto;" class="responsiveImage"></a></td></tr>
+<!--<![endif]--><tr><td bgcolor="#efbb4b" align="center" valign="center" class="dmenu"><a target="_blank" href="http://trk.b.teleflora.com/ss/c/9-aU3oKh6sTLpF8D2ydKaWB1iD-lbNm7E_qazMFo5SbcNQWfeJd7SRw6QMIr-EE2UZ2RooLjIXS4ve56Ytu--rnJ1hwP-ytZ1-25yyAJ4sNGn2ITUIHFpNglXeeVC6RZWneSV5i6GqcRNchkTU3pN96IpdGvFupbpg_JlhuAY15fjLtmfOWC1CUPrpl1OeLRk62QnWVLpvyso3ifWdsNMUytn0tQJyyw0MvWw4GVbA1eB2phU7Pp6xbDzN322O2RGGcXiPrAEqhPYpC7d_M6tcStS8Tj8UwOnfvB-z0Tc4o/3ch/9we1Ce49RjWm5IFpQt1W5g/h11/hjAdU62CATf3aZ0aEUYiNbvAOSB6qcjibw1Qpei1XEg" name="TopBanner" style="color:#666666"> <img class="responsiveImage" src="https://img.teleflora.com/image/upload/q_auto,f_auto/bluecore/ffffff-CovidMessaging_DesktopUpdate" alt="Delivered to your loved ones doorstep." border="0" style="display:block; border:none; margin: 0 auto; max-width:698px;"></a></td></tr>
+<tr><td height="15" style="font-size:15px; line-height:15px;" class="mhide">&#160;</td></tr>
+<tr><td class="responsiveColumn" align="center"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+<!-- PRODUCT 2 IMAGE START --><tr><td align="center" valign="bottom" class="responsiveColumn"><a target="_blank" href="http://trk.b.teleflora.com/ss/c/9-aU3oKh6sTLpF8D2ydKaWB1iD-lbNm7E_qazMFo5SZjnCVg7B30y80ehXCpP0f4ujk5GAidH0-vJpXpna5lZG0QZv5thXgKvwkGHbEYwEzZkVETdRi9Qf97OGZtI9qpM9QRUZ7dkJ3PGxLLmJTb6nLri3je-DA40UEcIBulUL40c2XsVUgjtuPZXfKePDOHx2SdbFhRl4LT6kqcrHIwM7YxIl31FPf4LapepP0aX7koIRiynPfvH2kC8Tb2F5N67IU9k5hH-ohR-KjFpsiiLWtJSqxFCtaPQf8ixgATen62ZHHGQphxP_Em0vi7yw2bJoLRuFjZiXvdE7Z5LF5SRsOUu11kjn90ibCYaOPpstSWCJGUgl6Fhte6BdxYOTzt/3ch/9we1Ce49RjWm5IFpQt1W5g/h12/vgTZ2WQj0WzRJENoqQOO8oX0p-L961nyz0tp0Tr6RtQ" name="Product1" style="color:#666666"> <img class="responsiveImage" src="https://img.teleflora.com/image/upload/q_auto,f_auto/v1600122754/bluecore/20210604-TEV59-1A_SOCIAL" width="680" alt="Teleflora's Sapphire Sunrise Bouquet" border="0" style="display:block; border:none; margin: 0 auto; "></a></td></tr>
+<!--[if !mso]><!-- --><tr style=" mso-hide:all;"><td align="center" style="display:none; font-size:0; max-height:0; mso-hide:all; overflow:hidden; width:0;" class="mmenu">&#160;</td></tr>
+<tr style=" mso-hide:all;"><td style="display:none; font-size:0; max-height:0; mso-hide:all; overflow:hidden; width:0;" class="mmenu" align="center"><a target="_blank" href="http://trk.b.teleflora.com/ss/c/9-aU3oKh6sTLpF8D2ydKaWB1iD-lbNm7E_qazMFo5SbcNQWfeJd7SRw6QMIr-EE2UZ2RooLjIXS4ve56Ytu--rnJ1hwP-ytZ1-25yyAJ4sNGn2ITUIHFpNglXeeVC6RZWneSV5i6GqcRNchkTU3pN96IpdGvFupbpg_JlhuAY15fjLtmfOWC1CUPrpl1OeLRk62QnWVLpvyso3ifWdsNMUytn0tQJyyw0MvWw4GVbA1eB2phU7Pp6xbDzN322O2RGGcXiPrAEqhPYpC7d_M6tcStS8Tj8UwOnfvB-z0Tc4o/3ch/9we1Ce49RjWm5IFpQt1W5g/h13/jFJpGdKDSwhL1Td56l6Xpxd2XEIzNvMFDTgEWJ5x5Sk" name="Product1" style="font-size:14px; line-height:19px; font-family:Helvetica, Arial, sans-serif; color:#efbb4b; text-decoration:none; text-align:center; text-transform:uppercase" align="center"><b><i></i></b></a></td></tr>
+<tr style=" mso-hide:all;"><td style="display:none; font-size:0; max-height:0; mso-hide:all; overflow:hidden; width:0;" class="mmenu" align="center"><a target="_blank" href="http://trk.b.teleflora.com/ss/c/9-aU3oKh6sTLpF8D2ydKaWB1iD-lbNm7E_qazMFo5SZjnCVg7B30y80ehXCpP0f4ujk5GAidH0-vJpXpna5lZG0QZv5thXgKvwkGHbEYwEzZkVETdRi9Qf97OGZtI9qpM9QRUZ7dkJ3PGxLLmJTb6nLri3je-DA40UEcIBulUL40c2XsVUgjtuPZXfKePDOHx2SdbFhRl4LT6kqcrHIwM7YxIl31FPf4LapepP0aX7koIRiynPfvH2kC8Tb2F5N67IU9k5hH-ohR-KjFpsiiLWtJSqxFCtaPQf8ixgATen62ZHHGQphxP_Em0vi7yw2bJoLRuFjZiXvdE7Z5LF5SRsOUu11kjn90ibCYaOPpstSWCJGUgl6Fhte6BdxYOTzt/3ch/9we1Ce49RjWm5IFpQt1W5g/h14/OxbIP9GH9kG4lneTTEbsCxz1vyNSFP6LUG1_q-Q6csw" name="P1" style="font-size:13px; line-height:19px; font-family:Helvetica, Arial, sans-serif; color:#000000; text-decoration:none; text-align:center" align="center">Teleflora's Sapphire Sunrise Bouquet</a></td></tr>
+<tr style=" mso-hide:all;"><td style="display:none; font-size:0; max-height:0; mso-hide:all; overflow:hidden; width:0;" class="mmenu" align="center"><a target="_blank" href="http://trk.b.teleflora.com/ss/c/9-aU3oKh6sTLpF8D2ydKaWB1iD-lbNm7E_qazMFo5SZjnCVg7B30y80ehXCpP0f4ujk5GAidH0-vJpXpna5lZG0QZv5thXgKvwkGHbEYwEzZkVETdRi9Qf97OGZtI9qpM9QRUZ7dkJ3PGxLLmJTb6nLri3je-DA40UEcIBulUL40c2XsVUgjtuPZXfKePDOHx2SdbFhRl4LT6kqcrHIwM7YxIl31FPf4LapepP0aX7koIRiynPfvH2kC8Tb2F5N67IU9k5hH-ohR-KjFpsiiLWtJSqxFCtaPQf8ixgATen62ZHHGQphxP_Em0vi7yw2bJoLRuFjZiXvdE7Z5LF5SRsOUu11kjn90ibCYaOPpstSWCJGUgl6Fhte6BdxYOTzt/3ch/9we1Ce49RjWm5IFpQt1W5g/h15/lDiqwM_oMnz4ujm9aRUVm4pqC8Rt1RmMo8dCXJlqhmQ" name="P1" style="font-size:13px; line-height:19px; font-family:Helvetica, Arial, sans-serif; color:#000000; text-decoration:none; text-align:center" align="center"></a></td></tr>
+<!-- PRODUCT 1 NAME END --><!-- PRODUCT 1 PRICE START --><!-- PRODUCT 1 PRICE END --><!-- PRODUCT 1 BUY NOW START--><tr style=" mso-hide:all;"><td style="display:none; font-size:0; max-height:0; mso-hide:all; overflow:hidden; width:0;" class="mmenu" align="center"><a target="_blank" href="http://trk.b.teleflora.com/ss/c/9-aU3oKh6sTLpF8D2ydKaWB1iD-lbNm7E_qazMFo5SZjnCVg7B30y80ehXCpP0f4ujk5GAidH0-vJpXpna5lZG0QZv5thXgKvwkGHbEYwEzZkVETdRi9Qf97OGZtI9qpM9QRUZ7dkJ3PGxLLmJTb6nLri3je-DA40UEcIBulUL40c2XsVUgjtuPZXfKePDOHx2SdbFhRl4LT6kqcrHIwM7YxIl31FPf4LapepP0aX7koIRiynPfvH2kC8Tb2F5N67IU9k5hH-ohR-KjFpsiiLWtJSqxFCtaPQf8ixgATen62ZHHGQphxP_Em0vi7yw2bJoLRuFjZiXvdE7Z5LF5SRsOUu11kjn90ibCYaOPpstSWCJGUgl6Fhte6BdxYOTzt/3ch/9we1Ce49RjWm5IFpQt1W5g/h16/jlqiYl2KVgQow1n_u6GJIuOd-hKZJ1v4tB1B-H8OmKI" name="P1" style="font-size:16px; line-height:24px; font-family:Helvetica, Arial, sans-serif; color:#efbb4b; text-decoration:none; text-align:center; font-weight:bold" align="center">BUY NOW</a></td></tr>
+<!--<![endif]--><!-- PRODUCT 2 IMAGE END --><tr><td align="center" valign="bottom" style="font-size:10px; line-height:10px;" height="10">&#160;</td></tr>
+<!-- PRODUCT 2 NAME START --><!--[if !mso]><!-- --><tr style=" mso-hide:all;"><td style="display:none; font-size:0; max-height:0; mso-hide:all; overflow:hidden; float:left; width:0;" class="mmenu">&#160; </td></tr>
+<!--<![endif]--><!-- PRODUCT 2 BUY NOW END-->
+</table></td></tr>
+<!-- HEADLINE START --><tr><td height="15" style="font-size:15px; line-height:15px;" class="mhide">&#160;</td></tr>
+<tr><td><table border="0" width="100%" cellspacing="0" cellpadding="0" align="center" style="background-color:#FFFFFF; padding: 5px 0;"><tr class="table-row">
+<td width="20"></td>
+<td align="center" valign="middle" class="responsiveColumn"><a target="_blank" href="http://trk.b.teleflora.com/ss/c/9-aU3oKh6sTLpF8D2ydKaWB1iD-lbNm7E_qazMFo5SYFIn9V3QqrqoT0caDZBU-XObfOtdw676CirRulv0Py-DKWbnreAkPdnrpUccjUc4FsGddjNI_EpD-xwo_952DrqAVMHWi-9FLa_mZJUU5B9xTx-knY8_HGF9pNi2hTmzjp7tpE5jh5xAK1pXCYMNbjP5QSX31fUFa27cRGo1z168ELWFUB174Xl9uYcPE4fdEX801WgJ1SHTIXEbe0YgtlLuKbLqRQbKsIJ1K7PH8Yi1rvLfaanM9HwaVbBw2NtAS0QcyOEsn3Ldx7mlc3ywC0AYSam6Q-Q4ZoAZcvQG1arA/3ch/9we1Ce49RjWm5IFpQt1W5g/h17/mIZHGX5llh2AB1UixSov4ddjL8-gGzY5jYPcMsXG_1s" name="HTMLOffer_2" style="font-size:26px; font-family:'Avenir LT Std 65 Medium', 'avenir', 'avenir next', Helvetica, Arial, sans-serif; color:#efbb4b; text-align:center; text-decoration:none; font-weight:bold; mso-line-height:exactly; line-height:90%; line-height:.9em" class="offer1" align="center"><b><i>USE YOUR $15.23 CREDIT</i></b><div style="font-size:8px; font-weight:normal;"><br></div></a></td>
+<td width="20"></td>
+</tr></table></td></tr>
+<tr><td><table border="0" width="100%" cellspacing="0" cellpadding="0" align="center" style="background-color:#FFFFFF; padding: 5px 0;"><tr class="table-row">
+<td width="20"></td>
+<td align="center" style="font-family: 'Avenir LT Std 65 Medium', 'avenir', 'avenir next',Helvetica,  Arial, sans-serif; font-size:20px; text-decoration:none; mso-line-height: exactly;line-height: 90%;line-height: .9em; text-transform:uppercase; letter-spacing: 0.1em;" class="headline"><a target="_blank" href="http://trk.b.teleflora.com/ss/c/9-aU3oKh6sTLpF8D2ydKaWB1iD-lbNm7E_qazMFo5SYFIn9V3QqrqoT0caDZBU-XObfOtdw676CirRulv0Py-DKWbnreAkPdnrpUccjUc4FsGddjNI_EpD-xwo_952DrqAVMHWi-9FLa_mZJUU5B9xTx-knY8_HGF9pNi2hTmzjp7tpE5jh5xAK1pXCYMNbjP5QSX31fUFa27cRGo1z168ELWFUB174Xl9uYcPE4fdEX801WgJ1SHTIXEbe0YgtlLuKbLqRQbKsIJ1K7PH8Yi1rvLfaanM9HwaVbBw2NtAS0QcyOEsn3Ldx7mlc3ywC0AYSam6Q-Q4ZoAZcvQG1arA/3ch/9we1Ce49RjWm5IFpQt1W5g/h18/_vIQahh8MK_yDuvbphmEoltmfED4lHpKKMenR7ysdBo" name="HTMLHeadline" style="color:#666666; text-decoration:none"><span style="color:#efbb4b;" class="header1"><b><i>SEND A LITTLE SUNSHINE</i></b></span></a></td>
+<td width="20"></td>
+</tr></table></td></tr>
+<tr><td><table width="100%" cellpadding="0" cellspacing="0" border="0" align="center"><tr>
+<td width="20"></td>
+<td class="mhide" width="100"></td>
+<td align="center"><a target="_blank" href="http://trk.b.teleflora.com/ss/c/9-aU3oKh6sTLpF8D2ydKaWB1iD-lbNm7E_qazMFo5SYFIn9V3QqrqoT0caDZBU-XObfOtdw676CirRulv0Py-DKWbnreAkPdnrpUccjUc4FsGddjNI_EpD-xwo_952DrqAVMHWi-9FLa_mZJUU5B9xTx-knY8_HGF9pNi2hTmzjp7tpE5jh5xAK1pXCYMNbjP5QSX31fUFa27cRGo1z168ELWFUB174Xl9uYcPE4fdEX801WgJ1SHTIXEbe0YgtlLuKbLqRQbKsIJ1K7PH8Yi1rvLfaanM9HwaVbBw2NtAS0QcyOEsn3Ldx7mlc3ywC0AYSam6Q-Q4ZoAZcvQG1arA/3ch/9we1Ce49RjWm5IFpQt1W5g/h19/pyBRIVwSIpGDNuZppMwuZSamMCpLpmeQemcOfPHFOls" name="Headline" style="text-decoration:none; font-weight:normal; font-size:16px; font-family:Helvetica, Arial, sans-serif; color:#000000; text-decoration:none; line-height:1.33em" class="maincontent">Send a little sunshine to someone special with a beautiful Teleflora bouquet. It will brighten spirits and homes alike.</a></td>
+<td class="mhide" width="100"></td>
+<td width="20"></td>
+</tr></table></td></tr>
+<tr><td height="15" style="font-size:15px; line-height:15px;">&#160;</td></tr>
+<!-- TAG CONTENT END --><!-- SHOP BUTTON START --><tr><td align="center"><table border="0" align="center" cellpadding="0" cellspacing="0"><tr><td align="center" valign="middle" class="responsiveColumn"><table border="0" align="center" cellpadding="0" cellspacing="0"><tr><td align="center" valign="middle" class="responsiveColumn"><table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr><td align="center" valign="middle"><table border="0" align="center" cellpadding="10" cellspacing="0"><tr><td align="center" valign="middle" bgcolor="#efbb4b" style="min-width:100px;" class="bannerbutton">
+<!---moz-border-radius: 5px; border-radius: 5px;--><a target="_blank" href="http://trk.b.teleflora.com/ss/c/9-aU3oKh6sTLpF8D2ydKaWB1iD-lbNm7E_qazMFo5SYFIn9V3QqrqoT0caDZBU-XObfOtdw676CirRulv0Py-DKWbnreAkPdnrpUccjUc4FsGddjNI_EpD-xwo_952DrqAVMHWi-9FLa_mZJUU5B9xTx-knY8_HGF9pNi2hTmzjp7tpE5jh5xAK1pXCYMNbjP5QSX31fUFa27cRGo1z168ELWFUB174Xl9uYcPE4fdEX801WgJ1SHTIXEbe0YgtlLuKbLqRQbKsIJ1K7PH8Yi1rvLfaanM9HwaVbBw2NtAS0QcyOEsn3Ldx7mlc3ywC0AYSam6Q-Q4ZoAZcvQG1arA/3ch/9we1Ce49RjWm5IFpQt1W5g/h20/s_e7tDGM8wucK94W3REld1LcsI8nLfdpxFxioL263xM" name="Banner1" style="font-size:15px; line-height:23px; font-family:'Century Gothic', CenturyGothic, Geneva, AppleGothic, Arial, Helvetica, 'Franklin Gothic Medium', sans-serif; color:#FFFFFF; text-decoration:none; text-transform:uppercase" class="mainbutton">Shop Now</a>
+</td></tr></table></td></tr>
+<tr><td height="15" align="center" valign="middle" style="font-size:15px; line-height:15px;">&#160;</td></tr>
+</table></td></tr></table></td></tr></table></td></tr>
+<tr><td>
+<!-- PRODUCT TABLE --><table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" class="responsiveTable"><tr>
+<td class="mhide" width="10">&#160;</td>
+<th style="font-weight:normal;" align="center" valign="top" class="responsiveColumn" width="216"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr><td align="center" valign="bottom" style="font-size:20px; line-height:20px;" height="20">&#160;</td></tr>
+<!-- PRODUCT 2 IMAGE START --><tr><td align="center" valign="bottom"><a target="_blank" href="http://trk.b.teleflora.com/ss/c/9-aU3oKh6sTLpF8D2ydKaWB1iD-lbNm7E_qazMFo5SZjnCVg7B30y80ehXCpP0f4977f2tgyNrS-cRAbEzywRiKAw-7zlbkdDVfKqtNYcmrar1GG_HRXXAQ0yV0T6zqsso2BXEhfEOOEKBDcn8O-L36-Xj9OP2IxR_AVWoP-uhUOP9F0WyTk8SfwXHnUjPGaJ47tF_mkdduBZrFDOJYRpRydIMwmQl5sGTEF3gbmznFaje7bUc_1O12JiEH8SlfAvqRLdP1g75cEKFX0WbgHpUIuoM6rlQDzYJO-t7vfwRJByx_YcUX7fuqDYbN_ZXHxxsVprotp-tDtatQ5ESa5_FY3WosYtF-NaBLJ_UagSpKsi14NIP5DUltkf93Vl6LR/3ch/9we1Ce49RjWm5IFpQt1W5g/h21/kseO8zv43ELsQMbgH88_u1SAFdVVQH7hV9K0uR1_4p8" name="P2" style="color:#666666"><img src="https://img.teleflora.com/image/upload/f_auto,q_auto/v1600122755/bluecore/TEV59-7A_ENV" width="209" alt="Teleflora's Sunset Splash Bouquet" border="0" class="responsiveImage" style="display:block; border:none; margin: 0 auto;"></a></td></tr>
+<!-- PRODUCT 2 IMAGE END --><tr><td height="15" style="font-size:15px; line-height:15px;">&#160;</td></tr>
+<tr><td align="center" valign="bottom"><a target="_blank" href="http://trk.b.teleflora.com/ss/c/9-aU3oKh6sTLpF8D2ydKaWB1iD-lbNm7E_qazMFo5SbcNQWfeJd7SRw6QMIr-EE2UZ2RooLjIXS4ve56Ytu--rnJ1hwP-ytZ1-25yyAJ4sNGn2ITUIHFpNglXeeVC6RZWneSV5i6GqcRNchkTU3pN96IpdGvFupbpg_JlhuAY15fjLtmfOWC1CUPrpl1OeLRk62QnWVLpvyso3ifWdsNMUytn0tQJyyw0MvWw4GVbA1eB2phU7Pp6xbDzN322O2RGGcXiPrAEqhPYpC7d_M6tcStS8Tj8UwOnfvB-z0Tc4o/3ch/9we1Ce49RjWm5IFpQt1W5g/h22/vpVcu_pnQW3vPfVjORrOw1T7BPGfpaMBhjaoQ0niPd8" name="Product2" style="font-size:18px; line-height:1.5em; font-family:Helvetica, Arial, sans-serif; color:#efbb4b; text-decoration:none; text-align:center; text-transform:uppercase" align="center"><b><i></i></b></a></td></tr>
+<!-- PRODUCT 2 NAME START --><tr><td align="center" valign="bottom"><a target="_blank" href="http://trk.b.teleflora.com/ss/c/9-aU3oKh6sTLpF8D2ydKaWB1iD-lbNm7E_qazMFo5SZjnCVg7B30y80ehXCpP0f4977f2tgyNrS-cRAbEzywRiKAw-7zlbkdDVfKqtNYcmrar1GG_HRXXAQ0yV0T6zqsso2BXEhfEOOEKBDcn8O-L36-Xj9OP2IxR_AVWoP-uhUOP9F0WyTk8SfwXHnUjPGaJ47tF_mkdduBZrFDOJYRpRydIMwmQl5sGTEF3gbmznFaje7bUc_1O12JiEH8SlfAvqRLdP1g75cEKFX0WbgHpUIuoM6rlQDzYJO-t7vfwRJByx_YcUX7fuqDYbN_ZXHxxsVprotp-tDtatQ5ESa5_FY3WosYtF-NaBLJ_UagSpKsi14NIP5DUltkf93Vl6LR/3ch/9we1Ce49RjWm5IFpQt1W5g/h23/dRlZx8jSQdZbyPT5nb1D4KvNWHxLgAO-YvdKLkZouSk" name="P2" style="font-size:13px; line-height:19px; font-family:Helvetica, Arial, sans-serif; color:#000000; text-decoration:none; text-align:center" align="center">Teleflora's Sunset Splash Bouquet</a></td></tr>
+<tr><td align="center" valign="bottom"><a target="_blank" href="http://trk.b.teleflora.com/ss/c/9-aU3oKh6sTLpF8D2ydKaWB1iD-lbNm7E_qazMFo5SZjnCVg7B30y80ehXCpP0f4977f2tgyNrS-cRAbEzywRiKAw-7zlbkdDVfKqtNYcmrar1GG_HRXXAQ0yV0T6zqsso2BXEhfEOOEKBDcn8O-L36-Xj9OP2IxR_AVWoP-uhUOP9F0WyTk8SfwXHnUjPGaJ47tF_mkdduBZrFDOJYRpRydIMwmQl5sGTEF3gbmznFaje7bUc_1O12JiEH8SlfAvqRLdP1g75cEKFX0WbgHpUIuoM6rlQDzYJO-t7vfwRJByx_YcUX7fuqDYbN_ZXHxxsVprotp-tDtatQ5ESa5_FY3WosYtF-NaBLJ_UagSpKsi14NIP5DUltkf93Vl6LR/3ch/9we1Ce49RjWm5IFpQt1W5g/h24/DvGcRxaOywAqrhpHhfwCAFvDS-6hWKbBA9YGwn58NsQ" name="P2" style="font-size:13px; line-height:19px; font-family:Helvetica, Arial, sans-serif; color:#000000; text-decoration:none; text-align:center" align="center"></a></td></tr>
+<!-- PRODUCT 2 NAME END --><!-- PRODUCT 2 REWARD START --><!-- PRODUCT 2 REWARD END --><!-- PRODUCT 2 BUY NOW START--><tr><td align="center" valign="middle"><a target="_blank" href="http://trk.b.teleflora.com/ss/c/9-aU3oKh6sTLpF8D2ydKaWB1iD-lbNm7E_qazMFo5SZjnCVg7B30y80ehXCpP0f4977f2tgyNrS-cRAbEzywRiKAw-7zlbkdDVfKqtNYcmrar1GG_HRXXAQ0yV0T6zqsso2BXEhfEOOEKBDcn8O-L36-Xj9OP2IxR_AVWoP-uhUOP9F0WyTk8SfwXHnUjPGaJ47tF_mkdduBZrFDOJYRpRydIMwmQl5sGTEF3gbmznFaje7bUc_1O12JiEH8SlfAvqRLdP1g75cEKFX0WbgHpUIuoM6rlQDzYJO-t7vfwRJByx_YcUX7fuqDYbN_ZXHxxsVprotp-tDtatQ5ESa5_FY3WosYtF-NaBLJ_UagSpKsi14NIP5DUltkf93Vl6LR/3ch/9we1Ce49RjWm5IFpQt1W5g/h25/lDSNA7r5BV5nThsDlT5xE6v24Ql_9obcBuZMfQ5PTco" name="P2" style="font-size:16px; line-height:18px; font-family:Helvetica, Arial, sans-serif; color:#efbb4b; text-decoration:none; text-align:center; font-weight:bold" align="center"> BUY NOW&#160;</a></td></tr>
+<!-- PRODUCT 2 BUY NOW END-->
+</table></th>
+<td width="10" class="mhide">&#160;</td>
+<th style="font-weight:normal;" align="center" valign="top" class="responsiveColumn" width="216"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr><td align="center" valign="bottom" style="font-size:20px; line-height:20px;" height="20">&#160;</td></tr>
+<!-- PRODUCT 3 IMAGE START --><tr><td align="center" valign="bottom"><a target="_blank" href="http://trk.b.teleflora.com/ss/c/9-aU3oKh6sTLpF8D2ydKaWB1iD-lbNm7E_qazMFo5SZjnCVg7B30y80ehXCpP0f4R3VXTwLPFaV_G7yVTNJ780DPXANKnVVedPoT3kg-fUTA6gdRhW3SC6eagyo6wBPFESsn7AMH70M5XlLkHWOJT3ZuAZIdm9iRsPTGpOlM0z99MD436rhz0qOlf0ci5yMUY7MXBCU9Tmp5KnFs2EfcrxqfzLf5JTndI6MaIpMB4EuPpMZuvE5_4LuhJBwDVV8oJQFYr8ouceM542J_rlafgdye8xO0wWkCoIkdKxOVmOky-kxAnwOBq17ayA29sD98T3lRgGuw2ReEPUqJIJdG4DKq5wGUt_uwzZVgYPBehduPO0DQqyQmEeAe-slJ_TdO/3ch/9we1Ce49RjWm5IFpQt1W5g/h26/emKmFapn5IuejfAPXxgRYuXz76SR2zzbhvDxvHlhsZo" name="P3" style="color:#666666"> <img src="https://img.teleflora.com/image/upload/f_auto,q_auto/v1600122755/bluecore/TSD03-1A_ENV" width="209" alt="Teleflora's Color Me Cute Bouquet" border="0" class="responsiveImage" style="display:block; border:none; margin: 0 auto;"></a></td></tr>
+<!-- PRODUCT 3 IMAGE END --><tr><td height="15" style="font-size:15px; line-height:15px;">&#160;</td></tr>
+<tr><td align="center" valign="bottom"><a target="_blank" href="http://trk.b.teleflora.com/ss/c/9-aU3oKh6sTLpF8D2ydKaWB1iD-lbNm7E_qazMFo5SbcNQWfeJd7SRw6QMIr-EE2UZ2RooLjIXS4ve56Ytu--rnJ1hwP-ytZ1-25yyAJ4sNGn2ITUIHFpNglXeeVC6RZWneSV5i6GqcRNchkTU3pN96IpdGvFupbpg_JlhuAY15fjLtmfOWC1CUPrpl1OeLRk62QnWVLpvyso3ifWdsNMUytn0tQJyyw0MvWw4GVbA1eB2phU7Pp6xbDzN322O2RGGcXiPrAEqhPYpC7d_M6tcStS8Tj8UwOnfvB-z0Tc4o/3ch/9we1Ce49RjWm5IFpQt1W5g/h27/BmE_SnMtDy5Pu09Fibij3tabhvz9oSaIUDL0hx05Plc" name="Product2" style="font-size:18px; line-height:1.5em; font-family:Helvetica, Arial, sans-serif; color:#efbb4b; text-decoration:none; text-align:center; text-transform:uppercase" align="center"><b><i></i></b></a></td></tr>
+<!-- PRODUCT 3 NAME START --><tr><td align="center" valign="bottom"><a target="_blank" href="http://trk.b.teleflora.com/ss/c/9-aU3oKh6sTLpF8D2ydKaWB1iD-lbNm7E_qazMFo5SZjnCVg7B30y80ehXCpP0f4R3VXTwLPFaV_G7yVTNJ780DPXANKnVVedPoT3kg-fUTA6gdRhW3SC6eagyo6wBPFESsn7AMH70M5XlLkHWOJT3ZuAZIdm9iRsPTGpOlM0z99MD436rhz0qOlf0ci5yMUY7MXBCU9Tmp5KnFs2EfcrxqfzLf5JTndI6MaIpMB4EuPpMZuvE5_4LuhJBwDVV8oJQFYr8ouceM542J_rlafgdye8xO0wWkCoIkdKxOVmOky-kxAnwOBq17ayA29sD98T3lRgGuw2ReEPUqJIJdG4DKq5wGUt_uwzZVgYPBehduPO0DQqyQmEeAe-slJ_TdO/3ch/9we1Ce49RjWm5IFpQt1W5g/h28/XnKVqf_orjXf4ZVzh149Nc-1zDgViLewC_5x1Os-lsg" name="P3" style="font-size:13px; line-height:19px; font-family:Helvetica, Arial, sans-serif; color:#000000; text-decoration:none; text-align:center" align="center">Teleflora's Color Me Cute Bouquet</a></td></tr>
+<tr><td align="center" valign="bottom"><a target="_blank" href="http://trk.b.teleflora.com/ss/c/9-aU3oKh6sTLpF8D2ydKaWB1iD-lbNm7E_qazMFo5SZjnCVg7B30y80ehXCpP0f4R3VXTwLPFaV_G7yVTNJ780DPXANKnVVedPoT3kg-fUTA6gdRhW3SC6eagyo6wBPFESsn7AMH70M5XlLkHWOJT3ZuAZIdm9iRsPTGpOlM0z99MD436rhz0qOlf0ci5yMUY7MXBCU9Tmp5KnFs2EfcrxqfzLf5JTndI6MaIpMB4EuPpMZuvE5_4LuhJBwDVV8oJQFYr8ouceM542J_rlafgdye8xO0wWkCoIkdKxOVmOky-kxAnwOBq17ayA29sD98T3lRgGuw2ReEPUqJIJdG4DKq5wGUt_uwzZVgYPBehduPO0DQqyQmEeAe-slJ_TdO/3ch/9we1Ce49RjWm5IFpQt1W5g/h29/xV0y7ucEJFr7bwMf8S3_PG5cEtZWP6m8XhinZaF-S0U" name="P3" style="font-size:13px; line-height:19px; font-family:Helvetica, Arial, sans-serif; color:#000000; text-decoration:none; text-align:center" align="center"></a></td></tr>
+<!-- PRODUCT 3 NAME END --><!-- PRODUCT 3 REWARD START --><!-- PRODUCT 3 REWARD END --><!-- PRODUCT 3 BUY NOW START--><tr><td align="center" valign="middle"><a target="_blank" href="http://trk.b.teleflora.com/ss/c/9-aU3oKh6sTLpF8D2ydKaWB1iD-lbNm7E_qazMFo5SZjnCVg7B30y80ehXCpP0f4R3VXTwLPFaV_G7yVTNJ780DPXANKnVVedPoT3kg-fUTA6gdRhW3SC6eagyo6wBPFESsn7AMH70M5XlLkHWOJT3ZuAZIdm9iRsPTGpOlM0z99MD436rhz0qOlf0ci5yMUY7MXBCU9Tmp5KnFs2EfcrxqfzLf5JTndI6MaIpMB4EuPpMZuvE5_4LuhJBwDVV8oJQFYr8ouceM542J_rlafgdye8xO0wWkCoIkdKxOVmOky-kxAnwOBq17ayA29sD98T3lRgGuw2ReEPUqJIJdG4DKq5wGUt_uwzZVgYPBehduPO0DQqyQmEeAe-slJ_TdO/3ch/9we1Ce49RjWm5IFpQt1W5g/h30/IC02xBfhVef8u24IgU2wsOLfIvI1leMRRDabHB9D0ME" name="P3" style="font-size:16px; line-height:18px; font-family:Helvetica, Arial, sans-serif; color:#efbb4b; text-decoration:none; text-align:center; font-weight:bold" align="center"> BUY NOW&#160;</a></td></tr>
+<!-- PRODUCT 3 BUY NOW END-->
+</table></th>
+<td width="10" class="mhide">&#160;</td>
+<th style="font-weight:normal;" align="center" valign="top" class="responsiveColumn" width="216"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr><td align="center" valign="bottom" style="font-size:20px; line-height:20px;" height="20">&#160;</td></tr>
+<!-- PRODUCT 4 IMAGE START --><tr><td align="center" valign="bottom"><a target="_blank" href="http://trk.b.teleflora.com/ss/c/9-aU3oKh6sTLpF8D2ydKaWB1iD-lbNm7E_qazMFo5SburD3DeYnjhYevmsbWkEo7LTAF1d0mdqIoOzSmTHu_v0y0tGslPZyUFn5GZ1E-n8PaRTtmF1HyotuuRsi0EiFy0NOyjx_sr95Pk81wJdLHEG4nbqG102MKrJVd7gabSfRGcZTb7OiIwRg70vOw41yVa8gBg81fpwsnaiuARPtZFKAF48680aJwvcUuEUm49QHzjgWNvcBMvyjhxpxZKwo78WANtMPsy_NhussZOzPI-HaMVBM9hLUB4FMxuQePp4VkbYOpVzDIGr-Hx4-J02BIKvUt-ieDIF5rVN-y37xOMsQsMtFf82dY0wbSE0e_iac/3ch/9we1Ce49RjWm5IFpQt1W5g/h31/wifeR16Djjm6UxUA0dWdfMx2_jxX_Q4ddEOvae-yjU8" name="P4" style="color:#666666"> <img src="https://img.teleflora.com/image/upload/f_auto,q_auto/v1598399242/bluecore/T152-2A_ENV_2" width="209" alt="Sunny Sunflowers" border="0" class="responsiveImage" style="display:block; border:none; margin: 0 auto;"></a></td></tr>
+<!-- PRODUCT 4 IMAGE END --><tr><td height="15" style="font-size:15px; line-height:15px;">&#160;</td></tr>
+<tr><td align="center" valign="bottom"><a target="_blank" href="http://trk.b.teleflora.com/ss/c/9-aU3oKh6sTLpF8D2ydKaWB1iD-lbNm7E_qazMFo5SbcNQWfeJd7SRw6QMIr-EE2UZ2RooLjIXS4ve56Ytu--rnJ1hwP-ytZ1-25yyAJ4sNGn2ITUIHFpNglXeeVC6RZWneSV5i6GqcRNchkTU3pN96IpdGvFupbpg_JlhuAY15fjLtmfOWC1CUPrpl1OeLRk62QnWVLpvyso3ifWdsNMUytn0tQJyyw0MvWw4GVbA1eB2phU7Pp6xbDzN322O2RGGcXiPrAEqhPYpC7d_M6tcStS8Tj8UwOnfvB-z0Tc4o/3ch/9we1Ce49RjWm5IFpQt1W5g/h32/bx8w9eZgmppa6wcwqRk8USyCr5Uhhumtg-U30Nsb9To" name="Product2" style="font-size:18px; line-height:1.5em; font-family:Helvetica, Arial, sans-serif; color:#efbb4b; text-decoration:none; text-align:center; text-transform:uppercase" align="center"><b><i></i></b></a></td></tr>
+<!-- PRODUCT 4 NAME START --><tr><td align="center" valign="bottom"><a target="_blank" href="http://trk.b.teleflora.com/ss/c/9-aU3oKh6sTLpF8D2ydKaWB1iD-lbNm7E_qazMFo5SburD3DeYnjhYevmsbWkEo7LTAF1d0mdqIoOzSmTHu_v0y0tGslPZyUFn5GZ1E-n8PaRTtmF1HyotuuRsi0EiFy0NOyjx_sr95Pk81wJdLHEG4nbqG102MKrJVd7gabSfRGcZTb7OiIwRg70vOw41yVa8gBg81fpwsnaiuARPtZFKAF48680aJwvcUuEUm49QHzjgWNvcBMvyjhxpxZKwo78WANtMPsy_NhussZOzPI-HaMVBM9hLUB4FMxuQePp4VkbYOpVzDIGr-Hx4-J02BIKvUt-ieDIF5rVN-y37xOMsQsMtFf82dY0wbSE0e_iac/3ch/9we1Ce49RjWm5IFpQt1W5g/h33/PbrIG8RWcFOASyXgae7QI1r1o3CLq5rvwErOnWhgU70" name="P4" style="font-size:13px; line-height:19px; font-family:Helvetica, Arial, sans-serif; color:#000000; text-decoration:none; text-align:center" align="center">Sunny Sunflowers</a></td></tr>
+<tr><td align="center" valign="bottom"><a target="_blank" href="http://trk.b.teleflora.com/ss/c/9-aU3oKh6sTLpF8D2ydKaWB1iD-lbNm7E_qazMFo5SburD3DeYnjhYevmsbWkEo7LTAF1d0mdqIoOzSmTHu_v0y0tGslPZyUFn5GZ1E-n8PaRTtmF1HyotuuRsi0EiFy0NOyjx_sr95Pk81wJdLHEG4nbqG102MKrJVd7gabSfRGcZTb7OiIwRg70vOw41yVa8gBg81fpwsnaiuARPtZFKAF48680aJwvcUuEUm49QHzjgWNvcBMvyjhxpxZKwo78WANtMPsy_NhussZOzPI-HaMVBM9hLUB4FMxuQePp4VkbYOpVzDIGr-Hx4-J02BIKvUt-ieDIF5rVN-y37xOMsQsMtFf82dY0wbSE0e_iac/3ch/9we1Ce49RjWm5IFpQt1W5g/h34/fumX8ImJNuW-DOE8Fv9QlbxTSB-AQXgIAx_vpfUk_i0" name="P4" style="font-size:13px; line-height:19px; font-family:Helvetica, Arial, sans-serif; color:#000000; text-decoration:none; text-align:center" align="center"></a></td></tr>
+<!-- PRODUCT 4 NAME END --><!-- PRODUCT 4 REWARD START --><!-- PRODUCT 4 REWARD END --><!-- PRODUCT 4 BUY NOW START--><tr><td align="center" valign="middle"><a target="_blank" href="http://trk.b.teleflora.com/ss/c/9-aU3oKh6sTLpF8D2ydKaWB1iD-lbNm7E_qazMFo5SburD3DeYnjhYevmsbWkEo7LTAF1d0mdqIoOzSmTHu_v0y0tGslPZyUFn5GZ1E-n8PaRTtmF1HyotuuRsi0EiFy0NOyjx_sr95Pk81wJdLHEG4nbqG102MKrJVd7gabSfRGcZTb7OiIwRg70vOw41yVa8gBg81fpwsnaiuARPtZFKAF48680aJwvcUuEUm49QHzjgWNvcBMvyjhxpxZKwo78WANtMPsy_NhussZOzPI-HaMVBM9hLUB4FMxuQePp4VkbYOpVzDIGr-Hx4-J02BIKvUt-ieDIF5rVN-y37xOMsQsMtFf82dY0wbSE0e_iac/3ch/9we1Ce49RjWm5IFpQt1W5g/h35/1FHQHaq1roR0CpKeQKxToVU4rPiwUJyS9hQxWVPscdA" name="P4" style="font-size:16px; line-height:18px; font-family:Helvetica, Arial, sans-serif; color:#efbb4b; text-decoration:none; text-align:center; font-weight:bold" align="center"> BUY NOW&#160;</a></td></tr>
+<!-- PRODUCT 4 BUY NOW END-->
+</table></th>
+<td class="mhide" width="10">&#160;</td>
+</tr></table>
+<!-- PRODUCT TABLE -->
+</td></tr>
+<!-- BANNERS START --><tr><td height="15" style="font-size:15px; line-height:15px;">&#160;</td></tr>
+<!--[if !mso]><!-- --><tr style=" mso-hide:all;"><td style="display:none; font-size:0; max-height:0; mso-hide:all; overflow:hidden; float:left; width:0;" class="mmenu" bgcolor="#f2efee"><a target="_blank" href="http://trk.b.teleflora.com/ss/c/9-aU3oKh6sTLpF8D2ydKaWB1iD-lbNm7E_qazMFo5SaUdMC5Zlb5cxpnVbmR6UbGMQFMRRnCzMVrAUehFdVTUBa0JQtWbWkSo03TBAiDRm3tQEnzzx52pXtdlN8jBii2CYsUYoFQRWKdRJQK1PSLkwHRcakZdrcc9tH2S7oipB4BMBI8BT3yqY4O1ojd6Sv5cpkho2qvEXMaLZrgIj-iUoTim7zfcJ5qDARyO82DxbSMrkAAk_Oop-Q_jaf9rDDEZTM596cIVRqlgXevk5TyQL5qhX9ATLW1-GMZjOeEEVxfZ9oYxAj9reh8mCPjNBLc8SgjVsH_PSSucWMT2eraow9YmRLjIM_hlocYOjYF7_U/3ch/9we1Ce49RjWm5IFpQt1W5g/h36/h_iVqZgFeIM4oojk4l6IjPSe-uO7xd9Q2cMy4kJhufY" name="Banner1" style="color:#666666"><img src="https://img.teleflora.com/image/upload/q_auto,f_auto/v1585609223/bluecore/DOTD-20210604-m" alt border="0" style="display:block; border:none; margin: auto;" class="responsiveImage"></a></td></tr>
+<!--<![endif]--><tr><td align="center" bgcolor="#f2efee" class="dmenu"><a target="_blank" href="http://trk.b.teleflora.com/ss/c/9-aU3oKh6sTLpF8D2ydKaWB1iD-lbNm7E_qazMFo5SaUdMC5Zlb5cxpnVbmR6UbGMQFMRRnCzMVrAUehFdVTUBa0JQtWbWkSo03TBAiDRm3tQEnzzx52pXtdlN8jBii2CYsUYoFQRWKdRJQK1PSLkwHRcakZdrcc9tH2S7oipB4BMBI8BT3yqY4O1ojd6Sv5cpkho2qvEXMaLZrgIj-iUoTim7zfcJ5qDARyO82DxbSMrkAAk_Oop-Q_jaf9rDDEZTM596cIVRqlgXevk5TyQL5qhX9ATLW1-GMZjOeEEVxfZ9oYxAj9reh8mCPjNBLc8SgjVsH_PSSucWMT2eraow9YmRLjIM_hlocYOjYF7_U/3ch/9we1Ce49RjWm5IFpQt1W5g/h37/7PyM1cFJLo5vulMGX6oX_dgATQc7CpUpHpB4aTZkPl0" name="Banner1" style="color:#666666"> <img class="responsiveImage" src="https://img.teleflora.com/image/upload/q_auto,f_auto/v1585609223/bluecore/DOTD-20210604" alt="ONE-OF-A-KIND TELEFLORA BOUQUETS" border="0" style="display:block; border:none; margin:0 auto;"></a></td></tr>
+<tr><td bgcolor="#f2efee"><table border="0" cellspacing="0" cellpadding="0" align="center" bgcolor="#f2efee" width="100%"><tr><td valign="center" class="responsiveColumn"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+<!-- BANNER HL START --><tr>
+<td rowspan="7" class="mhide" width="60">&#160;</td>
+<td rowspan="7" width="10">&#160;</td>
+<td align="center" valign="bottom" style="font-size:10px; line-height:10px;" height="10">&#160;</td>
+<td rowspan="7" class="mhide" width="60">&#160;</td>
+<td rowspan="7" width="10">&#160;</td>
+</tr>
+<!-- BANNER HL END --><!-- BANNER TEXT START --><tr><td align="center" style="font-family: Helvetica, Arial, sans-serif; font-size:19px; line-height: .9em; text-decoration:none;" class="bheadline"><a target="_blank" href="http://trk.b.teleflora.com/ss/c/9-aU3oKh6sTLpF8D2ydKaWB1iD-lbNm7E_qazMFo5SaUdMC5Zlb5cxpnVbmR6UbGMQFMRRnCzMVrAUehFdVTUBa0JQtWbWkSo03TBAiDRm3tQEnzzx52pXtdlN8jBii2CYsUYoFQRWKdRJQK1PSLkwHRcakZdrcc9tH2S7oipB4BMBI8BT3yqY4O1ojd6Sv5cpkho2qvEXMaLZrgIj-iUoTim7zfcJ5qDARyO82DxbSMrkAAk_Oop-Q_jaf9rDDEZTM596cIVRqlgXevk5TyQL5qhX9ATLW1-GMZjOeEEVxfZ9oYxAj9reh8mCPjNBLc8SgjVsH_PSSucWMT2eraow9YmRLjIM_hlocYOjYF7_U/3ch/9we1Ce49RjWm5IFpQt1W5g/h38/6GSbWsPj1NU3nYNkLPTUpPkhV0nselrTxIKHKazCGpw" name="EmailOffer" style="color:#666666; text-decoration:none"><span style="color:#efbb4b; text-transform:uppercase;"><b><i>ONE-OF-A-KIND TELEFLORA BOUQUETS</i></b></span></a></td></tr>
+<tr><td align="center" valign="bottom"><a target="_blank" href="http://trk.b.teleflora.com/ss/c/9-aU3oKh6sTLpF8D2ydKaWB1iD-lbNm7E_qazMFo5SaUdMC5Zlb5cxpnVbmR6UbGMQFMRRnCzMVrAUehFdVTUBa0JQtWbWkSo03TBAiDRm3tQEnzzx52pXtdlN8jBii2CYsUYoFQRWKdRJQK1PSLkwHRcakZdrcc9tH2S7oipB4BMBI8BT3yqY4O1ojd6Sv5cpkho2qvEXMaLZrgIj-iUoTim7zfcJ5qDARyO82DxbSMrkAAk_Oop-Q_jaf9rDDEZTM596cIVRqlgXevk5TyQL5qhX9ATLW1-GMZjOeEEVxfZ9oYxAj9reh8mCPjNBLc8SgjVsH_PSSucWMT2eraow9YmRLjIM_hlocYOjYF7_U/3ch/9we1Ce49RjWm5IFpQt1W5g/h39/XXnc-agL2qRzBolbWOUUCVan6S0LLj_nZNWtM4GEt3w" name="Banner1" style="font-size:15px; line-height:normal; font-family:Helvetica, Arial, sans-serif; color:#000000; text-decoration:none; text-align:center" align="center"><span class="section">Pick a price and a local Teleflora florist will create a perfect one-of-a-kind bouquet and have it delivered straight to your recipient&#8217;s door.</span> </a></td></tr>
+<!-- BANNER TEXT END --><tr><td height="15" style="font-size:15px; line-height:15px;" bgcolor="#f3efee">&#160;</td></tr>
+<tr><td align="center" bgcolor="#f3efee"><table border="0" align="center" cellpadding="0" cellspacing="0"><tr><td align="center" valign="middle" class="responsiveColumn"><table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr><td align="center" valign="middle"><table border="0" align="center" cellpadding="10" cellspacing="0"><tr><td align="center" valign="middle" bgcolor="#efbb4b" style="min-width:100px;" class="bannerbutton">
+<!---moz-border-radius: 5px; border-radius: 5px;--><a target="_blank" href="http://trk.b.teleflora.com/ss/c/9-aU3oKh6sTLpF8D2ydKaWB1iD-lbNm7E_qazMFo5SaUdMC5Zlb5cxpnVbmR6UbGMQFMRRnCzMVrAUehFdVTUBa0JQtWbWkSo03TBAiDRm3tQEnzzx52pXtdlN8jBii2CYsUYoFQRWKdRJQK1PSLkwHRcakZdrcc9tH2S7oipB4BMBI8BT3yqY4O1ojd6Sv5cpkho2qvEXMaLZrgIj-iUoTim7zfcJ5qDARyO82DxbSMrkAAk_Oop-Q_jaf9rDDEZTM596cIVRqlgXevk5TyQL5qhX9ATLW1-GMZjOeEEVxfZ9oYxAj9reh8mCPjNBLc8SgjVsH_PSSucWMT2eraow9YmRLjIM_hlocYOjYF7_U/3ch/9we1Ce49RjWm5IFpQt1W5g/h40/XUrwGZvij0qwytYqzd-5BjsJlg_jhGGNuhJApKkBg_U" name="Banner1" style="font-size:15px; line-height:23px; font-family:'Century Gothic', CenturyGothic, Geneva, AppleGothic, Arial, Helvetica, 'Franklin Gothic Medium', sans-serif; color:#FFFFFF; text-decoration:none; text-transform:uppercase" class="mainbutton">Shop Now</a>
+</td></tr></table></td></tr>
+<tr><td height="15" align="center" valign="middle" style="font-size:15px; line-height:15px;">&#160;</td></tr>
+</table></td></tr></table></td></tr>
+<!-- BUY NOW END-->
+</table></td></tr></table></td></tr>
+<!-- MOBILE VERSION BUTTONS START --><!--[if !mso]><!-- --><tr style=" mso-hide:all;"><td style="display:none; font-size:0; max-height:0; mso-hide:all; overflow:hidden; float:left; width:0;" class="mmenu"><table width="100%" border="0" cellspacing="0" cellpadding="0" align="center" style="background-color:#FFFFFF; padding:0; mso-hide:all;"><tr class="table-row" style=" mso-hide:all;">
+<th align="center" valign="middle" class="fnav" style="padding: 10px 0; border-bottom: solid 1px #787975; border-top: solid 1px #787975; mso-hide:all;"><a target="_blank" href="http://trk.b.teleflora.com/ss/c/9-aU3oKh6sTLpF8D2ydKaWB1iD-lbNm7E_qazMFo5SZdvz33wDnt47vvj-HrgCSQo4W6q9GhR-nO_JyFjt-jIjpaIcXlxs9EL1KQvZ5t4APo87HC_8_B1Z-_X0eo5C7yrR1dZT-jfxTcCgijpxDkSGdbqpmYbUs8tIjm3-WtgpU4Rt7b5wKuymiqmOn_2cno_MnodunWvy6etEqitVoJ-UjzLWojFli6OCNJis5uR7ENMoZKPw6QXwu5JAX9_ypXGzoul_GC8jzs0gOovYuPOMBKNtWtLLoFnYtl7E_jI0hIPxzsTzqk9JDCZ6pOniy2I9kmuqQosVu9PI_32cVNwxBLI4epF5DoXTCRFh1HvCY/3ch/9we1Ce49RjWm5IFpQt1W5g/h41/68sWYDMm2NmGzVCM3ixcVCqNmGq_dKjOGFHTOcepyvQ" name="MBNAV1" style="font-size:13px; line-height:19px; font-family:Helvetica, Arial, sans-serif; color:#231f20; text-decoration:none; text-align:center; font-weight:bold" align="center">BIRTHDAY</a></th>
+<th align="center" valign="middle" class="fnav" style="padding: 10px 0; border-bottom: solid 1px #787975;  mso-hide:all;"><a target="_blank" href="http://trk.b.teleflora.com/ss/c/9-aU3oKh6sTLpF8D2ydKaWB1iD-lbNm7E_qazMFo5SZqt6sg4kY_ldXlWCY79ln4HdRJSJCDQxOofWaMjuuJdrD2fv_w-q5u5w_8y1w-kGU7I2PkGk5TZo6YeVMucp2nVMCi04i76rIYCtH4LpQd7bkiE3uyb-Q4XUdxDuVX9D1A72kW5f0bYR32C7WlMHhuC0U67CCypYDKcLExLHEgQ3GPcw1OgfiLeZvFZqunCDn5ENjQtUIyDsiy3ToXeG8ahR9s3uIPrNUX4oqBE22ps2tUUQYZStF5gN7dusqyrmwqt0cpA7NxNgawEjFbPaAsQR31BDGi1sUhe3ta3mCNLFHOYTYnMNmAuFeGtHzNVbM/3ch/9we1Ce49RjWm5IFpQt1W5g/h42/jnkDC9wXBA3uw5vrYXl1GJFHfKJR-RJApDaQ8lJkQTA" name="MBNAV2" style="font-size:13px; line-height:19px; font-family:Helvetica, Arial, sans-serif; color:#231f20; text-decoration:none; text-align:center; font-weight:bold" align="center">GET WELL</a></th>
+<th align="center" valign="middle" class="fnav" style="padding: 10px 0; border-bottom: solid 1px #787975; mso-hide:all;"><a target="_blank" href="http://trk.b.teleflora.com/ss/c/9-aU3oKh6sTLpF8D2ydKaWB1iD-lbNm7E_qazMFo5SatDX_pWJ81OHhM4xglL7P_Rh-6TMwU_G8-F648b4GE4rdRgu064Dn3FUKxZLP779JGOG4iQduNl2t20gmifZPz5y8EGwbB2u3mDN7ajE3QjuOWWqJGyQcWXdBSLCXwNemBQdnFHgcaCKoYM0HntX3PhgrguImmqhngIDB83LXX22bpxk9hVgoCzcGgH8E-Pfyifftma1l9yfjaVM7_92MOJHXEObetc0tyCP5oX4RVfC5UAju4-FrXrKc7wxvuWS3iG3M1ra7W57KuqRMGNxiBtS4Wqwi4_S78eVX3kXIGmDXeouiSvkNiCc_oURZJMus/3ch/9we1Ce49RjWm5IFpQt1W5g/h43/etOTikKh6pLn144B2yaptsxf5VcIvU9qjO5vB_L7a_w" name="MBNAV3" style="font-size:13px; line-height:19px; font-family:Helvetica, Arial, sans-serif; color:#231f20; text-decoration:none; text-align:center; font-weight:bold" align="center">SAME DAY</a></th>
+<th align="center" valign="middle" class="fnav" style="padding: 10px 0; border-bottom: solid 1px #787975; mso-hide:all;"><a target="_blank" href="http://trk.b.teleflora.com/ss/c/9-aU3oKh6sTLpF8D2ydKaWB1iD-lbNm7E_qazMFo5SYyKVH1J_CMdY_HYo7Y2fKQtbPHw6WQ6KmWNt2tA_YCXfHM6OrHbBAgYfIYgV5eU8Y8lJmZtuj6-8ehqPDjrngpsH38DfSo6U5Y3fUwTEiSAj-vihJ4MtIiT0qZLfvWW_a2W8E7zougnrDWVW2S49dr2E5GN0GTuU5NUaRRwC_4z6BBuUTkLLiC5fS9UeWphJ3f_9XqDRkDzH-UXXAMUOQrMtqEmXye4PAFeijfIcoPyEC8X4_f0qP62alNxuLFj9rty4ns5QVVYn5sp4i7b5smY2tVxEVx8uhzdmdh_V1waw/3ch/9we1Ce49RjWm5IFpQt1W5g/h44/z7W7-S8ZKnerUFDud27f5MElVIOUwVYfsfbR1IrHomI" name="MBNAV4" style="font-size:13px; line-height:19px; font-family:Helvetica, Arial, sans-serif; color:#231f20; text-decoration:none; text-align:center; font-weight:bold" align="center">BEST SELLERS</a></th>
+<th align="center" valign="middle" class="fnav" style="padding: 10px 0; border-bottom: solid 1px #787975; mso-hide:all;"><a target="_blank" href="http://trk.b.teleflora.com/ss/c/9-aU3oKh6sTLpF8D2ydKaWB1iD-lbNm7E_qazMFo5SaUdMC5Zlb5cxpnVbmR6UbGMQFMRRnCzMVrAUehFdVTUBa0JQtWbWkSo03TBAiDRm3tQEnzzx52pXtdlN8jBii2CYsUYoFQRWKdRJQK1PSLkwHRcakZdrcc9tH2S7oipB4BMBI8BT3yqY4O1ojd6Sv5cpkho2qvEXMaLZrgIj-iUoTim7zfcJ5qDARyO82DxbSMrkAAk_Oop-Q_jaf9rDDEZTM596cIVRqlgXevk5TyQL5qhX9ATLW1-GMZjOeEEVxfZ9oYxAj9reh8mCPjNBLc8SgjVsH_PSSucWMT2eraow9YmRLjIM_hlocYOjYF7_U/3ch/9we1Ce49RjWm5IFpQt1W5g/h45/Ii-uG7JFpi4KEC-E933Uu3GNHUQhmnO9x37GkcxDXpY" name="MBNAV5" style="font-size:13px; line-height:19px; font-family:Helvetica, Arial, sans-serif; color:#231f20; text-decoration:none; text-align:center; font-weight:bold" align="center">DEAL OF THE DAY</a></th>
+</tr></table></td></tr>
+<!--<![endif]--><!-- MOBILE VERSION BUTTONS END --><!-- MOBILE VERSION BUTTONS END --><!-- SOCIAL MEDIA START --><tr> <td height="20" style="font-size:20px; line-height:20px;">&#160;</td>
+</tr>
+<tr> <td align="center"><table border="0" cellspacing="0" cellpadding="0"> <tr> <th align="center" valign="center" class="responsiveColumn" style="font-size:14px; line-height:24px; font-family:Helvetica, 'Century Gothic', Arial, 'Franklin Gothic Medium', Geneva, sans-serif; color:#000000; text-align:center; vertical-align:center; text-transform:uppercase; font-weight:normal;">Connect with us&#160;</th> <th align="center" valign="bottom" class="responsiveColumn"><table border="0" cellspacing="0" cellpadding="0"> <tr> <td style="padding-right:10px;"><table border="0" cellspacing="0" cellpadding="0" align="center"> <tr> <td align="center" style="font-size:22px; line-height:22px; " width="22" height="22"><a target="_blank" href="http://trk.b.teleflora.com/ss/c/U3UWBk5y9vQnu1DEsniwadQEru6cc0EtHLTt5pSwkakkEDY2XJKr1ZpAPQDv1fbgPyDXrNlsaVwgffGwMhKFq56iC5A0C449jgzNTeUtprVrfWxqtPD0Pc1o0Y4n8EhyaGJZSbEo41_ORgV11ygcaHXzfnhuXJSnpxjI0d9y3Tg/3ch/9we1Ce49RjWm5IFpQt1W5g/h46/y4AbrDF2-VrFRnda8-vSEbw5wSU-lcQ7meWRwitEq48" name="Facebook" style="color:#666666"><img src="https://img.teleflora.com/image/upload/q_auto,f_auto/email/b-facebook" width="22" height="22" alt="Facebook" border="0" style="display:block;"></a></td>
+</tr>
+</table></td>
+<td style="padding-right:10px;"><table border="0" cellspacing="0" cellpadding="0" align="center"> <tr> <td align="center" style="font-size:22px; line-height:22px; " width="22" height="22"><a target="_blank" href="http://trk.b.teleflora.com/ss/c/F7PtrdkJyH1ZlTXTofzscteT8255gjGFET6YKhq_FWCq2iG3Jn6gF-sSq3dI5lNMktPvZXIUa3rqaAM1T4cDrmWIvHI20aS_dN_VZJIYTRdZOnObdtnzoiDuW90nHXA_IIwv9s7y50lRKFGHNj7OKyeDwCffRVa3E-Pf7zyx9fo/3ch/9we1Ce49RjWm5IFpQt1W5g/h47/z_TGz2e0vhVg-j3TH-pmRs_cH3a2Dzge3-zih85FUN4" name="Twitter" style="color:#666666"><img src="https://img.teleflora.com/image/upload/q_auto,f_auto/email/b-twitter" width="22" height="22" alt="Twitter" border="0" style="display:block;"></a></td>
+</tr>
+</table></td>
+<td style="padding-right:10px;"><table border="0" cellspacing="0" cellpadding="0" align="center"> <tr> <td align="center" style="font-size:18px; line-height:18px; " width="18" height="18"><a target="_blank" href="http://trk.b.teleflora.com/ss/c/5DPdla_Md4w4d4OE2u44KxUNmkGLOzJG_asqnQNnd2zb6cqCbOfb-0B5ACf03qg6ROmSmXKe4qF_sU6Q9BFZeV46NdYhAkcdtqLc4foyXzWEjmEzA8nM7Q5kMVifYxlRDH3MaBvHaoscsDPuiIDkRljTQlIh7LYxnGg-BZi3Y5o/3ch/9we1Ce49RjWm5IFpQt1W5g/h48/nQRIYyv_waf9-xL93Z0c1xmDSqrug6Kpxr3oJMKkVSs" name="Instagram" style="color:#666666"><img src="https://img.teleflora.com/image/upload/q_auto,f_auto/email/b-instagram" width="18" height="18" alt="Instagram" border="0" style="display:block;"></a></td>
+</tr>
+</table></td>
+<td style="padding-right:10px;"><table border="0" cellspacing="0" cellpadding="0" align="center"> <tr> <td align="center" style="font-size:22px; line-height:22px; " width="22" height="22"><a target="_blank" href="http://trk.b.teleflora.com/ss/c/U3UWBk5y9vQnu1DEsniwaVRj78SHYkMB0eKY9rrOKlwjTeiscxCn450JYRoOHNg6MWr7V4Qqnkc6ksMVAV7lQg5Kflo2QpWa2zxA6XSQirvJSZuHuFSzMu63cRRpEBbhmKvqtwjwfysyXaJnMdiGJNMbvAiFMZOFDV55EDc5Lk0/3ch/9we1Ce49RjWm5IFpQt1W5g/h49/VXE5Zkhsq7SaaMbScCAkGuaYU7zd_K7pFhOu7o4vO28" name="You%20Tube" style="color:#666666"><img src="https://img.teleflora.com/image/upload/q_auto,f_auto/email/b-video" width="22" height="22" alt="Instagram" border="0" style="display:block;"></a></td>
+</tr>
+</table></td>
+<td style="margin:0 10px;"><table border="0" cellspacing="0" cellpadding="0" align="center"> <tr> <td align="center" style="font-size:22px; line-height:22px; " width="22" height="22"><a target="_blank" href="http://trk.b.teleflora.com/ss/c/U3UWBk5y9vQnu1DEsniwaQKQaaRKcrtghNWjGruoHiwwcqqvDqYzHJLUYKAwbIGUPOjzujMkyZiPbX0MFOM0t0YaY4zxJqR4gpa98qOGnlv1IDBR2Iz2x1plT16A9snYVNqBP6l-KC0gIEB3WRw3T1wk5oV-XPX1J2q_ILFN2gw/3ch/9we1Ce49RjWm5IFpQt1W5g/h50/rVEX6Oj84Ee9mRqwINzdca7jwI2JCmMthKA-Akd68aY" name="Pinterest" style="color:#666666"><img src="https://img.teleflora.com/image/upload/q_auto,f_auto/email/b-pinterest" width="22" height="22" alt="Instagram" border="0" style="display:block;"></a></td>
+</tr>
+</table></td>
+</tr>
+</table></th> </tr>
+</table></td>
+</tr>
+<tr> <td height="20" style="font-size:20px; line-height:20px;">&#160;</td>
+</tr>
+<!-- SOCIAL MEDIA END -->
+</table>
+<!-- CONTENT END --><!-- FOOTER STARTS --><table border="0" cellpadding="0" cellspacing="0" align="center" bgcolor="#ffffff" width="700" class="responsiveTable">
+<tr>
+<td class="mhide" width="10"></td>
+<td align="left" style="font-family: Arial, sans-serif; color: #666666; font-size: 12px" class>
+<br>Offer is available through <a href="http://trk.b.teleflora.com/ss/c/9-aU3oKh6sTLpF8D2ydKaWB1iD-lbNm7E_qazMFo5SbcNQWfeJd7SRw6QMIr-EE2UZ2RooLjIXS4ve56Ytu--rnJ1hwP-ytZ1-25yyAJ4sNGn2ITUIHFpNglXeeVC6RZWneSV5i6GqcRNchkTU3pN96IpdGvFupbpg_JlhuAY15fjLtmfOWC1CUPrpl1OeLRk62QnWVLpvyso3ifWdsNMUytn0tQJyyw0MvWw4GVbA1eB2phU7Pp6xbDzN322O2RGGcXiPrAEqhPYpC7d_M6tcStS8Tj8UwOnfvB-z0Tc4o/3ch/9we1Ce49RjWm5IFpQt1W5g/h51/nmec9jDckrIdJgrGtB9sjuPInLsF2FmiJvecUGgC0Uc" name="TelefloraLogo" style="color:#666666; text-decoration:none">Teleflora.com</a> or by calling <b><a target="_blank" href="#" style="color:#666665 !important; text-decoration:none">1-800-493-5610</a></b>. Promotion code <b>EMBCP060421C</b> valid through <b>06/10/21</b>. May not be combined with any other promotion and is not valid toward previous purchases. Not valid at retail locations or affiliate sites. Gift cards and taxes do not qualify for the offer. Offer terms and conditions are subject to change at any time. <br> <br> This email was sent to: <a target="_blank" href="mailto:marysmith8557@gmail.com" style="color:#666665 !important; text-decoration:none">marysmith8557@gmail.com</a>. If you prefer not to receive Teleflora&#174; email messages, please <a target="_blank" href="http://trk.b.teleflora.com/ss/c/9-aU3oKh6sTLpF8D2ydKaY1mHchfb_vR4C63jZXwjwBESjmluZHEkJuWrexMS5kQ_QzChAWo4-wKzZS2osT1vA_RVAOTakBY16olUQ7vWqwtEdTTGqGP-biQijISz1Cnqbr4zlYs230xJQcYDBJhf_-9ppgiKy_3oZn-DwcOnb7eb-6uMW8Z6nbTyL6NZASZu7rnSIWJ1mh87t4WaUit04Hxj-y9iPsxvmbdR5ytm143LQnOR0yE0fqKYuoIf7zVU_Vk7OxS0vuHyWWeRiN2_wE9UXhJeTJH1fmqhSueFQtcIkgdLhfTbgMI2SKxU65CwxIM-mOB2hLnNBB_IThHh4I9U6Aik2qwK1CARHY5mxI/3ch/9we1Ce49RjWm5IFpQt1W5g/h52/Pbg1qVNQxVRSJzFWneatdEg0iUew0bUSJgKQ_hXTJLI" style="color:#666665 !important; text-decoration:none">click here</a>. Comments? Questions? Please contact us at <a style="color:#666666" href="mailto:service@teleflora.com" name="BFooterCustomerService">service@teleflora.com.</a> <br> <br> Don't miss out! Make sure to add <a target="_blank" href="mailto:teleflora@email.teleflora.com" style="color:#666665 !important; text-decoration:none">teleflora@b.teleflora.com</a> to your address book. <br> <a name="BFooterPrivacyPolicy" href="http://trk.b.teleflora.com/ss/c/9-aU3oKh6sTLpF8D2ydKaWB1iD-lbNm7E_qazMFo5SYBMxVr4Y7C_rP3TqYCWeGqSeaClSW0_LeWWgY1uNNKiKHkPdc_EaGFxLVZINWkKB6PXIbkKGVrf407iIcm32gtwHxruEKo_BI5drtIh36mApxni4BDXwbqdbb6oZsbRibTVXTJvBidYkgl9B4euAc2vJezwJgJ239TWZJzJiI9nu6D-mfJV90umJC4od6VRGB4xhegC3tf6KOFzSRKWsE4hcRbOy42_qWidPUE7DGm6H3N0aD3a_fWxk4IqE-2tQQF2VePylYGiuZHUXoUvfYanNsbxVMvdar7xeFuptyqlQ/3ch/9we1Ce49RjWm5IFpQt1W5g/h53/6tmYh4C2eTj0WkVGZOyBEq6VcBSvyrB0Md_gF8WcpQY" style="color:#666666">Teleflora Privacy Policy</a> <br> <br> &#169; 2021 Teleflora LLC. All Rights Reserved. TELEFLORA, MAKE SOMEONE SMILE, BE HAPPY, PRESENT PERFECT, SEND A HUG, and the accompanying logos are trademarks of Teleflora. All other trademarks are the property of their respective owners. Teleflora LLC, P.O. Box 60910, Los Angeles, CA 90060-0910 USA.<br><br>
+</td>
+<td class="mhide" width="10"></td>
+</tr>
+<tr><td colspan="3" height="10"></td></tr>
+</table>
+</body>
+<!-- MonitorCampaignID: 8Month_180dayMicro -->
+</html>

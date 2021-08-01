@@ -1,0 +1,368 @@
+<html><body><!-- Everything above this line is "new" to the template. We'll have to experiment a bit to see if it causes troubles. -->
+<!-- preview text -->
+<div style="display:none;font-size:1px;color:#ffffff;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;">
+  Presented by Greater New York Automobile Dealers Association (GNYADA): Erin Durkin and Anna Gronewold's must-read briefing informing the daily conversation among knowledgeable New Yorkers
+</div>
+<table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#ffffff" style="padding:5px 0 15px 0;margin:0;text-align:center" role="presentation"> 
+ <tbody> 
+  <tr> 
+   <td>
+    <!-- Note: This is left blank to aid in centering across email clients --></td> 
+   <td align="center" width="540"> 
+    <table width="100%" border="0" cellpadding="0" cellspacing="0" style="max-width:540px" role="presentation"> 
+     <tbody> 
+      <!-- top date and utility link --> 
+      <tr> 
+       <td align="center"> 
+        <table width="100%" border="0" cellpadding="0" cellspacing="0" style="padding-bottom:15px;" role="presentation"> 
+         <tbody> 
+          <tr> 
+           <td width="50%" style="text-align:left;font-size:11px;font-family:Helvetica,sans-serif;color:#B1B4BD;margin:0;">Jun 04, 2021</td> 
+           <td width="50%" style="text-align:right;font-size:11px;font-family:Helvetica,sans-serif;color:#B1B4BD;margin:0;"><a href="https://go.politicoemail.com/?qs=13c3865d31b0dc62ee84d888fe1b70bd0168e849c77ba2521ab853b83bd1aa267900ac4c81cace302c65e86c504937b84b01391f7c343c11" target="_blank" style="color:#007BC7;text-decoration:none;">View in browser</a></td> 
+          </tr> 
+         </tbody> 
+        </table> </td>
+      </tr> 
+      <!-- divider line --> 
+      <tr> 
+       <td height="20" style="height:20px; font-size:0; border-top:1px solid #E5E7EB;">&nbsp;</td>
+      </tr> 
+      <!-- logo and byline --> 
+      <tr> 
+       <td align="center" style="text-align:center;padding:0 20px 15px 20px;margin:0"> <img src="https://static.politico.com/82/10/1217247e4454a8601c495d5d496d/politico-ny-playbook.jpg" title="New York Playbook logo" alt="New York Playbook logo" border="0" width="500" style="width:100%;max-width:500px;" /> </td>
+      </tr>
+      <tr> 
+       <td align="center" style="padding:0 20px 10px 20px;"> <p style="text-align:center;font-family:Helvetica,sans-serif;font-size:11px;letter-spacing:2px;color:#B1B4BD;text-transform:uppercase;margin:0;"> By <a href="mailto:edurkin@politico.com" target="_blank" style="color:#000000;text-decoration:none;font-weight:bold;">Erin Durkin</a> and <a href="mailto:agronewold@politico.com" target="_blank" style="color:#000000;text-decoration:none;font-weight:bold;">Anna Gronewold</a> with <a href="mailto:" target="_blank" style="color:#000000;text-decoration:none;font-weight:bold;">Jonathan Custodio</a> </p> </td>
+      </tr> 
+      <!-- sponsor logo --> 
+      <tr> 
+       <td style="padding-bottom:15px;" align="center"><p style="font-family:Helvetica,sans-serif;font-size:12px;color:#6E7381;margin:0;padding-right:10px;">Presented by Greater New York Automobile Dealers Association (GNYADA)</p></td> 
+      </tr> 
+      <!-- body --> 
+      <tr> 
+       <td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;"><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">O Albany!</strong> Have your political wizards all headed home?</p><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">There is one week </strong>&mdash; four working days &mdash; left in the legislative session and it’s not quite clear if the dual Democratic majorities have an appetite to coalesce around any closing fireworks this year.</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">The Adult Survivors Act, </strong>which passed the Senate Thursday and would unlock a one-year lookback window for adult survivors of sexual abuse, <a href="https://go.politicoemail.com/?qs=13c3865d31b0dc6264c71aa0b190c0429d19986ec5a350033db8f1572ddfef267784e20e5ab15e09d1639973537251afc47a5c6dd98495eb" target="_blank"><u>has yet to move in the Assembly</u></a>. A bill that aimed to increase protections for workers in the gig economy &mdash; primarily delivery and ride-hail drivers &mdash; <a href="https://go.politicoemail.com/?qs=13c3865d31b0dc625e4e65dfc81e6b1de02882923b562ab909a2f846f42b911e5b3bf33d19b141ad2c4b3cc86cd7d37d11a1608d9b0059a9" target="_blank"><u>has lost support</u>
+</a> after criticism from labor groups and progressive lawmakers. A slate of criminal justice reforms, including provisions to loosen some parole restrictions, has gained both attention and scrutiny as rising crime rates dominate policy conversations.</p><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">Four days is a lifetime in Albany.</strong> Bills have been written, passed and signed into law in a fraction of that time. But many of the Capitol’s players have shared the same sentiment: Everyone is tired. And there are reasons for the malaise:</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;">&mdash; It’s been a relentless 15 months since Covid-19 hit New York. In Albany, that was capped by a whirlwind of scandal-upon-scandal now surrounding Gov. Andrew Cuomo and looming over the political landscape;</p><p style="margin-top:0;margin-bottom:24px;line-height:24px;">&mdash; The big-spending state budget that passed in April satisfied enough long-stalled funding requests for cities and schools that some Democrats might now need a little more time to think up new priorities;</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;">&mdash; The nearing primary for New York City elections is dominating downstate representatives’ conversations and headspaces. </p><p style="margin-top:0;margin-bottom:24px;line-height:24px;">&mdash; The state Capitol remains one of the state’s few buildings still closed to the public, meaning the advocates, lobbyists and others who sometimes light a fire under the legislative body are unable to do so in the traditional in-person sense.</p><p style="margin-top:0;margin-bottom:24px;line-height:24px;">
+<strong style="font-family:Helvetica,sans-serif;font-weight:bold;">Finally, much like the downside we’ve all found in working from home,</strong> the Legislature is more “on call” these days. Leaders have always held open the prospect of emergency autumnal sessions, but it’s even more of an option now that the chambers have retained their remote voting systems prompted by the pandemic. There’s less panic about being unable to accomplish anything until next January when session doesn’t require lawmakers to abandon their districts &mdash; or summer homes &mdash; to attend. </p><p style="margin-top:0;margin-bottom:24px;line-height:24px;">
+<strong style="font-family:Helvetica,sans-serif;font-weight:bold;">So Albany, you may surprise us yet this June,</strong> but remember, “You can check out any time you like, but <a href="https://go.politicoemail.com/?qs=13c3865d31b0dc620aa6078b2100efb81c190fade3bd2d2b44ea900f8fb6c76527cdea6451fa0f84445bc3c46d0ab5be387c305f455fc69f" target="_blank"><u>you can never leave!</u></a>&quot;</p><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">IT’S FRIDAY. </strong>Got tips, suggestions or thoughts? Let us know ... By email: <a href="mailto:EDurkin@politico.com" target="_blank"><u>EDurkin@politico.com</u></a> and <a href="mailto:agronewold@politico.com" target="_blank"><u>agronewold@politico.com</u>
+</a>, or on Twitter: <a href="https://go.politicoemail.com/?qs=13c3865d31b0dc6233504c8dce5d2f804105f18be2c6571295a1ee3a9ba5b9ef32ab43c193cdf525e05a5789fd129e4f99740d3ad69764d8" target="_blank"><u>@erinmdurkin</u></a> and <a href="https://go.politicoemail.com/?qs=13c3865d31b0dc626a141e9ac2e13337a71c7d1408e6d8286c8bbad5c443643fd5601dfd08a715f349b828bd1f9fb16b58a14fbaf26992eb" target="_blank"><u>@annagronewold</u></a> </p><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">WHERE’S ANDREW?</strong> In Albany with no public events scheduled. </p><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">WHERE’S BILL? 
+</strong>Appearing on MSNBC’s Morning Joe and WNYC’s Brian Lehrer show and speaking at the New York Aquarium vaccine site. </p><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">DAYS TO THE PRIMARY: </strong>18</p></td> 
+      </tr> 
+      <tr> 
+      </tr>
+      <tr> 
+       <td height="15" style="height:15px; font-size:0; border-top:1px solid #E5E7EB;">&nbsp;</td> 
+      </tr> 
+      <tr> 
+       <td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;background-color:#FFFFFF;">  <p style="font-family:Helvetica,sans-serif;font-size:12px;margin-top:0;margin-bottom:10px;color:#000000;">A message from Greater New York Automobile Dealers Association (GNYADA):</p> <p style="margin-top:0;margin-bottom:20px;line-height:24px;color:#000000;"><i><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">Unscrupulous Auto Brokers are Ripping off New Yorkers. Time for Albany to Act.
+</strong> Joined by UAW Local 259, Teamsters Local 202, and USWU Local 355, the Greater New York Automobile Dealers Association (GNYADA) is calling for automobile broker reform that will protect consumers from self-serving brokers, require transparency and modern privacy protection rules. <a href="https://go.politicoemail.com/?qs=1112c4a623cab4c14c25e3f050c2caf7574ebc00e88f4db590ca34e8424eccea39bc05a8eaecf3b8ea00cc7495079d394f9042d15066aed1" target="_blank" style="text-decoration:underline;color:#007BC7;">A1932A</a>/<a href="https://go.politicoemail.com/?qs=1112c4a623cab4c150ed0dd500eeaa946abf7c04df6626d19c36a00f75e32bd14cfc2aac0548b07e792d16c2bf101565045d91c3427d7b20" target="_blank" style="text-decoration:underline;color:#007BC7;">S4332</a> will eliminate bad actors and support New York’s Franchise Dealership System. 
+<strong style="font-family:Helvetica,sans-serif;font-weight:bold;">Albany: Protect New York Consumers. Pass Auto Broker Reform Now.</strong></i></p>  </td>
+      </tr> 
+      <tr> 
+       <td height="20" style="height:20px; font-size:0; border-top:1px solid #E5E7EB;">&nbsp;</td> 
+      </tr>  
+      <tr> 
+       <td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;"><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><br /></p></td> 
+      </tr> 
+      <tr> 
+       <td style="padding-bottom:10px; min-width:100%; width:100%;"> 
+        <table width="100%" cellpadding="0" cellspacing="0" border="0" role="presentation" style="background-color:#121522; min-width:100%;"> 
+         <tbody> 
+          <tr> 
+           <td width="32" valign="middle" style="vertical-align:top;font-size:0;text-align:right;padding-top:10px;"><img src="https://s3.amazonaws.com/origin-static.politico.com/hosted/icon-red-circle%402x.png" title="" alt="" width="12" style="max-width:12px;margin-top:1px;" /></td> 
+           <td style="text-align:left;font-family:Helvetica,sans-serif;font-size:12px;color:#FFFFFF;text-transform:uppercase;font-weight:bold;letter-spacing:2px;padding-top:10px;padding-bottom:10px;padding-left:10px;margin:0;" valign="middle">WHAT CITY HALL'S READING</td> 
+          </tr> 
+         </tbody> 
+        </table></td> 
+      </tr> 
+      <tr> 
+       <td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;"><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">“<a href="https://go.politicoemail.com/?qs=1112c4a623cab4c18ea737d2141db2f3cb3d6a36c260e2b7144203e9d64c586906339e54b8ac25e110042517d5f85404b3234e56302910ce" target="_blank">New York City Covid-19 Cases Drop Sharply Amid Vaccinations</a>,” by Wall Street Journal’s Melanie Grayce West:
+</strong> “More than half of eligible people in New York City have received a first dose of Covid-19 vaccine, a milestone that has plunged the overall number of newly reported coronavirus cases to their lowest levels since the beginning of the pandemic. Almost 8.4 million doses of Covid-19 vaccine have been administered in New York City, Mayor Bill de Blasio said Thursday. That is roughly equivalent to the total number of doses given in Virginia or North Carolina. Since Jan. 1, new Covid-19 cases are down 95%, with the percentage of people testing positive for the disease now at 0.81%, according to city data.”</p><p style="margin-top:0;margin-bottom:24px;line-height:24px;">
+<strong style="font-family:Helvetica,sans-serif;font-weight:bold;">&mdash; More companies</strong> <u><a href="https://go.politicoemail.com/?qs=1112c4a623cab4c1c72a3fe10bf185c72f94b2bd0c387ee542575886182d6913911f89af7ad1d06bd58e73190627992221b1296a01f3956d" target="_blank">are considering a partial return</a></u> to offices over the summer. </p><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><a href="https://go.politicoemail.com/?qs=1112c4a623cab4c1546ef4b273eaadd1dba10d6c789623f457bcecfe0726da83508f683497fe85d5ccea7959ed43047ab1a68925b6db8634" target="_blank"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">'Bring us a more coherent vision’ &mdash; De Blasio unmoved by mayoral debate</strong></a><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">, by POLITICO’s Janaki Chadha: 
+</strong>Mayor Bill de Blasio is not impressed with the field of candidates looking to succeed him. Weighing in on Wednesday night’s mayoral debate, de Blasio said the crowded field of Democratic primary contenders failed to articulate a compelling vision to voters on how they’d move the city forward. ... “What I heard a lot of was candidates announcing they would do bold, new things that actually are things my administration is doing right now, already,” de Blasio said during his Thursday press briefing. “I heard a lot of statements that reflected a lack of information about city government and how the city of New York actually works, you know, that was not inspiring to me.” </p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;"><a href="https://go.politicoemail.com/?qs=1112c4a623cab4c123748e4f19d92d87a8c910b4d748e3a27ecbffd357c075cba25c96ea44ad298303a7880ee95c7bf5db63c7d5ed10757e" target="_blank"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">Yang chased by angry protesters during Brooklyn campaign stop</strong></a><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">, by POLITICO’s Amanda Eisenberg: 
+</strong>Three mayoral candidates descended on Brooklyn's Park Slope the morning after a contentious debate, but it was Andrew Yang who got the most attention &mdash; and not the kind he likely wanted. Yang was headed to the Park Slope YMCA &mdash; a spot notorious for Mayor Bill de Blasio's oft inopportune workouts, in a move many expected would bring some criticism of the mayor. Instead, Yang was met by a dozen members of New York Communities for Change, a social justice organization, who shouted down the candidate and ultimately scuttled the event &mdash; forcing him to take questions on the move... Known for his affable campaign style, Yang attempted to talk to the protesters ahead of
+ the event. Undeterred, they carried signs and shouted &quot;No new cops!&quot; and &quot;Hedge fund mayor!&quot; &mdash; effectively drowning out the candidate's prepared remarks.</p><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">&mdash; Yang <a href="https://go.politicoemail.com/?qs=1112c4a623cab4c1a86486b00e5be73f508cb6b8e9f0acf9ea6ba719849c1c2c171743178c65210b86ec06d098cac4b51e10d2f164eb8131" target="_blank">says he’ll </a></strong><a href="https://go.politicoemail.com/?qs=1112c4a623cab4c1a86486b00e5be73f508cb6b8e9f0acf9ea6ba719849c1c2c171743178c65210b86ec06d098cac4b51e10d2f164eb8131" target="_blank"><u>model himself</u></a> more after former Mayor Mike Bloomberg’s governing style. </p><p style="margin-top:0;margin-bottom:24px;line-height:24px;">
+<strong style="font-family:Helvetica,sans-serif;font-weight:bold;">&mdash; De Blasio <a href="https://go.politicoemail.com/?qs=1112c4a623cab4c1d0efad962d761f6277f886300711d38f33f790b24ff66ca7ada8b36e7840ab54177d8240879d387a6be216a407e71fc7" target="_blank">doesn’t </a></strong><a href="https://go.politicoemail.com/?qs=1112c4a623cab4c1d0efad962d761f6277f886300711d38f33f790b24ff66ca7ada8b36e7840ab54177d8240879d387a6be216a407e71fc7" target="_blank"><u>mind being called Big Bird</u></a>. </p><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">“<a href="https://go.politicoemail.com/?qs=1112c4a623cab4c143ed2cc254ecf15ff9f01503c1bf8137430e022e97fd473ef22a788a8f2e28e52bdccfd34245a07eef7b85b7a9816882" target="_blank">Whose Streets? The Next New York Mayor Will Have to Decide</a>,” by The New York Times’ Winnie Hu: 
+</strong>“During the pandemic lockdown, New York City’s relentless traffic virtually disappeared, leaving a vast expanse of asphalt up for grabs in one of the world’s most crowded cities. Neighborhood arteries once jammed with cars teemed with people eager to escape tiny apartments. Packs of new cyclists staked their claim. Sidewalk curbs were repurposed with tables and chairs for outdoor dining. But as New York recovers and traffic returns, there is a growing tug of war over who gets to use this huge inventory of open space: the city’s 6,000 miles of streets. The future of such contested space has become a key issue in the race for the next mayor, who will be responsible for managing the
+ streets.”</p><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">&mdash; EMS workers’ unions </strong><a href="https://go.politicoemail.com/?qs=1112c4a623cab4c1cb27bb1275e6974768f2c5aba6149d583a967ca7f19169c19353c0d1f0840bce66c45f9d28b4bfc9b4bb5f40b67992d3" target="_blank"><u>are endorsing Eric Adams</u></a> for mayor. </p><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">“<a href="https://go.politicoemail.com/?qs=1112c4a623cab4c1eccdba3d14e67f9dfb26a6ca23d69b10f930f2944017b5ce1cdcb31c89275373b718909851f2770c4096bf1220511cb9" target="_blank">Next Front For Police Reform Advocates? The New York City Council</a>,” by WNYC’s Gwynne Hogan:
+</strong> “While more moderate candidates are gaining steam in the heated race for New York City mayor, as talk of criminal justice reform gets overshadowed by spikes in gun violence and hate crimes, there’s an effort underway in City Council races to promote candidates who promise to push issues of police reform to the political left. Neighborhoods such as Soundview in the Bronx, Stapleton on Staten Island, and Kew Gardens in Queens, have candidates for City Council pledging to reduce the budget of the New York Police Department and invest that money in social services. They’re backed by left-leaning groups like the Democratic Socialists of America, the Working Families Party, and Black
+ Lives Matter organizers.” </p><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">“<a href="https://go.politicoemail.com/?qs=1112c4a623cab4c1daf55a450208054a263afd0762e7eb33b4090d9b9be8746a5dabcaa538a054bdfdef8a68a2eb98c8bf2771d618a5a063" target="_blank">These City Council candidates were supposed to be opponents. Instead, they formed a team</a>,” by NY1’s Bobby Cuza: 
+</strong>“Scott Murphy and Andy Marte are both candidates in a race for City Council. But instead of running against each other, they’re running together. It’s as if they don’t care which of them gets elected. ‘I would be really happy if Andy won,’ Murphy said. ‘I think Andy would be really happy if I won. And we think the core of that is new ideas in the community.’ The unusual political strategy is a product of ranked-choice voting, which allows voters to rank candidates in order of preference rather than being forced to pick just one. Murphy and Marte are encouraging voters to rank one of them first, and the other second. By joining forces, they could, theoretically at least, consolidate
+ their voter bases. That would dramatically improve the odds that one of them could beat the leading candidate, Jennifer Gutierrez.”</p><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">FIRST IN PLAYBOOK &mdash; </strong>City comptroller candidate state Sen. Brian Benjamin <a href="https://go.politicoemail.com/?qs=1112c4a623cab4c103d89e5f32ee8f92eae040a3556bf33c28f491e46b00389bc6ac61f21f5995a112af71edfec98243fffad6a4b209b3fe" target="_blank"><u>released a new campaign ad</u></a> pushing his background as the son of Caribbean immigrants and humble Harlem upbringing, Ivy League education, and experience in investment management and chairing the Senate Committee on Revenue and Budget. </p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">&mdash; New polling</strong> on the comptroller’s race of 407 likely Democratic primary voters shows City Council Speaker Corey Johnson leading at 20 percent and former CNBC journalist Michelle Caruso-Cabrera and City Council Member Brad Lander trailing him at 16 and 14 percent, respectively. No other candidate cracked double digits and 20 percent were undecided. The poll was conducted by Caruso-Cabrera’s campaign pollster Schoen Cooperman Research between May 24 and May 27. </p></td> 
+      </tr> 
+      <tr> 
+      </tr>
+      <tr> 
+       <td height="10" style="height:10px; font-size:0; border-top:1px solid #E5E7EB;">&nbsp;</td>
+      </tr>
+      <tr> 
+       <td style="padding:20px 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;background-color:#FFFFFF;"> <p style="margin-top:0;margin-bottom:20px;line-height:24px;margin-bottom:20px;color:#000000;"> <strong style="font-family:Helvetica,sans-serif;font-weight:bold;">SUBSCRIBE TO WEST WING PLAYBOOK: </strong>Add West Wing Playbook to keep up with the power players, latest policy developments and intriguing whispers percolating inside the West Wing and across the highest levels of the Cabinet. For buzzy nuggets and details you won't find anywhere else, 
+<a href="https://go.politicoemail.com/?qs=1112c4a623cab4c129aed5963eba018c943623402b2ffb1ed76b7033728df996fd5fffbc0eef6b8bf31aa261c61351137ed739875418b4d4" target="_blank" style="text-decoration:underline;color:#007BC7;">subscribe today</a>. </p> </td>
+      </tr>
+      <tr> 
+       <td height="10" style="height:10px; font-size:0; border-bottom:1px solid #E5E7EB;">&nbsp;</td>
+      </tr>
+      <tr> 
+       <td height="15" style="height:15px; font-size:0;">&nbsp;</td>
+      </tr>  
+      <tr> 
+       <td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;"><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><br /></p></td> 
+      </tr> 
+      <tr> 
+       <td style="padding-bottom:10px; min-width:100%; width:100%;"> 
+        <table width="100%" cellpadding="0" cellspacing="0" border="0" role="presentation" style="background-color:#121522; min-width:100%;"> 
+         <tbody> 
+          <tr> 
+           <td width="32" valign="middle" style="vertical-align:top;font-size:0;text-align:right;padding-top:10px;"><img src="https://s3.amazonaws.com/origin-static.politico.com/hosted/icon-red-circle%402x.png" title="" alt="" width="12" style="max-width:12px;margin-top:1px;" /></td> 
+           <td style="text-align:left;font-family:Helvetica,sans-serif;font-size:12px;color:#FFFFFF;text-transform:uppercase;font-weight:bold;letter-spacing:2px;padding-top:10px;padding-bottom:10px;padding-left:10px;margin:0;" valign="middle">WHAT ALBANY'S READING</td> 
+          </tr> 
+         </tbody> 
+        </table></td> 
+      </tr> 
+      <tr> 
+       <td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;"><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">“<a href="https://go.politicoemail.com/?qs=1112c4a623cab4c141948a4b58026d2fd20e488d23fff2c5a88313114a8f2ccc46f201969d82e66866c369d492faff856a2021264917e2b5" target="_blank">Abuse victims: Speaker Heastie stalling anti-harass laws, protecting Cuomo,</a>” by New York Post’s Bernadette Hogan and Carl Campanile: 
+</strong>“An anti-sexual harassment group of former legislative staffers blasted the Democratic-led Assembly for stalling a package of bills that would protect abuse survivors and for ‘providing cover’ for embattled Gov. Andrew Cuomo over sexual misconduct accusations. The Sexual Harassment Working Group sent a scathing letter to Assembly Speaker Carl Heastie (D-Bronx) and Judiciary Committee Chairman Charles Lavine (D-Nassau) overseeing the Cuomo impeachment inquiry, complaining about foot-dragging on a package of bills that already passed passed the Democrat-run Senate.” </p><p style="margin-top:0;margin-bottom:24px;line-height:24px;">
+<strong style="font-family:Helvetica,sans-serif;font-weight:bold;">&mdash; “A bill filed</strong> days after reports that the governor’s office was circulating the personnel file of former staffer Lindsey Boylan in the wake of her sexual harassment claims against Gov. Andrew M. Cuomo <a href="https://go.politicoemail.com/?qs=1112c4a623cab4c1cc25f19cc01a8b2968612edd50d79d43673079aa2d3e67537a8c9503c8dfd77a7b87d6cf9c19d6c51c85aa72b0178335" target="_blank"><u>moved through the state Senate under unanimous consent</u></a>.”</p><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">“
+<a href="https://go.politicoemail.com/?qs=1112c4a623cab4c15001a2283b52c3a217bf5af105f57c3d62dc639ba0550f7b68da2a7603d5bf592b24507f763748e23bc4885e25fa74f6" target="_blank">Broome sheriff election: NY Sen. Akshar announces candidacy, captain Newcomb considers run</a>,” by Binghamton Press &amp; Sun-Bulletin’s Anthony Borrelli:
+</strong> “A possible Republican primary for Broome County Sheriff emerged Thursday after two law enforcement veterans announced their plans to seek the office in the November 2022 election. State Sen. Fred Akshar, who represents the 52nd Senate district that includes the Southern Tier, said Thursday he expects to campaign for sheriff as his latest Senate term nears its end. His announcement came after sheriff's office Capt. Kathleen Newcomb stated Wednesday that she's also considering a run for sheriff on the Republican ticket. Broome County Sheriff David Harder, a Republican who won his sixth term in 2018, said in a statement Thursday he will not seek another term. Before accepting the
+ Republican nomination in 2015 for the 52nd Senate district seat, Akshar served as the Broome County undersheriff.”</p><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">RACE FOR THE OTHER PLACE: “<a href="https://go.politicoemail.com/?qs=1112c4a623cab4c1bcfd4ce96b136ef0da958b659c34afe6d54ab16536898f638506f90ed61b7b6c32db0256f89ed815d55f008bfd6b6cad" target="_blank">Lee Zeldin says time big factor in governor's race,</a>” by Spectrum’s Nick Reisman:
+</strong> “Republican Rep. Lee Zeldin got a fast break in the race for governor this year, months before any voters will even be heading to the polls to cast votes in a hypothetical primary or a general election. But Zeldin, a Long Island congressman and former state senator, believes time is the biggest asset needed for Republicans ahead of the 2022 statewide elections in New York... 'The Democrats can waste time, waste money and fight amongst themselves and still win,’ he told reporters on Thursday at the Albany-Rensselaer Train Station across the Hudson River from the state Capitol.&quot;</p><p style="margin-top:0;margin-bottom:24px;line-height:24px;">
+<strong style="font-family:Helvetica,sans-serif;font-weight:bold;">#UpstateAmerica: </strong>The state <u><a href="https://go.politicoemail.com/?qs=1112c4a623cab4c1bba6569358c0e03e962a2f89d726a5ec31f1f85a70b3e2cacb6138e1303fb52733d779c8f3bbb3f784cfe9ae9cb82334" target="_blank">is auctioning off </a></u><a href="https://go.politicoemail.com/?qs=1112c4a623cab4c1bba6569358c0e03e962a2f89d726a5ec31f1f85a70b3e2cacb6138e1303fb52733d779c8f3bbb3f784cfe9ae9cb82334" target="_blank">a red 2015 Chevrolet Corvette</a> &mdash; complete with a Stingray trim and a 6.2-liter, V8 engine. It was stolen property recovered in Rochester.</p></td> 
+      </tr> 
+      <tr> 
+      </tr>
+      <tr> 
+       <td height="15" style="height:15px; font-size:0; border-top:1px solid #E5E7EB;">&nbsp;</td> 
+      </tr> 
+      <tr> 
+       <td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;background-color:#FFFFFF;">  <p style="margin-top:0;margin-bottom:15px;line-height:15px;"> <a href="https://go.politicoemail.com/?qs=1112c4a623cab4c1ba00bf08498e7f4e256ddc872f64b32b96a96999c1c58efdf4de060b70338422f201986f6bc43bbaaca3403f86a2fe75" target="_blank"> <img src="https://static.politico.com/59/b4/472055ca496c888740f80a2fb0a9/21-skdk-gnyada-004-dp-passreform-300x250.jpg" title="Advertisement Image" alt="Advertisement Image" border="0" width="300" style="width:100%;max-width:300px;" /></a> 
+<img src="https://ad.doubleclick.net/ddm/ad/N7384.146504POLITICO0/B25958133.304506410;sz=1x1;ord=[timestamp]" border="0" a="" /> </p>  </td>
+      </tr> 
+      <tr> 
+       <td height="20" style="height:20px; font-size:0; border-top:1px solid #E5E7EB;">&nbsp;</td> 
+      </tr>  
+      <tr> 
+       <td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;"><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><br /></p></td> 
+      </tr> 
+      <tr> 
+       <td style="padding-bottom:10px; min-width:100%; width:100%;"> 
+        <table width="100%" cellpadding="0" cellspacing="0" border="0" role="presentation" style="background-color:#121522; min-width:100%;"> 
+         <tbody> 
+          <tr> 
+           <td width="32" valign="middle" style="vertical-align:top;font-size:0;text-align:right;padding-top:10px;"><img src="https://s3.amazonaws.com/origin-static.politico.com/hosted/icon-red-circle%402x.png" title="" alt="" width="12" style="max-width:12px;margin-top:1px;" /></td> 
+           <td style="text-align:left;font-family:Helvetica,sans-serif;font-size:12px;color:#FFFFFF;text-transform:uppercase;font-weight:bold;letter-spacing:2px;padding-top:10px;padding-bottom:10px;padding-left:10px;margin:0;" valign="middle">FROM THE DELEGATION</td> 
+          </tr> 
+         </tbody> 
+        </table></td> 
+      </tr> 
+      <tr> 
+       <td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;"><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">“<a href="https://go.politicoemail.com/?qs=1112c4a623cab4c1fb2a03ed8ba1b24ae2196e74dfb1c59305c4403c4c13f4176942e01141ef30c5212a7b07b34af629fd481a8c8bebd47e" target="_blank">Gillibrand’s Clean Water Bill Isn’t A Moment Too Soon For Calverton Homes Polluted With PFAS</a>,” by WSHU’s J.D. Allen: 
+</strong>“U.S. Senator Kirsten Gillibrand has reintroduced legislation that would more strictly regulate groundwater for PFAS chemicals. PFAS contamination has been detected in 49 states across the country. Homeowners in Calverton, Long Island, who live near a former naval defense manufacturer know the impacts of the contamination well. The latest analysis by Suffolk County Department of Health Services shows PFAS was detected in nearly 15% of private drinking wells tested in Calverton. Lawn signs now cover Calverton homes calling for the Navy to step in to remediate their contaminated private drinking water wells.”</p></td> 
+      </tr> 
+      <tr> 
+       <td style="padding-bottom:10px; min-width:100%; width:100%;"> 
+        <table width="100%" cellpadding="0" cellspacing="0" border="0" role="presentation" style="background-color:#121522; min-width:100%;"> 
+         <tbody> 
+          <tr> 
+           <td width="32" valign="middle" style="vertical-align:top;font-size:0;text-align:right;padding-top:10px;"><img src="https://s3.amazonaws.com/origin-static.politico.com/hosted/icon-red-circle%402x.png" title="" alt="" width="12" style="max-width:12px;margin-top:1px;" /></td> 
+           <td style="text-align:left;font-family:Helvetica,sans-serif;font-size:12px;color:#FFFFFF;text-transform:uppercase;font-weight:bold;letter-spacing:2px;padding-top:10px;padding-bottom:10px;padding-left:10px;margin:0;" valign="middle">TRUMP'S NEW YORK</td> 
+          </tr> 
+         </tbody> 
+        </table></td> 
+      </tr> 
+      <tr> 
+       <td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;"><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">“<a href="https://go.politicoemail.com/?qs=1112c4a623cab4c150f808197883c617e4c972367d796c2751d0bcf51c102070f30c8d2510f4e0742c150799d8f9688cac26f62c73363f4d" target="_blank">Giuliani and Prosecutors Agree on Former Judge to Review Seized Materials</a>,” by The New York Times’ Benjamin Weiser and Ben Protess: 
+</strong>&quot;Federal prosecutors and lawyers for Rudolph W. Giuliani have recommended that Barbara S. Jones, a former judge in Manhattan, be appointed to review materials seized by the F.B.I. during recent searches of Mr. Giuliani’s home and office, according to a government court filing late Thursday. The proposal, which still must be approved by a federal judge, would require Ms. Jones to determine what seized materials might be covered by attorney-client privilege and should be kept from the authorities who are investigating Mr. Giuliani.”</p></td> 
+      </tr> 
+      <tr> 
+       <td style="padding-bottom:10px; min-width:100%; width:100%;"> 
+        <table width="100%" cellpadding="0" cellspacing="0" border="0" role="presentation" style="background-color:#121522; min-width:100%;"> 
+         <tbody> 
+          <tr> 
+           <td width="32" valign="middle" style="vertical-align:top;font-size:0;text-align:right;padding-top:10px;"><img src="https://s3.amazonaws.com/origin-static.politico.com/hosted/icon-red-circle%402x.png" title="" alt="" width="12" style="max-width:12px;margin-top:1px;" /></td> 
+           <td style="text-align:left;font-family:Helvetica,sans-serif;font-size:12px;color:#FFFFFF;text-transform:uppercase;font-weight:bold;letter-spacing:2px;padding-top:10px;padding-bottom:10px;padding-left:10px;margin:0;" valign="middle">AROUND NEW YORK</td> 
+          </tr> 
+         </tbody> 
+        </table></td> 
+      </tr> 
+      <tr> 
+       <td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;"><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">&mdash; Brooklyn gambit: </strong>Assemblymember Taylor Darling revealed her <a href="https://go.politicoemail.com/?qs=1112c4a623cab4c18fb7d1b5dd5d13f994ffaeacf8878d31ce1f526facccdd8d5032b9e2e644b8fa72f96f5de03995d54647fe631a5a49a4" target="_blank"><u>roots in competitive chess</u></a> to the Capitol Pressroom.</p><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">&mdash; Cuomo’s youngest daughter,</strong> Michaela, shared Thursday night on Instagram that 
+<a href="https://go.politicoemail.com/?qs=1112c4a623cab4c1516ad2c1f3b974fac57d73cdadbff76ffc783efa5c709868455f6fc6c641caa7ece72ce265505f59cd491f321855cd89" target="_blank">she identifies as queer</a>.</p><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">&mdash; The number of </strong>incidents of the <a href="https://go.politicoemail.com/?qs=1112c4a623cab4c1f3a0a5e6dd2e9be2005a36edfe833297d3b6a4f6f4862c21ee1627fc5cf4542b0950787d69639c4692932bd46e7e8138" target="_blank">NYPD removing children from school classrooms</a> has increased.</p><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">&mdash; The city’s expanded</strong> summer school program <a href="https://go.politicoemail.com/?qs=1112c4a623cab4c1e852b06a8fa3450a5f6f3697944fcada5163b6a4e766d12c3e11b757c938302e1a9c8f5aba80a689399ef161d35ec1eb" target="_blank">
+<u>may be hard to pull off</u></a>.</p><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">&mdash; Columbia University’s</strong> vaccine requirement <a href="https://go.politicoemail.com/?qs=1112c4a623cab4c114e9b849b6921c045968511f43a4420eaa2eda5b965b0ecd563684b69c6eb798156b9eb5f63ff912efa165ebd9ccc132" target="_blank"><u>is tripping up some international students</u></a> who have received unapproved vaccines. </p><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">&mdash; A teenager <a href="https://go.politicoemail.com/?qs=1112c4a623cab4c1734716f5f5def1715a988023c08fb4815e4b14808eed63d564113531385bfa26b6811754f897b15ede7b471b8d3a62a4" target="_blank">assaulted </a></strong>
+<a href="https://go.politicoemail.com/?qs=1112c4a623cab4c1734716f5f5def1715a988023c08fb4815e4b14808eed63d564113531385bfa26b6811754f897b15ede7b471b8d3a62a4" target="_blank"><u>a bus driver</u></a> who told him he had to wear a mask to ride. </p><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">&mdash; The City Council </strong>candidate in Borough Park who gained notoriety for inciting an attack on a reporter <a href="https://go.politicoemail.com/?qs=1112c4a623cab4c1ef43494c75fd65327e36d79d2d763155839963d3ab09940c758d11f7977c32848abfb176579b7d7b720096fe985f4aaf" target="_blank"><u>is mired in allegations</u></a> of mortgage fraud. </p><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">&mdash; Lax oversight of 
+</strong>inspections of elevated subway tracks resulted in debris raining down onto streets, <a href="https://go.politicoemail.com/?qs=1112c4a623cab4c17d3661b21a7963c52569856f94abcbf87f5ab5beb20f4430f22433e8714868ea2956c02bc3bce441029a7775bb3443c6" target="_blank"><u>an inspector general’s report found</u></a>. </p><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">&mdash; A City Council</strong> candidate in the Bronx <a href="https://go.politicoemail.com/?qs=1112c4a623cab4c1e00da3cebb6266aafcc1ff97ddc3302a982e7ccc25f6e6ccb340bd436960fcee902d9bbc757ef16fc3f0f6cb6e417e95" target="_blank"><u>drew scrutiny</u></a> for possible misuse of community board funds. </p></td> 
+      </tr> 
+      <tr> 
+      </tr>
+      <tr> 
+       <td height="10" style="height:10px; font-size:0; border-top:1px solid #E5E7EB;">&nbsp;</td>
+      </tr>
+      <tr> 
+       <td style="padding:20px 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;background-color:#FFFFFF;"> <p style="margin-top:0;margin-bottom:20px;line-height:24px;margin-bottom:20px;color:#000000;"> <strong style="font-family:Helvetica,sans-serif;font-weight:bold;">SUBSCRIBE TO &quot;THE RECAST&quot; TODAY:
+</strong> Power is shifting in Washington and in communities across the country. More people are demanding a seat at the table, insisting that politics is personal and not all policy is equitable. The Recast is a twice-weekly newsletter that explores the changing power dynamics in Washington and breaks down how race and identity are recasting politics and policy in America. Get fresh insights, scoops and dispatches on this crucial intersection from across the country and hear critical new voices that challenge business as usual. <a href="https://go.politicoemail.com/?qs=1112c4a623cab4c14a137d5e1b974fc867db3b38496d04f4eaaf377cbc0c0b3e6c678c7082f4393dd5754564d8727229fb343c95a329fcf4" target="_blank" style="text-decoration:underline;color:#007BC7;">Don't miss out, SUBSCRIBE
+</a>. Thank you to our sponsor, Intel. </p> </td>
+      </tr>
+      <tr> 
+       <td height="10" style="height:10px; font-size:0; border-bottom:1px solid #E5E7EB;">&nbsp;</td>
+      </tr>
+      <tr> 
+       <td height="15" style="height:15px; font-size:0;">&nbsp;</td>
+      </tr>  
+      <tr> 
+       <td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;"><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><br /></p></td> 
+      </tr> 
+      <tr> 
+       <td style="padding-bottom:10px; min-width:100%; width:100%;"> 
+        <table width="100%" cellpadding="0" cellspacing="0" border="0" role="presentation" style="background-color:#121522; min-width:100%;"> 
+         <tbody> 
+          <tr> 
+           <td width="32" valign="middle" style="vertical-align:top;font-size:0;text-align:right;padding-top:10px;"><img src="https://s3.amazonaws.com/origin-static.politico.com/hosted/icon-red-circle%402x.png" title="" alt="" width="12" style="max-width:12px;margin-top:1px;" /></td> 
+           <td style="text-align:left;font-family:Helvetica,sans-serif;font-size:12px;color:#FFFFFF;text-transform:uppercase;font-weight:bold;letter-spacing:2px;padding-top:10px;padding-bottom:10px;padding-left:10px;margin:0;" valign="middle">SOCIAL DATA BY DANIEL LIPPMAN</td> 
+          </tr> 
+         </tbody> 
+        </table></td> 
+      </tr> 
+      <tr> 
+       <td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;"><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">HAPPY BIRTHDAY: Mort Zuckerman</strong> … Pangiam’s <strong style="font-family:Helvetica,sans-serif;font-weight:bold;">Andrew Meehan</strong> … <strong style="font-family:Helvetica,sans-serif;font-weight:bold;">Emily Gold </strong>of “Meet the Press” … <strong style="font-family:Helvetica,sans-serif;font-weight:bold;">May Davis </strong>… CNBC’s <strong style="font-family:Helvetica,sans-serif;font-weight:bold;">Lori Ann LaRocco</strong> … ProPublica’s 
+<strong style="font-family:Helvetica,sans-serif;font-weight:bold;">Justin Elliott</strong> … <strong style="font-family:Helvetica,sans-serif;font-weight:bold;">Ruth Westheimer</strong> ... <strong style="font-family:Helvetica,sans-serif;font-weight:bold;">Adam E. Soclof </strong>... Metropolitan Museum of Art president and CEO <strong style="font-family:Helvetica,sans-serif;font-weight:bold;">Daniel H. Weiss</strong> … <strong style="font-family:Helvetica,sans-serif;font-weight:bold;">Gena Wolfson</strong></p><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">MAKING MOVES &mdash; Jonah Allon 
+</strong>has joined the Eric Adams campaign as deputy press secretary, as of Friday. He previously worked as press secretary for the Brooklyn borough president’s government office.</p><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">… Maeve Healy</strong> is now COS for Rep. Grace Meng (D-N.Y.). She most recently was political affairs manager at Finseca and had earlier served as Meng’s political director. … <strong style="font-family:Helvetica,sans-serif;font-weight:bold;">Nicole Petrie
+</strong> is now chief marketing and business development officer at Schulte Roth &amp; Zabel LLP. She most recently was global head of client experience and market development at KPMG. … </p><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">… Julia van den bergh </strong>is now strategy and market intelligence fellow at Brother’s Brother Foundation, which works in the areas of health care, infrastructure, disaster response, and education. She is a former associate director at Atacana and is also a Roche alum. ... <strong style="font-family:Helvetica,sans-serif;font-weight:bold;">Saumitra Thakur 
+</strong>is now a managing partner at MMV, a health care venture fund. He is also a full hospitalist physician in San Francisco and is the former president of College-100.</p><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">MEDIAWATCH &mdash; Kevin Duggan </strong><a href="https://go.politicoemail.com/?qs=1112c4a623cab4c1c940aa5967b265d3c0ebbc7e74553e51b6090c489390f34b70bb466e1e81d5250fe36d6b27ad8e7b893d3b8b02f5b6c3" target="_blank"><u>will join amNewYork</u></a> to cover transit and state government. He has been a reporter at the Brooklyn Paper. … <strong style="font-family:Helvetica,sans-serif;font-weight:bold;">Christopher Robbins
+</strong>, former city editor for Gothamist, has joined Streetsblog where he’s covering the mayor’s race. </p></td> 
+      </tr> 
+      <tr> 
+      </tr>
+      <tr> 
+       <td height="15" style="height:15px; font-size:0; border-top:1px solid #E5E7EB;">&nbsp;</td> 
+      </tr> 
+      <tr> 
+       <td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;background-color:#FFFFFF;">  <p style="font-family:Helvetica,sans-serif;font-size:12px;margin-top:0;margin-bottom:10px;color:#000000;">A message from Greater New York Automobile Dealers Association (GNYADA):</p> <p style="margin-top:0;margin-bottom:20px;line-height:24px;color:#000000;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;"><i>Stop the Scams. Protect New York Consumers. </i></strong><br /><br /><i>Over 800 auto brokers have been identified in the New York City metro area alone, many of whom ignore some aspect of state law designed to protect car buyers. For too long, auto brokers have been more focused on their own bottom line, disregarding their obligation to work for consumers. </i>
+<br /><br /><i>These self-serving and under-regulated automobile brokers are also hurting New York’s auto retail sales industry, and the 120,000 middle-class New Yorkers it employs.</i><br /><br /><i><a href="https://go.politicoemail.com/?qs=1112c4a623cab4c15a3bf4482890c28b78cdf1cc622f7c08a6b69c8f35f3e693e79a22468e0a7dcfdf2987e323cc1add5aa99fa3d412a920" target="_blank" style="text-decoration:underline;color:#007BC7;">A1932A</a>/<a href="https://go.politicoemail.com/?qs=1112c4a623cab4c1c47e7838cb6d01ac8e601c30e5ffa85ace761ec9c1e82f203051206217e22e2c7ee1e1d7996656b9a287940672768ebe" target="_blank" style="text-decoration:underline;color:#007BC7;">S4332</a> protects New Yorkers by requiring auto brokers to work only for consumers by strengthening the registration process, and increasing disclosures, penalties, and enforcement provisions.</i><br /><br />
+<i>UAW Local 259, Teamsters Local 202, and USWU Local 355, and the Greater New York Automobile Dealers Association (GNYADA) agree: pass automobile broker reform that will bring transparency and accountability to the auto brokering industry.</i><br /><br /><strong style="font-family:Helvetica,sans-serif;font-weight:bold;"><i>Albany: Protect New York Consumers. Pass Auto Broker Reform Now.</i></strong></p>  </td>
+      </tr> 
+      <tr> 
+       <td height="20" style="height:20px; font-size:0; border-top:1px solid #E5E7EB;">&nbsp;</td> 
+      </tr>  
+      <tr> 
+       <td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;"><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><br /></p></td> 
+      </tr> 
+      <tr> 
+       <td style="padding-bottom:10px; min-width:100%; width:100%;"> 
+        <table width="100%" cellpadding="0" cellspacing="0" border="0" role="presentation" style="background-color:#121522; min-width:100%;"> 
+         <tbody> 
+          <tr> 
+           <td width="32" valign="middle" style="vertical-align:top;font-size:0;text-align:right;padding-top:10px;"><img src="https://s3.amazonaws.com/origin-static.politico.com/hosted/icon-red-circle%402x.png" title="" alt="" width="12" style="max-width:12px;margin-top:1px;" /></td> 
+           <td style="text-align:left;font-family:Helvetica,sans-serif;font-size:12px;color:#FFFFFF;text-transform:uppercase;font-weight:bold;letter-spacing:2px;padding-top:10px;padding-bottom:10px;padding-left:10px;margin:0;" valign="middle">REAL ESTATE</td> 
+          </tr> 
+         </tbody> 
+        </table></td> 
+      </tr> 
+      <tr> 
+       <td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;"><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">“<a href="https://go.politicoemail.com/?qs=1112c4a623cab4c1a4f08d7efff25c3bc0fac85096b5656238ec264ed159c6d4b284f9af19f0b2f473981d20b9c15b2bcbe20d12ef40afa9" target="_blank">The Long-Awaited Future Of Governors Island Is Almost Here</a>,” by Gothamist’s Jake Offenhartz: 
+</strong>“What should become of Governors Island? For nearly two decades, the question has tantalized the city’s mayors and real estate developers, and largely eluded them. Since the federal government relinquished control of the former Coast Guard base in 2003, the island has been floated as the site of a casino, an amusement park, a convention center, and a supermax prison. While those development dreams have languished, more and more New Yorkers have taken advantage of the unique urban retreat...After some fits and starts, the future of Manhattan’s largest development site is now coming into focus.”</p><p style="margin-top:0;margin-bottom:24px;line-height:24px;">
+<strong style="font-family:Helvetica,sans-serif;font-weight:bold;">“<a href="https://go.politicoemail.com/?qs=1112c4a623cab4c17381b4b6efdbc1acbdb39a383a5865d92b5f29112ab94b8d7c0e0940ff54d953d42acff21447e54a3eb619f4132bdf52" target="_blank">City can move homeless men from Lucerne Hotel to downtown, court rules</a>,” by New York Post’s Priscilla DeGregory: 
+</strong>“The city can move forward with its plan to relocate a group of homeless men from the Upper West Side Lucerne Hotel to a downtown hotel, an appellate court ruled Thursday. The city’s plans to move some 200 homeless men at the Lucerne to a Radisson hotel downtown has been repeatedly stalled, thanks to an October lawsuit filed by downtown residents that’s been winding its way through the courts. Three formerly homeless Lucerne residents also sought to stop the transfer and appealed a lower court ruling allowing the city to go forward with the move. But on Thursday, the Appellate Division, First Department said the appeal was moot since the three men ‘have all moved out of the Lucerne
+ and secured separate housing,’ according to the ruling.”<br /></p></td> 
+      </tr> 
+      <!-- End Ad Copy --> 
+      <tr> 
+      </tr> 
+      <!-- Post Body Content --> 
+      <tr> 
+      </tr> 
+      <tr> 
+       <td height="20" style="height:20px; font-size:0; border-top:1px solid #E5E7EB;">&nbsp;</td> 
+      </tr> 
+      <!-- Twitter Handles --> 
+      <tr> 
+       <td style="color:#000000;padding:0px 20px 20px 20px;text-align:left;"> <p style="font-family:Helvetica,sans-serif;font-size:20px;color:#000000;margin-top:0;margin-bottom:15px;"><strong>Follow us on Twitter</strong></p> 
+        <table cellpadding="0" cellspacing="0" border="0" role="presentation"> 
+         <tbody> 
+          <tr> 
+           <td width="52" valign="middle" style="text-align:left;padding-right:10px;"><img src="https://static.politico.com/hosted/icon-twitter-circle-blue%402x.png" title="" alt="" width="50" style="max-width:50px;" /></td> 
+           <td valign="middle" style="text-align:left;font-family:Helvetica,sans-serif;font-size:14px;font-weight:bold;color:#000000;"> <p style="margin-top:0;margin-bottom:5px;line-height:14px;">Erin Durkin <a href="https://go.politicoemail.com/?qs=13c3865d31b0dc6233504c8dce5d2f804105f18be2c6571295a1ee3a9ba5b9ef32ab43c193cdf525e05a5789fd129e4f99740d3ad69764d8" style="color:#007BC7;text-decoration:none;font-weight:bold;" target="_blank">@erinmdurkin</a></p> <p style="margin-top:0;margin-bottom:5px;line-height:14px;">Anna Gronewold <a href="https://go.politicoemail.com/?qs=13c3865d31b0dc626a141e9ac2e13337a71c7d1408e6d8286c8bbad5c443643fd5601dfd08a715f349b828bd1f9fb16b58a14fbaf26992eb" style="color:#007BC7;text-decoration:none;font-weight:bold;" target="_blank">@annagronewold</a></p> </td> 
+          </tr> 
+         </tbody> 
+        </table> </td>
+      </tr>
+      <tr> 
+       <td height="20" style="height:20px; font-size:0; border-top:1px solid #E5E7EB;">&nbsp;</td>
+      </tr> 
+      <!-- Family of Playbook --> 
+      <tr> 
+       <td style="color:#000000;padding:0px 20px 0px 20px;text-align:left;"> <p style="font-family:Helvetica,sans-serif;font-size:20px;color:#000000;margin-top:0;margin-bottom:15px;"><strong>Subscribe to the POLITICO Playbook family</strong></p> <p style="font-family:Helvetica,sans-serif;font-size:14px;color:#000000;margin-bottom:15px;line-height:24px;"> <a href="https://go.politicoemail.com/?qs=1112c4a623cab4c140e5ab345eeeedd7d3f48a190d74b6f486e13c857173ea31e740dbb3559fb1a0435aa71068a002c79f1e5205f6a6f2df" style="color:#000000;text-decoration:none;font-weight:bold;" target="_blank">Playbook</a> &nbsp;|&nbsp; <a href="https://go.politicoemail.com/?qs=1112c4a623cab4c114a01a5b1e743432580787ad3e3baa328b5863ead3447fa9348c511140b1b24df195511e82e743af7686167babe525b6" style="color:#000000;text-decoration:none;font-weight:bold;" target="_blank">Playbook PM</a> &nbsp;|&nbsp; 
+<a href="https://go.politicoemail.com/?qs=1112c4a623cab4c1b86af563ce71e5c738ad8979ad23028894214243389a878a26a129ada704ffb6dd8c4cdf10b6189bbdff278eefd90bde" style="color:#000000;text-decoration:none;font-weight:bold;" target="_blank">California Playbook</a> &nbsp;|&nbsp; <a href="https://go.politicoemail.com/?qs=1112c4a623cab4c138370d595c17def45db5e9b6c380059639e94faffa898102213c5c45c7258f93f7ecefa1c6af2d63a7c1a48a22cbcec2" style="color:#000000;text-decoration:none;font-weight:bold;" target="_blank">Florida Playbook</a> &nbsp;|&nbsp; <a href="https://go.politicoemail.com/?qs=1112c4a623cab4c17a373bbc7a02a916a20cc47d61f85971e9288d87a805f818b17598f29a36a44dc249613bc2ec840e1b1196743e4c227f" style="color:#000000;text-decoration:none;font-weight:bold;" target="_blank">Illinois Playbook</a> &nbsp;|&nbsp; 
+<a href="https://go.politicoemail.com/?qs=1112c4a623cab4c158d1c0872fb1986ca30bd6b5f7ebcd544b230171b7e3ddee8fec05088f0f007b65e82503c3b721eb4f1ef32b0ade6ab7" style="color:#000000;text-decoration:none;font-weight:bold;" target="_blank">Massachusetts Playbook
+</a> &nbsp;|&nbsp; <a href="https://go.politicoemail.com/?qs=1112c4a623cab4c18b37b7ef34478bd1c1cf8c3bc089c5076ef4bfd92ae7aa959ef9f5dbabc53d7bd653ea777dc46ab5b4d88f7509da8969" style="color:#000000;text-decoration:none;font-weight:bold;" target="_blank">New Jersey Playbook</a> &nbsp;|&nbsp; <a href="https://go.politicoemail.com/?qs=1112c4a623cab4c1a43d4a963dac7323d7e68035ebf2a6e907ef9819c4799012dbb433cbb6ce15e4c3ba693e928170cac0f82dd197a8c3f0" style="color:#000000;text-decoration:none;font-weight:bold;" target="_blank">New York Playbook</a> &nbsp;|&nbsp; <a href="https://go.politicoemail.com/?qs=1112c4a623cab4c1d0ca4fe2ed084874a666377df6f38da130bb4ab5007d4361f9b47018066a58b5bad0c149f34721984954459acd232967" style="color:#000000;text-decoration:none;font-weight:bold;" target="_blank">Brussels Playbook</a> &nbsp;|&nbsp; 
+<a href="https://go.politicoemail.com/?qs=1112c4a623cab4c1ce68b508518c8f7976fa470a6974063ebc5c3da535372a109a5effaef1148fbc5ee2b74d46cb59677003e3cbad52e688" style="color:#000000;text-decoration:none;font-weight:bold;" target="_blank">London Playbook</a> </p> <p style="font-family:Helvetica,sans-serif;font-size:14px;color:#000000;margin-bottom:15px;line-height:24px;"><a href="https://go.politicoemail.com/?qs=1112c4a623cab4c1dc32ee98917dc0229b829b922072e3a55dd6f63fe27e8115c6c2e2554259bb285dc067d7da3525af046ef966a7bf74d6" style="color:#000000;text-decoration:none;font-weight:bold;" target="_blank">View all our political and policy newsletters</a></p> </td>
+      </tr> 
+      <!-- Follow us --> 
+      <tr> 
+       <td style="color:#000000;padding:0px 20px 20px 20px;text-align:left;"> <p style="font-family:Helvetica,sans-serif;font-size:12px;color:#000000;margin-bottom:10px;line-height:14px;text-transform:uppercase;font-weight:bold;letter-spacing:2px;">Follow us</p> 
+        <table cellpadding="0" cellspacing="0" border="0" role="presentation"> 
+         <tbody> 
+          <tr> 
+           <td width="40" style="text-align:left;"><a href="https://go.politicoemail.com/?qs=1112c4a623cab4c1e50bcb605a0ca023572eb447ef1b549ffa62ccb762c3e7e4f80bb36aa766ac20435f8ad7b4a8bb4a4cb76b9f363fe9bf" target="_blank"><img src="https://static.politico.com/hosted/icon-follow-facebook-gray%402x.png" title="Follow us on Facebook" alt="Follow us on Facebook" width="24" border="0" style="max-width:24px;" /></a></td> 
+           <td width="40" style="text-align:left;"><a href="https://go.politicoemail.com/?qs=1112c4a623cab4c1ba2a597709c94cbb4158f62f4a004e18d1272a9efbed469e7a36755334d310dcbaa810e91f8790b6be9f7735ee93a44a" target="_blank"><img src="https://static.politico.com/hosted/icon-follow-twitter-gray%402x.png" title="Follow us on Twitter" alt="Follow us on Twitter" width="24" border="0" style="max-width:24px;" /></a></td> 
+           <td width="40" style="text-align:left;"><a href="https://go.politicoemail.com/?qs=1112c4a623cab4c128b50a255fade30b097c2145a2178e61c10bacb160ca1e798528a2699788de2ffd0dff25246013c2902c17cf5144d872" target="_blank"><img src="https://static.politico.com/hosted/icon-follow-instagram-gray%402x.png" title="Follow us on Instagram" alt="Follow us on Instagram" width="24" border="0" style="max-width:24px;" /></a></td> 
+           <td width="40" style="text-align:left;"><a href="https://go.politicoemail.com/?qs=1112c4a623cab4c11d538738dab6d9d08abd210f795a390f9de856da51c1c62cfdf8128ab8236f63f99b51d8bc1272b08b677ac88bdbaab1" target="_blank"><img src="https://static.politico.com/hosted/icon-follow-applePodcast-gray%402x.png" title="Listen on Apple Podcast" alt="Listen on Apple Podcast" width="24" border="0" style="max-width:24px;" /></a></td> 
+          </tr> 
+         </tbody> 
+        </table> </td>
+      </tr>
+      <tr> 
+       <td height="20" style="height:20px; font-size:0; border-top:1px solid #E5E7EB;">&nbsp;</td>
+      </tr> 
+     </tbody> 
+    </table> </td> 
+   <td>
+    <!-- Note: This is left blank to aid in centering across email clients --></td> 
+  </tr> 
+ </tbody>
+</table>
+<!-- Everything below this line is "new" to the template. We'll have to experiment a bit to see if it causes troubles. --><table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#ffffff"
+       style="padding:5px 0 15px 0;margin:0;text-align:center" role="presentation">
+    <tbody>
+    <tr>
+        <td><!-- Note: This is left blank to aid in centering across email clients --></td>
+        <td align="center" width="540">
+            <table width="100%" border="0" cellpadding="0" cellspacing="0" style="max-width:540px" role="presentation">
+                <tbody>
+                <tr>
+                    <td align="center" style="font-family:Helvetica,sans-serif;font-size:14px;color:#000000;">
+                        <p style="margin-bottom:15px;line-height:24px;">To change your alert settings, please log in at
+                            <a href="https://go.politicoemail.com/?qs=1112c4a623cab4c14e6ec584a2b8e2ef0b477b52478470c77f450287f565e0a77027abfbe66312e8f4bfbdcf850d83d8a2c348b78b3c3528" target="_blank" style="color:#007BC7;text-decoration:none;">https://www.politico.com/_login?base=https%3A%2F%2Fwww.politico.com/settings</a>
+                            <!--Commenting out the following line because it causes an undesired line to be displayed on outlook (some versions) and we couldn't find the use case of it-->
+                            <!-- <span style="display:none;"><a href="https://click.politicoemail.com/profile_center.aspx?qs=169328ae544e79cc34c090f972cb49c67f67fbce6267ac2819163b5ad65e0ff434aa4874754055f650e3d01d017630e1">https://click.politicoemail.com/profile_center.aspx?qs=169328ae544e79cc34c090f972cb49c67f67fbce6267ac2819163b5ad65e0ff434aa4874754055f650e3d01d017630e1</a></span> -->
+                        </p>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center" style="padding-bottom:15px;"><img
+                            src="https://static.politico.com/hosted/icon-politico-logo.png"
+                            class="CToWUd"></td>
+                </tr>
+                <tr>
+                    <td align="center"><p
+                            style="font-family:Helvetica,sans-serif;font-size:14px;color:#000000;margin-bottom:15px;line-height:20px;">
+                        This email was sent to tobysmith8868@gmail.com by: POLITICO, LLC 1000 Wilson Blvd. Arlington, VA, 22209, USA
+                        <p style="font-family:Helvetica,sans-serif;font-size:14px;color:#000000;margin-bottom:15px;line-height:24px;">
+                            
+
+                            Please click <a href="https://go.politicoemail.com/?qs=1112c4a623cab4c1b8c7af56cf28ad2d6efee9918496ca747b5f3c4da59f68e45cc218a3580ec9b842fc21ee6afa39070f576a3d3508b9ec" target="_blank" style="color:#007BC7;text-decoration:none;">here</a> and follow the steps to unsubscribe.
+                        </p>
+                    </td>
+                </tr>
+                </tbody>
+            </table>
+        </td>
+        <td><!-- Note: This is left blank to aid in centering across email clients --></td>
+    </tr>
+    </tbody>
+</table>
+<img src="https://click.politicoemail.com/open.aspx?ffcb10-fe8c1d717267077b73-fde5137677630d74711d7575-fe9115737262077c7c-fecb12737567057a-fdff15727765017c7210717d-ffcf14&d=40118&bmt=0" width="1" height="1" alt="">
+</body></html>

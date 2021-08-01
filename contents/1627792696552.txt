@@ -1,0 +1,314 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+  <head>
+    <title>Shopbop</title>
+    <meta name="viewport" content="width=100%, minimum-scale=1.0, maximum-scale=1.0, initial-scale=1.0">
+    <style type="text/css">
+      html { -webkit-text-size-adjust:none; }
+      .ReadMsgBody { width: 100%; }
+      .ExternalClass{ width: 100%; }
+      body{ padding:0; margin:0; width:100%; margin:0 auto; }
+    </style>
+    <link href="http://image.shopbop-mail.com/lib/fe8413727d620d7576/m/6/stylesheet.css" rel="stylesheet" type="text/css">
+    <!--          -->
+    <style>
+      body, th, td, div { font-family: 'GTAmericaMedium','Helvetica Neue', Helvetica, Arial, sans-serif;font-weight:500; }
+      table { border-collapse: collapse; }
+    </style>
+  </head>
+  <body alink="#DD641D" link="#DD641D" topmargin="0" bgcolor="#f7f7f7" text="#000000" vlink="#DD641D"><style type="text/css">
+div.preheader 
+{ display: none !important; } 
+</style>
+<div class="preheader" style="font-size: 1px; display: none !important;">Ulla Johnson, Rebecca Taylor & more</div>
+    
+<div
+ style="font-size:1px;display:none!important">&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;</div>
+    
+    <table cellspacing="0" cellpadding="0" align="center" width="100%" bgcolor="#f7f7f7">
+      <tr>
+        <td align="center" style="padding-top:35px;" bgcolor="#f7f7f7">
+          <table cellspacing="0" cellpadding="0" align="center" width="600">
+            <tr>
+              <td>
+                <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="text-align: left; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner" align="left">
+<table cellpadding="0" cellspacing="0" width="100%" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table bgcolor="#ffffff" cellpadding="0" cellspacing="0" class="width320" width="100%">
+ 
+  <tr>
+   <td align="center" bgcolor="#ffffff" style="padding-top:30px;">
+    <a href="https://click.shopbop-mail.com/?qs=be7398da66b0508907fc5b744b569de8e90acd68126bda9c3a08f81474a5e32eee9d2320b4a20f304a6b59e3d1caa5f8bf06f804238a11ef" title=""><img alt="shopbop.com" data-assetid="38018" src="http://image.shopbop-mail.com/lib/fe8413727d620d7576/m/20/229bbfb8-70f9-4d9a-b369-fdb6111088bc.jpg" style="height: 71px; width: 600px;" width="600"> </a></td></tr><tr>
+   <td align="center" bgcolor="#ffffff">
+    <table border="0" cellpadding="0" cellspacing="0">
+     
+      <tr>
+       <td valign="top">
+        <a   data-linkto="other" href="https://click.shopbop-mail.com/?qs=be7398da66b05089b567875cd46022c523cff6f38373b5d2f6cd90a8eed5423702d7df8409b8b63d4d472ee833fb3591594df6cf2cb5fdb3" style="color:#000000; text-decoration:none;" title=""><img alt="WHAT'S NEW" data-assetid="38009" height="54" src="http://image.shopbop-mail.com/lib/fe8413727d620d7576/m/20/f7139080-4bc2-4c44-a37b-6da9a9b49978.jpg" style="color: #000000; display: block; padding: 0px; text-align: center; height: 54px; width: 218px; border: none;" width="218"> </a></td><td valign="top">
+        <a   data-linkto="other" href="https://click.shopbop-mail.com/?qs=be7398da66b05089acb92895ac26a607214a7f2079db5cea61cc3a32ad7bf5c6d3a5711908b728b9d755ce05dafdccd280bda64b733c4fbb" style="color:#000000; text-decoration:none;" title=""><img alt="CLOTHING" data-assetid="38011" height="54" src="http://image.shopbop-mail.com/lib/fe8413727d620d7576/m/20/0f4509b7-2533-4b23-9c75-bf8c78caae5c.jpg" style="color: #000000; display: block; padding: 0px; text-align: center; height: 54px; width: 100px; border: none;" width="100"> </a></td><td valign="top">
+        <a   data-linkto="other" href="https://click.shopbop-mail.com/?qs=be7398da66b05089b487d6e6936e540d0eca06daa2e54ca7b99cb938a3902bf394d49bdc1c7cc350074c0577021f1f6dd4e772574da7c81a" style="color:#000000; text-decoration:none;" title=""><img alt="ACCESSORIES" data-assetid="38015" height="54" src="http://image.shopbop-mail.com/lib/fe8413727d620d7576/m/20/2b13277d-f122-48ff-9a73-1ab90643c20b.jpg" style="color: #000000; display: block; padding: 0px; text-align: center; height: 54px; width: 108x; border: none;" width="108"> </a></td><td valign="top">
+        <a   data-linkto="other" href="https://click.shopbop-mail.com/?qs=be7398da66b05089d87611a3be0fb1898e7785ab517aeda69afbd934f5528b7524150dec3287092496616b1dd280dba4fa34b743fac76ede" style="color:#000000; text-decoration:none;" title=""><img alt="SALE" data-assetid="38016" height="54" src="http://image.shopbop-mail.com/lib/fe8413727d620d7576/m/20/6303d4a9-86df-4948-8619-cac9b8128870.jpg" style="color: #000000; display: block; padding: 0px; text-align: center; height: 54px; width: 174px; border: none;" width="174"> </a></td></tr></table></td></tr></table></td></tr></table>
+
+</td></tr></table>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                
+              </td>
+            </tr>
+            <tr>
+              <td>
+                
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner">
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+  
+  <tr>
+    <td bgcolor="#ffffff" align="center">
+      <a  href="https://click.shopbop-mail.com/?qs=5060760a6a6b793cfc20f800d3adfad22985d78801ac3310f29bee65b61fcd4903c720ff31ed1666353ad11cd5e37d897dcbda22829bf423"><img alt="Soft ruffles, lacy crochet & more of the season's romantic-chic styles." src="https://image.shopbop-mail.com/lib/fe8413727d620d7576/m/26/5fd810a5-9388-486a-a26e-3987da472ff8.jpg" style="-mso-interpolation-mode:bicubic; border:none; display:block;" width="600"></a></td>
+  </tr>
+  
+  
+  <tr>
+    <td style="padding-top:22px; padding-bottom:28px; padding-left:42px; padding-right:42px; font-family:'GTAmericaLight','Helvetica Neue', Helvetica, Arial, sans-serif; font-size:18px; letter-spacing:0.015em; line-height:24px; color:#000000;" bgcolor="#ffffff" align="center">
+      Soft ruffles, lacy crochet & more of the season's romantic-chic styles.
+    </td>
+  </tr>
+    
+  
+  <tr>
+    <td style="padding-bottom:28px; padding-bottom:44px;" bgcolor="#ffffff" align="center">
+      <table cellspacing="0" cellpadding="0" border="0">
+        <tr>
+          <td bgcolor="#ee4a1b" align="center">
+            <a target="_blank" style=" text-decoration: none; display: block; background-color: #ee4a1b; border: 2px solid #ee4a1b; font-family: 'GTAmericaMedium','Helvetica Neue', Helvetica, Arial, sans-serif;font-weight:500; font-size: 18px; letter-spacing:0.015em; color: #ffffff; padding-top: 15px; padding-right: 50px; padding-bottom: 15px; padding-left: 50px; border-radius: 0px; -moz-border-radius: 0px; -webkit-border-radius: 0px;"  href="https://click.shopbop-mail.com/?qs=5060760a6a6b793cbe55e80e5e619faf4653e8c9343fed67476db1cf1e70360d7362469c88eb49e7194db3065cd3ce800fdee102e10b8bf7" title="Shop Now">Shop Now</a>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  
+  
+  
+  
+  <tr>
+    <td bgcolor="#ffffff" align="center">
+      <a  href="https://click.shopbop-mail.com/?qs=5060760a6a6b793c72f338cda4ae130d04fbbd95cfe1d3db853de80b4191e729e94fa6e14655a82c87993691be3066d59fb884146db1c306"><img alt="Shop Now" src="https://image.shopbop-mail.com/lib/fe8413727d620d7576/m/26/f62a5b7d-d566-485d-afa0-b6c7fea5e559.jpg" style="-mso-interpolation-mode:bicubic; border:none; display:block; padding-bottom:40px;" width="600">
+      </a></td>
+  </tr>
+
+  
+  
+  
+</table><table></table>
+
+</td></tr></table>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner">
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+   <tr>
+    <td style="padding-bottom:0px; padding-top:15px;">
+      <table cellspacing="0" cellpadding="0" border="0">
+        <tr>
+  </tr><tr>
+    <td bgcolor="#ffffff" align="center">
+      <table cellspacing="0" cellpadding="0" border="0">
+        <tr>
+          <td bgcolor="#ffffff" align="center"><a  href="https://click.shopbop-mail.com/?qs=5060760a6a6b793c71b9375f55834f3213d4561987e8362a30fb4c5d080dfcbc61a77f2925da4cbbbb8767fc57166297b7c6c0265545a336"><img alt="@fashion_jackson" src="https://image.shopbop-mail.com/lib/fe8413727d620d7576/m/27/5a5417c5-a349-4797-bfeb-1c67714ad617.jpg" style="-mso-interpolation-mode:bicubic; border:none; display:block;" width="600"></a></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table><table></table></td></tr></table></td></tr></table>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner">
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+   <tr>
+    <td style="padding-bottom:0px; padding-top:15px;">
+      <table cellspacing="0" cellpadding="0" border="0">
+        <tr>
+  </tr><tr>
+    <td bgcolor="#ffffff" align="center">
+      <table cellspacing="0" cellpadding="0" border="0">
+        <tr>
+          <td bgcolor="#ffffff" align="center"><a  href="https://click.shopbop-mail.com/?qs=5060760a6a6b793c5462fb41c0b2063198a638ae95f6f3356d1e7ceb75c943288e8d0d8d9c69b9dd6bd0c782c684fa24ae9dd37a4dd6774f"><img alt="Get the Shopbop App" src="https://image.shopbop-mail.com/lib/fe8413727d620d7576/m/19/144ab105-15d8-422d-8bb3-c4ece903ec2b.jpg" style="-mso-interpolation-mode:bicubic; border:none; display:block;" width="600"></a></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table><table></table></td></tr></table></td></tr></table>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"> 
+  <table cellpadding="0" cellspacing="0" width="100%" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner">
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+  
+  <tr>
+    <td align="center" style="padding-top:20px;">
+      <a  href="https://click.shopbop-mail.com/?qs=5060760a6a6b793ce607c91c1fc1993d1f3b7828912307b3ecec97c355f9dd583371639d77be3bd4dea0ce22ce91f3288698cfc5fd7f7542"><img alt="Sign up for Yours Truly Shopbop Rewards—and get your perks." src="http://image.shopbop-mail.com/lib/fe8413727d620d7576/m/19/dc9bfee2-2ba0-4759-8702-96aad60cbdb8.jpg" width="600" style="-mso-interpolation-mode:bicubic; border:none; display:block;"></a></td>
+  </tr>
+  
+  
+ 
+ 
+  
+</table><table></table></td></tr></table> 
+</td></tr></table>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                
+              </td>
+            </tr>
+            <tr>
+              <td>
+                
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner">
+<table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><!--  -->
+<table cellpadding="0" cellspacing="0" width="100%" bgcolor="#f7f7f7">
+  <tr>
+    <td align="center" style="padding-top:30px; padding-bottom:10px;">
+      <table cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td valign="top" style="padding-left:10px; padding-right:10px;"><a  href="https://click.shopbop-mail.com/?qs=be7398da66b05089070cd5170d3febe729240b31b85e71fd5182dfe5e790ef516cb54294ca84f4e01e78ad6db8f9bed9f8e6efca8533ee4e"><img alt="Instagram" src="http://image.shopbop-mail.com/lib/fe8413727d620d7576/m/6/395985a2-2b0d-4054-8c08-0b1896b16548.png" width="24" height="24" style="-mso-interpolation-mode:bicubic; border:none; display:block;"></a></td>
+          <td valign="top" style="padding-left:10px; padding-right:10px;"><a  href="https://click.shopbop-mail.com/?qs=be7398da66b05089baf903166cf70e13bd3662ed759e6631dbcf1ddbd0a33f8d8fff9d153c92c30634807e8eb6fca96fe3102db643bdb88e"><img alt="Facebook" src="http://image.shopbop-mail.com/lib/fe8413727d620d7576/m/6/cec8d1f2-15f1-4265-82c6-d5f30ac7f04f.png" width="24" height="24" style="-mso-interpolation-mode:bicubic; border:none; display:block;"></a></td>
+          <td valign="top" style="padding-left:10px; padding-right:10px;"><a  href="https://click.shopbop-mail.com/?qs=be7398da66b050890fe06005318b7599f91d55a6e063527f0713a276eb7f4912831acc91115f37b754d6afa5954838a464d7708481fcb5dd"><img alt="Pinterest" src="http://image.shopbop-mail.com/lib/fe8413727d620d7576/m/6/e4e3e373-a9d0-45d6-81d0-ce09dc4a22b8.png" width="24" height="24" style="-mso-interpolation-mode:bicubic; border:none; display:block;"></a></td>
+          <td valign="top" style="padding-left:10px; padding-right:10px;"><a  href="https://click.shopbop-mail.com/?qs=be7398da66b05089bc055844ec254de1146a9403319ac78b9b8c79c14b35e8948b01e3400432a31ecf376d6c31686d1cfaedcdc7385c240a"><img alt="WeChat" src="http://image.shopbop-mail.com/lib/fe8413727d620d7576/m/6/c1011192-c04f-4f69-9b7c-90c02ed821b5.png" width="24" height="24" style="-mso-interpolation-mode:bicubic; border:none; display:block;"></a></td>
+          <td valign="top" style="padding-left:10px; padding-right:10px;"><a  href="https://click.shopbop-mail.com/?qs=cf84ecb5caedba1c2ca666ada8808d783134ef2499f485917635ec1818cce5750378d6a3942c0e01956db4e9eddf24e5302b57bda35d5ef8"><img alt="Weibo" src="http://image.shopbop-mail.com/lib/fe8413727d620d7576/m/6/f41e886b-4dc5-4294-8d85-601650d46f7e.png" width="24" height="24" style="-mso-interpolation-mode:bicubic; border:none; display:block;"></a></td>
+        </tr>
+      </table>
+    </td>
+  </tr>  
+  <tr>
+    <td align="center" style="padding-bottom:12px;">
+      <table cellpadding="0" cellspacing="0" border="0">
+      <tr>
+          <td style="font-family:'GTAmericaLight','Helvetica Neue', Helvetica, Arial, sans-serif; font-size:15px; letter-spacing:0em; line-height:17px; color:#000000;">
+            <a href="https://click.shopbop-mail.com/?qs=cf84ecb5caedba1cd84877878bbfb8be82b0119e83bf5e80d91e6a18568bb41e45408b9354452821da4081e107bc8c711765f66f331838af" style="color:#000001; text-decoration:none;">Sign up for <b>YOURS TRULY</b> Shopbop Rewards</a>
+          </td>
+        </tr> 
+    
+    
+
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding-bottom:12px;">
+      <table cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td style="font-family:'GTAmericaLight','Helvetica Neue', Helvetica, Arial, sans-serif; font-size:15px; letter-spacing:0em; line-height:17px; color:#000000;">
+            <a href="https://click.shopbop-mail.com/?qs=cf84ecb5caedba1c772813f1fad372aefdea0ca3ffa3ead27e5c112fb776d80b9df65f5ffa17c85d9202cbd460ae3079b370d2d76bc933ac" style="color:#000001; text-decoration:none;">Shop for him at <b>EAST DANE</b></a>
+          </td>
+          <td style="padding-left:9px; padding-right:9px;"><img alt="" src="http://image.shopbop-mail.com/lib/fe8413727d620d7576/m/6/92519301-35da-4872-a911-231edfaabf38.jpg" width="1" height="19" style="-mso-interpolation-mode:bicubic; border:none; display:block;"></td>
+           <td style="font-family:'GTAmericaLight','Helvetica Neue', Helvetica, Arial, sans-serif; font-size:15px; letter-spacing:0em; line-height:17px; color:#000000;">
+            <a href="https://click.shopbop-mail.com/?qs=cf84ecb5caedba1cfdf8d6da706a1c1888851c0dd6b15453a87207e77f70362fd9aa4a57d5f40c7dd459e269f1067246d97693029487763f" style="color:#000001; text-decoration:none;">Download the <b>SHOPBOP APP</b></a>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding-bottom:15px;">
+      <table cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td align="center" style="font-family:'GTAmericaLight','Helvetica Neue', Helvetica, Arial, sans-serif; font-size:11px; letter-spacing:0em; line-height:17px; color:#000000;">
+            Don't miss a thing! Add <a href="mailto:Shopbop@shopbop-mail.com" style="color:#000001; text-decoration:none;">Shopbop@shopbop-mail.com</a> to your address book.
+          </td>
+        </tr>
+<!-- Holly & Katie, here's the section where updates can be made to the HTML for the email pref and unsub links. -->
+        <tr>
+          <td align="center" style="font-family:'GTAmericaLight','Helvetica Neue', Helvetica, Arial, sans-serif; font-size:11px; letter-spacing:0em; line-height:17px; color:#000000;">
+            This email was sent to <a href="mailto:marysmith8557@gmail.com" style="color: #EE4A1B; text-decoration:underline;">marysmith8557@gmail.com</a>. Manage your <a  href="https://click.shopbop-mail.com/?qs=cf84ecb5caedba1c159065c697a103a19eee28d604c56b8b866cbad97958e7c64dd6f7f3f86efd2dc2f52962742239a9ea6c7354600915a3" style="color: #EE4A1B; text-decoration:underline;">email preferences</a> or <a a=""  href="https://click.shopbop-mail.com/?qs=cf84ecb5caedba1cd66cea8386e27b9b8f9186968f55df4b207340eed3963fcd04b78b3753a414e80498c629c01f738118c6edd16cce1362" style="color: #EE4A1B; text-decoration:underline;"> unsubscribe</a>.
+          </td>
+        </tr>
+<!-- This is where it ends. -->
+        <tr>
+          <td align="center" style="font-family:'GTAmericaLight','Helvetica Neue', Helvetica, Arial, sans-serif; font-size:11px; letter-spacing:0em; line-height:17px; color:#000000;">
+            Shopbop | 1245 E. Washington Ave. | Madison, WI 53703 | US  
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <!-- start Convertro Pixel -->
+            <img alt="" src="https://shopbop.sp1.convertro.com/view/vt/v1/shopbop/1/cvo.gif?cvosrc=email.sfmc.EM_20210604_SB_P_TPS_A_NOTAP_MULTI" width="1" height="1" style="display:none"> 
+            <!-- end Convertro Pixel --> 
+            <!-- start eDataSource Pixel -->
+            <style data-ignore-inlining="">@media print{
+              #_t {
+                background-image: url('https://aaawqavg.emltrk.com/aaawqavg?p&d=EM_20210604_SB_P_TPS_A_NOTAP_MULTI');
+              }
+              }
+              div.OutlookMessageHeader {
+                background-image:url('https://aaawqavg.emltrk.com/aaawqavg?f&d=EM_20210604_SB_P_TPS_A_NOTAP_MULTI')}
+              table.moz-email-headers-table {
+                background-image:url('https://aaawqavg.emltrk.com/aaawqavg?f&d=EM_20210604_SB_P_TPS_A_NOTAP_MULTI')}
+              blockquote #_t {
+                background-image:url('https://aaawqavg.emltrk.com/aaawqavg?f&d=EM_20210604_SB_P_TPS_A_NOTAP_MULTI')}
+              #MailContainerBody #_t {
+                background-image:url('https://aaawqavg.emltrk.com/aaawqavg?f&d=EM_20210604_SB_P_TPS_A_NOTAP_MULTI')}
+            </style>
+            <div id="_t">
+            </div>
+            <img alt="" src="https://aaawqavg.emltrk.com/aaawqavg?d=EM_20210604_SB_P_TPS_A_NOTAP_MULTI" width="1" height="1" border="0" style="display:none"> 
+            <!-- end eDataSource Pixel  -->
+            
+            <!-- start ReturnPath Pixel -->
+            
+            <img src="https://pixel.app.returnpath.net/pixel.gif?r=f3604cf5f7fab258d87e6db9b1ce52000d3b78f2&c=EM_20210604_SB_P_TPS_A_NOTAP_MULTI" width="1" height="1" style="display:none"> 
+                   
+            <img src="https://pixel.inbox.exacttarget.com/pixel.gif?r=f3604cf5f7fab258d87e6db9b1ce52000d3b78f2" width="1" height="1" style="display:none">
+            <!-- end ReturnPath Pixel  -->
+
+            
+            
+            <!-- start Amazon Display Advertising Pixel --> 
+            <img height="1" width="1" border="0" alt="" src="https://s.amazon-adsystem.com/iui3?d=forester-did&ex-fargs=%3Fid%3Da71f6706-d533-392d-0791-5247bdb65b8e%26type%3DUNKNOWN%26m%3D1&ex-fch=416613&ex-src=https://www.shopbop.com/&ex-hargs=v%3D1.0%3Bc%3D6354754398247%3Bp%3DA71F6706-D533-392D-0791-5247BDB65B8E" style="display:none"> 
+            <!-- end Amazon Display Advertising Pixel -->
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+      </td></tr></table>
+
+</td></tr></table>
+              </td>
+            </tr>
+            <tr><td><img alt="" src="http://image.shopbop-mail.com/lib/fe8413727d620d7576/m/6/bfe2ae58-f83a-40e0-91f4-eda8752d58a3.png" width="600"></td></tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+    <img src="https://click.shopbop-mail.com/open.aspx?ffcb10-fefc1775726507-fe8f1279746407797c-fe8413727d620d7576-ff9a1574-fe671570776106797c15-ff5c1d7776&d=70165&bmt=0" width="1" height="1" alt="">
+  </body>
+</html>

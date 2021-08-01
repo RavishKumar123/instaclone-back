@@ -1,0 +1,400 @@
+
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>HSN
+    </title>
+    <!--[if gte mso 14]> <xml> <o:OfficeDocumentSettings> <o:AllowPNG/> <o:PixelsPerInch>96</o:PixelsPerInch> </o:OfficeDocumentSettings> </xml> <![endif]-->
+    <title>HSN
+    </title>
+    <style type="text/css">
+a[href^="x-apple-data-detectors"], a[href^="tel"], a[href^="callto"], a[href^="sms"], a[href^="webcal"], a[href^="maps"] {
+text-decoration:none !important;
+color:inherit !important;
+}
+.ReadMsgBody{ width: 100%;} /* Forces Hotmail to display emails at full width */
+.ExternalClass { width: 100%;} /*Hotmail table centering fix*/
+.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {line-height: 100%;}  /* Forces Hotmail to display normal line spacing*/
+p { margin: 1em 0;} /*Yahoo paragraph fix*/
+table td { border-collapse: collapse;}  /*This resolves the Outlook 07, 10, and Gmail td padding issue fix*/
+/*This resolves the issue when iphone puts links on dates, etc.*/
+.applelinks a {color:#b1b1b1; text-decoration:none;}
+.applelinksblue a {color:#00a3e0; text-decoration:none;}
+table td { border-collapse: collapse; }
+@-ms-viewport{
+    width: device-width;
+}
+
+
+</style><!-- CSS -->
+    
+<script type="application/ld+json">
+[{
+"@context": "https://schema.org/",
+"@type": "Organization",
+"name": "HSN",
+"logo": "http://image.email.hsn.com/lib/fe8d1271776c017476/m/22/663fe4e0-0d9f-4d16-86cf-50269d08a04f.jpg" 
+},{
+"@context": "https://schema.org/",
+"@type": "DiscountOffer",
+"description": "", 
+"discountCode": "", 
+"availabilityStarts": "",
+"availabilityEnds": ""
+},{
+"@context": "https://schema.org/",
+"@type": "PromotionCard",
+"image": "" 
+}]
+</script>
+
+
+
+ 
+    <!-- Enhanced Gmail Promo Tab Code | Content Builder\Shared Blocks\Gmail_Promo_Tab_Code -->
+  </head>
+  <body leftmargin="0" topmargin="0" bgcolor="#ffffff" style="margin: 0px; padding:0px; -webkit-text-size-adjust: none; -ms-text-size-adjust: none;" yahoo="fix">  
+   
+    <!-- Add Movable Ink Campaign code here -->
+   
+   <table width="1" height="1" cellpadding="0" cellspacing="0" border="0">
+  <tr><td style="font-size:0px; line-height:0px;">
+    <img src="https://mi.hsn.com/p/cp/9e880e721b0386b2/o.gif?mi_u=0A93967E2BE94535BD5AA2A801343977" width="1" height="1" alt="" aria-hidden="true" />
+  </td></tr>
+</table>
+   
+    <img src="https://ad.doubleclick.net/ddm/activity/src=3636840;type=rmk_em;cat=special;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=9118?" width="1" height="1" alt=""/>
+    <table bgcolor="#ffffff" width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation">
+      <tr>
+        <td class="no-padding" style="padding:0px 10px;">
+          <div align="center">
+            <!-- Table used to set width of email -->
+            <table class="container" width="600" border="0" cellspacing="0" cellpadding="0" style="min-width:600px;" role="presentation">
+              <tr>
+                <td align="left" bgcolor="#ffffff" style="background-color:#ffffff;">
+                  <!-- header -->
+                  
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+        <td align="center" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="600" class="width320">
+    <tr>
+        <td align="center" valign="top">
+
+
+<!-- preheader VAWP -->
+    <table border="0" width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+    <td width="100%" style="padding:10px 0px 15px 0px;" align="center">
+     <table border="0" width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+  <td style="font-size:12px; line-height:18px; color:#969899; font-family:arial, helvetica, sans-serif; text-align:center;" class="dropCenter" width="50%">
+    Plus, Save on 1,000s of Items <a href="https://click.email.hsn.com/?qs=9fbfc72d25285be72efd93750bc0bbe8e54c36f8c3a745ee9285f2d8ff90b0d3b37c95dd408df02af814c1fd879bd5751e120af8d71debf4274ab1d1a1e15f33"  style="color:#969899;text-decoration:underline;">SHOP NOW</a>
+    <span class="mobile-hidden">&nbsp;|&nbsp;</span>
+         
+    <span class="blockit" style="color:#969899; text-decoration:underline;white-space:nowrap !important;"><a href="https://view.email.hsn.com/?qs=6b0934b4874aaa36fe936be2c8cfdacd35e774f390d1444b752f832767f03bd323c12de6430b87128fc22674e00f29ca7dccbd03567a9cae53a5261e32c405eb2b675459c387fbcff1c83e6b367c18ca"  style="color:#969899; text-decoration:underline;">View email with images</a></span>
+     </td>
+        </tr>
+        </table> 
+    </td>
+    </tr>
+    </table>
+    <!-- end PHT / VAWP -->
+    
+    <!-- logo nav -->
+    <table border="0" width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+    <td width="100%" style="padding:0px;">
+     <table border="0" width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+  <td width="197" class="dropLogo stack" align="center" style="padding:8px 0px 15px 8px;" valign="middle">
+        <a href="https://click.email.hsn.com/?qs=9fbfc72d25285be711a784bfb1acb9ae6ffe0db52f323092e108f97afdef1eb92b2662dbb3a91dfa009f8ee714fc3b9ed536831c1abd747cd25dc38f67901d6b" target="_blank" ><img src="http://image.email.hsn.com/lib/fe8d1271776c017476/m/22/c8b60208-3cf4-4e56-a24c-103908e4c5e0.jpg" alt="HSN" width="81" height="83" style="display:inline-block;" border="0" /></a>
+        </td>
+        <td align="center" width="428" class="dropCenterNav stack" style="padding:0px;" valign="middle">
+         <table width="100%" cellpadding="0" cellspacing="0">
+            <tr>
+            
+            <td align="left" valign="middle" width="173" class="widthAuto">
+            <a href="https://click.email.hsn.com/?qs=9fbfc72d25285be7982b70a8ffe6996cf6dc871eeeeb5bfe07d2b18b2d69cd4936b52ddb8d6c125d692ad535601a4fb5190e849d2857f947b3d7ec2e30b0cd5a" target="_blank" ><img src="http://image.email.hsn.com/lib/fe8d1271776c017476/m/22/101a87f7-c72d-4115-a8cb-b9d0aa3c8709.jpg" alt="TODAY'S SPECIAL" width="135" height="21" class="tsNavLeft" style="display:inline-block;" border="0" /></a>
+            </td>
+            <td align="left" valign="middle" width="104" class="widthAuto">
+            <a href="https://click.email.hsn.com/?qs=9fbfc72d25285be7547bb9927bd1cd729c701dd50e6688d476c8b780bed36b48aebdbe44582cca08677fe85b77869ea573da899d33f1ef41c5204b137cd74538" target="_blank" ><img src="https://image.email.hsn.com/lib/fe8d1271776c017476/m/30/f588474b-0925-44bc-beb6-30820a499318.jpg" alt="SALE" width="67" height="21" class="" style="display:inline-block;" border="0" /></a>
+            </td>
+            <td align="right" valign="middle" width="92" class="widthAuto">
+            <a href="https://click.email.hsn.com/?qs=9fbfc72d25285be700270f4782d64b84e9ca648b763d168561290643048c40c134562cd74dfb0c7b1ad3cfa4949c91ff06755e8d06d2cff1e73315b762258684" target="_blank" ><img src="http://image.email.hsn.com/lib/fe8d1271776c017476/m/22/e49a87df-677c-4b25-89b0-e4489ad1df7e.jpg" alt="HOT ITEMS" width="92" height="21" class="tsNavRight" style="display:inline-block;" border="0" /></a>
+            </td>
+            <td width="56" class="mobile-hidden">
+                &nbsp;
+            </td>
+            </tr>
+            </table>
+        </td>
+        </tr>
+        </table>
+    
+ </td>
+    </tr>
+    
+    </table>
+    <!-- end nav -->
+    
+
+
+        </td>
+    </tr>
+</table>
+        </td>
+    </tr>
+</table>
+                  <!-- BODY CONTENT -->
+                  
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation">
+                    <!-- START: 1 COLUMN -->
+                    <tr>
+                      <td align="left" valign="top">
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation">                         
+                          <tr>
+                            <td align="left" valign="top" width="600">
+                              <a href="https://click.email.hsn.com/?qs=9fbfc72d25285be7ce83249f6e9e4745dbf5eba07f3dfd206a32284a92d1b22b69bde85aefadce93ea2a1f2a08af906235c64f0e49f9d07b" style="display: block" ><img alt="Display images to show real-time content" style="border: 0; display: block;" border="0" src="https://mi.hsn.com/p/rp/864ef076567c31b6.png?mi_u=0A93967E2BE94535BD5AA2A801343977&utm_term=deals" /></a>
+                            </td>
+                          </tr>                         
+                        </table>
+                      </td>
+                    </tr>    
+                    <!-- END: 1 COLUMN -->
+                    <!-- START: 1 COLUMN -->
+                    <tr>
+                      <td align="left" valign="top">
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation">                         
+                          <tr>
+                            <td align="left" valign="top" width="600">
+                             <a href="https://click.email.hsn.com/?qs=9fbfc72d25285be7c4d4cdad299c1aa98da5f8ad3db2487ddbfed456246dfc82e3284a020c467c6d58985333dd5adec029c92b60bf564d51" style="display: block" ><img alt="Display images to show real-time content" style="border: 0; display: block;" border="0" src="https://mi.hsn.com/p/rp/bd78d7840d39032c.png?mi_u=0A93967E2BE94535BD5AA2A801343977&utm_term=deals" /></a>
+                            </td>
+                          </tr>                         
+                        </table>
+                      </td>
+                    </tr>    
+                    <!-- END: 1 COLUMN -->
+       <!-- START: 1 COLUMN -->
+                    <tr>
+                      <td align="left" valign="top">
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation">                         
+                          <tr>
+                            <td align="left" valign="top" width="600">
+                              <a href="https://click.email.hsn.com/?qs=9fbfc72d25285be71cef0357167b508bf9898c6920bc56fe6cfb9d2c03414afa6ddc436aa642fe557fd31b3fda21d603fa04987d803f1688" style="display: block" ><img alt="Display images to show real-time content" style="border: 0; display: block;" border="0" src="https://mi.hsn.com/p/rp/d2a5a2473bb394a7.png?mi_u=0A93967E2BE94535BD5AA2A801343977&utm_term=deals" /></a>
+                            </td>
+                          </tr>                         
+                        </table>
+                      </td>
+                    </tr>    
+                    <!-- END: 1 COLUMN -->
+       <!-- START: 1 COLUMN -->
+                    <tr>
+                      <td align="left" valign="top">
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation">                         
+                          <tr>
+                            <td align="left" valign="top" width="600">
+                              <a href="https://click.email.hsn.com/?qs=9fbfc72d25285be7e153c4a257766a6e5ee90382fc9ac9a3f68eb80cd56c2e6e83a429ef6068a5553e2e055e5b9a3a217c7e4e8169f3dacc" style="display: block" ><img alt="Display images to show real-time content" style="border: 0; display: block;" border="0" src="https://mi.hsn.com/p/rp/23a2910ae4d5c810.png?mi_u=0A93967E2BE94535BD5AA2A801343977&utm_term=deals" /></a>
+                            </td>
+                          </tr>                         
+                        </table>
+                      </td>
+                    </tr>    
+                    <!-- END: 1 COLUMN -->
+       <!-- START: 1 COLUMN -->
+                    <tr>
+                      <td align="left" valign="top">
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation">                         
+                          <tr>
+                            <td align="left" valign="top" width="600">
+                              <a href="https://click.email.hsn.com/?qs=c6440d06253925646056aaf271abe16193ec3eb5a7f1a2879d0429962c89ec9fba960d2d4bb34a7aa290c8f6ab0c116a3251948f79a4e8fe" style="display: block" ><img alt="Display images to show real-time content" style="border: 0; display: block;" border="0" src="https://mi.hsn.com/p/rp/0b1eae6bfb2d6562.png?mi_u=0A93967E2BE94535BD5AA2A801343977&utm_term=deals" /></a>
+                            </td>
+                          </tr>                         
+                        </table>
+                      </td>
+                    </tr>    
+                    <!-- END: 1 COLUMN -->
+       <!-- START: 1 COLUMN -->
+                    <tr>
+                      <td align="left" valign="top">
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation">                         
+                          <tr>
+                            <td align="left" valign="top" width="600">
+                              <a href="https://click.email.hsn.com/?qs=c6440d0625392564f4be23d415a38efc977e8e98e9fcb3bbc02f4aa69d52273293cf4c61b287b6e6d9c78f6f934f658b81129c7eafe8ba5fb14a9f31a7137004"  target="_blank" style="text-decoration:none; color:#000001;">
+                                <img src="https://image.email.hsn.com/lib/fe8d1271776c017476/m/33/3e432816-586b-4b5e-a4e2-97519510129a.jpg" alt="&quot;Insta-love Tag @HSN and share how you #LoveHSN for a chance to be featured. Follow us on Instagram &quot; " width="600" height="" style="display:block; font-family:Helvetica, Arial, sans-serif; font-size:12px; color:#000001;" border="0"></a>
+                            </td>
+                          </tr>                         
+                        </table>
+                      </td>
+                    </tr>    
+                    <!-- END: 1 COLUMN -->
+                  </table>
+                  
+                  <!-- footer -->
+                  
+<table border="0" width="100%" cellpadding="0" cellspacing="0">
+  <!-- on air -->
+  <tr>
+  <td width="100%" align="center" valign="top" style="padding-top:15px;">
+  <a href="https://click.email.hsn.com/?qs=c6440d0625392564208551a698a41a70dab038f3b341f61762553d6053d65bbab19eef636781a1ed4371c8b32049a5db0c00ef6682d2ae3ab5359f8d22426b62" style="display: block;"  target="_blank"><img src="http://image.email.hsn.com/lib/fe8d1271776c017476/m/22/fd220bf9-81fa-493f-afc5-bcdcf2433ae0.jpg" alt="ON AIR TODAY" width="600" class="mobile-hide" style="border: 0; display: block; max-width:600px;" border="0" /></a>
+  <!--[if !mso 9]><!--><a href="https://click.email.hsn.com/?qs=c6440d06253925647b23d716219ae4e52bc99792cf9ad2b6f2f3d441acda87b06e5245b88468a7de56ef31e29c4fa26fe817b69ab9d87ac3998520ccae888056" style="display: block;"  target="_blank"><img alt="" border="0" src="https://image.email.hsn.com/lib/fe8d1271776c017476/m/28/5280b5c3-ae35-4c86-b07d-154c9b9fbc11.jpg" style="display:none; width:0px; max-height:0px; overflow:hidden !important;" class="mobile-showIMG" /></a><!--<![endif]-->
+  </td>
+  </tr>
+  
+  <!-- best sellers -->
+  <tr>
+  <td width="100%" align="center" valign="top">
+  <a href="https://click.email.hsn.com/?qs=c6440d062539256431cadc6e636e09b71563126bdbc3d3dfb515b13b1b6f3362929eab6f9b09dfaa0d4af4950408d6d9306efe98bb04c2c5009af00064271c08" style="display: block;"  target="_blank"><img src="http://image.email.hsn.com/lib/fe8d1271776c017476/m/22/1b3aae90-8291-46a2-9051-c3994400bef6.jpg" alt="BEST SELLERS ON SALE" width="600" class="mobile-hide" style="border: 0; display: block; max-width:600px;" border="0" /></a>
+  <!--[if !mso 9]><!--><a href="https://click.email.hsn.com/?qs=c6440d0625392564bbd4903c00fa82d9bee56958d92999ed06cebda839e9e7fee2ab40baec555945ce4d804c1d9984e2401d426d564c4b152ab0c4f78f954c3c" style="display: block;"  target="_blank"><img alt="" border="0" src="https://image.email.hsn.com/lib/fe8d1271776c017476/m/28/dc718086-2be3-4282-9b32-d7c0a1526d2b.jpg" style="display:none; width:0px; max-height:0px; overflow:hidden !important;" class="mobile-showIMG" /></a><!--<![endif]-->
+  </td>
+  </tr>
+
+  <!-- HSN card -->
+  <tr>
+  <td width="100%" align="center" valign="top">
+  <a href="https://click.email.hsn.com/?qs=c6440d0625392564c313dad448e84d8584671313135c28270aed965c9ce4953800b51f85acd988e1668a058296a8fd7ab064b5dce3672c192c310332345cfac8" style="display: block;"  target="_blank"><img src="https://image.email.hsn.com/lib/fe8d1271776c017476/m/28/2e08eeaf-0965-4a79-a304-948538d7dd89.jpg" alt="HSN CARD" width="600" class="mobile-hide" style="border: 0; display: block; max-width:600px;" border="0" /></a>
+  <!--[if !mso 9]><!--><a href="https://click.email.hsn.com/?qs=c6440d0625392564cf72f5797af0f3e9110b9bde1af46d11718a91ca18e8106c517834d9903c5135caad66fdba74b01d3dd96d8ae15fee78c6a93cc7a4716444" style="display: block;"  target="_blank"><img alt="" border="0" src="https://image.email.hsn.com/lib/fe8d1271776c017476/m/28/bc4ec805-a722-4cdd-bc7f-b2c1bb3ced36.jpg" style="display:none; width:0px; max-height:0px; overflow:hidden !important;" class="mobile-showIMG" /></a><!--<![endif]-->
+  </td>
+  </tr>
+ 
+
+
+  <!-- 2 up cards -->
+  <tr>
+  <td valign="top" align="left">
+   <table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+    <td class="dropCenter" align="left" valign="top" width="50%">
+    <a href="https://click.email.hsn.com/?qs=c6440d0625392564e50d37144a99efada33e00157ea616279affab2128536cf0d6cf2a16d70b4cc14c06e853cc580ce8550e7276cecca9cf82a0a93647a7565d" style="display: block;"  target="_blank"><img src="https://image.email.hsn.com/lib/fe8d1271776c017476/m/28/4fab07f7-3db1-42ca-828a-f5153a54b84c.jpg" alt="EASY RETURNS & EXCHANGES" width="300" class="mobile-hide" style="border: 0; display: block; max-width:600px;" border="0" /></a>
+  <!--[if !mso 9]><!--><a href="https://click.email.hsn.com/?qs=c6440d0625392564d8d22960bba4b7b3276fcccad6958f40f623808d1bb17ca19b9b9b29b20c839e2684847eaa62d6888d22352fbcc4de2815664e8833ad0031" style="display: block;"  target="_blank"><img alt="EASY RETURNS & EXCHANGES" border="0" src="https://image.email.hsn.com/lib/fe8d1271776c017476/m/28/4fab07f7-3db1-42ca-828a-f5153a54b84c.jpg" style="display:none; width:0px; max-height:0px; overflow:hidden !important;" class="mobile-showIMG" /></a><!--<![endif]-->
+    </td>
+    <td class="dropCenter" align="left" valign="top" width="50%">
+    <a href="https://click.email.hsn.com/?qs=ded9013728183b6f67881e5928bcedb42bbcdf2d4f4a6bec6962b0b39ca8524a17fe192b8277fa52cef88df81b12c9910f91e4cce1805c4e4ad12a38d9ef9d72" style="display: block;"  target="_blank"><img src="https://image.email.hsn.com/lib/fe8d1271776c017476/m/28/46f87f33-481c-4645-baea-134b3ce7faa6.jpg" alt="FLEXPAY" width="300" class="mobile-hide" style="border: 0; display: block; max-width:600px;" border="0" /></a>
+  <!--[if !mso 9]><!--><a href="https://click.email.hsn.com/?qs=ded9013728183b6fa106328e7aa5d97fe7d6b30d3a58c12e638b415d545d76fd77c0b823b9ae41450f7f6295bb6e4ec0874c236296e5a10a1472947d07900710" style="display: block;"  target="_blank"><img alt="FLEXPAY" border="0" src="https://image.email.hsn.com/lib/fe8d1271776c017476/m/28/46f87f33-481c-4645-baea-134b3ce7faa6.jpg" style="display:none; width:0px; max-height:0px; overflow:hidden !important;" class="mobile-showIMG" /></a><!--<![endif]-->
+    </td>
+    </tr>
+    </table>
+  </td>
+  </tr>
+    
+  
+  <!-- apps -->
+  <tr>
+  <td width="100%" align="center" valign="top">
+  <a href="https://click.email.hsn.com/?qs=ded9013728183b6fd7e2ff0f1d9ab802fc305b596ed9ae06d8b9a9cc119203c4802b46a457ab0f3e94b79aaceebca923708f508d597aa33133e50eb5d709b11e" style="display: block;"  target="_blank"><img src="http://image.email.hsn.com/lib/fe8d1271776c017476/m/22/0a69781f-2927-4d00-a3d2-084d6d7ca1b8.jpg" alt="HSN APP" width="600" class="mobile-hide" style="border: 0; display: block; max-width:600px;" border="0" /></a>
+  <!--[if !mso 9]><!--><a href="https://click.email.hsn.com/?qs=ded9013728183b6fdcd307d748d2e5a3edf722a58592ca0dfcb8bd1ef59d596939b419310f057713213fb09ebd09a0d5781aebd83fba49f87f15119430a1fbb0" style="display: block;"  target="_blank"><img alt="" border="0" src="http://image.email.hsn.com/lib/fe8d1271776c017476/m/19/2018_footer_m_appheader.gif" style="display:none; width:0px; max-height:0px; overflow:hidden !important;" class="mobile-showIMG" /></a><!--<![endif]-->
+  </td>
+  </tr>
+  <tr>
+ <td width="100%" align="center" style="padding-bottom:30px;">
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+          <tr>
+            <td width="50%" align="right" style="padding-right:20px;"><a href="https://click.email.hsn.com/?qs=ded9013728183b6f8a842a01bf54a9bf8bcf59782cddefb71b05b7429ac5566f9578646001f539af9aebe726f848771d944334083df40afc848f405dcd9657f3" target="_blank" ><img src="http://image.email.hsn.com/lib/fe8d1271776c017476/m/13/20161ht_iosapp.jpg" alt="App Store" width="128" height="38" style="display:inline-block;" border="0" /></a></td>
+            <td width="50%" align="left" style="padding-left:20px;"><a href="https://click.email.hsn.com/?qs=ded9013728183b6f6eb96f4db601b1d28b3ba0d030b86dce3dfc9e7b77ffafb29484ed4a3fab06a748f6fc6bb589456e8be2d6cde87ff2a4f0c004f79aae981a" target="_blank" ><img src="http://image.email.hsn.com/lib/fe8d1271776c017476/m/13/20161ht_googleapp.jpg" alt="Google play" width="127" height="38" style="display:inline-block;" border="0" /></a></td>
+          </tr>
+        </table>
+  </td>
+  </tr>
+  <tr>
+  <td align="left" valign="top" height="1" style="padding:0px 0px 0px 0px; font-size:1px; mso-line-height-rule:exactly; line-height:1px;">
+   <table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+    <td width="2%" style="background-color:#ffffff; padding:0px 0px 0px 0px; font-size:1px; mso-line-height-rule:exactly;line-height:1px;  text-align:center;" align="center" height="1">&nbsp;</td>
+    <td width="96%" bgcolor="#cccccc" style="background-color:#cccccc; padding:0px 0px 0px 0px; font-size:1px;mso-line-height-rule:exactly; line-height:1px;  text-align:center;" align="center" height="1" class="hrPadding">&nbsp;</td>
+    <td width="2%" style="background-color:#ffffff; padding:0px 0px 0px 0px; font-size:1px; mso-line-height-rule:exactly;line-height:1px;  text-align:center;" align="center" height="1">&nbsp;</td>
+    </tr>
+    </table>
+  </td>
+  </tr>
+     
+  <!-- social media -->
+  <tr>
+    <td width="100%" align="center" style="padding-top:30px; padding-bottom:30px;" class="socialPadding">
+    <center>
+     <table border="0" cellpadding="0" cellspacing="0" align="center" width="65%">
+        <tr>
+        <td width="50%" class="dropCenterPaddingApp" align="center">
+          <center>
+          <table border="0" cellpadding="0" cellspacing="0" width="100%" align="center">
+          <tr>
+            <td align="right"><a href="https://click.email.hsn.com/?qs=ded9013728183b6f47dc43cfe68940ac39c3f7a59018304b2ff091198b59352132ab6f873104d634bb306220b3d559118255060a27e492c22cde78956f74a350" target="_blank" ><img src="https://image.email.hsn.com/lib/fe8d1271776c017476/m/28/929f133e-7400-4de0-b768-e9e08c40eb51.jpg" alt="Facebook" width="63" height="46" style="display:block;" border="0" /></a></td>
+            <td align="center"><a href="https://click.email.hsn.com/?qs=ded9013728183b6f9fe0fd344af2083e25ee43d01673e2709e4de131cc87d487de28f4188104908f7590a0562df0df4d5e76b4e762fab1bb2c6c63830ea93ec5" target="_blank" ><img src="https://image.email.hsn.com/lib/fe8d1271776c017476/m/28/5b6fb0c7-8457-4a67-b182-b2126d28a732.jpg" alt="Twitter" width="63" height="46" style="display:block;" border="0" /></a></td>
+            <td align="left"><a href="https://click.email.hsn.com/?qs=ded9013728183b6f1dad74f6cb664c1369ded2fc7ea3ea6a968fef8a81ab033d8794623733f6c90edb08947e37ecd0f0fc9eb136da1a8b38a3740ac2fbb1fb23" target="_blank" > <img src="https://image.email.hsn.com/lib/fe8d1271776c017476/m/28/f640dddf-20ba-4043-a8ab-b594deff1c89.jpg" alt="Pinterest" width="63" height="46" style="display:block;" border="0" /></a></td>
+          </tr>
+          </table>
+          </center>
+        </td>
+        <td width="50%" class="dropCenterPaddingApp" align="center">
+          <center>
+          <table border="0" cellpadding="0" cellspacing="0" width="100%" align="center">
+          <tr>  
+            <td align="right"><a href="https://click.email.hsn.com/?qs=ded9013728183b6f42a50735858727d26404d22f7fec4cab51a5e3da816b55973de8126418187ff1d84ec4ec00dddfe519672b6b01c54935923e2a1e2327f369" target="_blank" ><img src="https://image.email.hsn.com/lib/fe8d1271776c017476/m/28/a6635c4a-ba9f-46f5-b68a-583adb7d86ac.jpg" alt="Instagram" width="63" height="46" style="display:block;" border="0" /></a></td>
+            <td align="center"><a href="https://click.email.hsn.com/?qs=93e4942fd42e11bf6f193b95f6565fb3000a9ee2e7855bd1f0a02d384af09a888468d5a8ce6108f0163c65cfb51c4419df95713456f67da11c7d582023e82db9" target="_blank" ><img src="https://image.email.hsn.com/lib/fe8d1271776c017476/m/28/5105fd89-c322-449f-853b-9e5639c968a2.jpg" alt="Snapchat" width="63" height="46" style="display:block;" border="0" /></a></td>
+            <td align="left"><a href="https://click.email.hsn.com/?qs=93e4942fd42e11bfc9644ae8cfc9755b6fc52af4ebd1796cd911dd0e86cfdb93166aff287e7e8791399c513031c6c2bb27d4143f7d2797eb983aa11356bd5aa4" target="_blank" ><img src="https://image.email.hsn.com/lib/fe8d1271776c017476/m/28/b4a34b83-a737-4ad5-92d6-3bcb9530e573.jpg" alt="YouTube" width="63" height="46" style="display:block;" border="0" /></a></td>
+          </tr>
+          </table>
+          </center>
+        </td>
+        </tr>
+      </table>
+      </center>
+      </td>
+  </tr>
+  
+  <!-- footer copy --> 
+  <!---->
+  <tr>
+    <td width="100%" align="center" style="padding: 0px 10px 10px 10px;text-align:center;font-family:Helvetica, arial, sans-serif; font-size:12px; line-height:18px; color:#00a3e0;">
+    <a href="https://click.email.hsn.com/?qs=93e4942fd42e11bf0d9193d2f097b7b2c7aaf574f675549fcdc2141beb6511225c9f65e4c979ef014d329fc28a029dcef66c156f691e5c5a559f9e5058c2efa3"  target="_blank" style="color:#00a3e0; text-decoration:none;"><span style="color:#00a3e0; text-decoration:none;">Update Email Preferences</span></a>&nbsp;|&nbsp;<a href="https://click.email.hsn.com/?qs=93e4942fd42e11bf7123777a4704d9de08ec4be0c6c22867e7fc9c4efb346024db9a57759e6ef0daa5f3ca838de4e37852d0f7f05b350e8fd0edc4764288a33b"  target="_blank" style="color:#00a3e0; text-decoration:none;"><span style="color:#00a3e0; text-decoration:none;white-space: nowrap;">Unsubscribe</span></a>&nbsp;|&nbsp;<a href="https://click.email.hsn.com/?qs=93e4942fd42e11bf6fce42b4be3c861950a14bb7b21295045c88f68527de4a202d0465cf13b51149a034037a087b0fdbc8ab324a7b246046da3f98582e0e1868"  target="_blank" style="color:#00a3e0; text-decoration:none;"><span style="color:#00a3e0; text-decoration:none;">Privacy Policy
+</span></a>   
+    </td>
+    </tr>
+  <tr>
+    <td width="100%" align="center" style="padding: 0px 20px 20px 20px;text-align:center;font-family:Helvetica, arial, sans-serif; font-size:10px; line-height:16px; color:#969899;"> 
+      <!-- HSN Card disclaimers here -->
+      <!-- <div style="font-size:20px; line-height:20px;">&nbsp;</div> -->
+      
+      This email was sent to you because you requested it from HSN. Please do not reply to this email.<br>
+      Need help? Our US-based experts are here for you! Call us toll-free at <a href="tel:8002843900" alias="#" target="_blank" style="color:#00a3e0; text-decoration:none;"><span style="color:#00a3e0; text-decoration:none;">800.284.3900</span></a>, or <a href="https://click.email.hsn.com/?qs=93e4942fd42e11bfb4a63a1c210ad9c56b65b920eb0e750fd17badb935d95c48fda8fda27c9d773ac1803168755654905f071e0d6d5825216c50c1f73de88a34"  target="_blank" style="color:#00a3e0; text-decoration:none;">chat</a> with us.<br>
+      <br>
+      <a href="mailto:hsn@email.hsn.com" alias="addressBook" target="_blank" style="color:#00a3e0; text-decoration:none;"><span style="color:#00a3e0; text-decoration:none;">Add hsn@email.hsn.com to your address book</span></a> <br>
+      <br>
+      <span style="color:#666666;">HSN Interactive LLC | Attn: Customer Service | 1 HSN Drive | St. Petersburg, FL 33729</span> <br>
+      <br>
+      &copy;All rights reserved. </td>
+  </tr>
+</table>
+
+<table border="0" width="100%" cellpadding="0" cellspacing="0">
+<tr>
+<td width="100%">
+
+<!-- 360i pixel -->
+<img src="https://ad.doubleclick.net/ddm/trackimp/N7570.990585SALESFORCE.COM/B11322587.150915523;dc_trk_aid=321495850;dc_trk_cid=81820649;u=sf_cid=emded20210604;ord=5306;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=?" BORDER="0" HEIGHT="1" WIDTH="1" ALT="Advertisement">
+<img src="http://www.movable-ink-5673.com/p/cp/f839eedf8e963f06/o.gif" width="1" height="1" />
+
+</td>
+</tr>
+</table>
+
+                </td>
+              </tr> 
+            </table>  
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td height="1" style="font-size: 1px; line-height: 1px;">&nbsp;
+        </td>
+      </tr>
+    </table>
+    <!-- This email was sent by: HSN Interactive LLC 1 HSN Drive St. Petersburg, FL, 33729, USA https://click.email.hsn.com/profile_center.aspx?qs=30e3e853d26f0d775d2f943ec53e133bd0f04c54503d9070a1e8789372e61ad9e4914522cf092c0738689878f969c8b7 --> 
+    <img src="https://pixel.inbox.exacttarget.com/pixel.gif?r=ae5e9dd22c7ae679a1c532019c0097fd64460c59&s=0a93967e2be94535bd5aa2a801343977&c=special_offers&campaign=special_offers" width="1" height="1" />
+    <img src="https://click.email.hsn.com/open.aspx?ffcb10-fec1177172600375-fe6a12717461067d7512-fe8d1271776c017476-ff991575-fe551275736604747d12-ff3316717763&d=60146&bmt=0" width="1" height="1" alt="">
+      </body>
+    </html>
